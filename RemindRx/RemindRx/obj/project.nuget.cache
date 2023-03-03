@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "AYEU663O7raeAEevR7cpKlNnTp3t7q5qrQVCH+sGKDIAhb0F6AFPIY4cgGul3jjIX4iQSD/CKPNr8P0hTb6hsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jemisha.vargas\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jemisha.vargas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jemisha.vargas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jemisha.vargas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jemisha.vargas\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\jemisha.vargas\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
