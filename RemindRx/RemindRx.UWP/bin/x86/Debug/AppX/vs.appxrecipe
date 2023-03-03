@@ -68,7 +68,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jemisha.vargas\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx\bin\Debug\netstandard2.0\RemindRx.dll">
       <PackagePath>RemindRx.dll</PackagePath>
-      <Modified>2023-03-03T01:35:11.138</Modified>
+      <Modified>2023-03-03T21:37:05.106</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jemisha.vargas\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
