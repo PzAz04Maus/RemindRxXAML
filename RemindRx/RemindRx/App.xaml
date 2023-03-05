@@ -1,15 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Application xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:XamarinCustomControls.CustomControls"
              x:Class="RemindRx.App">
     <!--
         Define global resources and styles here, that apply to all pages in your app.
     -->
     <Application.Resources>
         <ResourceDictionary>
-            <Color x:Key="Primary">#2196F3</Color>
+            <Color x:Key="Primary">#84c4dc</Color>
+            <Color x:Key="Pale">#E6f6fc</Color>
             <Style TargetType="Button">
-                <Setter Property="TextColor" Value="White"></Setter>
+                <Setter Property="CornerRadius" Value="15"/>
+                <Setter Property="HeightRequest" Value="50"/>
+                <Setter Property="TextColor" Value="{StaticResource Pale}"></Setter>
                 <Setter Property="VisualStateManager.VisualStateGroups">
                     <VisualStateGroupList>
                         <VisualStateGroup x:Name="CommonStates">
@@ -20,12 +24,21 @@
                             </VisualState>
                             <VisualState x:Name="Disabled">
                                 <VisualState.Setters>
-                                    <Setter Property="BackgroundColor" Value="#332196F3" />
+                                    <Setter Property="BackgroundColor" Value="#3883A0" />
                                 </VisualState.Setters>
                             </VisualState>
                         </VisualStateGroup>
                     </VisualStateGroupList>
                 </Setter>
+                
+            </Style>
+            <Style TargetType="controls:MyButton" x:Key="Button">
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                
+            </Style>
+            <Style TargetType="StackLayout" x:Key="Background">
+                <Setter Property="BackgroundColor" Value="{StaticResource Pale}"></Setter>
+                <Setter Property="Padding" Value="10"/>
             </Style>
         </ResourceDictionary>        
     </Application.Resources>

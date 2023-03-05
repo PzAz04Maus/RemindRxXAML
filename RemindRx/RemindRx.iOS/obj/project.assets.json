@@ -1062,24 +1062,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jemisha.vargas\\.nuget\\packages\\": {},
+    "C:\\Users\\Jem\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jemisha.vargas\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
       "projectName": "RemindRx.iOS",
-      "projectPath": "C:\\Users\\jemisha.vargas\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
-      "packagesPath": "C:\\Users\\jemisha.vargas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jemisha.vargas\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
+      "packagesPath": "C:\\Users\\Jem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jemisha.vargas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1093,8 +1093,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\jemisha.vargas\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj": {
-              "projectPath": "C:\\Users\\jemisha.vargas\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj"
+            "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj": {
+              "projectPath": "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj"
             }
           }
         }
