@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wEPZOaUUaCsOaPNBUxrXKaVEaUPf7AkX6tiTiGvlel84EKNJ6Gt+OMgUoNpGfvFoVdEnzmtrRGcaF/4c1qzYfQ==",
+  "dgSpecHash": "UAMwSWZG1nouTTe24NRodW/JMPTSp0FsPRWRnLqKOk9OrQ8Er6W7ihGsZHUwYwzrhhrzY0KaTPghAuKr1DI3Pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jemisha.vargas\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
+  "projectFilePath": "C:\\Users\\pzaz0\\source\\repos\\PzAz04Maus\\XAMLProject5MAR23\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jemisha.vargas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\jemisha.vargas\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\jemisha.vargas\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\pzaz0\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\pzaz0\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\pzaz0\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }

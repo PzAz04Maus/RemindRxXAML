@@ -4,11 +4,11 @@
              x:Class="RemindRx.Views.AboutPage"
              xmlns:vm="clr-namespace:RemindRx.ViewModels"
              Title="RemindRx">
-    
+
     <ContentPage.BindingContext>
         <vm:AboutViewModel />
     </ContentPage.BindingContext>
-    
+
     <ContentPage.Resources>
         <ResourceDictionary>
             <Color x:Key="Accent">#96d1ff</Color>
@@ -29,6 +29,14 @@
             <Button Grid.Column="1" Text="New Appointment"/>
         </Grid>
         <Label Text="Reminders"/>
+
+        <!-- https://learn.microsoft.com/en-us/samples/xamarin/xamarin-forms-samples/navigation-pop-ups/-->
+        <!-- SRC: https://github.com/xamarin/xamarin-forms-samples/blob/main/Navigation/Pop-ups/WorkingWithPopups/AlertPage.xaml-->
+        <!-- https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/pop-ups-->
+        <Button Text="Alert Popup Example" 
+                Clicked="btnAlertModal_Click"/>
+        <Button Text="Action Sheet Example"
+                Clicked="OnActionSheetClicked"/>
     </StackLayout>
 
 </ContentPage>
