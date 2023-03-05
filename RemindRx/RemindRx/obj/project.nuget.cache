@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "t+JLF7O11LNHfUxO1GX+Z0M8HOAQzkeFsox9gnqsyxm3CnyhxgzpAiBj7ghKhLZHZrCOHfdch5q/tEVrWXbKDA==",
+  "dgSpecHash": "1b7kDj0QHJtes7hQzUFKz76mbv1CZD9SG6XjTcOxzjXDk6tcfmxnUx/paFNyYUy9vq49YultjZlxJx6sjAwjwg==",
   "success": true,
   "projectFilePath": "C:\\Users\\pzaz0\\source\\repos\\PzAz04Maus\\XAMLProject5MAR23\\RemindRx\\RemindRx\\RemindRx.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pzaz0\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\pzaz0\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pzaz0\\.nuget\\packages\\syncfusion.licensing\\20.4.0.52\\syncfusion.licensing.20.4.0.52.nupkg.sha512",
+    "C:\\Users\\pzaz0\\.nuget\\packages\\syncfusion.xamarin.core\\20.4.0.52\\syncfusion.xamarin.core.20.4.0.52.nupkg.sha512",
+    "C:\\Users\\pzaz0\\.nuget\\packages\\syncfusion.xamarin.sfpopuplayout\\20.4.0.52\\syncfusion.xamarin.sfpopuplayout.20.4.0.52.nupkg.sha512",
     "C:\\Users\\pzaz0\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\pzaz0\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\pzaz0\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"

@@ -37,6 +37,8 @@
                 Clicked="btnAlertModal_Click"/>
         <Button Text="Action Sheet Example"
                 Clicked="OnActionSheetClicked"/>
+        <!-- for more extensive popups, I have added a nuget package called synfusion Popupsf. Otherwise, we'd have to reinvent the wheel -->
+        <!-- SRC: https://help.syncfusion.com/xamarin/popup/getting-started -->
     </StackLayout>
 
 </ContentPage>
