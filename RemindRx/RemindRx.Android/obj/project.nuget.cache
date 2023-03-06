@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WH/Y95hYRRl80khDCft+ycga59YavIfIyhpckRYojJneMyjeGPq93XxobfYvhnmVHFPYtXpCwk1W1i6xDKjBXg==",
+  "dgSpecHash": "XiYeLN4mkCCPOS/8UXhWK2Jf9aNOBG9VVJZ6CBmIcNp4l4wLxMazP3vK3gMc27g6YwyyRW4YqyY0wY3jdfFfuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.Android\\RemindRx.Android.csproj",
+  "projectFilePath": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.Android\\RemindRx.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jem\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Jem\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

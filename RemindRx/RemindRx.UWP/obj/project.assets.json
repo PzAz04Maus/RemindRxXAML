@@ -11371,11 +11371,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj",
       "projectName": "RemindRx.UWP",
-      "projectPath": "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj",
+      "projectPath": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj",
       "packagesPath": "C:\\Users\\Jem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\obj\\",
+      "outputPath": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -11397,8 +11397,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj": {
-              "projectPath": "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj"
+            "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj": {
+              "projectPath": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj"
             }
           }
         }

@@ -1068,11 +1068,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
       "projectName": "RemindRx.iOS",
-      "projectPath": "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
+      "projectPath": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
       "packagesPath": "C:\\Users\\Jem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1093,8 +1093,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj": {
-              "projectPath": "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj"
+            "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj": {
+              "projectPath": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj"
             }
           }
         }

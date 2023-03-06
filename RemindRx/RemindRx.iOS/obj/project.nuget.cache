@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+G+pVwi7Zv0EOUbQdS4dmhq13reY1EfbFoEJBcYJ2GnF8/M1Uf2KlRPtSrmtvm5Vm2/B81d6yYL39nRNwweAPg==",
+  "dgSpecHash": "BqLBMQETqwRbH+TKZg4rub33/sNRSxZTW9eOvwy29318EEJv8cSb/L2ldxjEoVEEMCZDgWFEJREFS2a6/uYxww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jem\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Jem\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+J74+CCGfCHrkJNSSM633NLS6p++0WPLBXjx8A3HUPkR3ORcyJyVy4S9k1Pvc7XhJ1+MpY8+nfZc08pYxFUrag==",
+  "dgSpecHash": "+ZxSUEv+kOnehXxwd601Zu8weAZjMHI0fh7k0+l51GTHUwsoaW2esN4xWIixoSu8a4DAleNkj3U5eWn1OvYLUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jem\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj",
+  "projectFilePath": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jem\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.10-rel-29722-00\\microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Users\\Jem\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.2.12\\microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",
