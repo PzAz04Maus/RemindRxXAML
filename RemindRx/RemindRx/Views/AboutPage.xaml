@@ -44,7 +44,7 @@
                                Grid.Column="1" TextColor="#E6f6fc" FrameBackgroundColor="#84c4dc"/>
             <controls:MyButton x:Name="newApptBtn" Style="{StaticResource Button}" Image="clock.png" Text="New Appointment" 
                                Grid.Column="3" TextColor="#E6f6fc" FrameBackgroundColor="#84c4dc"/>
-            
+           
 
         </Grid>
         <Label Text="Reminders"/>

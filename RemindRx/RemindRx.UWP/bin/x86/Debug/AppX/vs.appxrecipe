@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=09081604-C620-4657-BDC9-56D5D3BD8432</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>6E61C5AEDC7E8EB28AC18CA46E5839305486B50B52A5959293CACF1F5044FDAF</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>B5842A4C-E08C-4AB8-9543-EE97A1A973E6_1.0.0.0_x86__t3xsh3m9peyf8</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>B5842A4C-E08C-4AB8-9543-EE97A1A973E6_t3xsh3m9peyf8!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-05T23:48:32.842</Modified>
+      <Modified>2023-03-06T21:12:51.129</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x86\Debug\RemindRx.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x86\Debug\RemindRx.UWP.exe">
       <PackagePath>entrypoint\RemindRx.UWP.exe</PackagePath>
-      <Modified>2023-03-05T23:48:31.691</Modified>
+      <Modified>2023-03-06T18:03:04.804</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jem\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -66,9 +66,9 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2021-10-14T09:55:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx\bin\Debug\netstandard2.0\RemindRx.dll">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx\bin\Debug\netstandard2.0\RemindRx.dll">
       <PackagePath>RemindRx.dll</PackagePath>
-      <Modified>2023-03-05T23:48:26.917</Modified>
+      <Modified>2023-03-06T21:12:40.746</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jem\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -82,192 +82,192 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2021-10-14T09:49:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\clock.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\clock.png">
       <PackagePath>Assets\clock.png</PackagePath>
-      <Modified>2023-03-05T23:28:21.708</Modified>
+      <Modified>2023-03-06T01:44:08.889</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\pills.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\pills.png">
       <PackagePath>Assets\pills.png</PackagePath>
-      <Modified>2023-03-05T23:27:11.129</Modified>
+      <Modified>2023-03-06T01:44:08.891</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\clock.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\clock.png">
       <PackagePath>clock.png</PackagePath>
-      <Modified>2023-03-05T23:29:01.073</Modified>
+      <Modified>2023-03-06T01:44:09.340</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\gear.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\gear.png">
       <PackagePath>gear.png</PackagePath>
-      <Modified>2023-03-05T23:36:54.866</Modified>
+      <Modified>2023-03-06T01:44:09.342</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\phone.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\phone.png">
       <PackagePath>phone.png</PackagePath>
-      <Modified>2023-03-05T21:56:48.731</Modified>
+      <Modified>2023-03-06T01:44:09.515</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\pills.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\pills.png">
       <PackagePath>pills.png</PackagePath>
-      <Modified>2023-03-05T23:28:57.047</Modified>
+      <Modified>2023-03-06T01:44:09.517</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.550</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.552</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.554</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.555</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.556</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.557</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.557</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.558</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.559</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.560</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.561</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.562</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.562</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.563</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.564</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.567</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.568</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.570</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.571</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.572</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.574</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.575</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.576</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.577</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.577</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2023-03-05T00:47:18.578</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\xamarin_logo.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\xamarin_logo.png">
       <PackagePath>xamarin_logo.png</PackagePath>
       <Modified>2023-03-05T00:47:19.064</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\icon_about.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\icon_about.png">
       <PackagePath>icon_about.png</PackagePath>
       <Modified>2023-03-05T00:47:18.928</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\icon_feed.png">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\icon_feed.png">
       <PackagePath>icon_feed.png</PackagePath>
       <Modified>2023-03-05T00:47:18.929</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2023-03-05T00:47:18.582</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x86\Debug\RemindRx.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x86\Debug\RemindRx.UWP.xr.xml">
       <PackagePath>RemindRx.UWP.xr.xml</PackagePath>
       <Modified>2023-03-05T00:47:19.034</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2023-03-05T23:48:31.602</Modified>
+      <Modified>2023-03-06T21:12:49.256</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2023-03-05T23:48:31.602</Modified>
+      <Modified>2023-03-06T21:12:49.256</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -281,13 +281,13 @@
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
       <Modified>2020-07-10T00:07:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-05T23:48:32.088</Modified>
+      <Modified>2023-03-06T18:03:05.735</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x86\Debug\Core\RemindRx.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x86\Debug\Core\RemindRx.UWP.exe">
       <PackagePath>RemindRx.UWP.exe</PackagePath>
-      <Modified>2023-03-05T23:48:32.836</Modified>
+      <Modified>2023-03-06T21:12:51.118</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
