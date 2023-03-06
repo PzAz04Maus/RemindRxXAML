@@ -28,25 +28,14 @@
 
         <controls:MyButton x:Name="EmConBtn" Style="{StaticResource Button}" Image="phone.png" Text="Emergency Contacts" 
                                TextColor="#E6f6fc" FrameBackgroundColor="#84c4dc"/>
-        <Grid>
-            <Grid.RowDefinitions>
-                <RowDefinition Height="1*"/>
-            </Grid.RowDefinitions>
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="1*"/>
-                <ColumnDefinition Width="3*"/>
-                <ColumnDefinition Width="1*"/>
-                <ColumnDefinition Width="3*"/>
-                <ColumnDefinition Width="1*"/>
-            </Grid.ColumnDefinitions>
+        
             
-            <controls:MyButton x:Name="newMedBtn" Style="{StaticResource Button}" Image="pills.png" Text="New Medication" 
-                               Grid.Column="1" TextColor="#E6f6fc" FrameBackgroundColor="#84c4dc"/>
-            <controls:MyButton x:Name="newApptBtn" Style="{StaticResource Button}" Image="clock.png" Text="New Appointment" 
-                               Grid.Column="3" TextColor="#E6f6fc" FrameBackgroundColor="#84c4dc"/>
-           
+        <controls:MyButton x:Name="newMedBtn" Style="{StaticResource Button}" Image="pills.png" Text="New Medication" 
+                               TextColor="#E6f6fc" FrameBackgroundColor="#84c4dc"/>
+        <controls:MyButton x:Name="newApptBtn" Style="{StaticResource Button}" Image="clock.png" Text="New Appointment" 
+                               TextColor="#E6f6fc" FrameBackgroundColor="#84c4dc"/>
 
-        </Grid>
+
         <Label Text="Reminders"/>
     </StackLayout>
 

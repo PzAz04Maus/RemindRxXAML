@@ -38,7 +38,7 @@
             </Style>
             <Style TargetType="StackLayout" x:Key="Background">
                 <Setter Property="BackgroundColor" Value="{StaticResource Pale}"></Setter>
-                <Setter Property="Padding" Value="10"/>
+                <Setter Property="Padding" Value="3"/>
             </Style>
         </ResourceDictionary>        
     </Application.Resources>
