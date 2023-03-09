@@ -14,7 +14,7 @@ namespace RemindRx.Droid
 {
 	
 	
-	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "13.2.0.93")]
+	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "13.1.0.5")]
 	public partial class Resource
 	{
 		
@@ -25,6 +25,3609 @@ namespace RemindRx.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Rg.Plugins.Popup.Resource.Animation.abc_fade_in = global::RemindRx.Droid.Resource.Animation.abc_fade_in;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_fade_out = global::RemindRx.Droid.Resource.Animation.abc_fade_out;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_grow_fade_in_from_bottom = global::RemindRx.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_popup_enter = global::RemindRx.Droid.Resource.Animation.abc_popup_enter;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_popup_exit = global::RemindRx.Droid.Resource.Animation.abc_popup_exit;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_shrink_fade_out_from_bottom = global::RemindRx.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_slide_in_bottom = global::RemindRx.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_slide_in_top = global::RemindRx.Droid.Resource.Animation.abc_slide_in_top;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_slide_out_bottom = global::RemindRx.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_slide_out_top = global::RemindRx.Droid.Resource.Animation.abc_slide_out_top;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_tooltip_enter = global::RemindRx.Droid.Resource.Animation.abc_tooltip_enter;
+			global::Rg.Plugins.Popup.Resource.Animation.abc_tooltip_exit = global::RemindRx.Droid.Resource.Animation.abc_tooltip_exit;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::RemindRx.Droid.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::RemindRx.Droid.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::RemindRx.Droid.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::RemindRx.Droid.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::RemindRx.Droid.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::RemindRx.Droid.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::RemindRx.Droid.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::RemindRx.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::RemindRx.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::RemindRx.Droid.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::RemindRx.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::RemindRx.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
+			global::Rg.Plugins.Popup.Resource.Animation.design_bottom_sheet_slide_in = global::RemindRx.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Rg.Plugins.Popup.Resource.Animation.design_bottom_sheet_slide_out = global::RemindRx.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Rg.Plugins.Popup.Resource.Animation.design_snackbar_in = global::RemindRx.Droid.Resource.Animation.design_snackbar_in;
+			global::Rg.Plugins.Popup.Resource.Animation.design_snackbar_out = global::RemindRx.Droid.Resource.Animation.design_snackbar_out;
+			global::Rg.Plugins.Popup.Resource.Animation.EnterFromLeft = global::RemindRx.Droid.Resource.Animation.EnterFromLeft;
+			global::Rg.Plugins.Popup.Resource.Animation.EnterFromRight = global::RemindRx.Droid.Resource.Animation.EnterFromRight;
+			global::Rg.Plugins.Popup.Resource.Animation.ExitToLeft = global::RemindRx.Droid.Resource.Animation.ExitToLeft;
+			global::Rg.Plugins.Popup.Resource.Animation.ExitToRight = global::RemindRx.Droid.Resource.Animation.ExitToRight;
+			global::Rg.Plugins.Popup.Resource.Animation.fragment_fast_out_extra_slow_in = global::RemindRx.Droid.Resource.Animation.fragment_fast_out_extra_slow_in;
+			global::Rg.Plugins.Popup.Resource.Animation.mtrl_bottom_sheet_slide_in = global::RemindRx.Droid.Resource.Animation.mtrl_bottom_sheet_slide_in;
+			global::Rg.Plugins.Popup.Resource.Animation.mtrl_bottom_sheet_slide_out = global::RemindRx.Droid.Resource.Animation.mtrl_bottom_sheet_slide_out;
+			global::Rg.Plugins.Popup.Resource.Animation.mtrl_card_lowers_interpolator = global::RemindRx.Droid.Resource.Animation.mtrl_card_lowers_interpolator;
+			global::Rg.Plugins.Popup.Resource.Animator.design_appbar_state_list_animator = global::RemindRx.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::Rg.Plugins.Popup.Resource.Animator.design_fab_hide_motion_spec = global::RemindRx.Droid.Resource.Animator.design_fab_hide_motion_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.design_fab_show_motion_spec = global::RemindRx.Droid.Resource.Animator.design_fab_show_motion_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_btn_state_list_anim = global::RemindRx.Droid.Resource.Animator.mtrl_btn_state_list_anim;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::RemindRx.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_card_state_list_anim = global::RemindRx.Droid.Resource.Animator.mtrl_card_state_list_anim;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_chip_state_list_anim = global::RemindRx.Droid.Resource.Animator.mtrl_chip_state_list_anim;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_extended_fab_hide_motion_spec = global::RemindRx.Droid.Resource.Animator.mtrl_extended_fab_hide_motion_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_extended_fab_show_motion_spec = global::RemindRx.Droid.Resource.Animator.mtrl_extended_fab_show_motion_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_extended_fab_state_list_animator = global::RemindRx.Droid.Resource.Animator.mtrl_extended_fab_state_list_animator;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_fab_hide_motion_spec = global::RemindRx.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_fab_show_motion_spec = global::RemindRx.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::RemindRx.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::Rg.Plugins.Popup.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::RemindRx.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarDivider = global::RemindRx.Droid.Resource.Attribute.actionBarDivider;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarItemBackground = global::RemindRx.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarPopupTheme = global::RemindRx.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarSize = global::RemindRx.Droid.Resource.Attribute.actionBarSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarSplitStyle = global::RemindRx.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarStyle = global::RemindRx.Droid.Resource.Attribute.actionBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarTabBarStyle = global::RemindRx.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarTabStyle = global::RemindRx.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarTabTextStyle = global::RemindRx.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarTheme = global::RemindRx.Droid.Resource.Attribute.actionBarTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionBarWidgetTheme = global::RemindRx.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionButtonStyle = global::RemindRx.Droid.Resource.Attribute.actionButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionDropDownStyle = global::RemindRx.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionLayout = global::RemindRx.Droid.Resource.Attribute.actionLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionMenuTextAppearance = global::RemindRx.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionMenuTextColor = global::RemindRx.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeBackground = global::RemindRx.Droid.Resource.Attribute.actionModeBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeCloseButtonStyle = global::RemindRx.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeCloseDrawable = global::RemindRx.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeCopyDrawable = global::RemindRx.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeCutDrawable = global::RemindRx.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeFindDrawable = global::RemindRx.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModePasteDrawable = global::RemindRx.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModePopupWindowStyle = global::RemindRx.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeSelectAllDrawable = global::RemindRx.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeShareDrawable = global::RemindRx.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeSplitBackground = global::RemindRx.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeStyle = global::RemindRx.Droid.Resource.Attribute.actionModeStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionModeWebSearchDrawable = global::RemindRx.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionOverflowButtonStyle = global::RemindRx.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionOverflowMenuStyle = global::RemindRx.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionProviderClass = global::RemindRx.Droid.Resource.Attribute.actionProviderClass;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionTextColorAlpha = global::RemindRx.Droid.Resource.Attribute.actionTextColorAlpha;
+			global::Rg.Plugins.Popup.Resource.Attribute.actionViewClass = global::RemindRx.Droid.Resource.Attribute.actionViewClass;
+			global::Rg.Plugins.Popup.Resource.Attribute.activityChooserViewStyle = global::RemindRx.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.alertDialogButtonGroupStyle = global::RemindRx.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.alertDialogCenterButtons = global::RemindRx.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Rg.Plugins.Popup.Resource.Attribute.alertDialogStyle = global::RemindRx.Droid.Resource.Attribute.alertDialogStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.alertDialogTheme = global::RemindRx.Droid.Resource.Attribute.alertDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.allowStacking = global::RemindRx.Droid.Resource.Attribute.allowStacking;
+			global::Rg.Plugins.Popup.Resource.Attribute.alpha = global::RemindRx.Droid.Resource.Attribute.alpha;
+			global::Rg.Plugins.Popup.Resource.Attribute.alphabeticModifiers = global::RemindRx.Droid.Resource.Attribute.alphabeticModifiers;
+			global::Rg.Plugins.Popup.Resource.Attribute.animationMode = global::RemindRx.Droid.Resource.Attribute.animationMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.appBarLayoutStyle = global::RemindRx.Droid.Resource.Attribute.appBarLayoutStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.arrowHeadLength = global::RemindRx.Droid.Resource.Attribute.arrowHeadLength;
+			global::Rg.Plugins.Popup.Resource.Attribute.arrowShaftLength = global::RemindRx.Droid.Resource.Attribute.arrowShaftLength;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoCompleteTextViewStyle = global::RemindRx.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoSizeMaxTextSize = global::RemindRx.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoSizeMinTextSize = global::RemindRx.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoSizePresetSizes = global::RemindRx.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoSizeStepGranularity = global::RemindRx.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::Rg.Plugins.Popup.Resource.Attribute.autoSizeTextType = global::RemindRx.Droid.Resource.Attribute.autoSizeTextType;
+			global::Rg.Plugins.Popup.Resource.Attribute.background = global::RemindRx.Droid.Resource.Attribute.background;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundColor = global::RemindRx.Droid.Resource.Attribute.backgroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundInsetBottom = global::RemindRx.Droid.Resource.Attribute.backgroundInsetBottom;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundInsetEnd = global::RemindRx.Droid.Resource.Attribute.backgroundInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundInsetStart = global::RemindRx.Droid.Resource.Attribute.backgroundInsetStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundInsetTop = global::RemindRx.Droid.Resource.Attribute.backgroundInsetTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundOverlayColorAlpha = global::RemindRx.Droid.Resource.Attribute.backgroundOverlayColorAlpha;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundSplit = global::RemindRx.Droid.Resource.Attribute.backgroundSplit;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundStacked = global::RemindRx.Droid.Resource.Attribute.backgroundStacked;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundTint = global::RemindRx.Droid.Resource.Attribute.backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.backgroundTintMode = global::RemindRx.Droid.Resource.Attribute.backgroundTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.badgeGravity = global::RemindRx.Droid.Resource.Attribute.badgeGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.badgeStyle = global::RemindRx.Droid.Resource.Attribute.badgeStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.badgeTextColor = global::RemindRx.Droid.Resource.Attribute.badgeTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.barLength = global::RemindRx.Droid.Resource.Attribute.barLength;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_autoHide = global::RemindRx.Droid.Resource.Attribute.behavior_autoHide;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_autoShrink = global::RemindRx.Droid.Resource.Attribute.behavior_autoShrink;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_draggable = global::RemindRx.Droid.Resource.Attribute.behavior_draggable;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_expandedOffset = global::RemindRx.Droid.Resource.Attribute.behavior_expandedOffset;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_fitToContents = global::RemindRx.Droid.Resource.Attribute.behavior_fitToContents;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_halfExpandedRatio = global::RemindRx.Droid.Resource.Attribute.behavior_halfExpandedRatio;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_hideable = global::RemindRx.Droid.Resource.Attribute.behavior_hideable;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_overlapTop = global::RemindRx.Droid.Resource.Attribute.behavior_overlapTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_peekHeight = global::RemindRx.Droid.Resource.Attribute.behavior_peekHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_saveFlags = global::RemindRx.Droid.Resource.Attribute.behavior_saveFlags;
+			global::Rg.Plugins.Popup.Resource.Attribute.behavior_skipCollapsed = global::RemindRx.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::Rg.Plugins.Popup.Resource.Attribute.borderlessButtonStyle = global::RemindRx.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.borderWidth = global::RemindRx.Droid.Resource.Attribute.borderWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.bottomAppBarStyle = global::RemindRx.Droid.Resource.Attribute.bottomAppBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.bottomNavigationStyle = global::RemindRx.Droid.Resource.Attribute.bottomNavigationStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.bottomSheetDialogTheme = global::RemindRx.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.bottomSheetStyle = global::RemindRx.Droid.Resource.Attribute.bottomSheetStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxBackgroundColor = global::RemindRx.Droid.Resource.Attribute.boxBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxBackgroundMode = global::RemindRx.Droid.Resource.Attribute.boxBackgroundMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxCollapsedPaddingTop = global::RemindRx.Droid.Resource.Attribute.boxCollapsedPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxCornerRadiusBottomEnd = global::RemindRx.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxCornerRadiusBottomStart = global::RemindRx.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxCornerRadiusTopEnd = global::RemindRx.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxCornerRadiusTopStart = global::RemindRx.Droid.Resource.Attribute.boxCornerRadiusTopStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxStrokeColor = global::RemindRx.Droid.Resource.Attribute.boxStrokeColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxStrokeErrorColor = global::RemindRx.Droid.Resource.Attribute.boxStrokeErrorColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxStrokeWidth = global::RemindRx.Droid.Resource.Attribute.boxStrokeWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.boxStrokeWidthFocused = global::RemindRx.Droid.Resource.Attribute.boxStrokeWidthFocused;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonBarButtonStyle = global::RemindRx.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonBarNegativeButtonStyle = global::RemindRx.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonBarNeutralButtonStyle = global::RemindRx.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonBarPositiveButtonStyle = global::RemindRx.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonBarStyle = global::RemindRx.Droid.Resource.Attribute.buttonBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonCompat = global::RemindRx.Droid.Resource.Attribute.buttonCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonGravity = global::RemindRx.Droid.Resource.Attribute.buttonGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonIconDimen = global::RemindRx.Droid.Resource.Attribute.buttonIconDimen;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonPanelSideLayout = global::RemindRx.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonStyle = global::RemindRx.Droid.Resource.Attribute.buttonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonStyleSmall = global::RemindRx.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonTint = global::RemindRx.Droid.Resource.Attribute.buttonTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.buttonTintMode = global::RemindRx.Droid.Resource.Attribute.buttonTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardBackgroundColor = global::RemindRx.Droid.Resource.Attribute.cardBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardCornerRadius = global::RemindRx.Droid.Resource.Attribute.cardCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardElevation = global::RemindRx.Droid.Resource.Attribute.cardElevation;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardForegroundColor = global::RemindRx.Droid.Resource.Attribute.cardForegroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardMaxElevation = global::RemindRx.Droid.Resource.Attribute.cardMaxElevation;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardPreventCornerOverlap = global::RemindRx.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardUseCompatPadding = global::RemindRx.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.cardViewStyle = global::RemindRx.Droid.Resource.Attribute.cardViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkboxStyle = global::RemindRx.Droid.Resource.Attribute.checkboxStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedButton = global::RemindRx.Droid.Resource.Attribute.checkedButton;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedChip = global::RemindRx.Droid.Resource.Attribute.checkedChip;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedIcon = global::RemindRx.Droid.Resource.Attribute.checkedIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedIconEnabled = global::RemindRx.Droid.Resource.Attribute.checkedIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedIconTint = global::RemindRx.Droid.Resource.Attribute.checkedIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedIconVisible = global::RemindRx.Droid.Resource.Attribute.checkedIconVisible;
+			global::Rg.Plugins.Popup.Resource.Attribute.checkedTextViewStyle = global::RemindRx.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipBackgroundColor = global::RemindRx.Droid.Resource.Attribute.chipBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipCornerRadius = global::RemindRx.Droid.Resource.Attribute.chipCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipEndPadding = global::RemindRx.Droid.Resource.Attribute.chipEndPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipGroupStyle = global::RemindRx.Droid.Resource.Attribute.chipGroupStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipIcon = global::RemindRx.Droid.Resource.Attribute.chipIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipIconEnabled = global::RemindRx.Droid.Resource.Attribute.chipIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipIconSize = global::RemindRx.Droid.Resource.Attribute.chipIconSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipIconTint = global::RemindRx.Droid.Resource.Attribute.chipIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipIconVisible = global::RemindRx.Droid.Resource.Attribute.chipIconVisible;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipMinHeight = global::RemindRx.Droid.Resource.Attribute.chipMinHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipMinTouchTargetSize = global::RemindRx.Droid.Resource.Attribute.chipMinTouchTargetSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipSpacing = global::RemindRx.Droid.Resource.Attribute.chipSpacing;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipSpacingHorizontal = global::RemindRx.Droid.Resource.Attribute.chipSpacingHorizontal;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipSpacingVertical = global::RemindRx.Droid.Resource.Attribute.chipSpacingVertical;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipStandaloneStyle = global::RemindRx.Droid.Resource.Attribute.chipStandaloneStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipStartPadding = global::RemindRx.Droid.Resource.Attribute.chipStartPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipStrokeColor = global::RemindRx.Droid.Resource.Attribute.chipStrokeColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipStrokeWidth = global::RemindRx.Droid.Resource.Attribute.chipStrokeWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipStyle = global::RemindRx.Droid.Resource.Attribute.chipStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.chipSurfaceColor = global::RemindRx.Droid.Resource.Attribute.chipSurfaceColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIcon = global::RemindRx.Droid.Resource.Attribute.closeIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconEnabled = global::RemindRx.Droid.Resource.Attribute.closeIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconEndPadding = global::RemindRx.Droid.Resource.Attribute.closeIconEndPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconSize = global::RemindRx.Droid.Resource.Attribute.closeIconSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconStartPadding = global::RemindRx.Droid.Resource.Attribute.closeIconStartPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconTint = global::RemindRx.Droid.Resource.Attribute.closeIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeIconVisible = global::RemindRx.Droid.Resource.Attribute.closeIconVisible;
+			global::Rg.Plugins.Popup.Resource.Attribute.closeItemLayout = global::RemindRx.Droid.Resource.Attribute.closeItemLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.collapseContentDescription = global::RemindRx.Droid.Resource.Attribute.collapseContentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.collapsedTitleGravity = global::RemindRx.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.collapsedTitleTextAppearance = global::RemindRx.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.collapseIcon = global::RemindRx.Droid.Resource.Attribute.collapseIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.collectionViewStyle = global::RemindRx.Droid.Resource.Attribute.collectionViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.color = global::RemindRx.Droid.Resource.Attribute.color;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorAccent = global::RemindRx.Droid.Resource.Attribute.colorAccent;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorBackgroundFloating = global::RemindRx.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorButtonNormal = global::RemindRx.Droid.Resource.Attribute.colorButtonNormal;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorControlActivated = global::RemindRx.Droid.Resource.Attribute.colorControlActivated;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorControlHighlight = global::RemindRx.Droid.Resource.Attribute.colorControlHighlight;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorControlNormal = global::RemindRx.Droid.Resource.Attribute.colorControlNormal;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorError = global::RemindRx.Droid.Resource.Attribute.colorError;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorOnBackground = global::RemindRx.Droid.Resource.Attribute.colorOnBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorOnError = global::RemindRx.Droid.Resource.Attribute.colorOnError;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorOnPrimary = global::RemindRx.Droid.Resource.Attribute.colorOnPrimary;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorOnPrimarySurface = global::RemindRx.Droid.Resource.Attribute.colorOnPrimarySurface;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorOnSecondary = global::RemindRx.Droid.Resource.Attribute.colorOnSecondary;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorOnSurface = global::RemindRx.Droid.Resource.Attribute.colorOnSurface;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorPrimary = global::RemindRx.Droid.Resource.Attribute.colorPrimary;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorPrimaryDark = global::RemindRx.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorPrimarySurface = global::RemindRx.Droid.Resource.Attribute.colorPrimarySurface;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorPrimaryVariant = global::RemindRx.Droid.Resource.Attribute.colorPrimaryVariant;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorSecondary = global::RemindRx.Droid.Resource.Attribute.colorSecondary;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorSecondaryVariant = global::RemindRx.Droid.Resource.Attribute.colorSecondaryVariant;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorSurface = global::RemindRx.Droid.Resource.Attribute.colorSurface;
+			global::Rg.Plugins.Popup.Resource.Attribute.colorSwitchThumbNormal = global::RemindRx.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Rg.Plugins.Popup.Resource.Attribute.commitIcon = global::RemindRx.Droid.Resource.Attribute.commitIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentDescription = global::RemindRx.Droid.Resource.Attribute.contentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetEnd = global::RemindRx.Droid.Resource.Attribute.contentInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetEndWithActions = global::RemindRx.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetLeft = global::RemindRx.Droid.Resource.Attribute.contentInsetLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetRight = global::RemindRx.Droid.Resource.Attribute.contentInsetRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetStart = global::RemindRx.Droid.Resource.Attribute.contentInsetStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentInsetStartWithNavigation = global::RemindRx.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentPadding = global::RemindRx.Droid.Resource.Attribute.contentPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentPaddingBottom = global::RemindRx.Droid.Resource.Attribute.contentPaddingBottom;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentPaddingLeft = global::RemindRx.Droid.Resource.Attribute.contentPaddingLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentPaddingRight = global::RemindRx.Droid.Resource.Attribute.contentPaddingRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentPaddingTop = global::RemindRx.Droid.Resource.Attribute.contentPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.contentScrim = global::RemindRx.Droid.Resource.Attribute.contentScrim;
+			global::Rg.Plugins.Popup.Resource.Attribute.controlBackground = global::RemindRx.Droid.Resource.Attribute.controlBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.coordinatorLayoutStyle = global::RemindRx.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerFamily = global::RemindRx.Droid.Resource.Attribute.cornerFamily;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerFamilyBottomLeft = global::RemindRx.Droid.Resource.Attribute.cornerFamilyBottomLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerFamilyBottomRight = global::RemindRx.Droid.Resource.Attribute.cornerFamilyBottomRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerFamilyTopLeft = global::RemindRx.Droid.Resource.Attribute.cornerFamilyTopLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerFamilyTopRight = global::RemindRx.Droid.Resource.Attribute.cornerFamilyTopRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerRadius = global::RemindRx.Droid.Resource.Attribute.cornerRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerSize = global::RemindRx.Droid.Resource.Attribute.cornerSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerSizeBottomLeft = global::RemindRx.Droid.Resource.Attribute.cornerSizeBottomLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerSizeBottomRight = global::RemindRx.Droid.Resource.Attribute.cornerSizeBottomRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerSizeTopLeft = global::RemindRx.Droid.Resource.Attribute.cornerSizeTopLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.cornerSizeTopRight = global::RemindRx.Droid.Resource.Attribute.cornerSizeTopRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.counterEnabled = global::RemindRx.Droid.Resource.Attribute.counterEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.counterMaxLength = global::RemindRx.Droid.Resource.Attribute.counterMaxLength;
+			global::Rg.Plugins.Popup.Resource.Attribute.counterOverflowTextAppearance = global::RemindRx.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.counterOverflowTextColor = global::RemindRx.Droid.Resource.Attribute.counterOverflowTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.counterTextAppearance = global::RemindRx.Droid.Resource.Attribute.counterTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.counterTextColor = global::RemindRx.Droid.Resource.Attribute.counterTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.customNavigationLayout = global::RemindRx.Droid.Resource.Attribute.customNavigationLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.dayInvalidStyle = global::RemindRx.Droid.Resource.Attribute.dayInvalidStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.daySelectedStyle = global::RemindRx.Droid.Resource.Attribute.daySelectedStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.dayStyle = global::RemindRx.Droid.Resource.Attribute.dayStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.dayTodayStyle = global::RemindRx.Droid.Resource.Attribute.dayTodayStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.defaultQueryHint = global::RemindRx.Droid.Resource.Attribute.defaultQueryHint;
+			global::Rg.Plugins.Popup.Resource.Attribute.dialogCornerRadius = global::RemindRx.Droid.Resource.Attribute.dialogCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.dialogPreferredPadding = global::RemindRx.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.dialogTheme = global::RemindRx.Droid.Resource.Attribute.dialogTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.displayOptions = global::RemindRx.Droid.Resource.Attribute.displayOptions;
+			global::Rg.Plugins.Popup.Resource.Attribute.divider = global::RemindRx.Droid.Resource.Attribute.divider;
+			global::Rg.Plugins.Popup.Resource.Attribute.dividerHorizontal = global::RemindRx.Droid.Resource.Attribute.dividerHorizontal;
+			global::Rg.Plugins.Popup.Resource.Attribute.dividerPadding = global::RemindRx.Droid.Resource.Attribute.dividerPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.dividerVertical = global::RemindRx.Droid.Resource.Attribute.dividerVertical;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableBottomCompat = global::RemindRx.Droid.Resource.Attribute.drawableBottomCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableEndCompat = global::RemindRx.Droid.Resource.Attribute.drawableEndCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableLeftCompat = global::RemindRx.Droid.Resource.Attribute.drawableLeftCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableRightCompat = global::RemindRx.Droid.Resource.Attribute.drawableRightCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableSize = global::RemindRx.Droid.Resource.Attribute.drawableSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableStartCompat = global::RemindRx.Droid.Resource.Attribute.drawableStartCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableTint = global::RemindRx.Droid.Resource.Attribute.drawableTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableTintMode = global::RemindRx.Droid.Resource.Attribute.drawableTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawableTopCompat = global::RemindRx.Droid.Resource.Attribute.drawableTopCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawerArrowStyle = global::RemindRx.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.drawerLayoutStyle = global::RemindRx.Droid.Resource.Attribute.drawerLayoutStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.dropdownListPreferredItemHeight = global::RemindRx.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.dropDownListViewStyle = global::RemindRx.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.editTextBackground = global::RemindRx.Droid.Resource.Attribute.editTextBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.editTextColor = global::RemindRx.Droid.Resource.Attribute.editTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.editTextStyle = global::RemindRx.Droid.Resource.Attribute.editTextStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.elevation = global::RemindRx.Droid.Resource.Attribute.elevation;
+			global::Rg.Plugins.Popup.Resource.Attribute.elevationOverlayColor = global::RemindRx.Droid.Resource.Attribute.elevationOverlayColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.elevationOverlayEnabled = global::RemindRx.Droid.Resource.Attribute.elevationOverlayEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.endIconCheckable = global::RemindRx.Droid.Resource.Attribute.endIconCheckable;
+			global::Rg.Plugins.Popup.Resource.Attribute.endIconContentDescription = global::RemindRx.Droid.Resource.Attribute.endIconContentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.endIconDrawable = global::RemindRx.Droid.Resource.Attribute.endIconDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.endIconMode = global::RemindRx.Droid.Resource.Attribute.endIconMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.endIconTint = global::RemindRx.Droid.Resource.Attribute.endIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.endIconTintMode = global::RemindRx.Droid.Resource.Attribute.endIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.enforceMaterialTheme = global::RemindRx.Droid.Resource.Attribute.enforceMaterialTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.enforceTextAppearance = global::RemindRx.Droid.Resource.Attribute.enforceTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.ensureMinTouchTargetSize = global::RemindRx.Droid.Resource.Attribute.ensureMinTouchTargetSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.errorContentDescription = global::RemindRx.Droid.Resource.Attribute.errorContentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.errorEnabled = global::RemindRx.Droid.Resource.Attribute.errorEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.errorIconDrawable = global::RemindRx.Droid.Resource.Attribute.errorIconDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.errorIconTint = global::RemindRx.Droid.Resource.Attribute.errorIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.errorIconTintMode = global::RemindRx.Droid.Resource.Attribute.errorIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.errorTextAppearance = global::RemindRx.Droid.Resource.Attribute.errorTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.errorTextColor = global::RemindRx.Droid.Resource.Attribute.errorTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandActivityOverflowButtonDrawable = global::RemindRx.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.expanded = global::RemindRx.Droid.Resource.Attribute.expanded;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleGravity = global::RemindRx.Droid.Resource.Attribute.expandedTitleGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleMargin = global::RemindRx.Droid.Resource.Attribute.expandedTitleMargin;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleMarginBottom = global::RemindRx.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleMarginEnd = global::RemindRx.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleMarginStart = global::RemindRx.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleMarginTop = global::RemindRx.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.expandedTitleTextAppearance = global::RemindRx.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.extendedFloatingActionButtonStyle = global::RemindRx.Droid.Resource.Attribute.extendedFloatingActionButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.extendMotionSpec = global::RemindRx.Droid.Resource.Attribute.extendMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabAlignmentMode = global::RemindRx.Droid.Resource.Attribute.fabAlignmentMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabAnimationMode = global::RemindRx.Droid.Resource.Attribute.fabAnimationMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabCradleMargin = global::RemindRx.Droid.Resource.Attribute.fabCradleMargin;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabCradleRoundedCornerRadius = global::RemindRx.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabCradleVerticalOffset = global::RemindRx.Droid.Resource.Attribute.fabCradleVerticalOffset;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabCustomSize = global::RemindRx.Droid.Resource.Attribute.fabCustomSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.fabSize = global::RemindRx.Droid.Resource.Attribute.fabSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.fastScrollEnabled = global::RemindRx.Droid.Resource.Attribute.fastScrollEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::RemindRx.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::RemindRx.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.fastScrollVerticalThumbDrawable = global::RemindRx.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.fastScrollVerticalTrackDrawable = global::RemindRx.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.firstBaselineToTopHeight = global::RemindRx.Droid.Resource.Attribute.firstBaselineToTopHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.floatingActionButtonStyle = global::RemindRx.Droid.Resource.Attribute.floatingActionButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.font = global::RemindRx.Droid.Resource.Attribute.font;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontFamily = global::RemindRx.Droid.Resource.Attribute.fontFamily;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderAuthority = global::RemindRx.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderCerts = global::RemindRx.Droid.Resource.Attribute.fontProviderCerts;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderFetchStrategy = global::RemindRx.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderFetchTimeout = global::RemindRx.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderPackage = global::RemindRx.Droid.Resource.Attribute.fontProviderPackage;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontProviderQuery = global::RemindRx.Droid.Resource.Attribute.fontProviderQuery;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontStyle = global::RemindRx.Droid.Resource.Attribute.fontStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontVariationSettings = global::RemindRx.Droid.Resource.Attribute.fontVariationSettings;
+			global::Rg.Plugins.Popup.Resource.Attribute.fontWeight = global::RemindRx.Droid.Resource.Attribute.fontWeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.foregroundInsidePadding = global::RemindRx.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.gapBetweenBars = global::RemindRx.Droid.Resource.Attribute.gapBetweenBars;
+			global::Rg.Plugins.Popup.Resource.Attribute.gestureInsetBottomIgnored = global::RemindRx.Droid.Resource.Attribute.gestureInsetBottomIgnored;
+			global::Rg.Plugins.Popup.Resource.Attribute.goIcon = global::RemindRx.Droid.Resource.Attribute.goIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.haloColor = global::RemindRx.Droid.Resource.Attribute.haloColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.haloRadius = global::RemindRx.Droid.Resource.Attribute.haloRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.headerLayout = global::RemindRx.Droid.Resource.Attribute.headerLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.height = global::RemindRx.Droid.Resource.Attribute.height;
+			global::Rg.Plugins.Popup.Resource.Attribute.helperText = global::RemindRx.Droid.Resource.Attribute.helperText;
+			global::Rg.Plugins.Popup.Resource.Attribute.helperTextEnabled = global::RemindRx.Droid.Resource.Attribute.helperTextEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.helperTextTextAppearance = global::RemindRx.Droid.Resource.Attribute.helperTextTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.helperTextTextColor = global::RemindRx.Droid.Resource.Attribute.helperTextTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.hideMotionSpec = global::RemindRx.Droid.Resource.Attribute.hideMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Attribute.hideOnContentScroll = global::RemindRx.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Rg.Plugins.Popup.Resource.Attribute.hideOnScroll = global::RemindRx.Droid.Resource.Attribute.hideOnScroll;
+			global::Rg.Plugins.Popup.Resource.Attribute.hintAnimationEnabled = global::RemindRx.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.hintEnabled = global::RemindRx.Droid.Resource.Attribute.hintEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.hintTextAppearance = global::RemindRx.Droid.Resource.Attribute.hintTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.hintTextColor = global::RemindRx.Droid.Resource.Attribute.hintTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.homeAsUpIndicator = global::RemindRx.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Rg.Plugins.Popup.Resource.Attribute.homeLayout = global::RemindRx.Droid.Resource.Attribute.homeLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.horizontalOffset = global::RemindRx.Droid.Resource.Attribute.horizontalOffset;
+			global::Rg.Plugins.Popup.Resource.Attribute.hoveredFocusedTranslationZ = global::RemindRx.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::Rg.Plugins.Popup.Resource.Attribute.icon = global::RemindRx.Droid.Resource.Attribute.icon;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconEndPadding = global::RemindRx.Droid.Resource.Attribute.iconEndPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconGravity = global::RemindRx.Droid.Resource.Attribute.iconGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconifiedByDefault = global::RemindRx.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconPadding = global::RemindRx.Droid.Resource.Attribute.iconPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconSize = global::RemindRx.Droid.Resource.Attribute.iconSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconStartPadding = global::RemindRx.Droid.Resource.Attribute.iconStartPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconTint = global::RemindRx.Droid.Resource.Attribute.iconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.iconTintMode = global::RemindRx.Droid.Resource.Attribute.iconTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.imageButtonStyle = global::RemindRx.Droid.Resource.Attribute.imageButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.indeterminateProgressStyle = global::RemindRx.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.initialActivityCount = global::RemindRx.Droid.Resource.Attribute.initialActivityCount;
+			global::Rg.Plugins.Popup.Resource.Attribute.insetForeground = global::RemindRx.Droid.Resource.Attribute.insetForeground;
+			global::Rg.Plugins.Popup.Resource.Attribute.isLightTheme = global::RemindRx.Droid.Resource.Attribute.isLightTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.isMaterialTheme = global::RemindRx.Droid.Resource.Attribute.isMaterialTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemBackground = global::RemindRx.Droid.Resource.Attribute.itemBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemFillColor = global::RemindRx.Droid.Resource.Attribute.itemFillColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemHorizontalPadding = global::RemindRx.Droid.Resource.Attribute.itemHorizontalPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemHorizontalTranslationEnabled = global::RemindRx.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemIconPadding = global::RemindRx.Droid.Resource.Attribute.itemIconPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemIconSize = global::RemindRx.Droid.Resource.Attribute.itemIconSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemIconTint = global::RemindRx.Droid.Resource.Attribute.itemIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemMaxLines = global::RemindRx.Droid.Resource.Attribute.itemMaxLines;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemPadding = global::RemindRx.Droid.Resource.Attribute.itemPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemRippleColor = global::RemindRx.Droid.Resource.Attribute.itemRippleColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemShapeAppearance = global::RemindRx.Droid.Resource.Attribute.itemShapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemShapeAppearanceOverlay = global::RemindRx.Droid.Resource.Attribute.itemShapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemShapeFillColor = global::RemindRx.Droid.Resource.Attribute.itemShapeFillColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemShapeInsetBottom = global::RemindRx.Droid.Resource.Attribute.itemShapeInsetBottom;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemShapeInsetEnd = global::RemindRx.Droid.Resource.Attribute.itemShapeInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemShapeInsetStart = global::RemindRx.Droid.Resource.Attribute.itemShapeInsetStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemShapeInsetTop = global::RemindRx.Droid.Resource.Attribute.itemShapeInsetTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemSpacing = global::RemindRx.Droid.Resource.Attribute.itemSpacing;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemStrokeColor = global::RemindRx.Droid.Resource.Attribute.itemStrokeColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemStrokeWidth = global::RemindRx.Droid.Resource.Attribute.itemStrokeWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemTextAppearance = global::RemindRx.Droid.Resource.Attribute.itemTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemTextAppearanceActive = global::RemindRx.Droid.Resource.Attribute.itemTextAppearanceActive;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemTextAppearanceInactive = global::RemindRx.Droid.Resource.Attribute.itemTextAppearanceInactive;
+			global::Rg.Plugins.Popup.Resource.Attribute.itemTextColor = global::RemindRx.Droid.Resource.Attribute.itemTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.keylines = global::RemindRx.Droid.Resource.Attribute.keylines;
+			global::Rg.Plugins.Popup.Resource.Attribute.labelBehavior = global::RemindRx.Droid.Resource.Attribute.labelBehavior;
+			global::Rg.Plugins.Popup.Resource.Attribute.labelStyle = global::RemindRx.Droid.Resource.Attribute.labelStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.labelVisibilityMode = global::RemindRx.Droid.Resource.Attribute.labelVisibilityMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.lastBaselineToBottomHeight = global::RemindRx.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout = global::RemindRx.Droid.Resource.Attribute.layout;
+			global::Rg.Plugins.Popup.Resource.Attribute.layoutManager = global::RemindRx.Droid.Resource.Attribute.layoutManager;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_anchor = global::RemindRx.Droid.Resource.Attribute.layout_anchor;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_anchorGravity = global::RemindRx.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_behavior = global::RemindRx.Droid.Resource.Attribute.layout_behavior;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_collapseMode = global::RemindRx.Droid.Resource.Attribute.layout_collapseMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_collapseParallaxMultiplier = global::RemindRx.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_dodgeInsetEdges = global::RemindRx.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_insetEdge = global::RemindRx.Droid.Resource.Attribute.layout_insetEdge;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_keyline = global::RemindRx.Droid.Resource.Attribute.layout_keyline;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_scrollFlags = global::RemindRx.Droid.Resource.Attribute.layout_scrollFlags;
+			global::Rg.Plugins.Popup.Resource.Attribute.layout_scrollInterpolator = global::RemindRx.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::Rg.Plugins.Popup.Resource.Attribute.liftOnScroll = global::RemindRx.Droid.Resource.Attribute.liftOnScroll;
+			global::Rg.Plugins.Popup.Resource.Attribute.liftOnScrollTargetViewId = global::RemindRx.Droid.Resource.Attribute.liftOnScrollTargetViewId;
+			global::Rg.Plugins.Popup.Resource.Attribute.lineHeight = global::RemindRx.Droid.Resource.Attribute.lineHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.lineSpacing = global::RemindRx.Droid.Resource.Attribute.lineSpacing;
+			global::Rg.Plugins.Popup.Resource.Attribute.listChoiceBackgroundIndicator = global::RemindRx.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Rg.Plugins.Popup.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::RemindRx.Droid.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
+			global::Rg.Plugins.Popup.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::RemindRx.Droid.Resource.Attribute.listChoiceIndicatorSingleAnimated;
+			global::Rg.Plugins.Popup.Resource.Attribute.listDividerAlertDialog = global::RemindRx.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Rg.Plugins.Popup.Resource.Attribute.listItemLayout = global::RemindRx.Droid.Resource.Attribute.listItemLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.listLayout = global::RemindRx.Droid.Resource.Attribute.listLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.listMenuViewStyle = global::RemindRx.Droid.Resource.Attribute.listMenuViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPopupWindowStyle = global::RemindRx.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemHeight = global::RemindRx.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemHeightLarge = global::RemindRx.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemHeightSmall = global::RemindRx.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemPaddingEnd = global::RemindRx.Droid.Resource.Attribute.listPreferredItemPaddingEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemPaddingLeft = global::RemindRx.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemPaddingRight = global::RemindRx.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Rg.Plugins.Popup.Resource.Attribute.listPreferredItemPaddingStart = global::RemindRx.Droid.Resource.Attribute.listPreferredItemPaddingStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.logo = global::RemindRx.Droid.Resource.Attribute.logo;
+			global::Rg.Plugins.Popup.Resource.Attribute.logoDescription = global::RemindRx.Droid.Resource.Attribute.logoDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialAlertDialogBodyTextStyle = global::RemindRx.Droid.Resource.Attribute.materialAlertDialogBodyTextStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialAlertDialogTheme = global::RemindRx.Droid.Resource.Attribute.materialAlertDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialAlertDialogTitleIconStyle = global::RemindRx.Droid.Resource.Attribute.materialAlertDialogTitleIconStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialAlertDialogTitlePanelStyle = global::RemindRx.Droid.Resource.Attribute.materialAlertDialogTitlePanelStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialAlertDialogTitleTextStyle = global::RemindRx.Droid.Resource.Attribute.materialAlertDialogTitleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialButtonOutlinedStyle = global::RemindRx.Droid.Resource.Attribute.materialButtonOutlinedStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialButtonStyle = global::RemindRx.Droid.Resource.Attribute.materialButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialButtonToggleGroupStyle = global::RemindRx.Droid.Resource.Attribute.materialButtonToggleGroupStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarDay = global::RemindRx.Droid.Resource.Attribute.materialCalendarDay;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarFullscreenTheme = global::RemindRx.Droid.Resource.Attribute.materialCalendarFullscreenTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarHeaderConfirmButton = global::RemindRx.Droid.Resource.Attribute.materialCalendarHeaderConfirmButton;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarHeaderDivider = global::RemindRx.Droid.Resource.Attribute.materialCalendarHeaderDivider;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarHeaderLayout = global::RemindRx.Droid.Resource.Attribute.materialCalendarHeaderLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarHeaderSelection = global::RemindRx.Droid.Resource.Attribute.materialCalendarHeaderSelection;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarHeaderTitle = global::RemindRx.Droid.Resource.Attribute.materialCalendarHeaderTitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarHeaderToggleButton = global::RemindRx.Droid.Resource.Attribute.materialCalendarHeaderToggleButton;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarStyle = global::RemindRx.Droid.Resource.Attribute.materialCalendarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCalendarTheme = global::RemindRx.Droid.Resource.Attribute.materialCalendarTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialCardViewStyle = global::RemindRx.Droid.Resource.Attribute.materialCardViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.materialThemeOverlay = global::RemindRx.Droid.Resource.Attribute.materialThemeOverlay;
+			global::Rg.Plugins.Popup.Resource.Attribute.maxActionInlineWidth = global::RemindRx.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.maxButtonHeight = global::RemindRx.Droid.Resource.Attribute.maxButtonHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.maxCharacterCount = global::RemindRx.Droid.Resource.Attribute.maxCharacterCount;
+			global::Rg.Plugins.Popup.Resource.Attribute.maxImageSize = global::RemindRx.Droid.Resource.Attribute.maxImageSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.maxLines = global::RemindRx.Droid.Resource.Attribute.maxLines;
+			global::Rg.Plugins.Popup.Resource.Attribute.measureWithLargestChild = global::RemindRx.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Rg.Plugins.Popup.Resource.Attribute.menu = global::RemindRx.Droid.Resource.Attribute.menu;
+			global::Rg.Plugins.Popup.Resource.Attribute.minTouchTargetSize = global::RemindRx.Droid.Resource.Attribute.minTouchTargetSize;
+			global::Rg.Plugins.Popup.Resource.Attribute.multiChoiceItemLayout = global::RemindRx.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.navigationContentDescription = global::RemindRx.Droid.Resource.Attribute.navigationContentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.navigationIcon = global::RemindRx.Droid.Resource.Attribute.navigationIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.navigationMode = global::RemindRx.Droid.Resource.Attribute.navigationMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.navigationViewStyle = global::RemindRx.Droid.Resource.Attribute.navigationViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.number = global::RemindRx.Droid.Resource.Attribute.number;
+			global::Rg.Plugins.Popup.Resource.Attribute.numericModifiers = global::RemindRx.Droid.Resource.Attribute.numericModifiers;
+			global::Rg.Plugins.Popup.Resource.Attribute.overlapAnchor = global::RemindRx.Droid.Resource.Attribute.overlapAnchor;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingBottomNoButtons = global::RemindRx.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingBottomSystemWindowInsets = global::RemindRx.Droid.Resource.Attribute.paddingBottomSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingEnd = global::RemindRx.Droid.Resource.Attribute.paddingEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingLeftSystemWindowInsets = global::RemindRx.Droid.Resource.Attribute.paddingLeftSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingRightSystemWindowInsets = global::RemindRx.Droid.Resource.Attribute.paddingRightSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingStart = global::RemindRx.Droid.Resource.Attribute.paddingStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.paddingTopNoTitle = global::RemindRx.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.panelBackground = global::RemindRx.Droid.Resource.Attribute.panelBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.panelMenuListTheme = global::RemindRx.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.panelMenuListWidth = global::RemindRx.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.passwordToggleContentDescription = global::RemindRx.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.passwordToggleDrawable = global::RemindRx.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.passwordToggleEnabled = global::RemindRx.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.passwordToggleTint = global::RemindRx.Droid.Resource.Attribute.passwordToggleTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.passwordToggleTintMode = global::RemindRx.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.placeholderText = global::RemindRx.Droid.Resource.Attribute.placeholderText;
+			global::Rg.Plugins.Popup.Resource.Attribute.placeholderTextAppearance = global::RemindRx.Droid.Resource.Attribute.placeholderTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.placeholderTextColor = global::RemindRx.Droid.Resource.Attribute.placeholderTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.popupMenuBackground = global::RemindRx.Droid.Resource.Attribute.popupMenuBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.popupMenuStyle = global::RemindRx.Droid.Resource.Attribute.popupMenuStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.popupTheme = global::RemindRx.Droid.Resource.Attribute.popupTheme;
+			global::Rg.Plugins.Popup.Resource.Attribute.popupWindowStyle = global::RemindRx.Droid.Resource.Attribute.popupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.prefixText = global::RemindRx.Droid.Resource.Attribute.prefixText;
+			global::Rg.Plugins.Popup.Resource.Attribute.prefixTextAppearance = global::RemindRx.Droid.Resource.Attribute.prefixTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.prefixTextColor = global::RemindRx.Droid.Resource.Attribute.prefixTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.preserveIconSpacing = global::RemindRx.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Rg.Plugins.Popup.Resource.Attribute.pressedTranslationZ = global::RemindRx.Droid.Resource.Attribute.pressedTranslationZ;
+			global::Rg.Plugins.Popup.Resource.Attribute.progressBarPadding = global::RemindRx.Droid.Resource.Attribute.progressBarPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.progressBarStyle = global::RemindRx.Droid.Resource.Attribute.progressBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.queryBackground = global::RemindRx.Droid.Resource.Attribute.queryBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.queryHint = global::RemindRx.Droid.Resource.Attribute.queryHint;
+			global::Rg.Plugins.Popup.Resource.Attribute.radioButtonStyle = global::RemindRx.Droid.Resource.Attribute.radioButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.rangeFillColor = global::RemindRx.Droid.Resource.Attribute.rangeFillColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.ratingBarStyle = global::RemindRx.Droid.Resource.Attribute.ratingBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.ratingBarStyleIndicator = global::RemindRx.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Rg.Plugins.Popup.Resource.Attribute.ratingBarStyleSmall = global::RemindRx.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Rg.Plugins.Popup.Resource.Attribute.recyclerViewStyle = global::RemindRx.Droid.Resource.Attribute.recyclerViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.reverseLayout = global::RemindRx.Droid.Resource.Attribute.reverseLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.rippleColor = global::RemindRx.Droid.Resource.Attribute.rippleColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.scrimAnimationDuration = global::RemindRx.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::Rg.Plugins.Popup.Resource.Attribute.scrimBackground = global::RemindRx.Droid.Resource.Attribute.scrimBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.scrimVisibleHeightTrigger = global::RemindRx.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Rg.Plugins.Popup.Resource.Attribute.scrollViewStyle = global::RemindRx.Droid.Resource.Attribute.scrollViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.searchHintIcon = global::RemindRx.Droid.Resource.Attribute.searchHintIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.searchIcon = global::RemindRx.Droid.Resource.Attribute.searchIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.searchViewStyle = global::RemindRx.Droid.Resource.Attribute.searchViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.seekBarStyle = global::RemindRx.Droid.Resource.Attribute.seekBarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.selectableItemBackground = global::RemindRx.Droid.Resource.Attribute.selectableItemBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.selectableItemBackgroundBorderless = global::RemindRx.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Rg.Plugins.Popup.Resource.Attribute.selectionRequired = global::RemindRx.Droid.Resource.Attribute.selectionRequired;
+			global::Rg.Plugins.Popup.Resource.Attribute.shapeAppearance = global::RemindRx.Droid.Resource.Attribute.shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.shapeAppearanceLargeComponent = global::RemindRx.Droid.Resource.Attribute.shapeAppearanceLargeComponent;
+			global::Rg.Plugins.Popup.Resource.Attribute.shapeAppearanceMediumComponent = global::RemindRx.Droid.Resource.Attribute.shapeAppearanceMediumComponent;
+			global::Rg.Plugins.Popup.Resource.Attribute.shapeAppearanceOverlay = global::RemindRx.Droid.Resource.Attribute.shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Attribute.shapeAppearanceSmallComponent = global::RemindRx.Droid.Resource.Attribute.shapeAppearanceSmallComponent;
+			global::Rg.Plugins.Popup.Resource.Attribute.showAsAction = global::RemindRx.Droid.Resource.Attribute.showAsAction;
+			global::Rg.Plugins.Popup.Resource.Attribute.showDividers = global::RemindRx.Droid.Resource.Attribute.showDividers;
+			global::Rg.Plugins.Popup.Resource.Attribute.showMotionSpec = global::RemindRx.Droid.Resource.Attribute.showMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Attribute.showText = global::RemindRx.Droid.Resource.Attribute.showText;
+			global::Rg.Plugins.Popup.Resource.Attribute.showTitle = global::RemindRx.Droid.Resource.Attribute.showTitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.shrinkMotionSpec = global::RemindRx.Droid.Resource.Attribute.shrinkMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Attribute.singleChoiceItemLayout = global::RemindRx.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.singleLine = global::RemindRx.Droid.Resource.Attribute.singleLine;
+			global::Rg.Plugins.Popup.Resource.Attribute.singleSelection = global::RemindRx.Droid.Resource.Attribute.singleSelection;
+			global::Rg.Plugins.Popup.Resource.Attribute.sliderStyle = global::RemindRx.Droid.Resource.Attribute.sliderStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.snackbarButtonStyle = global::RemindRx.Droid.Resource.Attribute.snackbarButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.snackbarStyle = global::RemindRx.Droid.Resource.Attribute.snackbarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.snackbarTextViewStyle = global::RemindRx.Droid.Resource.Attribute.snackbarTextViewStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.spanCount = global::RemindRx.Droid.Resource.Attribute.spanCount;
+			global::Rg.Plugins.Popup.Resource.Attribute.spinBars = global::RemindRx.Droid.Resource.Attribute.spinBars;
+			global::Rg.Plugins.Popup.Resource.Attribute.spinnerDropDownItemStyle = global::RemindRx.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.spinnerStyle = global::RemindRx.Droid.Resource.Attribute.spinnerStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.splitTrack = global::RemindRx.Droid.Resource.Attribute.splitTrack;
+			global::Rg.Plugins.Popup.Resource.Attribute.srcCompat = global::RemindRx.Droid.Resource.Attribute.srcCompat;
+			global::Rg.Plugins.Popup.Resource.Attribute.stackFromEnd = global::RemindRx.Droid.Resource.Attribute.stackFromEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.startIconCheckable = global::RemindRx.Droid.Resource.Attribute.startIconCheckable;
+			global::Rg.Plugins.Popup.Resource.Attribute.startIconContentDescription = global::RemindRx.Droid.Resource.Attribute.startIconContentDescription;
+			global::Rg.Plugins.Popup.Resource.Attribute.startIconDrawable = global::RemindRx.Droid.Resource.Attribute.startIconDrawable;
+			global::Rg.Plugins.Popup.Resource.Attribute.startIconTint = global::RemindRx.Droid.Resource.Attribute.startIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.startIconTintMode = global::RemindRx.Droid.Resource.Attribute.startIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_above_anchor = global::RemindRx.Droid.Resource.Attribute.state_above_anchor;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_collapsed = global::RemindRx.Droid.Resource.Attribute.state_collapsed;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_collapsible = global::RemindRx.Droid.Resource.Attribute.state_collapsible;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_dragged = global::RemindRx.Droid.Resource.Attribute.state_dragged;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_liftable = global::RemindRx.Droid.Resource.Attribute.state_liftable;
+			global::Rg.Plugins.Popup.Resource.Attribute.state_lifted = global::RemindRx.Droid.Resource.Attribute.state_lifted;
+			global::Rg.Plugins.Popup.Resource.Attribute.statusBarBackground = global::RemindRx.Droid.Resource.Attribute.statusBarBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.statusBarForeground = global::RemindRx.Droid.Resource.Attribute.statusBarForeground;
+			global::Rg.Plugins.Popup.Resource.Attribute.statusBarScrim = global::RemindRx.Droid.Resource.Attribute.statusBarScrim;
+			global::Rg.Plugins.Popup.Resource.Attribute.strokeColor = global::RemindRx.Droid.Resource.Attribute.strokeColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.strokeWidth = global::RemindRx.Droid.Resource.Attribute.strokeWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.subMenuArrow = global::RemindRx.Droid.Resource.Attribute.subMenuArrow;
+			global::Rg.Plugins.Popup.Resource.Attribute.submitBackground = global::RemindRx.Droid.Resource.Attribute.submitBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.subtitle = global::RemindRx.Droid.Resource.Attribute.subtitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.subtitleTextAppearance = global::RemindRx.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.subtitleTextColor = global::RemindRx.Droid.Resource.Attribute.subtitleTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.subtitleTextStyle = global::RemindRx.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.suffixText = global::RemindRx.Droid.Resource.Attribute.suffixText;
+			global::Rg.Plugins.Popup.Resource.Attribute.suffixTextAppearance = global::RemindRx.Droid.Resource.Attribute.suffixTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.suffixTextColor = global::RemindRx.Droid.Resource.Attribute.suffixTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.suggestionRowLayout = global::RemindRx.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Rg.Plugins.Popup.Resource.Attribute.swipeRefreshLayoutProgressSpinnerBackgroundColor = global::RemindRx.Droid.Resource.Attribute.swipeRefreshLayoutProgressSpinnerBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.switchMinWidth = global::RemindRx.Droid.Resource.Attribute.switchMinWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.switchPadding = global::RemindRx.Droid.Resource.Attribute.switchPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.switchStyle = global::RemindRx.Droid.Resource.Attribute.switchStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.switchTextAppearance = global::RemindRx.Droid.Resource.Attribute.switchTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabBackground = global::RemindRx.Droid.Resource.Attribute.tabBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabContentStart = global::RemindRx.Droid.Resource.Attribute.tabContentStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabGravity = global::RemindRx.Droid.Resource.Attribute.tabGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIconTint = global::RemindRx.Droid.Resource.Attribute.tabIconTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIconTintMode = global::RemindRx.Droid.Resource.Attribute.tabIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicator = global::RemindRx.Droid.Resource.Attribute.tabIndicator;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicatorAnimationDuration = global::RemindRx.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicatorColor = global::RemindRx.Droid.Resource.Attribute.tabIndicatorColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicatorFullWidth = global::RemindRx.Droid.Resource.Attribute.tabIndicatorFullWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicatorGravity = global::RemindRx.Droid.Resource.Attribute.tabIndicatorGravity;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabIndicatorHeight = global::RemindRx.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabInlineLabel = global::RemindRx.Droid.Resource.Attribute.tabInlineLabel;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabMaxWidth = global::RemindRx.Droid.Resource.Attribute.tabMaxWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabMinWidth = global::RemindRx.Droid.Resource.Attribute.tabMinWidth;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabMode = global::RemindRx.Droid.Resource.Attribute.tabMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabPadding = global::RemindRx.Droid.Resource.Attribute.tabPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabPaddingBottom = global::RemindRx.Droid.Resource.Attribute.tabPaddingBottom;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabPaddingEnd = global::RemindRx.Droid.Resource.Attribute.tabPaddingEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabPaddingStart = global::RemindRx.Droid.Resource.Attribute.tabPaddingStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabPaddingTop = global::RemindRx.Droid.Resource.Attribute.tabPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabRippleColor = global::RemindRx.Droid.Resource.Attribute.tabRippleColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabSelectedTextColor = global::RemindRx.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabStyle = global::RemindRx.Droid.Resource.Attribute.tabStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabTextAppearance = global::RemindRx.Droid.Resource.Attribute.tabTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabTextColor = global::RemindRx.Droid.Resource.Attribute.tabTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tabUnboundedRipple = global::RemindRx.Droid.Resource.Attribute.tabUnboundedRipple;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAllCaps = global::RemindRx.Droid.Resource.Attribute.textAllCaps;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceBody1 = global::RemindRx.Droid.Resource.Attribute.textAppearanceBody1;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceBody2 = global::RemindRx.Droid.Resource.Attribute.textAppearanceBody2;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceButton = global::RemindRx.Droid.Resource.Attribute.textAppearanceButton;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceCaption = global::RemindRx.Droid.Resource.Attribute.textAppearanceCaption;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline1 = global::RemindRx.Droid.Resource.Attribute.textAppearanceHeadline1;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline2 = global::RemindRx.Droid.Resource.Attribute.textAppearanceHeadline2;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline3 = global::RemindRx.Droid.Resource.Attribute.textAppearanceHeadline3;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline4 = global::RemindRx.Droid.Resource.Attribute.textAppearanceHeadline4;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline5 = global::RemindRx.Droid.Resource.Attribute.textAppearanceHeadline5;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceHeadline6 = global::RemindRx.Droid.Resource.Attribute.textAppearanceHeadline6;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceLargePopupMenu = global::RemindRx.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceLineHeightEnabled = global::RemindRx.Droid.Resource.Attribute.textAppearanceLineHeightEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceListItem = global::RemindRx.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceListItemSecondary = global::RemindRx.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceListItemSmall = global::RemindRx.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceOverline = global::RemindRx.Droid.Resource.Attribute.textAppearanceOverline;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearancePopupMenuHeader = global::RemindRx.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceSearchResultSubtitle = global::RemindRx.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceSearchResultTitle = global::RemindRx.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceSmallPopupMenu = global::RemindRx.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceSubtitle1 = global::RemindRx.Droid.Resource.Attribute.textAppearanceSubtitle1;
+			global::Rg.Plugins.Popup.Resource.Attribute.textAppearanceSubtitle2 = global::RemindRx.Droid.Resource.Attribute.textAppearanceSubtitle2;
+			global::Rg.Plugins.Popup.Resource.Attribute.textColorAlertDialogListItem = global::RemindRx.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Rg.Plugins.Popup.Resource.Attribute.textColorSearchUrl = global::RemindRx.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Rg.Plugins.Popup.Resource.Attribute.textEndPadding = global::RemindRx.Droid.Resource.Attribute.textEndPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.textInputLayoutFocusedRectEnabled = global::RemindRx.Droid.Resource.Attribute.textInputLayoutFocusedRectEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.textInputStyle = global::RemindRx.Droid.Resource.Attribute.textInputStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.textLocale = global::RemindRx.Droid.Resource.Attribute.textLocale;
+			global::Rg.Plugins.Popup.Resource.Attribute.textStartPadding = global::RemindRx.Droid.Resource.Attribute.textStartPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.theme = global::RemindRx.Droid.Resource.Attribute.theme;
+			global::Rg.Plugins.Popup.Resource.Attribute.themeLineHeight = global::RemindRx.Droid.Resource.Attribute.themeLineHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.thickness = global::RemindRx.Droid.Resource.Attribute.thickness;
+			global::Rg.Plugins.Popup.Resource.Attribute.thumbColor = global::RemindRx.Droid.Resource.Attribute.thumbColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.thumbElevation = global::RemindRx.Droid.Resource.Attribute.thumbElevation;
+			global::Rg.Plugins.Popup.Resource.Attribute.thumbRadius = global::RemindRx.Droid.Resource.Attribute.thumbRadius;
+			global::Rg.Plugins.Popup.Resource.Attribute.thumbTextPadding = global::RemindRx.Droid.Resource.Attribute.thumbTextPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.thumbTint = global::RemindRx.Droid.Resource.Attribute.thumbTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.thumbTintMode = global::RemindRx.Droid.Resource.Attribute.thumbTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.tickColor = global::RemindRx.Droid.Resource.Attribute.tickColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tickColorActive = global::RemindRx.Droid.Resource.Attribute.tickColorActive;
+			global::Rg.Plugins.Popup.Resource.Attribute.tickColorInactive = global::RemindRx.Droid.Resource.Attribute.tickColorInactive;
+			global::Rg.Plugins.Popup.Resource.Attribute.tickMark = global::RemindRx.Droid.Resource.Attribute.tickMark;
+			global::Rg.Plugins.Popup.Resource.Attribute.tickMarkTint = global::RemindRx.Droid.Resource.Attribute.tickMarkTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.tickMarkTintMode = global::RemindRx.Droid.Resource.Attribute.tickMarkTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.tint = global::RemindRx.Droid.Resource.Attribute.tint;
+			global::Rg.Plugins.Popup.Resource.Attribute.tintMode = global::RemindRx.Droid.Resource.Attribute.tintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.title = global::RemindRx.Droid.Resource.Attribute.title;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleEnabled = global::RemindRx.Droid.Resource.Attribute.titleEnabled;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMargin = global::RemindRx.Droid.Resource.Attribute.titleMargin;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMarginBottom = global::RemindRx.Droid.Resource.Attribute.titleMarginBottom;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMarginEnd = global::RemindRx.Droid.Resource.Attribute.titleMarginEnd;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMargins = global::RemindRx.Droid.Resource.Attribute.titleMargins;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMarginStart = global::RemindRx.Droid.Resource.Attribute.titleMarginStart;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleMarginTop = global::RemindRx.Droid.Resource.Attribute.titleMarginTop;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleTextAppearance = global::RemindRx.Droid.Resource.Attribute.titleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleTextColor = global::RemindRx.Droid.Resource.Attribute.titleTextColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.titleTextStyle = global::RemindRx.Droid.Resource.Attribute.titleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.toolbarId = global::RemindRx.Droid.Resource.Attribute.toolbarId;
+			global::Rg.Plugins.Popup.Resource.Attribute.toolbarNavigationButtonStyle = global::RemindRx.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.toolbarStyle = global::RemindRx.Droid.Resource.Attribute.toolbarStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.tooltipForegroundColor = global::RemindRx.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.tooltipFrameBackground = global::RemindRx.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::Rg.Plugins.Popup.Resource.Attribute.tooltipStyle = global::RemindRx.Droid.Resource.Attribute.tooltipStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.tooltipText = global::RemindRx.Droid.Resource.Attribute.tooltipText;
+			global::Rg.Plugins.Popup.Resource.Attribute.track = global::RemindRx.Droid.Resource.Attribute.track;
+			global::Rg.Plugins.Popup.Resource.Attribute.trackColor = global::RemindRx.Droid.Resource.Attribute.trackColor;
+			global::Rg.Plugins.Popup.Resource.Attribute.trackColorActive = global::RemindRx.Droid.Resource.Attribute.trackColorActive;
+			global::Rg.Plugins.Popup.Resource.Attribute.trackColorInactive = global::RemindRx.Droid.Resource.Attribute.trackColorInactive;
+			global::Rg.Plugins.Popup.Resource.Attribute.trackHeight = global::RemindRx.Droid.Resource.Attribute.trackHeight;
+			global::Rg.Plugins.Popup.Resource.Attribute.trackTint = global::RemindRx.Droid.Resource.Attribute.trackTint;
+			global::Rg.Plugins.Popup.Resource.Attribute.trackTintMode = global::RemindRx.Droid.Resource.Attribute.trackTintMode;
+			global::Rg.Plugins.Popup.Resource.Attribute.transitionShapeAppearance = global::RemindRx.Droid.Resource.Attribute.transitionShapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Attribute.ttcIndex = global::RemindRx.Droid.Resource.Attribute.ttcIndex;
+			global::Rg.Plugins.Popup.Resource.Attribute.useCompatPadding = global::RemindRx.Droid.Resource.Attribute.useCompatPadding;
+			global::Rg.Plugins.Popup.Resource.Attribute.useMaterialThemeColors = global::RemindRx.Droid.Resource.Attribute.useMaterialThemeColors;
+			global::Rg.Plugins.Popup.Resource.Attribute.values = global::RemindRx.Droid.Resource.Attribute.values;
+			global::Rg.Plugins.Popup.Resource.Attribute.verticalOffset = global::RemindRx.Droid.Resource.Attribute.verticalOffset;
+			global::Rg.Plugins.Popup.Resource.Attribute.viewInflaterClass = global::RemindRx.Droid.Resource.Attribute.viewInflaterClass;
+			global::Rg.Plugins.Popup.Resource.Attribute.voiceIcon = global::RemindRx.Droid.Resource.Attribute.voiceIcon;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowActionBar = global::RemindRx.Droid.Resource.Attribute.windowActionBar;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowActionBarOverlay = global::RemindRx.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowActionModeOverlay = global::RemindRx.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowFixedHeightMajor = global::RemindRx.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowFixedHeightMinor = global::RemindRx.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowFixedWidthMajor = global::RemindRx.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowFixedWidthMinor = global::RemindRx.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowMinWidthMajor = global::RemindRx.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowMinWidthMinor = global::RemindRx.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Rg.Plugins.Popup.Resource.Attribute.windowNoTitle = global::RemindRx.Droid.Resource.Attribute.windowNoTitle;
+			global::Rg.Plugins.Popup.Resource.Attribute.yearSelectedStyle = global::RemindRx.Droid.Resource.Attribute.yearSelectedStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.yearStyle = global::RemindRx.Droid.Resource.Attribute.yearStyle;
+			global::Rg.Plugins.Popup.Resource.Attribute.yearTodayStyle = global::RemindRx.Droid.Resource.Attribute.yearTodayStyle;
+			global::Rg.Plugins.Popup.Resource.Boolean.abc_action_bar_embed_tabs = global::RemindRx.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Rg.Plugins.Popup.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::RemindRx.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Rg.Plugins.Popup.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::RemindRx.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::Rg.Plugins.Popup.Resource.Color.abc_background_cache_hint_selector_material_dark = global::RemindRx.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.abc_background_cache_hint_selector_material_light = global::RemindRx.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_btn_colored_borderless_text_material = global::RemindRx.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Rg.Plugins.Popup.Resource.Color.abc_btn_colored_text_material = global::RemindRx.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::Rg.Plugins.Popup.Resource.Color.abc_color_highlight_material = global::RemindRx.Droid.Resource.Color.abc_color_highlight_material;
+			global::Rg.Plugins.Popup.Resource.Color.abc_decor_view_status_guard = global::RemindRx.Droid.Resource.Color.abc_decor_view_status_guard;
+			global::Rg.Plugins.Popup.Resource.Color.abc_decor_view_status_guard_light = global::RemindRx.Droid.Resource.Color.abc_decor_view_status_guard_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_hint_foreground_material_dark = global::RemindRx.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.abc_hint_foreground_material_light = global::RemindRx.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_primary_text_disable_only_material_dark = global::RemindRx.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.abc_primary_text_disable_only_material_light = global::RemindRx.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_primary_text_material_dark = global::RemindRx.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.abc_primary_text_material_light = global::RemindRx.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_search_url_text = global::RemindRx.Droid.Resource.Color.abc_search_url_text;
+			global::Rg.Plugins.Popup.Resource.Color.abc_search_url_text_normal = global::RemindRx.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Rg.Plugins.Popup.Resource.Color.abc_search_url_text_pressed = global::RemindRx.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Rg.Plugins.Popup.Resource.Color.abc_search_url_text_selected = global::RemindRx.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Rg.Plugins.Popup.Resource.Color.abc_secondary_text_material_dark = global::RemindRx.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.abc_secondary_text_material_light = global::RemindRx.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_btn_checkable = global::RemindRx.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_default = global::RemindRx.Droid.Resource.Color.abc_tint_default;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_edittext = global::RemindRx.Droid.Resource.Color.abc_tint_edittext;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_seek_thumb = global::RemindRx.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_spinner = global::RemindRx.Droid.Resource.Color.abc_tint_spinner;
+			global::Rg.Plugins.Popup.Resource.Color.abc_tint_switch_track = global::RemindRx.Droid.Resource.Color.abc_tint_switch_track;
+			global::Rg.Plugins.Popup.Resource.Color.accent_material_dark = global::RemindRx.Droid.Resource.Color.accent_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.accent_material_light = global::RemindRx.Droid.Resource.Color.accent_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.androidx_core_ripple_material_light = global::RemindRx.Droid.Resource.Color.androidx_core_ripple_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.androidx_core_secondary_text_default_material_light = global::RemindRx.Droid.Resource.Color.androidx_core_secondary_text_default_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.background_floating_material_dark = global::RemindRx.Droid.Resource.Color.background_floating_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.background_floating_material_light = global::RemindRx.Droid.Resource.Color.background_floating_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.background_material_dark = global::RemindRx.Droid.Resource.Color.background_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.background_material_light = global::RemindRx.Droid.Resource.Color.background_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_disabled_material_dark = global::RemindRx.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_disabled_material_light = global::RemindRx.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_inverse_material_dark = global::RemindRx.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_inverse_material_light = global::RemindRx.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_material_dark = global::RemindRx.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.bright_foreground_material_light = global::RemindRx.Droid.Resource.Color.bright_foreground_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.browser_actions_bg_grey = global::RemindRx.Droid.Resource.Color.browser_actions_bg_grey;
+			global::Rg.Plugins.Popup.Resource.Color.browser_actions_divider_color = global::RemindRx.Droid.Resource.Color.browser_actions_divider_color;
+			global::Rg.Plugins.Popup.Resource.Color.browser_actions_text_color = global::RemindRx.Droid.Resource.Color.browser_actions_text_color;
+			global::Rg.Plugins.Popup.Resource.Color.browser_actions_title_color = global::RemindRx.Droid.Resource.Color.browser_actions_title_color;
+			global::Rg.Plugins.Popup.Resource.Color.button_material_dark = global::RemindRx.Droid.Resource.Color.button_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.button_material_light = global::RemindRx.Droid.Resource.Color.button_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.cardview_dark_background = global::RemindRx.Droid.Resource.Color.cardview_dark_background;
+			global::Rg.Plugins.Popup.Resource.Color.cardview_light_background = global::RemindRx.Droid.Resource.Color.cardview_light_background;
+			global::Rg.Plugins.Popup.Resource.Color.cardview_shadow_end_color = global::RemindRx.Droid.Resource.Color.cardview_shadow_end_color;
+			global::Rg.Plugins.Popup.Resource.Color.cardview_shadow_start_color = global::RemindRx.Droid.Resource.Color.cardview_shadow_start_color;
+			global::Rg.Plugins.Popup.Resource.Color.checkbox_themeable_attribute_color = global::RemindRx.Droid.Resource.Color.checkbox_themeable_attribute_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_bottom_navigation_shadow_color = global::RemindRx.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_box_stroke_color = global::RemindRx.Droid.Resource.Color.design_box_stroke_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_background = global::RemindRx.Droid.Resource.Color.design_dark_default_color_background;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_error = global::RemindRx.Droid.Resource.Color.design_dark_default_color_error;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_on_background = global::RemindRx.Droid.Resource.Color.design_dark_default_color_on_background;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_on_error = global::RemindRx.Droid.Resource.Color.design_dark_default_color_on_error;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_on_primary = global::RemindRx.Droid.Resource.Color.design_dark_default_color_on_primary;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_on_secondary = global::RemindRx.Droid.Resource.Color.design_dark_default_color_on_secondary;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_on_surface = global::RemindRx.Droid.Resource.Color.design_dark_default_color_on_surface;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_primary = global::RemindRx.Droid.Resource.Color.design_dark_default_color_primary;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_primary_dark = global::RemindRx.Droid.Resource.Color.design_dark_default_color_primary_dark;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_primary_variant = global::RemindRx.Droid.Resource.Color.design_dark_default_color_primary_variant;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_secondary = global::RemindRx.Droid.Resource.Color.design_dark_default_color_secondary;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_secondary_variant = global::RemindRx.Droid.Resource.Color.design_dark_default_color_secondary_variant;
+			global::Rg.Plugins.Popup.Resource.Color.design_dark_default_color_surface = global::RemindRx.Droid.Resource.Color.design_dark_default_color_surface;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_background = global::RemindRx.Droid.Resource.Color.design_default_color_background;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_error = global::RemindRx.Droid.Resource.Color.design_default_color_error;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_on_background = global::RemindRx.Droid.Resource.Color.design_default_color_on_background;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_on_error = global::RemindRx.Droid.Resource.Color.design_default_color_on_error;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_on_primary = global::RemindRx.Droid.Resource.Color.design_default_color_on_primary;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_on_secondary = global::RemindRx.Droid.Resource.Color.design_default_color_on_secondary;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_on_surface = global::RemindRx.Droid.Resource.Color.design_default_color_on_surface;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_primary = global::RemindRx.Droid.Resource.Color.design_default_color_primary;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_primary_dark = global::RemindRx.Droid.Resource.Color.design_default_color_primary_dark;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_primary_variant = global::RemindRx.Droid.Resource.Color.design_default_color_primary_variant;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_secondary = global::RemindRx.Droid.Resource.Color.design_default_color_secondary;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_secondary_variant = global::RemindRx.Droid.Resource.Color.design_default_color_secondary_variant;
+			global::Rg.Plugins.Popup.Resource.Color.design_default_color_surface = global::RemindRx.Droid.Resource.Color.design_default_color_surface;
+			global::Rg.Plugins.Popup.Resource.Color.design_error = global::RemindRx.Droid.Resource.Color.design_error;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_shadow_end_color = global::RemindRx.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_shadow_mid_color = global::RemindRx.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_shadow_start_color = global::RemindRx.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_stroke_end_inner_color = global::RemindRx.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_stroke_end_outer_color = global::RemindRx.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_stroke_top_inner_color = global::RemindRx.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_fab_stroke_top_outer_color = global::RemindRx.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Rg.Plugins.Popup.Resource.Color.design_icon_tint = global::RemindRx.Droid.Resource.Color.design_icon_tint;
+			global::Rg.Plugins.Popup.Resource.Color.design_snackbar_background_color = global::RemindRx.Droid.Resource.Color.design_snackbar_background_color;
+			global::Rg.Plugins.Popup.Resource.Color.dim_foreground_disabled_material_dark = global::RemindRx.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.dim_foreground_disabled_material_light = global::RemindRx.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.dim_foreground_material_dark = global::RemindRx.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.dim_foreground_material_light = global::RemindRx.Droid.Resource.Color.dim_foreground_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.error_color_material_dark = global::RemindRx.Droid.Resource.Color.error_color_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.error_color_material_light = global::RemindRx.Droid.Resource.Color.error_color_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.foreground_material_dark = global::RemindRx.Droid.Resource.Color.foreground_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.foreground_material_light = global::RemindRx.Droid.Resource.Color.foreground_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.highlighted_text_material_dark = global::RemindRx.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.highlighted_text_material_light = global::RemindRx.Droid.Resource.Color.highlighted_text_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.material_blue_grey_800 = global::RemindRx.Droid.Resource.Color.material_blue_grey_800;
+			global::Rg.Plugins.Popup.Resource.Color.material_blue_grey_900 = global::RemindRx.Droid.Resource.Color.material_blue_grey_900;
+			global::Rg.Plugins.Popup.Resource.Color.material_blue_grey_950 = global::RemindRx.Droid.Resource.Color.material_blue_grey_950;
+			global::Rg.Plugins.Popup.Resource.Color.material_deep_teal_200 = global::RemindRx.Droid.Resource.Color.material_deep_teal_200;
+			global::Rg.Plugins.Popup.Resource.Color.material_deep_teal_500 = global::RemindRx.Droid.Resource.Color.material_deep_teal_500;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_100 = global::RemindRx.Droid.Resource.Color.material_grey_100;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_300 = global::RemindRx.Droid.Resource.Color.material_grey_300;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_50 = global::RemindRx.Droid.Resource.Color.material_grey_50;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_600 = global::RemindRx.Droid.Resource.Color.material_grey_600;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_800 = global::RemindRx.Droid.Resource.Color.material_grey_800;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_850 = global::RemindRx.Droid.Resource.Color.material_grey_850;
+			global::Rg.Plugins.Popup.Resource.Color.material_grey_900 = global::RemindRx.Droid.Resource.Color.material_grey_900;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_background_disabled = global::RemindRx.Droid.Resource.Color.material_on_background_disabled;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_background_emphasis_high_type = global::RemindRx.Droid.Resource.Color.material_on_background_emphasis_high_type;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_background_emphasis_medium = global::RemindRx.Droid.Resource.Color.material_on_background_emphasis_medium;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_primary_disabled = global::RemindRx.Droid.Resource.Color.material_on_primary_disabled;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_primary_emphasis_high_type = global::RemindRx.Droid.Resource.Color.material_on_primary_emphasis_high_type;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_primary_emphasis_medium = global::RemindRx.Droid.Resource.Color.material_on_primary_emphasis_medium;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_surface_disabled = global::RemindRx.Droid.Resource.Color.material_on_surface_disabled;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_surface_emphasis_high_type = global::RemindRx.Droid.Resource.Color.material_on_surface_emphasis_high_type;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_surface_emphasis_medium = global::RemindRx.Droid.Resource.Color.material_on_surface_emphasis_medium;
+			global::Rg.Plugins.Popup.Resource.Color.material_on_surface_stroke = global::RemindRx.Droid.Resource.Color.material_on_surface_stroke;
+			global::Rg.Plugins.Popup.Resource.Color.material_slider_active_tick_marks_color = global::RemindRx.Droid.Resource.Color.material_slider_active_tick_marks_color;
+			global::Rg.Plugins.Popup.Resource.Color.material_slider_active_track_color = global::RemindRx.Droid.Resource.Color.material_slider_active_track_color;
+			global::Rg.Plugins.Popup.Resource.Color.material_slider_halo_color = global::RemindRx.Droid.Resource.Color.material_slider_halo_color;
+			global::Rg.Plugins.Popup.Resource.Color.material_slider_inactive_tick_marks_color = global::RemindRx.Droid.Resource.Color.material_slider_inactive_tick_marks_color;
+			global::Rg.Plugins.Popup.Resource.Color.material_slider_inactive_track_color = global::RemindRx.Droid.Resource.Color.material_slider_inactive_track_color;
+			global::Rg.Plugins.Popup.Resource.Color.material_slider_thumb_color = global::RemindRx.Droid.Resource.Color.material_slider_thumb_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_bg_color_selector = global::RemindRx.Droid.Resource.Color.mtrl_btn_bg_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_ripple_color = global::RemindRx.Droid.Resource.Color.mtrl_btn_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_stroke_color_selector = global::RemindRx.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_text_btn_bg_color_selector = global::RemindRx.Droid.Resource.Color.mtrl_btn_text_btn_bg_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_text_btn_ripple_color = global::RemindRx.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_text_color_disabled = global::RemindRx.Droid.Resource.Color.mtrl_btn_text_color_disabled;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_text_color_selector = global::RemindRx.Droid.Resource.Color.mtrl_btn_text_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_btn_transparent_bg_color = global::RemindRx.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_calendar_item_stroke_color = global::RemindRx.Droid.Resource.Color.mtrl_calendar_item_stroke_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_calendar_selected_range = global::RemindRx.Droid.Resource.Color.mtrl_calendar_selected_range;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_card_view_foreground = global::RemindRx.Droid.Resource.Color.mtrl_card_view_foreground;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_card_view_ripple = global::RemindRx.Droid.Resource.Color.mtrl_card_view_ripple;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_chip_background_color = global::RemindRx.Droid.Resource.Color.mtrl_chip_background_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_chip_close_icon_tint = global::RemindRx.Droid.Resource.Color.mtrl_chip_close_icon_tint;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_chip_surface_color = global::RemindRx.Droid.Resource.Color.mtrl_chip_surface_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_chip_text_color = global::RemindRx.Droid.Resource.Color.mtrl_chip_text_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_choice_chip_background_color = global::RemindRx.Droid.Resource.Color.mtrl_choice_chip_background_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_choice_chip_ripple_color = global::RemindRx.Droid.Resource.Color.mtrl_choice_chip_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_choice_chip_text_color = global::RemindRx.Droid.Resource.Color.mtrl_choice_chip_text_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_error = global::RemindRx.Droid.Resource.Color.mtrl_error;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_fab_bg_color_selector = global::RemindRx.Droid.Resource.Color.mtrl_fab_bg_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_fab_icon_text_color_selector = global::RemindRx.Droid.Resource.Color.mtrl_fab_icon_text_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_fab_ripple_color = global::RemindRx.Droid.Resource.Color.mtrl_fab_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_filled_background_color = global::RemindRx.Droid.Resource.Color.mtrl_filled_background_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_filled_icon_tint = global::RemindRx.Droid.Resource.Color.mtrl_filled_icon_tint;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_filled_stroke_color = global::RemindRx.Droid.Resource.Color.mtrl_filled_stroke_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_indicator_text_color = global::RemindRx.Droid.Resource.Color.mtrl_indicator_text_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_navigation_item_background_color = global::RemindRx.Droid.Resource.Color.mtrl_navigation_item_background_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_navigation_item_icon_tint = global::RemindRx.Droid.Resource.Color.mtrl_navigation_item_icon_tint;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_navigation_item_text_color = global::RemindRx.Droid.Resource.Color.mtrl_navigation_item_text_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_on_primary_text_btn_text_color_selector = global::RemindRx.Droid.Resource.Color.mtrl_on_primary_text_btn_text_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_outlined_icon_tint = global::RemindRx.Droid.Resource.Color.mtrl_outlined_icon_tint;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_outlined_stroke_color = global::RemindRx.Droid.Resource.Color.mtrl_outlined_stroke_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_popupmenu_overlay_color = global::RemindRx.Droid.Resource.Color.mtrl_popupmenu_overlay_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_scrim_color = global::RemindRx.Droid.Resource.Color.mtrl_scrim_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_tabs_colored_ripple_color = global::RemindRx.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_tabs_icon_color_selector = global::RemindRx.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::RemindRx.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::RemindRx.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_tabs_ripple_color = global::RemindRx.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_textinput_default_box_stroke_color = global::RemindRx.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_textinput_disabled_color = global::RemindRx.Droid.Resource.Color.mtrl_textinput_disabled_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::RemindRx.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_textinput_focused_box_stroke_color = global::RemindRx.Droid.Resource.Color.mtrl_textinput_focused_box_stroke_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::RemindRx.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::Rg.Plugins.Popup.Resource.Color.mtrl_text_btn_text_color_selector = global::RemindRx.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::Rg.Plugins.Popup.Resource.Color.notification_action_color_filter = global::RemindRx.Droid.Resource.Color.notification_action_color_filter;
+			global::Rg.Plugins.Popup.Resource.Color.notification_icon_bg_color = global::RemindRx.Droid.Resource.Color.notification_icon_bg_color;
+			global::Rg.Plugins.Popup.Resource.Color.notification_material_background_media_default_color = global::RemindRx.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::Rg.Plugins.Popup.Resource.Color.primary_dark_material_dark = global::RemindRx.Droid.Resource.Color.primary_dark_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.primary_dark_material_light = global::RemindRx.Droid.Resource.Color.primary_dark_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.primary_material_dark = global::RemindRx.Droid.Resource.Color.primary_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.primary_material_light = global::RemindRx.Droid.Resource.Color.primary_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.primary_text_default_material_dark = global::RemindRx.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.primary_text_default_material_light = global::RemindRx.Droid.Resource.Color.primary_text_default_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.primary_text_disabled_material_dark = global::RemindRx.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.primary_text_disabled_material_light = global::RemindRx.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.radiobutton_themeable_attribute_color = global::RemindRx.Droid.Resource.Color.radiobutton_themeable_attribute_color;
+			global::Rg.Plugins.Popup.Resource.Color.ripple_material_dark = global::RemindRx.Droid.Resource.Color.ripple_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.ripple_material_light = global::RemindRx.Droid.Resource.Color.ripple_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.secondary_text_default_material_dark = global::RemindRx.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.secondary_text_default_material_light = global::RemindRx.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.secondary_text_disabled_material_dark = global::RemindRx.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.secondary_text_disabled_material_light = global::RemindRx.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_disabled_material_dark = global::RemindRx.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_disabled_material_light = global::RemindRx.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_material_dark = global::RemindRx.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_material_light = global::RemindRx.Droid.Resource.Color.switch_thumb_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_normal_material_dark = global::RemindRx.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Rg.Plugins.Popup.Resource.Color.switch_thumb_normal_material_light = global::RemindRx.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Rg.Plugins.Popup.Resource.Color.test_mtrl_calendar_day = global::RemindRx.Droid.Resource.Color.test_mtrl_calendar_day;
+			global::Rg.Plugins.Popup.Resource.Color.test_mtrl_calendar_day_selected = global::RemindRx.Droid.Resource.Color.test_mtrl_calendar_day_selected;
+			global::Rg.Plugins.Popup.Resource.Color.tooltip_background_dark = global::RemindRx.Droid.Resource.Color.tooltip_background_dark;
+			global::Rg.Plugins.Popup.Resource.Color.tooltip_background_light = global::RemindRx.Droid.Resource.Color.tooltip_background_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_content_inset_material = global::RemindRx.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::RemindRx.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_default_height_material = global::RemindRx.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_default_padding_end_material = global::RemindRx.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_default_padding_start_material = global::RemindRx.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_elevation_material = global::RemindRx.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::RemindRx.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::RemindRx.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::RemindRx.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_stacked_max_height = global::RemindRx.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::RemindRx.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::RemindRx.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::RemindRx.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_button_min_height_material = global::RemindRx.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_button_min_width_material = global::RemindRx.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_action_button_min_width_overflow_material = global::RemindRx.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_alert_dialog_button_bar_height = global::RemindRx.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_alert_dialog_button_dimen = global::RemindRx.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_button_inset_horizontal_material = global::RemindRx.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_button_inset_vertical_material = global::RemindRx.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_button_padding_horizontal_material = global::RemindRx.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_button_padding_vertical_material = global::RemindRx.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::RemindRx.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_config_prefDialogWidth = global::RemindRx.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_control_corner_material = global::RemindRx.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_control_inset_material = global::RemindRx.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_control_padding_material = global::RemindRx.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_corner_radius_material = global::RemindRx.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_fixed_height_major = global::RemindRx.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_fixed_height_minor = global::RemindRx.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_fixed_width_major = global::RemindRx.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_fixed_width_minor = global::RemindRx.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::RemindRx.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::RemindRx.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_min_width_major = global::RemindRx.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_min_width_minor = global::RemindRx.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_padding_material = global::RemindRx.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_padding_top_material = global::RemindRx.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dialog_title_divider_material = global::RemindRx.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_disabled_alpha_material_dark = global::RemindRx.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_disabled_alpha_material_light = global::RemindRx.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dropdownitem_icon_width = global::RemindRx.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dropdownitem_text_padding_left = global::RemindRx.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_dropdownitem_text_padding_right = global::RemindRx.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_edit_text_inset_bottom_material = global::RemindRx.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::RemindRx.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_edit_text_inset_top_material = global::RemindRx.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_floating_window_z = global::RemindRx.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_list_item_height_large_material = global::RemindRx.Droid.Resource.Dimension.abc_list_item_height_large_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_list_item_height_material = global::RemindRx.Droid.Resource.Dimension.abc_list_item_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_list_item_height_small_material = global::RemindRx.Droid.Resource.Dimension.abc_list_item_height_small_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_list_item_padding_horizontal_material = global::RemindRx.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_panel_menu_list_width = global::RemindRx.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_progress_bar_height_material = global::RemindRx.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_search_view_preferred_height = global::RemindRx.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_search_view_preferred_width = global::RemindRx.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_seekbar_track_background_height_material = global::RemindRx.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_seekbar_track_progress_height_material = global::RemindRx.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_select_dialog_padding_start_material = global::RemindRx.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_switch_padding = global::RemindRx.Droid.Resource.Dimension.abc_switch_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_body_1_material = global::RemindRx.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_body_2_material = global::RemindRx.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_button_material = global::RemindRx.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_caption_material = global::RemindRx.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_display_1_material = global::RemindRx.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_display_2_material = global::RemindRx.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_display_3_material = global::RemindRx.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_display_4_material = global::RemindRx.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_headline_material = global::RemindRx.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_large_material = global::RemindRx.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_medium_material = global::RemindRx.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_menu_header_material = global::RemindRx.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_menu_material = global::RemindRx.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_small_material = global::RemindRx.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_subhead_material = global::RemindRx.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::RemindRx.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_title_material = global::RemindRx.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.abc_text_size_title_material_toolbar = global::RemindRx.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Rg.Plugins.Popup.Resource.Dimension.action_bar_size = global::RemindRx.Droid.Resource.Dimension.action_bar_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.appcompat_dialog_background_inset = global::RemindRx.Droid.Resource.Dimension.appcompat_dialog_background_inset;
+			global::Rg.Plugins.Popup.Resource.Dimension.browser_actions_context_menu_max_width = global::RemindRx.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.browser_actions_context_menu_min_padding = global::RemindRx.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.cardview_compat_inset_shadow = global::RemindRx.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Rg.Plugins.Popup.Resource.Dimension.cardview_default_elevation = global::RemindRx.Droid.Resource.Dimension.cardview_default_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.cardview_default_radius = global::RemindRx.Droid.Resource.Dimension.cardview_default_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_button_inset_horizontal_material = global::RemindRx.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_button_inset_vertical_material = global::RemindRx.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_button_padding_horizontal_material = global::RemindRx.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_button_padding_vertical_material = global::RemindRx.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_control_corner_material = global::RemindRx.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_notification_large_icon_max_height = global::RemindRx.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.compat_notification_large_icon_max_width = global::RemindRx.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.default_dimension = global::RemindRx.Droid.Resource.Dimension.default_dimension;
+			global::Rg.Plugins.Popup.Resource.Dimension.def_drawer_elevation = global::RemindRx.Droid.Resource.Dimension.def_drawer_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_appbar_elevation = global::RemindRx.Droid.Resource.Dimension.design_appbar_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::RemindRx.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::RemindRx.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_active_text_size = global::RemindRx.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_elevation = global::RemindRx.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_height = global::RemindRx.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_icon_size = global::RemindRx.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_item_max_width = global::RemindRx.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_item_min_width = global::RemindRx.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_margin = global::RemindRx.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_shadow_height = global::RemindRx.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_navigation_text_size = global::RemindRx.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_sheet_elevation = global::RemindRx.Droid.Resource.Dimension.design_bottom_sheet_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_sheet_modal_elevation = global::RemindRx.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_bottom_sheet_peek_height_min = global::RemindRx.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_border_width = global::RemindRx.Droid.Resource.Dimension.design_fab_border_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_elevation = global::RemindRx.Droid.Resource.Dimension.design_fab_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_image_size = global::RemindRx.Droid.Resource.Dimension.design_fab_image_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_size_mini = global::RemindRx.Droid.Resource.Dimension.design_fab_size_mini;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_size_normal = global::RemindRx.Droid.Resource.Dimension.design_fab_size_normal;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_translation_z_hovered_focused = global::RemindRx.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_fab_translation_z_pressed = global::RemindRx.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_elevation = global::RemindRx.Droid.Resource.Dimension.design_navigation_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_icon_padding = global::RemindRx.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_icon_size = global::RemindRx.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_item_horizontal_padding = global::RemindRx.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_item_icon_padding = global::RemindRx.Droid.Resource.Dimension.design_navigation_item_icon_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_max_width = global::RemindRx.Droid.Resource.Dimension.design_navigation_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_padding_bottom = global::RemindRx.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_navigation_separator_vertical_padding = global::RemindRx.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_action_inline_max_width = global::RemindRx.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_action_text_color_alpha = global::RemindRx.Droid.Resource.Dimension.design_snackbar_action_text_color_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_background_corner_radius = global::RemindRx.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_elevation = global::RemindRx.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::RemindRx.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_max_width = global::RemindRx.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_min_width = global::RemindRx.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_padding_horizontal = global::RemindRx.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_padding_vertical = global::RemindRx.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::RemindRx.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_snackbar_text_size = global::RemindRx.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_tab_max_width = global::RemindRx.Droid.Resource.Dimension.design_tab_max_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_tab_scrollable_min_width = global::RemindRx.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_tab_text_size = global::RemindRx.Droid.Resource.Dimension.design_tab_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_tab_text_size_2line = global::RemindRx.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::Rg.Plugins.Popup.Resource.Dimension.design_textinput_caption_translate_y = global::RemindRx.Droid.Resource.Dimension.design_textinput_caption_translate_y;
+			global::Rg.Plugins.Popup.Resource.Dimension.disabled_alpha_material_dark = global::RemindRx.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Rg.Plugins.Popup.Resource.Dimension.disabled_alpha_material_light = global::RemindRx.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.fastscroll_default_thickness = global::RemindRx.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::Rg.Plugins.Popup.Resource.Dimension.fastscroll_margin = global::RemindRx.Droid.Resource.Dimension.fastscroll_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.fastscroll_minimum_range = global::RemindRx.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::Rg.Plugins.Popup.Resource.Dimension.highlight_alpha_material_colored = global::RemindRx.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Rg.Plugins.Popup.Resource.Dimension.highlight_alpha_material_dark = global::RemindRx.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Rg.Plugins.Popup.Resource.Dimension.highlight_alpha_material_light = global::RemindRx.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.hint_alpha_material_dark = global::RemindRx.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::Rg.Plugins.Popup.Resource.Dimension.hint_alpha_material_light = global::RemindRx.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.hint_pressed_alpha_material_dark = global::RemindRx.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Rg.Plugins.Popup.Resource.Dimension.hint_pressed_alpha_material_light = global::RemindRx.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Rg.Plugins.Popup.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::RemindRx.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Rg.Plugins.Popup.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::RemindRx.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Rg.Plugins.Popup.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::RemindRx.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Rg.Plugins.Popup.Resource.Dimension.material_emphasis_disabled = global::RemindRx.Droid.Resource.Dimension.material_emphasis_disabled;
+			global::Rg.Plugins.Popup.Resource.Dimension.material_emphasis_high_type = global::RemindRx.Droid.Resource.Dimension.material_emphasis_high_type;
+			global::Rg.Plugins.Popup.Resource.Dimension.material_emphasis_medium = global::RemindRx.Droid.Resource.Dimension.material_emphasis_medium;
+			global::Rg.Plugins.Popup.Resource.Dimension.material_text_view_test_line_height = global::RemindRx.Droid.Resource.Dimension.material_text_view_test_line_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.material_text_view_test_line_height_override = global::RemindRx.Droid.Resource.Dimension.material_text_view_test_line_height_override;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom = global::RemindRx.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_alert_dialog_background_inset_end = global::RemindRx.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_end;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_alert_dialog_background_inset_start = global::RemindRx.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_start;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_alert_dialog_background_inset_top = global::RemindRx.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_alert_dialog_picker_background_inset = global::RemindRx.Droid.Resource.Dimension.mtrl_alert_dialog_picker_background_inset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_badge_horizontal_edge_offset = global::RemindRx.Droid.Resource.Dimension.mtrl_badge_horizontal_edge_offset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_badge_long_text_horizontal_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_badge_long_text_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_badge_radius = global::RemindRx.Droid.Resource.Dimension.mtrl_badge_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset = global::RemindRx.Droid.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_badge_text_size = global::RemindRx.Droid.Resource.Dimension.mtrl_badge_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_badge_with_text_radius = global::RemindRx.Droid.Resource.Dimension.mtrl_badge_with_text_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::RemindRx.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin = global::RemindRx.Droid.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::RemindRx.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::RemindRx.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::RemindRx.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_bottomappbar_height = global::RemindRx.Droid.Resource.Dimension.mtrl_bottomappbar_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_corner_radius = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_disabled_elevation = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_disabled_z = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_disabled_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_elevation = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_focused_z = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_focused_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_hovered_z = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_hovered_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_icon_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_icon_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_inset = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_inset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_letter_spacing = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_padding_bottom = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_padding_left = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_padding_left;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_padding_right = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_padding_right;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_padding_top = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_padding_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_pressed_z = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_pressed_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_stroke_size = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_stroke_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_text_size = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_btn_z = global::RemindRx.Droid.Resource.Dimension.mtrl_btn_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_action_height = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_action_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_action_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_action_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_bottom_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_bottom_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_content_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_content_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_days_of_week_height = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_days_of_week_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_day_corner = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_day_corner;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_day_height = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_day_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_day_horizontal_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_day_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_day_today_stroke = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_day_today_stroke;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_day_vertical_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_day_vertical_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_day_width = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_day_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_dialog_background_inset = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_dialog_background_inset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_content_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_header_content_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_divider_thickness = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_header_divider_thickness;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_height = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_header_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_height_fullscreen = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_header_height_fullscreen;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_selection_line_height = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_header_selection_line_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_text_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_header_text_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_header_toggle_margin_top = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_landscape_header_width = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_landscape_header_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_month_horizontal_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_month_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_month_vertical_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_month_vertical_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_navigation_bottom_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_navigation_bottom_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_navigation_height = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_navigation_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_navigation_top_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_navigation_top_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_text_input_padding_top = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_text_input_padding_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_title_baseline_to_top = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_year_corner = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_year_corner;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_year_height = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_year_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_year_horizontal_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_year_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_year_vertical_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_year_vertical_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_calendar_year_width = global::RemindRx.Droid.Resource.Dimension.mtrl_calendar_year_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_card_checked_icon_margin = global::RemindRx.Droid.Resource.Dimension.mtrl_card_checked_icon_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_card_checked_icon_size = global::RemindRx.Droid.Resource.Dimension.mtrl_card_checked_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_card_corner_radius = global::RemindRx.Droid.Resource.Dimension.mtrl_card_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_card_dragged_z = global::RemindRx.Droid.Resource.Dimension.mtrl_card_dragged_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_card_elevation = global::RemindRx.Droid.Resource.Dimension.mtrl_card_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_card_spacing = global::RemindRx.Droid.Resource.Dimension.mtrl_card_spacing;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_chip_pressed_translation_z = global::RemindRx.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_chip_text_size = global::RemindRx.Droid.Resource.Dimension.mtrl_chip_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_edittext_rectangle_top_offset = global::RemindRx.Droid.Resource.Dimension.mtrl_edittext_rectangle_top_offset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation = global::RemindRx.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset = global::RemindRx.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_bottom_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_bottom_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_corner_radius = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_disabled_elevation = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_disabled_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_disabled_translation_z = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_disabled_translation_z;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_elevation = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_end_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_end_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_end_padding_icon = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_end_padding_icon;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_icon_size = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_icon_text_spacing = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_icon_text_spacing;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_min_height = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_min_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_min_width = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_min_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_start_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_start_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_start_padding_icon = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_start_padding_icon;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_top_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_top_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_translation_z_base = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_base;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_extended_fab_translation_z_pressed = global::RemindRx.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_pressed;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_fab_elevation = global::RemindRx.Droid.Resource.Dimension.mtrl_fab_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_fab_min_touch_target = global::RemindRx.Droid.Resource.Dimension.mtrl_fab_min_touch_target;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::RemindRx.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_fab_translation_z_pressed = global::RemindRx.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_high_ripple_default_alpha = global::RemindRx.Droid.Resource.Dimension.mtrl_high_ripple_default_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_high_ripple_focused_alpha = global::RemindRx.Droid.Resource.Dimension.mtrl_high_ripple_focused_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_high_ripple_hovered_alpha = global::RemindRx.Droid.Resource.Dimension.mtrl_high_ripple_hovered_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_high_ripple_pressed_alpha = global::RemindRx.Droid.Resource.Dimension.mtrl_high_ripple_pressed_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_large_touch_target = global::RemindRx.Droid.Resource.Dimension.mtrl_large_touch_target;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_low_ripple_default_alpha = global::RemindRx.Droid.Resource.Dimension.mtrl_low_ripple_default_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_low_ripple_focused_alpha = global::RemindRx.Droid.Resource.Dimension.mtrl_low_ripple_focused_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_low_ripple_hovered_alpha = global::RemindRx.Droid.Resource.Dimension.mtrl_low_ripple_hovered_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_low_ripple_pressed_alpha = global::RemindRx.Droid.Resource.Dimension.mtrl_low_ripple_pressed_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_min_touch_target_size = global::RemindRx.Droid.Resource.Dimension.mtrl_min_touch_target_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_navigation_elevation = global::RemindRx.Droid.Resource.Dimension.mtrl_navigation_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_navigation_item_icon_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_navigation_item_icon_size = global::RemindRx.Droid.Resource.Dimension.mtrl_navigation_item_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin = global::RemindRx.Droid.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin = global::RemindRx.Droid.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_shape_corner_size_large_component = global::RemindRx.Droid.Resource.Dimension.mtrl_shape_corner_size_large_component;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_shape_corner_size_medium_component = global::RemindRx.Droid.Resource.Dimension.mtrl_shape_corner_size_medium_component;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_shape_corner_size_small_component = global::RemindRx.Droid.Resource.Dimension.mtrl_shape_corner_size_small_component;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_halo_radius = global::RemindRx.Droid.Resource.Dimension.mtrl_slider_halo_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_label_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_slider_label_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_label_radius = global::RemindRx.Droid.Resource.Dimension.mtrl_slider_label_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_label_square_side = global::RemindRx.Droid.Resource.Dimension.mtrl_slider_label_square_side;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_thumb_elevation = global::RemindRx.Droid.Resource.Dimension.mtrl_slider_thumb_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_thumb_radius = global::RemindRx.Droid.Resource.Dimension.mtrl_slider_thumb_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_track_height = global::RemindRx.Droid.Resource.Dimension.mtrl_slider_track_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_track_side_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_slider_track_side_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_track_top = global::RemindRx.Droid.Resource.Dimension.mtrl_slider_track_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_slider_widget_height = global::RemindRx.Droid.Resource.Dimension.mtrl_slider_widget_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_snackbar_action_text_color_alpha = global::RemindRx.Droid.Resource.Dimension.mtrl_snackbar_action_text_color_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::RemindRx.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha = global::RemindRx.Droid.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_snackbar_margin = global::RemindRx.Droid.Resource.Dimension.mtrl_snackbar_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_switch_thumb_elevation = global::RemindRx.Droid.Resource.Dimension.mtrl_switch_thumb_elevation;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::RemindRx.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::RemindRx.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::RemindRx.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::RemindRx.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_counter_margin_start = global::RemindRx.Droid.Resource.Dimension.mtrl_textinput_counter_margin_start;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_end_icon_margin_start = global::RemindRx.Droid.Resource.Dimension.mtrl_textinput_end_icon_margin_start;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_textinput_start_icon_margin_end = global::RemindRx.Droid.Resource.Dimension.mtrl_textinput_start_icon_margin_end;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_toolbar_default_height = global::RemindRx.Droid.Resource.Dimension.mtrl_toolbar_default_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_tooltip_arrowSize = global::RemindRx.Droid.Resource.Dimension.mtrl_tooltip_arrowSize;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_tooltip_cornerSize = global::RemindRx.Droid.Resource.Dimension.mtrl_tooltip_cornerSize;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_tooltip_minHeight = global::RemindRx.Droid.Resource.Dimension.mtrl_tooltip_minHeight;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_tooltip_minWidth = global::RemindRx.Droid.Resource.Dimension.mtrl_tooltip_minWidth;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_tooltip_padding = global::RemindRx.Droid.Resource.Dimension.mtrl_tooltip_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.mtrl_transition_shared_axis_slide_distance = global::RemindRx.Droid.Resource.Dimension.mtrl_transition_shared_axis_slide_distance;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_action_icon_size = global::RemindRx.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_action_text_size = global::RemindRx.Droid.Resource.Dimension.notification_action_text_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_big_circle_margin = global::RemindRx.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_content_margin_start = global::RemindRx.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_large_icon_height = global::RemindRx.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_large_icon_width = global::RemindRx.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_main_column_padding_top = global::RemindRx.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_media_narrow_margin = global::RemindRx.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_right_icon_size = global::RemindRx.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_right_side_padding_top = global::RemindRx.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_small_icon_background_padding = global::RemindRx.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_small_icon_size_as_large = global::RemindRx.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_subtext_size = global::RemindRx.Droid.Resource.Dimension.notification_subtext_size;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_top_pad = global::RemindRx.Droid.Resource.Dimension.notification_top_pad;
+			global::Rg.Plugins.Popup.Resource.Dimension.notification_top_pad_large_text = global::RemindRx.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Rg.Plugins.Popup.Resource.Dimension.test_mtrl_calendar_day_cornerSize = global::RemindRx.Droid.Resource.Dimension.test_mtrl_calendar_day_cornerSize;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_corner_radius = global::RemindRx.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_horizontal_padding = global::RemindRx.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_margin = global::RemindRx.Droid.Resource.Dimension.tooltip_margin;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::RemindRx.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_precise_anchor_threshold = global::RemindRx.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_vertical_padding = global::RemindRx.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_y_offset_non_touch = global::RemindRx.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Rg.Plugins.Popup.Resource.Dimension.tooltip_y_offset_touch = global::RemindRx.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::RemindRx.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_action_bar_item_background_material = global::RemindRx.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_borderless_material = global::RemindRx.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_check_material = global::RemindRx.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_check_material_anim = global::RemindRx.Droid.Resource.Drawable.abc_btn_check_material_anim;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::RemindRx.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::RemindRx.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_colored_material = global::RemindRx.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_default_mtrl_shape = global::RemindRx.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_radio_material = global::RemindRx.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_radio_material_anim = global::RemindRx.Droid.Resource.Drawable.abc_btn_radio_material_anim;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::RemindRx.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::RemindRx.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::RemindRx.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::RemindRx.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_cab_background_internal_bg = global::RemindRx.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_cab_background_top_material = global::RemindRx.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::RemindRx.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_control_background_material = global::RemindRx.Droid.Resource.Drawable.abc_control_background_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_dialog_material_background = global::RemindRx.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_edit_text_material = global::RemindRx.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_ab_back_material = global::RemindRx.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::RemindRx.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_clear_material = global::RemindRx.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::RemindRx.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_go_search_api_material = global::RemindRx.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::RemindRx.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::RemindRx.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_overflow_material = global::RemindRx.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::RemindRx.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::RemindRx.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::RemindRx.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_search_api_material = global::RemindRx.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ic_voice_search_api_material = global::RemindRx.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_item_background_holo_dark = global::RemindRx.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_item_background_holo_light = global::RemindRx.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_divider_material = global::RemindRx.Droid.Resource.Drawable.abc_list_divider_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_divider_mtrl_alpha = global::RemindRx.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_focused_holo = global::RemindRx.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_longpressed_holo = global::RemindRx.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_pressed_holo_dark = global::RemindRx.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_pressed_holo_light = global::RemindRx.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::RemindRx.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::RemindRx.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::RemindRx.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_disabled_holo_light = global::RemindRx.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_holo_dark = global::RemindRx.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_list_selector_holo_light = global::RemindRx.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::RemindRx.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_popup_background_mtrl_mult = global::RemindRx.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ratingbar_indicator_material = global::RemindRx.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ratingbar_material = global::RemindRx.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_ratingbar_small_material = global::RemindRx.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::RemindRx.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::RemindRx.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::RemindRx.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::RemindRx.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::RemindRx.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_seekbar_thumb_material = global::RemindRx.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_seekbar_tick_mark_material = global::RemindRx.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_seekbar_track_material = global::RemindRx.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::RemindRx.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_spinner_textfield_background_material = global::RemindRx.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_switch_thumb_material = global::RemindRx.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_switch_track_mtrl_alpha = global::RemindRx.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_tab_indicator_material = global::RemindRx.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::RemindRx.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::RemindRx.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::RemindRx.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::RemindRx.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::RemindRx.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_textfield_search_material = global::RemindRx.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_text_cursor_material = global::RemindRx.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Rg.Plugins.Popup.Resource.Drawable.abc_vector_test = global::RemindRx.Droid.Resource.Drawable.abc_vector_test;
+			global::Rg.Plugins.Popup.Resource.Drawable.avd_hide_password = global::RemindRx.Droid.Resource.Drawable.avd_hide_password;
+			global::Rg.Plugins.Popup.Resource.Drawable.avd_show_password = global::RemindRx.Droid.Resource.Drawable.avd_show_password;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_checkbox_checked_mtrl = global::RemindRx.Droid.Resource.Drawable.btn_checkbox_checked_mtrl;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::RemindRx.Droid.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::RemindRx.Droid.Resource.Drawable.btn_checkbox_unchecked_mtrl;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::RemindRx.Droid.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_radio_off_mtrl = global::RemindRx.Droid.Resource.Drawable.btn_radio_off_mtrl;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::RemindRx.Droid.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_radio_on_mtrl = global::RemindRx.Droid.Resource.Drawable.btn_radio_on_mtrl;
+			global::Rg.Plugins.Popup.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::RemindRx.Droid.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
+			global::Rg.Plugins.Popup.Resource.Drawable.design_fab_background = global::RemindRx.Droid.Resource.Drawable.design_fab_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.design_ic_visibility = global::RemindRx.Droid.Resource.Drawable.design_ic_visibility;
+			global::Rg.Plugins.Popup.Resource.Drawable.design_ic_visibility_off = global::RemindRx.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::Rg.Plugins.Popup.Resource.Drawable.design_password_eye = global::RemindRx.Droid.Resource.Drawable.design_password_eye;
+			global::Rg.Plugins.Popup.Resource.Drawable.design_snackbar_background = global::RemindRx.Droid.Resource.Drawable.design_snackbar_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.ic_mtrl_checked_circle = global::RemindRx.Droid.Resource.Drawable.ic_mtrl_checked_circle;
+			global::Rg.Plugins.Popup.Resource.Drawable.ic_mtrl_chip_checked_black = global::RemindRx.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::Rg.Plugins.Popup.Resource.Drawable.ic_mtrl_chip_checked_circle = global::RemindRx.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::Rg.Plugins.Popup.Resource.Drawable.ic_mtrl_chip_close_circle = global::RemindRx.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::Rg.Plugins.Popup.Resource.Drawable.material_ic_calendar_black_24dp = global::RemindRx.Droid.Resource.Drawable.material_ic_calendar_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.material_ic_clear_black_24dp = global::RemindRx.Droid.Resource.Drawable.material_ic_clear_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.material_ic_edit_black_24dp = global::RemindRx.Droid.Resource.Drawable.material_ic_edit_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.material_ic_keyboard_arrow_left_black_24dp = global::RemindRx.Droid.Resource.Drawable.material_ic_keyboard_arrow_left_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.material_ic_keyboard_arrow_right_black_24dp = global::RemindRx.Droid.Resource.Drawable.material_ic_keyboard_arrow_right_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.material_ic_menu_arrow_down_black_24dp = global::RemindRx.Droid.Resource.Drawable.material_ic_menu_arrow_down_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.material_ic_menu_arrow_up_black_24dp = global::RemindRx.Droid.Resource.Drawable.material_ic_menu_arrow_up_black_24dp;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_dialog_background = global::RemindRx.Droid.Resource.Drawable.mtrl_dialog_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_dropdown_arrow = global::RemindRx.Droid.Resource.Drawable.mtrl_dropdown_arrow;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_ic_arrow_drop_down = global::RemindRx.Droid.Resource.Drawable.mtrl_ic_arrow_drop_down;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_ic_arrow_drop_up = global::RemindRx.Droid.Resource.Drawable.mtrl_ic_arrow_drop_up;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_ic_cancel = global::RemindRx.Droid.Resource.Drawable.mtrl_ic_cancel;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_ic_error = global::RemindRx.Droid.Resource.Drawable.mtrl_ic_error;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_popupmenu_background = global::RemindRx.Droid.Resource.Drawable.mtrl_popupmenu_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_popupmenu_background_dark = global::RemindRx.Droid.Resource.Drawable.mtrl_popupmenu_background_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.mtrl_tabs_default_indicator = global::RemindRx.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::Rg.Plugins.Popup.Resource.Drawable.navigation_empty_icon = global::RemindRx.Droid.Resource.Drawable.navigation_empty_icon;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_action_background = global::RemindRx.Droid.Resource.Drawable.notification_action_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg = global::RemindRx.Droid.Resource.Drawable.notification_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg_low = global::RemindRx.Droid.Resource.Drawable.notification_bg_low;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg_low_normal = global::RemindRx.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg_low_pressed = global::RemindRx.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg_normal = global::RemindRx.Droid.Resource.Drawable.notification_bg_normal;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_bg_normal_pressed = global::RemindRx.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_icon_background = global::RemindRx.Droid.Resource.Drawable.notification_icon_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_template_icon_bg = global::RemindRx.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_template_icon_low_bg = global::RemindRx.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.notification_tile_bg = global::RemindRx.Droid.Resource.Drawable.notification_tile_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.notify_panel_notification_icon_bg = global::RemindRx.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Rg.Plugins.Popup.Resource.Drawable.test_custom_background = global::RemindRx.Droid.Resource.Drawable.test_custom_background;
+			global::Rg.Plugins.Popup.Resource.Drawable.tooltip_frame_dark = global::RemindRx.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::Rg.Plugins.Popup.Resource.Drawable.tooltip_frame_light = global::RemindRx.Droid.Resource.Drawable.tooltip_frame_light;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_action_clickable_span = global::RemindRx.Droid.Resource.Id.accessibility_action_clickable_span;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_0 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_0;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_1 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_1;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_10 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_10;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_11 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_11;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_12 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_12;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_13 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_13;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_14 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_14;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_15 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_15;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_16 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_16;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_17 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_17;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_18 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_18;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_19 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_19;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_2 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_2;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_20 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_20;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_21 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_21;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_22 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_22;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_23 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_23;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_24 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_24;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_25 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_25;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_26 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_26;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_27 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_27;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_28 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_28;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_29 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_29;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_3 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_3;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_30 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_30;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_31 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_31;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_4 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_4;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_5 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_5;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_6 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_6;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_7 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_7;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_8 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_8;
+			global::Rg.Plugins.Popup.Resource.Id.accessibility_custom_action_9 = global::RemindRx.Droid.Resource.Id.accessibility_custom_action_9;
+			global::Rg.Plugins.Popup.Resource.Id.action0 = global::RemindRx.Droid.Resource.Id.action0;
+			global::Rg.Plugins.Popup.Resource.Id.actions = global::RemindRx.Droid.Resource.Id.actions;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar = global::RemindRx.Droid.Resource.Id.action_bar;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_activity_content = global::RemindRx.Droid.Resource.Id.action_bar_activity_content;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_container = global::RemindRx.Droid.Resource.Id.action_bar_container;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_root = global::RemindRx.Droid.Resource.Id.action_bar_root;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_spinner = global::RemindRx.Droid.Resource.Id.action_bar_spinner;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_subtitle = global::RemindRx.Droid.Resource.Id.action_bar_subtitle;
+			global::Rg.Plugins.Popup.Resource.Id.action_bar_title = global::RemindRx.Droid.Resource.Id.action_bar_title;
+			global::Rg.Plugins.Popup.Resource.Id.action_container = global::RemindRx.Droid.Resource.Id.action_container;
+			global::Rg.Plugins.Popup.Resource.Id.action_context_bar = global::RemindRx.Droid.Resource.Id.action_context_bar;
+			global::Rg.Plugins.Popup.Resource.Id.action_divider = global::RemindRx.Droid.Resource.Id.action_divider;
+			global::Rg.Plugins.Popup.Resource.Id.action_image = global::RemindRx.Droid.Resource.Id.action_image;
+			global::Rg.Plugins.Popup.Resource.Id.action_menu_divider = global::RemindRx.Droid.Resource.Id.action_menu_divider;
+			global::Rg.Plugins.Popup.Resource.Id.action_menu_presenter = global::RemindRx.Droid.Resource.Id.action_menu_presenter;
+			global::Rg.Plugins.Popup.Resource.Id.action_mode_bar = global::RemindRx.Droid.Resource.Id.action_mode_bar;
+			global::Rg.Plugins.Popup.Resource.Id.action_mode_bar_stub = global::RemindRx.Droid.Resource.Id.action_mode_bar_stub;
+			global::Rg.Plugins.Popup.Resource.Id.action_mode_close_button = global::RemindRx.Droid.Resource.Id.action_mode_close_button;
+			global::Rg.Plugins.Popup.Resource.Id.action_text = global::RemindRx.Droid.Resource.Id.action_text;
+			global::Rg.Plugins.Popup.Resource.Id.activity_chooser_view_content = global::RemindRx.Droid.Resource.Id.activity_chooser_view_content;
+			global::Rg.Plugins.Popup.Resource.Id.add = global::RemindRx.Droid.Resource.Id.add;
+			global::Rg.Plugins.Popup.Resource.Id.alertTitle = global::RemindRx.Droid.Resource.Id.alertTitle;
+			global::Rg.Plugins.Popup.Resource.Id.all = global::RemindRx.Droid.Resource.Id.all;
+			global::Rg.Plugins.Popup.Resource.Id.ALT = global::RemindRx.Droid.Resource.Id.ALT;
+			global::Rg.Plugins.Popup.Resource.Id.always = global::RemindRx.Droid.Resource.Id.always;
+			global::Rg.Plugins.Popup.Resource.Id.async = global::RemindRx.Droid.Resource.Id.async;
+			global::Rg.Plugins.Popup.Resource.Id.auto = global::RemindRx.Droid.Resource.Id.auto;
+			global::Rg.Plugins.Popup.Resource.Id.beginning = global::RemindRx.Droid.Resource.Id.beginning;
+			global::Rg.Plugins.Popup.Resource.Id.blocking = global::RemindRx.Droid.Resource.Id.blocking;
+			global::Rg.Plugins.Popup.Resource.Id.bottom = global::RemindRx.Droid.Resource.Id.bottom;
+			global::Rg.Plugins.Popup.Resource.Id.bottomtab_navarea = global::RemindRx.Droid.Resource.Id.bottomtab_navarea;
+			global::Rg.Plugins.Popup.Resource.Id.bottomtab_tabbar = global::RemindRx.Droid.Resource.Id.bottomtab_tabbar;
+			global::Rg.Plugins.Popup.Resource.Id.BOTTOM_END = global::RemindRx.Droid.Resource.Id.BOTTOM_END;
+			global::Rg.Plugins.Popup.Resource.Id.BOTTOM_START = global::RemindRx.Droid.Resource.Id.BOTTOM_START;
+			global::Rg.Plugins.Popup.Resource.Id.browser_actions_header_text = global::RemindRx.Droid.Resource.Id.browser_actions_header_text;
+			global::Rg.Plugins.Popup.Resource.Id.browser_actions_menu_items = global::RemindRx.Droid.Resource.Id.browser_actions_menu_items;
+			global::Rg.Plugins.Popup.Resource.Id.browser_actions_menu_item_icon = global::RemindRx.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::Rg.Plugins.Popup.Resource.Id.browser_actions_menu_item_text = global::RemindRx.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::Rg.Plugins.Popup.Resource.Id.browser_actions_menu_view = global::RemindRx.Droid.Resource.Id.browser_actions_menu_view;
+			global::Rg.Plugins.Popup.Resource.Id.buttonPanel = global::RemindRx.Droid.Resource.Id.buttonPanel;
+			global::Rg.Plugins.Popup.Resource.Id.cancel_action = global::RemindRx.Droid.Resource.Id.cancel_action;
+			global::Rg.Plugins.Popup.Resource.Id.cancel_button = global::RemindRx.Droid.Resource.Id.cancel_button;
+			global::Rg.Plugins.Popup.Resource.Id.center = global::RemindRx.Droid.Resource.Id.center;
+			global::Rg.Plugins.Popup.Resource.Id.center_horizontal = global::RemindRx.Droid.Resource.Id.center_horizontal;
+			global::Rg.Plugins.Popup.Resource.Id.center_vertical = global::RemindRx.Droid.Resource.Id.center_vertical;
+			global::Rg.Plugins.Popup.Resource.Id.checkbox = global::RemindRx.Droid.Resource.Id.checkbox;
+			global::Rg.Plugins.Popup.Resource.Id.@checked = global::RemindRx.Droid.Resource.Id.@checked;
+			global::Rg.Plugins.Popup.Resource.Id.chip = global::RemindRx.Droid.Resource.Id.chip;
+			global::Rg.Plugins.Popup.Resource.Id.chip1 = global::RemindRx.Droid.Resource.Id.chip1;
+			global::Rg.Plugins.Popup.Resource.Id.chip2 = global::RemindRx.Droid.Resource.Id.chip2;
+			global::Rg.Plugins.Popup.Resource.Id.chip3 = global::RemindRx.Droid.Resource.Id.chip3;
+			global::Rg.Plugins.Popup.Resource.Id.chip_group = global::RemindRx.Droid.Resource.Id.chip_group;
+			global::Rg.Plugins.Popup.Resource.Id.chronometer = global::RemindRx.Droid.Resource.Id.chronometer;
+			global::Rg.Plugins.Popup.Resource.Id.clear_text = global::RemindRx.Droid.Resource.Id.clear_text;
+			global::Rg.Plugins.Popup.Resource.Id.clip_horizontal = global::RemindRx.Droid.Resource.Id.clip_horizontal;
+			global::Rg.Plugins.Popup.Resource.Id.clip_vertical = global::RemindRx.Droid.Resource.Id.clip_vertical;
+			global::Rg.Plugins.Popup.Resource.Id.collapseActionView = global::RemindRx.Droid.Resource.Id.collapseActionView;
+			global::Rg.Plugins.Popup.Resource.Id.confirm_button = global::RemindRx.Droid.Resource.Id.confirm_button;
+			global::Rg.Plugins.Popup.Resource.Id.container = global::RemindRx.Droid.Resource.Id.container;
+			global::Rg.Plugins.Popup.Resource.Id.content = global::RemindRx.Droid.Resource.Id.content;
+			global::Rg.Plugins.Popup.Resource.Id.contentPanel = global::RemindRx.Droid.Resource.Id.contentPanel;
+			global::Rg.Plugins.Popup.Resource.Id.coordinator = global::RemindRx.Droid.Resource.Id.coordinator;
+			global::Rg.Plugins.Popup.Resource.Id.CTRL = global::RemindRx.Droid.Resource.Id.CTRL;
+			global::Rg.Plugins.Popup.Resource.Id.custom = global::RemindRx.Droid.Resource.Id.custom;
+			global::Rg.Plugins.Popup.Resource.Id.customPanel = global::RemindRx.Droid.Resource.Id.customPanel;
+			global::Rg.Plugins.Popup.Resource.Id.cut = global::RemindRx.Droid.Resource.Id.cut;
+			global::Rg.Plugins.Popup.Resource.Id.date_picker_actions = global::RemindRx.Droid.Resource.Id.date_picker_actions;
+			global::Rg.Plugins.Popup.Resource.Id.decor_content_parent = global::RemindRx.Droid.Resource.Id.decor_content_parent;
+			global::Rg.Plugins.Popup.Resource.Id.default_activity_button = global::RemindRx.Droid.Resource.Id.default_activity_button;
+			global::Rg.Plugins.Popup.Resource.Id.design_bottom_sheet = global::RemindRx.Droid.Resource.Id.design_bottom_sheet;
+			global::Rg.Plugins.Popup.Resource.Id.design_menu_item_action_area = global::RemindRx.Droid.Resource.Id.design_menu_item_action_area;
+			global::Rg.Plugins.Popup.Resource.Id.design_menu_item_action_area_stub = global::RemindRx.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::Rg.Plugins.Popup.Resource.Id.design_menu_item_text = global::RemindRx.Droid.Resource.Id.design_menu_item_text;
+			global::Rg.Plugins.Popup.Resource.Id.design_navigation_view = global::RemindRx.Droid.Resource.Id.design_navigation_view;
+			global::Rg.Plugins.Popup.Resource.Id.dialog_button = global::RemindRx.Droid.Resource.Id.dialog_button;
+			global::Rg.Plugins.Popup.Resource.Id.disableHome = global::RemindRx.Droid.Resource.Id.disableHome;
+			global::Rg.Plugins.Popup.Resource.Id.dropdown_menu = global::RemindRx.Droid.Resource.Id.dropdown_menu;
+			global::Rg.Plugins.Popup.Resource.Id.edit_query = global::RemindRx.Droid.Resource.Id.edit_query;
+			global::Rg.Plugins.Popup.Resource.Id.end = global::RemindRx.Droid.Resource.Id.end;
+			global::Rg.Plugins.Popup.Resource.Id.end_padder = global::RemindRx.Droid.Resource.Id.end_padder;
+			global::Rg.Plugins.Popup.Resource.Id.enterAlways = global::RemindRx.Droid.Resource.Id.enterAlways;
+			global::Rg.Plugins.Popup.Resource.Id.enterAlwaysCollapsed = global::RemindRx.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::Rg.Plugins.Popup.Resource.Id.exitUntilCollapsed = global::RemindRx.Droid.Resource.Id.exitUntilCollapsed;
+			global::Rg.Plugins.Popup.Resource.Id.expanded_menu = global::RemindRx.Droid.Resource.Id.expanded_menu;
+			global::Rg.Plugins.Popup.Resource.Id.expand_activities_button = global::RemindRx.Droid.Resource.Id.expand_activities_button;
+			global::Rg.Plugins.Popup.Resource.Id.fade = global::RemindRx.Droid.Resource.Id.fade;
+			global::Rg.Plugins.Popup.Resource.Id.fill = global::RemindRx.Droid.Resource.Id.fill;
+			global::Rg.Plugins.Popup.Resource.Id.filled = global::RemindRx.Droid.Resource.Id.filled;
+			global::Rg.Plugins.Popup.Resource.Id.fill_horizontal = global::RemindRx.Droid.Resource.Id.fill_horizontal;
+			global::Rg.Plugins.Popup.Resource.Id.fill_vertical = global::RemindRx.Droid.Resource.Id.fill_vertical;
+			global::Rg.Plugins.Popup.Resource.Id.fitToContents = global::RemindRx.Droid.Resource.Id.fitToContents;
+			global::Rg.Plugins.Popup.Resource.Id.@fixed = global::RemindRx.Droid.Resource.Id.@fixed;
+			global::Rg.Plugins.Popup.Resource.Id.floating = global::RemindRx.Droid.Resource.Id.floating;
+			global::Rg.Plugins.Popup.Resource.Id.flyoutcontent_appbar = global::RemindRx.Droid.Resource.Id.flyoutcontent_appbar;
+			global::Rg.Plugins.Popup.Resource.Id.forever = global::RemindRx.Droid.Resource.Id.forever;
+			global::Rg.Plugins.Popup.Resource.Id.fragment_container_view_tag = global::RemindRx.Droid.Resource.Id.fragment_container_view_tag;
+			global::Rg.Plugins.Popup.Resource.Id.FUNCTION = global::RemindRx.Droid.Resource.Id.FUNCTION;
+			global::Rg.Plugins.Popup.Resource.Id.ghost_view = global::RemindRx.Droid.Resource.Id.ghost_view;
+			global::Rg.Plugins.Popup.Resource.Id.ghost_view_holder = global::RemindRx.Droid.Resource.Id.ghost_view_holder;
+			global::Rg.Plugins.Popup.Resource.Id.gone = global::RemindRx.Droid.Resource.Id.gone;
+			global::Rg.Plugins.Popup.Resource.Id.group_divider = global::RemindRx.Droid.Resource.Id.group_divider;
+			global::Rg.Plugins.Popup.Resource.Id.hideable = global::RemindRx.Droid.Resource.Id.hideable;
+			global::Rg.Plugins.Popup.Resource.Id.home = global::RemindRx.Droid.Resource.Id.home;
+			global::Rg.Plugins.Popup.Resource.Id.homeAsUp = global::RemindRx.Droid.Resource.Id.homeAsUp;
+			global::Rg.Plugins.Popup.Resource.Id.icon = global::RemindRx.Droid.Resource.Id.icon;
+			global::Rg.Plugins.Popup.Resource.Id.icon_group = global::RemindRx.Droid.Resource.Id.icon_group;
+			global::Rg.Plugins.Popup.Resource.Id.ifRoom = global::RemindRx.Droid.Resource.Id.ifRoom;
+			global::Rg.Plugins.Popup.Resource.Id.image = global::RemindRx.Droid.Resource.Id.image;
+			global::Rg.Plugins.Popup.Resource.Id.info = global::RemindRx.Droid.Resource.Id.info;
+			global::Rg.Plugins.Popup.Resource.Id.italic = global::RemindRx.Droid.Resource.Id.italic;
+			global::Rg.Plugins.Popup.Resource.Id.item_touch_helper_previous_elevation = global::RemindRx.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Rg.Plugins.Popup.Resource.Id.labeled = global::RemindRx.Droid.Resource.Id.labeled;
+			global::Rg.Plugins.Popup.Resource.Id.left = global::RemindRx.Droid.Resource.Id.left;
+			global::Rg.Plugins.Popup.Resource.Id.line1 = global::RemindRx.Droid.Resource.Id.line1;
+			global::Rg.Plugins.Popup.Resource.Id.line3 = global::RemindRx.Droid.Resource.Id.line3;
+			global::Rg.Plugins.Popup.Resource.Id.listMode = global::RemindRx.Droid.Resource.Id.listMode;
+			global::Rg.Plugins.Popup.Resource.Id.list_item = global::RemindRx.Droid.Resource.Id.list_item;
+			global::Rg.Plugins.Popup.Resource.Id.main_appbar = global::RemindRx.Droid.Resource.Id.main_appbar;
+			global::Rg.Plugins.Popup.Resource.Id.main_tablayout = global::RemindRx.Droid.Resource.Id.main_tablayout;
+			global::Rg.Plugins.Popup.Resource.Id.main_toolbar = global::RemindRx.Droid.Resource.Id.main_toolbar;
+			global::Rg.Plugins.Popup.Resource.Id.main_viewpager = global::RemindRx.Droid.Resource.Id.main_viewpager;
+			global::Rg.Plugins.Popup.Resource.Id.masked = global::RemindRx.Droid.Resource.Id.masked;
+			global::Rg.Plugins.Popup.Resource.Id.media_actions = global::RemindRx.Droid.Resource.Id.media_actions;
+			global::Rg.Plugins.Popup.Resource.Id.media_controller_compat_view_tag = global::RemindRx.Droid.Resource.Id.media_controller_compat_view_tag;
+			global::Rg.Plugins.Popup.Resource.Id.message = global::RemindRx.Droid.Resource.Id.message;
+			global::Rg.Plugins.Popup.Resource.Id.META = global::RemindRx.Droid.Resource.Id.META;
+			global::Rg.Plugins.Popup.Resource.Id.middle = global::RemindRx.Droid.Resource.Id.middle;
+			global::Rg.Plugins.Popup.Resource.Id.mini = global::RemindRx.Droid.Resource.Id.mini;
+			global::Rg.Plugins.Popup.Resource.Id.month_grid = global::RemindRx.Droid.Resource.Id.month_grid;
+			global::Rg.Plugins.Popup.Resource.Id.month_navigation_bar = global::RemindRx.Droid.Resource.Id.month_navigation_bar;
+			global::Rg.Plugins.Popup.Resource.Id.month_navigation_fragment_toggle = global::RemindRx.Droid.Resource.Id.month_navigation_fragment_toggle;
+			global::Rg.Plugins.Popup.Resource.Id.month_navigation_next = global::RemindRx.Droid.Resource.Id.month_navigation_next;
+			global::Rg.Plugins.Popup.Resource.Id.month_navigation_previous = global::RemindRx.Droid.Resource.Id.month_navigation_previous;
+			global::Rg.Plugins.Popup.Resource.Id.month_title = global::RemindRx.Droid.Resource.Id.month_title;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_calendar_days_of_week = global::RemindRx.Droid.Resource.Id.mtrl_calendar_days_of_week;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_calendar_day_selector_frame = global::RemindRx.Droid.Resource.Id.mtrl_calendar_day_selector_frame;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_calendar_frame = global::RemindRx.Droid.Resource.Id.mtrl_calendar_frame;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_calendar_main_pane = global::RemindRx.Droid.Resource.Id.mtrl_calendar_main_pane;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_calendar_months = global::RemindRx.Droid.Resource.Id.mtrl_calendar_months;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_calendar_selection_frame = global::RemindRx.Droid.Resource.Id.mtrl_calendar_selection_frame;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_calendar_text_input_frame = global::RemindRx.Droid.Resource.Id.mtrl_calendar_text_input_frame;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_calendar_year_selector_frame = global::RemindRx.Droid.Resource.Id.mtrl_calendar_year_selector_frame;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_card_checked_layer_id = global::RemindRx.Droid.Resource.Id.mtrl_card_checked_layer_id;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_child_content_container = global::RemindRx.Droid.Resource.Id.mtrl_child_content_container;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_internal_children_alpha_tag = global::RemindRx.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_motion_snapshot_view = global::RemindRx.Droid.Resource.Id.mtrl_motion_snapshot_view;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_fullscreen = global::RemindRx.Droid.Resource.Id.mtrl_picker_fullscreen;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_header = global::RemindRx.Droid.Resource.Id.mtrl_picker_header;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_header_selection_text = global::RemindRx.Droid.Resource.Id.mtrl_picker_header_selection_text;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_header_title_and_selection = global::RemindRx.Droid.Resource.Id.mtrl_picker_header_title_and_selection;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_header_toggle = global::RemindRx.Droid.Resource.Id.mtrl_picker_header_toggle;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_text_input_date = global::RemindRx.Droid.Resource.Id.mtrl_picker_text_input_date;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_text_input_range_end = global::RemindRx.Droid.Resource.Id.mtrl_picker_text_input_range_end;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_text_input_range_start = global::RemindRx.Droid.Resource.Id.mtrl_picker_text_input_range_start;
+			global::Rg.Plugins.Popup.Resource.Id.mtrl_picker_title_text = global::RemindRx.Droid.Resource.Id.mtrl_picker_title_text;
+			global::Rg.Plugins.Popup.Resource.Id.multiply = global::RemindRx.Droid.Resource.Id.multiply;
+			global::Rg.Plugins.Popup.Resource.Id.navigation_header_container = global::RemindRx.Droid.Resource.Id.navigation_header_container;
+			global::Rg.Plugins.Popup.Resource.Id.never = global::RemindRx.Droid.Resource.Id.never;
+			global::Rg.Plugins.Popup.Resource.Id.none = global::RemindRx.Droid.Resource.Id.none;
+			global::Rg.Plugins.Popup.Resource.Id.normal = global::RemindRx.Droid.Resource.Id.normal;
+			global::Rg.Plugins.Popup.Resource.Id.noScroll = global::RemindRx.Droid.Resource.Id.noScroll;
+			global::Rg.Plugins.Popup.Resource.Id.notification_background = global::RemindRx.Droid.Resource.Id.notification_background;
+			global::Rg.Plugins.Popup.Resource.Id.notification_main_column = global::RemindRx.Droid.Resource.Id.notification_main_column;
+			global::Rg.Plugins.Popup.Resource.Id.notification_main_column_container = global::RemindRx.Droid.Resource.Id.notification_main_column_container;
+			global::Rg.Plugins.Popup.Resource.Id.off = global::RemindRx.Droid.Resource.Id.off;
+			global::Rg.Plugins.Popup.Resource.Id.on = global::RemindRx.Droid.Resource.Id.on;
+			global::Rg.Plugins.Popup.Resource.Id.outline = global::RemindRx.Droid.Resource.Id.outline;
+			global::Rg.Plugins.Popup.Resource.Id.parallax = global::RemindRx.Droid.Resource.Id.parallax;
+			global::Rg.Plugins.Popup.Resource.Id.parentPanel = global::RemindRx.Droid.Resource.Id.parentPanel;
+			global::Rg.Plugins.Popup.Resource.Id.parent_matrix = global::RemindRx.Droid.Resource.Id.parent_matrix;
+			global::Rg.Plugins.Popup.Resource.Id.password_toggle = global::RemindRx.Droid.Resource.Id.password_toggle;
+			global::Rg.Plugins.Popup.Resource.Id.peekHeight = global::RemindRx.Droid.Resource.Id.peekHeight;
+			global::Rg.Plugins.Popup.Resource.Id.pin = global::RemindRx.Droid.Resource.Id.pin;
+			global::Rg.Plugins.Popup.Resource.Id.progress_circular = global::RemindRx.Droid.Resource.Id.progress_circular;
+			global::Rg.Plugins.Popup.Resource.Id.progress_horizontal = global::RemindRx.Droid.Resource.Id.progress_horizontal;
+			global::Rg.Plugins.Popup.Resource.Id.radio = global::RemindRx.Droid.Resource.Id.radio;
+			global::Rg.Plugins.Popup.Resource.Id.right = global::RemindRx.Droid.Resource.Id.right;
+			global::Rg.Plugins.Popup.Resource.Id.right_icon = global::RemindRx.Droid.Resource.Id.right_icon;
+			global::Rg.Plugins.Popup.Resource.Id.right_side = global::RemindRx.Droid.Resource.Id.right_side;
+			global::Rg.Plugins.Popup.Resource.Id.rounded = global::RemindRx.Droid.Resource.Id.rounded;
+			global::Rg.Plugins.Popup.Resource.Id.row_index_key = global::RemindRx.Droid.Resource.Id.row_index_key;
+			global::Rg.Plugins.Popup.Resource.Id.save_non_transition_alpha = global::RemindRx.Droid.Resource.Id.save_non_transition_alpha;
+			global::Rg.Plugins.Popup.Resource.Id.save_overlay_view = global::RemindRx.Droid.Resource.Id.save_overlay_view;
+			global::Rg.Plugins.Popup.Resource.Id.scale = global::RemindRx.Droid.Resource.Id.scale;
+			global::Rg.Plugins.Popup.Resource.Id.screen = global::RemindRx.Droid.Resource.Id.screen;
+			global::Rg.Plugins.Popup.Resource.Id.scroll = global::RemindRx.Droid.Resource.Id.scroll;
+			global::Rg.Plugins.Popup.Resource.Id.scrollable = global::RemindRx.Droid.Resource.Id.scrollable;
+			global::Rg.Plugins.Popup.Resource.Id.scrollIndicatorDown = global::RemindRx.Droid.Resource.Id.scrollIndicatorDown;
+			global::Rg.Plugins.Popup.Resource.Id.scrollIndicatorUp = global::RemindRx.Droid.Resource.Id.scrollIndicatorUp;
+			global::Rg.Plugins.Popup.Resource.Id.scrollView = global::RemindRx.Droid.Resource.Id.scrollView;
+			global::Rg.Plugins.Popup.Resource.Id.search_badge = global::RemindRx.Droid.Resource.Id.search_badge;
+			global::Rg.Plugins.Popup.Resource.Id.search_bar = global::RemindRx.Droid.Resource.Id.search_bar;
+			global::Rg.Plugins.Popup.Resource.Id.search_button = global::RemindRx.Droid.Resource.Id.search_button;
+			global::Rg.Plugins.Popup.Resource.Id.search_close_btn = global::RemindRx.Droid.Resource.Id.search_close_btn;
+			global::Rg.Plugins.Popup.Resource.Id.search_edit_frame = global::RemindRx.Droid.Resource.Id.search_edit_frame;
+			global::Rg.Plugins.Popup.Resource.Id.search_go_btn = global::RemindRx.Droid.Resource.Id.search_go_btn;
+			global::Rg.Plugins.Popup.Resource.Id.search_mag_icon = global::RemindRx.Droid.Resource.Id.search_mag_icon;
+			global::Rg.Plugins.Popup.Resource.Id.search_plate = global::RemindRx.Droid.Resource.Id.search_plate;
+			global::Rg.Plugins.Popup.Resource.Id.search_src_text = global::RemindRx.Droid.Resource.Id.search_src_text;
+			global::Rg.Plugins.Popup.Resource.Id.search_voice_btn = global::RemindRx.Droid.Resource.Id.search_voice_btn;
+			global::Rg.Plugins.Popup.Resource.Id.selected = global::RemindRx.Droid.Resource.Id.selected;
+			global::Rg.Plugins.Popup.Resource.Id.select_dialog_listview = global::RemindRx.Droid.Resource.Id.select_dialog_listview;
+			global::Rg.Plugins.Popup.Resource.Id.shellcontent_appbar = global::RemindRx.Droid.Resource.Id.shellcontent_appbar;
+			global::Rg.Plugins.Popup.Resource.Id.shellcontent_toolbar = global::RemindRx.Droid.Resource.Id.shellcontent_toolbar;
+			global::Rg.Plugins.Popup.Resource.Id.SHIFT = global::RemindRx.Droid.Resource.Id.SHIFT;
+			global::Rg.Plugins.Popup.Resource.Id.shortcut = global::RemindRx.Droid.Resource.Id.shortcut;
+			global::Rg.Plugins.Popup.Resource.Id.showCustom = global::RemindRx.Droid.Resource.Id.showCustom;
+			global::Rg.Plugins.Popup.Resource.Id.showHome = global::RemindRx.Droid.Resource.Id.showHome;
+			global::Rg.Plugins.Popup.Resource.Id.showTitle = global::RemindRx.Droid.Resource.Id.showTitle;
+			global::Rg.Plugins.Popup.Resource.Id.skipCollapsed = global::RemindRx.Droid.Resource.Id.skipCollapsed;
+			global::Rg.Plugins.Popup.Resource.Id.slide = global::RemindRx.Droid.Resource.Id.slide;
+			global::Rg.Plugins.Popup.Resource.Id.sliding_tabs = global::RemindRx.Droid.Resource.Id.sliding_tabs;
+			global::Rg.Plugins.Popup.Resource.Id.snackbar_action = global::RemindRx.Droid.Resource.Id.snackbar_action;
+			global::Rg.Plugins.Popup.Resource.Id.snackbar_text = global::RemindRx.Droid.Resource.Id.snackbar_text;
+			global::Rg.Plugins.Popup.Resource.Id.snap = global::RemindRx.Droid.Resource.Id.snap;
+			global::Rg.Plugins.Popup.Resource.Id.snapMargins = global::RemindRx.Droid.Resource.Id.snapMargins;
+			global::Rg.Plugins.Popup.Resource.Id.spacer = global::RemindRx.Droid.Resource.Id.spacer;
+			global::Rg.Plugins.Popup.Resource.Id.split_action_bar = global::RemindRx.Droid.Resource.Id.split_action_bar;
+			global::Rg.Plugins.Popup.Resource.Id.src_atop = global::RemindRx.Droid.Resource.Id.src_atop;
+			global::Rg.Plugins.Popup.Resource.Id.src_in = global::RemindRx.Droid.Resource.Id.src_in;
+			global::Rg.Plugins.Popup.Resource.Id.src_over = global::RemindRx.Droid.Resource.Id.src_over;
+			global::Rg.Plugins.Popup.Resource.Id.start = global::RemindRx.Droid.Resource.Id.start;
+			global::Rg.Plugins.Popup.Resource.Id.status_bar_latest_event_content = global::RemindRx.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Rg.Plugins.Popup.Resource.Id.stretch = global::RemindRx.Droid.Resource.Id.stretch;
+			global::Rg.Plugins.Popup.Resource.Id.submenuarrow = global::RemindRx.Droid.Resource.Id.submenuarrow;
+			global::Rg.Plugins.Popup.Resource.Id.submit_area = global::RemindRx.Droid.Resource.Id.submit_area;
+			global::Rg.Plugins.Popup.Resource.Id.SYM = global::RemindRx.Droid.Resource.Id.SYM;
+			global::Rg.Plugins.Popup.Resource.Id.tabMode = global::RemindRx.Droid.Resource.Id.tabMode;
+			global::Rg.Plugins.Popup.Resource.Id.tag_accessibility_actions = global::RemindRx.Droid.Resource.Id.tag_accessibility_actions;
+			global::Rg.Plugins.Popup.Resource.Id.tag_accessibility_clickable_spans = global::RemindRx.Droid.Resource.Id.tag_accessibility_clickable_spans;
+			global::Rg.Plugins.Popup.Resource.Id.tag_accessibility_heading = global::RemindRx.Droid.Resource.Id.tag_accessibility_heading;
+			global::Rg.Plugins.Popup.Resource.Id.tag_accessibility_pane_title = global::RemindRx.Droid.Resource.Id.tag_accessibility_pane_title;
+			global::Rg.Plugins.Popup.Resource.Id.tag_screen_reader_focusable = global::RemindRx.Droid.Resource.Id.tag_screen_reader_focusable;
+			global::Rg.Plugins.Popup.Resource.Id.tag_transition_group = global::RemindRx.Droid.Resource.Id.tag_transition_group;
+			global::Rg.Plugins.Popup.Resource.Id.tag_unhandled_key_event_manager = global::RemindRx.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::Rg.Plugins.Popup.Resource.Id.tag_unhandled_key_listeners = global::RemindRx.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::Rg.Plugins.Popup.Resource.Id.test_checkbox_android_button_tint = global::RemindRx.Droid.Resource.Id.test_checkbox_android_button_tint;
+			global::Rg.Plugins.Popup.Resource.Id.test_checkbox_app_button_tint = global::RemindRx.Droid.Resource.Id.test_checkbox_app_button_tint;
+			global::Rg.Plugins.Popup.Resource.Id.test_radiobutton_android_button_tint = global::RemindRx.Droid.Resource.Id.test_radiobutton_android_button_tint;
+			global::Rg.Plugins.Popup.Resource.Id.test_radiobutton_app_button_tint = global::RemindRx.Droid.Resource.Id.test_radiobutton_app_button_tint;
+			global::Rg.Plugins.Popup.Resource.Id.text = global::RemindRx.Droid.Resource.Id.text;
+			global::Rg.Plugins.Popup.Resource.Id.text2 = global::RemindRx.Droid.Resource.Id.text2;
+			global::Rg.Plugins.Popup.Resource.Id.textEnd = global::RemindRx.Droid.Resource.Id.textEnd;
+			global::Rg.Plugins.Popup.Resource.Id.textinput_counter = global::RemindRx.Droid.Resource.Id.textinput_counter;
+			global::Rg.Plugins.Popup.Resource.Id.textinput_error = global::RemindRx.Droid.Resource.Id.textinput_error;
+			global::Rg.Plugins.Popup.Resource.Id.textinput_helper_text = global::RemindRx.Droid.Resource.Id.textinput_helper_text;
+			global::Rg.Plugins.Popup.Resource.Id.textinput_placeholder = global::RemindRx.Droid.Resource.Id.textinput_placeholder;
+			global::Rg.Plugins.Popup.Resource.Id.textinput_prefix_text = global::RemindRx.Droid.Resource.Id.textinput_prefix_text;
+			global::Rg.Plugins.Popup.Resource.Id.textinput_suffix_text = global::RemindRx.Droid.Resource.Id.textinput_suffix_text;
+			global::Rg.Plugins.Popup.Resource.Id.textSpacerNoButtons = global::RemindRx.Droid.Resource.Id.textSpacerNoButtons;
+			global::Rg.Plugins.Popup.Resource.Id.textSpacerNoTitle = global::RemindRx.Droid.Resource.Id.textSpacerNoTitle;
+			global::Rg.Plugins.Popup.Resource.Id.textStart = global::RemindRx.Droid.Resource.Id.textStart;
+			global::Rg.Plugins.Popup.Resource.Id.text_input_end_icon = global::RemindRx.Droid.Resource.Id.text_input_end_icon;
+			global::Rg.Plugins.Popup.Resource.Id.text_input_start_icon = global::RemindRx.Droid.Resource.Id.text_input_start_icon;
+			global::Rg.Plugins.Popup.Resource.Id.time = global::RemindRx.Droid.Resource.Id.time;
+			global::Rg.Plugins.Popup.Resource.Id.title = global::RemindRx.Droid.Resource.Id.title;
+			global::Rg.Plugins.Popup.Resource.Id.titleDividerNoCustom = global::RemindRx.Droid.Resource.Id.titleDividerNoCustom;
+			global::Rg.Plugins.Popup.Resource.Id.title_template = global::RemindRx.Droid.Resource.Id.title_template;
+			global::Rg.Plugins.Popup.Resource.Id.toolbar = global::RemindRx.Droid.Resource.Id.toolbar;
+			global::Rg.Plugins.Popup.Resource.Id.top = global::RemindRx.Droid.Resource.Id.top;
+			global::Rg.Plugins.Popup.Resource.Id.topPanel = global::RemindRx.Droid.Resource.Id.topPanel;
+			global::Rg.Plugins.Popup.Resource.Id.TOP_END = global::RemindRx.Droid.Resource.Id.TOP_END;
+			global::Rg.Plugins.Popup.Resource.Id.TOP_START = global::RemindRx.Droid.Resource.Id.TOP_START;
+			global::Rg.Plugins.Popup.Resource.Id.touch_outside = global::RemindRx.Droid.Resource.Id.touch_outside;
+			global::Rg.Plugins.Popup.Resource.Id.transition_current_scene = global::RemindRx.Droid.Resource.Id.transition_current_scene;
+			global::Rg.Plugins.Popup.Resource.Id.transition_layout_save = global::RemindRx.Droid.Resource.Id.transition_layout_save;
+			global::Rg.Plugins.Popup.Resource.Id.transition_position = global::RemindRx.Droid.Resource.Id.transition_position;
+			global::Rg.Plugins.Popup.Resource.Id.transition_scene_layoutid_cache = global::RemindRx.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::Rg.Plugins.Popup.Resource.Id.transition_transform = global::RemindRx.Droid.Resource.Id.transition_transform;
+			global::Rg.Plugins.Popup.Resource.Id.@unchecked = global::RemindRx.Droid.Resource.Id.@unchecked;
+			global::Rg.Plugins.Popup.Resource.Id.uniform = global::RemindRx.Droid.Resource.Id.uniform;
+			global::Rg.Plugins.Popup.Resource.Id.unlabeled = global::RemindRx.Droid.Resource.Id.unlabeled;
+			global::Rg.Plugins.Popup.Resource.Id.up = global::RemindRx.Droid.Resource.Id.up;
+			global::Rg.Plugins.Popup.Resource.Id.useLogo = global::RemindRx.Droid.Resource.Id.useLogo;
+			global::Rg.Plugins.Popup.Resource.Id.view_offset_helper = global::RemindRx.Droid.Resource.Id.view_offset_helper;
+			global::Rg.Plugins.Popup.Resource.Id.view_tree_saved_state_registry_owner = global::RemindRx.Droid.Resource.Id.view_tree_saved_state_registry_owner;
+			global::Rg.Plugins.Popup.Resource.Id.visible = global::RemindRx.Droid.Resource.Id.visible;
+			global::Rg.Plugins.Popup.Resource.Id.visible_removing_fragment_view_tag = global::RemindRx.Droid.Resource.Id.visible_removing_fragment_view_tag;
+			global::Rg.Plugins.Popup.Resource.Id.withinBounds = global::RemindRx.Droid.Resource.Id.withinBounds;
+			global::Rg.Plugins.Popup.Resource.Id.withText = global::RemindRx.Droid.Resource.Id.withText;
+			global::Rg.Plugins.Popup.Resource.Id.wrap_content = global::RemindRx.Droid.Resource.Id.wrap_content;
+			global::Rg.Plugins.Popup.Resource.Id.zero_corner_chip = global::RemindRx.Droid.Resource.Id.zero_corner_chip;
+			global::Rg.Plugins.Popup.Resource.Integer.abc_config_activityDefaultDur = global::RemindRx.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Rg.Plugins.Popup.Resource.Integer.abc_config_activityShortDur = global::RemindRx.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Rg.Plugins.Popup.Resource.Integer.app_bar_elevation_anim_duration = global::RemindRx.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Rg.Plugins.Popup.Resource.Integer.bottom_sheet_slide_duration = global::RemindRx.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::Rg.Plugins.Popup.Resource.Integer.cancel_button_image_alpha = global::RemindRx.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Rg.Plugins.Popup.Resource.Integer.config_tooltipAnimTime = global::RemindRx.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::Rg.Plugins.Popup.Resource.Integer.design_snackbar_text_max_lines = global::RemindRx.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::Rg.Plugins.Popup.Resource.Integer.design_tab_indicator_anim_duration_ms = global::RemindRx.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::Rg.Plugins.Popup.Resource.Integer.hide_password_duration = global::RemindRx.Droid.Resource.Integer.hide_password_duration;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_badge_max_character_count = global::RemindRx.Droid.Resource.Integer.mtrl_badge_max_character_count;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_btn_anim_delay_ms = global::RemindRx.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_btn_anim_duration_ms = global::RemindRx.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_calendar_header_orientation = global::RemindRx.Droid.Resource.Integer.mtrl_calendar_header_orientation;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_calendar_selection_text_lines = global::RemindRx.Droid.Resource.Integer.mtrl_calendar_selection_text_lines;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_calendar_year_selector_span = global::RemindRx.Droid.Resource.Integer.mtrl_calendar_year_selector_span;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_card_anim_delay_ms = global::RemindRx.Droid.Resource.Integer.mtrl_card_anim_delay_ms;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_card_anim_duration_ms = global::RemindRx.Droid.Resource.Integer.mtrl_card_anim_duration_ms;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_chip_anim_duration = global::RemindRx.Droid.Resource.Integer.mtrl_chip_anim_duration;
+			global::Rg.Plugins.Popup.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::RemindRx.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::Rg.Plugins.Popup.Resource.Integer.show_password_duration = global::RemindRx.Droid.Resource.Integer.show_password_duration;
+			global::Rg.Plugins.Popup.Resource.Integer.status_bar_notification_info_maxnum = global::RemindRx.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::RemindRx.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::RemindRx.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::RemindRx.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::RemindRx.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::RemindRx.Droid.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
+			global::Rg.Plugins.Popup.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::RemindRx.Droid.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
+			global::Rg.Plugins.Popup.Resource.Interpolator.fast_out_slow_in = global::RemindRx.Droid.Resource.Interpolator.fast_out_slow_in;
+			global::Rg.Plugins.Popup.Resource.Interpolator.mtrl_fast_out_linear_in = global::RemindRx.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::Rg.Plugins.Popup.Resource.Interpolator.mtrl_fast_out_slow_in = global::RemindRx.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::Rg.Plugins.Popup.Resource.Interpolator.mtrl_linear = global::RemindRx.Droid.Resource.Interpolator.mtrl_linear;
+			global::Rg.Plugins.Popup.Resource.Interpolator.mtrl_linear_out_slow_in = global::RemindRx.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_bar_title_item = global::RemindRx.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_bar_up_container = global::RemindRx.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_menu_item_layout = global::RemindRx.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_menu_layout = global::RemindRx.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_mode_bar = global::RemindRx.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_action_mode_close_item_material = global::RemindRx.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_activity_chooser_view = global::RemindRx.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_activity_chooser_view_list_item = global::RemindRx.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_alert_dialog_button_bar_material = global::RemindRx.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_alert_dialog_material = global::RemindRx.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_alert_dialog_title_material = global::RemindRx.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_cascading_menu_item_layout = global::RemindRx.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_dialog_title_material = global::RemindRx.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_expanded_menu_layout = global::RemindRx.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_list_menu_item_checkbox = global::RemindRx.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_list_menu_item_icon = global::RemindRx.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_list_menu_item_layout = global::RemindRx.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_list_menu_item_radio = global::RemindRx.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_popup_menu_header_item_layout = global::RemindRx.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_popup_menu_item_layout = global::RemindRx.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_screen_content_include = global::RemindRx.Droid.Resource.Layout.abc_screen_content_include;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_screen_simple = global::RemindRx.Droid.Resource.Layout.abc_screen_simple;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_screen_simple_overlay_action_mode = global::RemindRx.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_screen_toolbar = global::RemindRx.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_search_dropdown_item_icons_2line = global::RemindRx.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_search_view = global::RemindRx.Droid.Resource.Layout.abc_search_view;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_select_dialog_material = global::RemindRx.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Rg.Plugins.Popup.Resource.Layout.abc_tooltip = global::RemindRx.Droid.Resource.Layout.abc_tooltip;
+			global::Rg.Plugins.Popup.Resource.Layout.BottomTabLayout = global::RemindRx.Droid.Resource.Layout.BottomTabLayout;
+			global::Rg.Plugins.Popup.Resource.Layout.browser_actions_context_menu_page = global::RemindRx.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::Rg.Plugins.Popup.Resource.Layout.browser_actions_context_menu_row = global::RemindRx.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::Rg.Plugins.Popup.Resource.Layout.custom_dialog = global::RemindRx.Droid.Resource.Layout.custom_dialog;
+			global::Rg.Plugins.Popup.Resource.Layout.design_bottom_navigation_item = global::RemindRx.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::Rg.Plugins.Popup.Resource.Layout.design_bottom_sheet_dialog = global::RemindRx.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::Rg.Plugins.Popup.Resource.Layout.design_layout_snackbar = global::RemindRx.Droid.Resource.Layout.design_layout_snackbar;
+			global::Rg.Plugins.Popup.Resource.Layout.design_layout_snackbar_include = global::RemindRx.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::Rg.Plugins.Popup.Resource.Layout.design_layout_tab_icon = global::RemindRx.Droid.Resource.Layout.design_layout_tab_icon;
+			global::Rg.Plugins.Popup.Resource.Layout.design_layout_tab_text = global::RemindRx.Droid.Resource.Layout.design_layout_tab_text;
+			global::Rg.Plugins.Popup.Resource.Layout.design_menu_item_action_area = global::RemindRx.Droid.Resource.Layout.design_menu_item_action_area;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_item = global::RemindRx.Droid.Resource.Layout.design_navigation_item;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_item_header = global::RemindRx.Droid.Resource.Layout.design_navigation_item_header;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_item_separator = global::RemindRx.Droid.Resource.Layout.design_navigation_item_separator;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_item_subheader = global::RemindRx.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_menu = global::RemindRx.Droid.Resource.Layout.design_navigation_menu;
+			global::Rg.Plugins.Popup.Resource.Layout.design_navigation_menu_item = global::RemindRx.Droid.Resource.Layout.design_navigation_menu_item;
+			global::Rg.Plugins.Popup.Resource.Layout.design_text_input_end_icon = global::RemindRx.Droid.Resource.Layout.design_text_input_end_icon;
+			global::Rg.Plugins.Popup.Resource.Layout.design_text_input_start_icon = global::RemindRx.Droid.Resource.Layout.design_text_input_start_icon;
+			global::Rg.Plugins.Popup.Resource.Layout.FallbackTabbarDoNotUse = global::RemindRx.Droid.Resource.Layout.FallbackTabbarDoNotUse;
+			global::Rg.Plugins.Popup.Resource.Layout.FallbackToolbarDoNotUse = global::RemindRx.Droid.Resource.Layout.FallbackToolbarDoNotUse;
+			global::Rg.Plugins.Popup.Resource.Layout.FlyoutContent = global::RemindRx.Droid.Resource.Layout.FlyoutContent;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_alert_dialog = global::RemindRx.Droid.Resource.Layout.mtrl_alert_dialog;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_alert_dialog_actions = global::RemindRx.Droid.Resource.Layout.mtrl_alert_dialog_actions;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_alert_dialog_title = global::RemindRx.Droid.Resource.Layout.mtrl_alert_dialog_title;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_alert_select_dialog_item = global::RemindRx.Droid.Resource.Layout.mtrl_alert_select_dialog_item;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_alert_select_dialog_multichoice = global::RemindRx.Droid.Resource.Layout.mtrl_alert_select_dialog_multichoice;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_alert_select_dialog_singlechoice = global::RemindRx.Droid.Resource.Layout.mtrl_alert_select_dialog_singlechoice;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_day = global::RemindRx.Droid.Resource.Layout.mtrl_calendar_day;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_days_of_week = global::RemindRx.Droid.Resource.Layout.mtrl_calendar_days_of_week;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_day_of_week = global::RemindRx.Droid.Resource.Layout.mtrl_calendar_day_of_week;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_horizontal = global::RemindRx.Droid.Resource.Layout.mtrl_calendar_horizontal;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_month = global::RemindRx.Droid.Resource.Layout.mtrl_calendar_month;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_months = global::RemindRx.Droid.Resource.Layout.mtrl_calendar_months;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_month_labeled = global::RemindRx.Droid.Resource.Layout.mtrl_calendar_month_labeled;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_month_navigation = global::RemindRx.Droid.Resource.Layout.mtrl_calendar_month_navigation;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_vertical = global::RemindRx.Droid.Resource.Layout.mtrl_calendar_vertical;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_calendar_year = global::RemindRx.Droid.Resource.Layout.mtrl_calendar_year;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_layout_snackbar = global::RemindRx.Droid.Resource.Layout.mtrl_layout_snackbar;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_layout_snackbar_include = global::RemindRx.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_actions = global::RemindRx.Droid.Resource.Layout.mtrl_picker_actions;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_dialog = global::RemindRx.Droid.Resource.Layout.mtrl_picker_dialog;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_fullscreen = global::RemindRx.Droid.Resource.Layout.mtrl_picker_fullscreen;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_header_dialog = global::RemindRx.Droid.Resource.Layout.mtrl_picker_header_dialog;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_header_fullscreen = global::RemindRx.Droid.Resource.Layout.mtrl_picker_header_fullscreen;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_header_selection_text = global::RemindRx.Droid.Resource.Layout.mtrl_picker_header_selection_text;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_header_title_text = global::RemindRx.Droid.Resource.Layout.mtrl_picker_header_title_text;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_header_toggle = global::RemindRx.Droid.Resource.Layout.mtrl_picker_header_toggle;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_text_input_date = global::RemindRx.Droid.Resource.Layout.mtrl_picker_text_input_date;
+			global::Rg.Plugins.Popup.Resource.Layout.mtrl_picker_text_input_date_range = global::RemindRx.Droid.Resource.Layout.mtrl_picker_text_input_date_range;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_action = global::RemindRx.Droid.Resource.Layout.notification_action;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_action_tombstone = global::RemindRx.Droid.Resource.Layout.notification_action_tombstone;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_media_action = global::RemindRx.Droid.Resource.Layout.notification_media_action;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_media_cancel_action = global::RemindRx.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_big_media = global::RemindRx.Droid.Resource.Layout.notification_template_big_media;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_big_media_custom = global::RemindRx.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_big_media_narrow = global::RemindRx.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_big_media_narrow_custom = global::RemindRx.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_custom_big = global::RemindRx.Droid.Resource.Layout.notification_template_custom_big;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_icon_group = global::RemindRx.Droid.Resource.Layout.notification_template_icon_group;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_lines_media = global::RemindRx.Droid.Resource.Layout.notification_template_lines_media;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_media = global::RemindRx.Droid.Resource.Layout.notification_template_media;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_media_custom = global::RemindRx.Droid.Resource.Layout.notification_template_media_custom;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_part_chronometer = global::RemindRx.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Rg.Plugins.Popup.Resource.Layout.notification_template_part_time = global::RemindRx.Droid.Resource.Layout.notification_template_part_time;
+			global::Rg.Plugins.Popup.Resource.Layout.RootLayout = global::RemindRx.Droid.Resource.Layout.RootLayout;
+			global::Rg.Plugins.Popup.Resource.Layout.select_dialog_item_material = global::RemindRx.Droid.Resource.Layout.select_dialog_item_material;
+			global::Rg.Plugins.Popup.Resource.Layout.select_dialog_multichoice_material = global::RemindRx.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Rg.Plugins.Popup.Resource.Layout.select_dialog_singlechoice_material = global::RemindRx.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Rg.Plugins.Popup.Resource.Layout.ShellContent = global::RemindRx.Droid.Resource.Layout.ShellContent;
+			global::Rg.Plugins.Popup.Resource.Layout.support_simple_spinner_dropdown_item = global::RemindRx.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Rg.Plugins.Popup.Resource.Layout.Tabbar = global::RemindRx.Droid.Resource.Layout.Tabbar;
+			global::Rg.Plugins.Popup.Resource.Layout.test_action_chip = global::RemindRx.Droid.Resource.Layout.test_action_chip;
+			global::Rg.Plugins.Popup.Resource.Layout.test_chip_zero_corner_radius = global::RemindRx.Droid.Resource.Layout.test_chip_zero_corner_radius;
+			global::Rg.Plugins.Popup.Resource.Layout.test_design_checkbox = global::RemindRx.Droid.Resource.Layout.test_design_checkbox;
+			global::Rg.Plugins.Popup.Resource.Layout.test_design_radiobutton = global::RemindRx.Droid.Resource.Layout.test_design_radiobutton;
+			global::Rg.Plugins.Popup.Resource.Layout.test_reflow_chipgroup = global::RemindRx.Droid.Resource.Layout.test_reflow_chipgroup;
+			global::Rg.Plugins.Popup.Resource.Layout.test_toolbar = global::RemindRx.Droid.Resource.Layout.test_toolbar;
+			global::Rg.Plugins.Popup.Resource.Layout.test_toolbar_custom_background = global::RemindRx.Droid.Resource.Layout.test_toolbar_custom_background;
+			global::Rg.Plugins.Popup.Resource.Layout.test_toolbar_elevation = global::RemindRx.Droid.Resource.Layout.test_toolbar_elevation;
+			global::Rg.Plugins.Popup.Resource.Layout.test_toolbar_surface = global::RemindRx.Droid.Resource.Layout.test_toolbar_surface;
+			global::Rg.Plugins.Popup.Resource.Layout.text_view_without_line_height = global::RemindRx.Droid.Resource.Layout.text_view_without_line_height;
+			global::Rg.Plugins.Popup.Resource.Layout.text_view_with_line_height_from_appearance = global::RemindRx.Droid.Resource.Layout.text_view_with_line_height_from_appearance;
+			global::Rg.Plugins.Popup.Resource.Layout.text_view_with_line_height_from_layout = global::RemindRx.Droid.Resource.Layout.text_view_with_line_height_from_layout;
+			global::Rg.Plugins.Popup.Resource.Layout.text_view_with_line_height_from_style = global::RemindRx.Droid.Resource.Layout.text_view_with_line_height_from_style;
+			global::Rg.Plugins.Popup.Resource.Layout.text_view_with_theme_line_height = global::RemindRx.Droid.Resource.Layout.text_view_with_theme_line_height;
+			global::Rg.Plugins.Popup.Resource.Layout.Toolbar = global::RemindRx.Droid.Resource.Layout.Toolbar;
+			global::Rg.Plugins.Popup.Resource.Plurals.mtrl_badge_content_description = global::RemindRx.Droid.Resource.Plurals.mtrl_badge_content_description;
+			global::Rg.Plugins.Popup.Resource.String.abc_action_bar_home_description = global::RemindRx.Droid.Resource.String.abc_action_bar_home_description;
+			global::Rg.Plugins.Popup.Resource.String.abc_action_bar_up_description = global::RemindRx.Droid.Resource.String.abc_action_bar_up_description;
+			global::Rg.Plugins.Popup.Resource.String.abc_action_menu_overflow_description = global::RemindRx.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Rg.Plugins.Popup.Resource.String.abc_action_mode_done = global::RemindRx.Droid.Resource.String.abc_action_mode_done;
+			global::Rg.Plugins.Popup.Resource.String.abc_activitychooserview_choose_application = global::RemindRx.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Rg.Plugins.Popup.Resource.String.abc_activity_chooser_view_see_all = global::RemindRx.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Rg.Plugins.Popup.Resource.String.abc_capital_off = global::RemindRx.Droid.Resource.String.abc_capital_off;
+			global::Rg.Plugins.Popup.Resource.String.abc_capital_on = global::RemindRx.Droid.Resource.String.abc_capital_on;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_alt_shortcut_label = global::RemindRx.Droid.Resource.String.abc_menu_alt_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_ctrl_shortcut_label = global::RemindRx.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_delete_shortcut_label = global::RemindRx.Droid.Resource.String.abc_menu_delete_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_enter_shortcut_label = global::RemindRx.Droid.Resource.String.abc_menu_enter_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_function_shortcut_label = global::RemindRx.Droid.Resource.String.abc_menu_function_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_meta_shortcut_label = global::RemindRx.Droid.Resource.String.abc_menu_meta_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_shift_shortcut_label = global::RemindRx.Droid.Resource.String.abc_menu_shift_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_space_shortcut_label = global::RemindRx.Droid.Resource.String.abc_menu_space_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_menu_sym_shortcut_label = global::RemindRx.Droid.Resource.String.abc_menu_sym_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_prepend_shortcut_label = global::RemindRx.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::Rg.Plugins.Popup.Resource.String.abc_searchview_description_clear = global::RemindRx.Droid.Resource.String.abc_searchview_description_clear;
+			global::Rg.Plugins.Popup.Resource.String.abc_searchview_description_query = global::RemindRx.Droid.Resource.String.abc_searchview_description_query;
+			global::Rg.Plugins.Popup.Resource.String.abc_searchview_description_search = global::RemindRx.Droid.Resource.String.abc_searchview_description_search;
+			global::Rg.Plugins.Popup.Resource.String.abc_searchview_description_submit = global::RemindRx.Droid.Resource.String.abc_searchview_description_submit;
+			global::Rg.Plugins.Popup.Resource.String.abc_searchview_description_voice = global::RemindRx.Droid.Resource.String.abc_searchview_description_voice;
+			global::Rg.Plugins.Popup.Resource.String.abc_search_hint = global::RemindRx.Droid.Resource.String.abc_search_hint;
+			global::Rg.Plugins.Popup.Resource.String.abc_shareactionprovider_share_with = global::RemindRx.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Rg.Plugins.Popup.Resource.String.abc_shareactionprovider_share_with_application = global::RemindRx.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Rg.Plugins.Popup.Resource.String.abc_toolbar_collapse_description = global::RemindRx.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Rg.Plugins.Popup.Resource.String.appbar_scrolling_view_behavior = global::RemindRx.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::Rg.Plugins.Popup.Resource.String.bottom_sheet_behavior = global::RemindRx.Droid.Resource.String.bottom_sheet_behavior;
+			global::Rg.Plugins.Popup.Resource.String.character_counter_content_description = global::RemindRx.Droid.Resource.String.character_counter_content_description;
+			global::Rg.Plugins.Popup.Resource.String.character_counter_overflowed_content_description = global::RemindRx.Droid.Resource.String.character_counter_overflowed_content_description;
+			global::Rg.Plugins.Popup.Resource.String.character_counter_pattern = global::RemindRx.Droid.Resource.String.character_counter_pattern;
+			global::Rg.Plugins.Popup.Resource.String.chip_text = global::RemindRx.Droid.Resource.String.chip_text;
+			global::Rg.Plugins.Popup.Resource.String.clear_text_end_icon_content_description = global::RemindRx.Droid.Resource.String.clear_text_end_icon_content_description;
+			global::Rg.Plugins.Popup.Resource.String.copy_toast_msg = global::RemindRx.Droid.Resource.String.copy_toast_msg;
+			global::Rg.Plugins.Popup.Resource.String.error_icon_content_description = global::RemindRx.Droid.Resource.String.error_icon_content_description;
+			global::Rg.Plugins.Popup.Resource.String.exposed_dropdown_menu_content_description = global::RemindRx.Droid.Resource.String.exposed_dropdown_menu_content_description;
+			global::Rg.Plugins.Popup.Resource.String.fab_transformation_scrim_behavior = global::RemindRx.Droid.Resource.String.fab_transformation_scrim_behavior;
+			global::Rg.Plugins.Popup.Resource.String.fab_transformation_sheet_behavior = global::RemindRx.Droid.Resource.String.fab_transformation_sheet_behavior;
+			global::Rg.Plugins.Popup.Resource.String.fallback_menu_item_copy_link = global::RemindRx.Droid.Resource.String.fallback_menu_item_copy_link;
+			global::Rg.Plugins.Popup.Resource.String.fallback_menu_item_open_in_browser = global::RemindRx.Droid.Resource.String.fallback_menu_item_open_in_browser;
+			global::Rg.Plugins.Popup.Resource.String.fallback_menu_item_share_link = global::RemindRx.Droid.Resource.String.fallback_menu_item_share_link;
+			global::Rg.Plugins.Popup.Resource.String.hide_bottom_view_on_scroll_behavior = global::RemindRx.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::Rg.Plugins.Popup.Resource.String.icon_content_description = global::RemindRx.Droid.Resource.String.icon_content_description;
+			global::Rg.Plugins.Popup.Resource.String.item_view_role_description = global::RemindRx.Droid.Resource.String.item_view_role_description;
+			global::Rg.Plugins.Popup.Resource.String.material_slider_range_end = global::RemindRx.Droid.Resource.String.material_slider_range_end;
+			global::Rg.Plugins.Popup.Resource.String.material_slider_range_start = global::RemindRx.Droid.Resource.String.material_slider_range_start;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_badge_numberless_content_description = global::RemindRx.Droid.Resource.String.mtrl_badge_numberless_content_description;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_chip_close_icon_content_description = global::RemindRx.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_exceed_max_badge_number_content_description = global::RemindRx.Droid.Resource.String.mtrl_exceed_max_badge_number_content_description;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_exceed_max_badge_number_suffix = global::RemindRx.Droid.Resource.String.mtrl_exceed_max_badge_number_suffix;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_a11y_next_month = global::RemindRx.Droid.Resource.String.mtrl_picker_a11y_next_month;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_a11y_prev_month = global::RemindRx.Droid.Resource.String.mtrl_picker_a11y_prev_month;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_announce_current_selection = global::RemindRx.Droid.Resource.String.mtrl_picker_announce_current_selection;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_cancel = global::RemindRx.Droid.Resource.String.mtrl_picker_cancel;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_confirm = global::RemindRx.Droid.Resource.String.mtrl_picker_confirm;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_date_header_selected = global::RemindRx.Droid.Resource.String.mtrl_picker_date_header_selected;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_date_header_title = global::RemindRx.Droid.Resource.String.mtrl_picker_date_header_title;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_date_header_unselected = global::RemindRx.Droid.Resource.String.mtrl_picker_date_header_unselected;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_day_of_week_column_header = global::RemindRx.Droid.Resource.String.mtrl_picker_day_of_week_column_header;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_invalid_format = global::RemindRx.Droid.Resource.String.mtrl_picker_invalid_format;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_invalid_format_example = global::RemindRx.Droid.Resource.String.mtrl_picker_invalid_format_example;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_invalid_format_use = global::RemindRx.Droid.Resource.String.mtrl_picker_invalid_format_use;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_invalid_range = global::RemindRx.Droid.Resource.String.mtrl_picker_invalid_range;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_navigate_to_year_description = global::RemindRx.Droid.Resource.String.mtrl_picker_navigate_to_year_description;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_out_of_range = global::RemindRx.Droid.Resource.String.mtrl_picker_out_of_range;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_range_header_only_end_selected = global::RemindRx.Droid.Resource.String.mtrl_picker_range_header_only_end_selected;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_range_header_only_start_selected = global::RemindRx.Droid.Resource.String.mtrl_picker_range_header_only_start_selected;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_range_header_selected = global::RemindRx.Droid.Resource.String.mtrl_picker_range_header_selected;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_range_header_title = global::RemindRx.Droid.Resource.String.mtrl_picker_range_header_title;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_range_header_unselected = global::RemindRx.Droid.Resource.String.mtrl_picker_range_header_unselected;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_save = global::RemindRx.Droid.Resource.String.mtrl_picker_save;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_text_input_date_hint = global::RemindRx.Droid.Resource.String.mtrl_picker_text_input_date_hint;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_text_input_date_range_end_hint = global::RemindRx.Droid.Resource.String.mtrl_picker_text_input_date_range_end_hint;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_text_input_date_range_start_hint = global::RemindRx.Droid.Resource.String.mtrl_picker_text_input_date_range_start_hint;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_text_input_day_abbr = global::RemindRx.Droid.Resource.String.mtrl_picker_text_input_day_abbr;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_text_input_month_abbr = global::RemindRx.Droid.Resource.String.mtrl_picker_text_input_month_abbr;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_text_input_year_abbr = global::RemindRx.Droid.Resource.String.mtrl_picker_text_input_year_abbr;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_toggle_to_calendar_input_mode = global::RemindRx.Droid.Resource.String.mtrl_picker_toggle_to_calendar_input_mode;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_toggle_to_day_selection = global::RemindRx.Droid.Resource.String.mtrl_picker_toggle_to_day_selection;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_toggle_to_text_input_mode = global::RemindRx.Droid.Resource.String.mtrl_picker_toggle_to_text_input_mode;
+			global::Rg.Plugins.Popup.Resource.String.mtrl_picker_toggle_to_year_selection = global::RemindRx.Droid.Resource.String.mtrl_picker_toggle_to_year_selection;
+			global::Rg.Plugins.Popup.Resource.String.overflow_tab_title = global::RemindRx.Droid.Resource.String.overflow_tab_title;
+			global::Rg.Plugins.Popup.Resource.String.password_toggle_content_description = global::RemindRx.Droid.Resource.String.password_toggle_content_description;
+			global::Rg.Plugins.Popup.Resource.String.path_password_eye = global::RemindRx.Droid.Resource.String.path_password_eye;
+			global::Rg.Plugins.Popup.Resource.String.path_password_eye_mask_strike_through = global::RemindRx.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::Rg.Plugins.Popup.Resource.String.path_password_eye_mask_visible = global::RemindRx.Droid.Resource.String.path_password_eye_mask_visible;
+			global::Rg.Plugins.Popup.Resource.String.path_password_strike_through = global::RemindRx.Droid.Resource.String.path_password_strike_through;
+			global::Rg.Plugins.Popup.Resource.String.search_menu_title = global::RemindRx.Droid.Resource.String.search_menu_title;
+			global::Rg.Plugins.Popup.Resource.String.status_bar_notification_info_overflow = global::RemindRx.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Rg.Plugins.Popup.Resource.Style.AlertDialog_AppCompat = global::RemindRx.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.AlertDialog_AppCompat_Light = global::RemindRx.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.AndroidThemeColorAccentYellow = global::RemindRx.Droid.Resource.Style.AndroidThemeColorAccentYellow;
+			global::Rg.Plugins.Popup.Resource.Style.Animation_AppCompat_Dialog = global::RemindRx.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Animation_AppCompat_DropDownUp = global::RemindRx.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Rg.Plugins.Popup.Resource.Style.Animation_AppCompat_Tooltip = global::RemindRx.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.Animation_Design_BottomSheetDialog = global::RemindRx.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Animation_MaterialComponents_BottomSheetDialog = global::RemindRx.Droid.Resource.Style.Animation_MaterialComponents_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.AppCompatDialogStyle = global::RemindRx.Droid.Resource.Style.AppCompatDialogStyle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_AlertDialog_AppCompat = global::RemindRx.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_AlertDialog_AppCompat_Light = global::RemindRx.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Animation_AppCompat_Dialog = global::RemindRx.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::RemindRx.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Animation_AppCompat_Tooltip = global::RemindRx.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.Base_CardView = global::RemindRx.Droid.Resource.Style.Base_CardView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::RemindRx.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_DialogWindowTitle_AppCompat = global::RemindRx.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon = global::RemindRx.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel = global::RemindRx.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel;
+			global::Rg.Plugins.Popup.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text = global::RemindRx.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Button = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Large = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Small = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Title = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_MaterialComponents_Badge = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Badge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_MaterialComponents_Button = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6 = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2 = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::RemindRx.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat = global::RemindRx.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::RemindRx.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::RemindRx.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::RemindRx.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::RemindRx.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::RemindRx.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::RemindRx.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::RemindRx.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::RemindRx.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = global::RemindRx.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert_Framework;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = global::RemindRx.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework;
+			global::Rg.Plugins.Popup.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::RemindRx.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat = global::RemindRx.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::RemindRx.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Dialog = global::RemindRx.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::RemindRx.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::RemindRx.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::RemindRx.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::RemindRx.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light = global::RemindRx.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::RemindRx.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::RemindRx.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::RemindRx.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::RemindRx.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::RemindRx.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::RemindRx.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::RemindRx.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::RemindRx.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::RemindRx.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::RemindRx.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents = global::RemindRx.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::RemindRx.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::RemindRx.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge = global::RemindRx.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::RemindRx.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::RemindRx.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::RemindRx.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::RemindRx.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge = global::RemindRx.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::RemindRx.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_AppCompat = global::RemindRx.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::RemindRx.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_AppCompat_Light = global::RemindRx.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::RemindRx.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_MaterialComponents = global::RemindRx.Droid.Resource.Style.Base_V21_Theme_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_MaterialComponents_Dialog = global::RemindRx.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_MaterialComponents_Light = global::RemindRx.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V21_Theme_MaterialComponents_Light_Dialog = global::RemindRx.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V22_Theme_AppCompat = global::RemindRx.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V22_Theme_AppCompat_Light = global::RemindRx.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V23_Theme_AppCompat = global::RemindRx.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V23_Theme_AppCompat_Light = global::RemindRx.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V26_Theme_AppCompat = global::RemindRx.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V26_Theme_AppCompat_Light = global::RemindRx.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::RemindRx.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V28_Theme_AppCompat = global::RemindRx.Droid.Resource.Style.Base_V28_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V28_Theme_AppCompat_Light = global::RemindRx.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::RemindRx.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Theme_AppCompat = global::RemindRx.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::RemindRx.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Theme_AppCompat_Light = global::RemindRx.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::RemindRx.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::RemindRx.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::RemindRx.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Rg.Plugins.Popup.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::RemindRx.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionBar = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionButton = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActionMode = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Button_Small = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_EditText = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ImageButton = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ListView = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_RatingBar = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_SearchView = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_SeekBar = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Spinner = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_TextView = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_TextView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Toolbar = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::RemindRx.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_Design_TabLayout = global::RemindRx.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView = global::RemindRx.Droid.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView = global::RemindRx.Droid.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_Chip = global::RemindRx.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_PopupMenu = global::RemindRx.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu = global::RemindRx.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::RemindRx.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow = global::RemindRx.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_Slider = global::RemindRx.Droid.Resource.Style.Base_Widget_MaterialComponents_Slider;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::RemindRx.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::RemindRx.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Base_Widget_MaterialComponents_TextView = global::RemindRx.Droid.Resource.Style.Base_Widget_MaterialComponents_TextView;
+			global::Rg.Plugins.Popup.Resource.Style.CardView = global::RemindRx.Droid.Resource.Style.CardView;
+			global::Rg.Plugins.Popup.Resource.Style.CardView_Dark = global::RemindRx.Droid.Resource.Style.CardView_Dark;
+			global::Rg.Plugins.Popup.Resource.Style.CardView_Light = global::RemindRx.Droid.Resource.Style.CardView_Light;
+			global::Rg.Plugins.Popup.Resource.Style.collectionViewTheme = global::RemindRx.Droid.Resource.Style.collectionViewTheme;
+			global::Rg.Plugins.Popup.Resource.Style.EmptyTheme = global::RemindRx.Droid.Resource.Style.EmptyTheme;
+			global::Rg.Plugins.Popup.Resource.Style.MainTheme = global::RemindRx.Droid.Resource.Style.MainTheme;
+			global::Rg.Plugins.Popup.Resource.Style.MainTheme_Base = global::RemindRx.Droid.Resource.Style.MainTheme_Base;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents = global::RemindRx.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text = global::RemindRx.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar = global::RemindRx.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner = global::RemindRx.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon = global::RemindRx.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked = global::RemindRx.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel = global::RemindRx.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked = global::RemindRx.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text = global::RemindRx.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text;
+			global::Rg.Plugins.Popup.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked = global::RemindRx.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_AppCompat = global::RemindRx.Droid.Resource.Style.Platform_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_AppCompat_Light = global::RemindRx.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_MaterialComponents = global::RemindRx.Droid.Resource.Style.Platform_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_MaterialComponents_Dialog = global::RemindRx.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_MaterialComponents_Light = global::RemindRx.Droid.Resource.Style.Platform_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::RemindRx.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_ThemeOverlay_AppCompat = global::RemindRx.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::RemindRx.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::RemindRx.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_V21_AppCompat = global::RemindRx.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_V21_AppCompat_Light = global::RemindRx.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_V25_AppCompat = global::RemindRx.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_V25_AppCompat_Light = global::RemindRx.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Platform_Widget_AppCompat_Spinner = global::RemindRx.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::RemindRx.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::RemindRx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::RemindRx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::RemindRx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::RemindRx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::RemindRx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::RemindRx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::RemindRx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::RemindRx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::RemindRx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::RemindRx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::RemindRx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::RemindRx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::RemindRx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Rg.Plugins.Popup.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::RemindRx.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Rg.Plugins.Popup.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::RemindRx.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::RemindRx.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.scrollViewScrollBars = global::RemindRx.Droid.Resource.Style.scrollViewScrollBars;
+			global::Rg.Plugins.Popup.Resource.Style.scrollViewTheme = global::RemindRx.Droid.Resource.Style.scrollViewTheme;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay = global::RemindRx.Droid.Resource.Style.ShapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = global::RemindRx.Droid.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_BottomRightCut = global::RemindRx.Droid.Resource.Style.ShapeAppearanceOverlay_BottomRightCut;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_Cut = global::RemindRx.Droid.Resource.Style.ShapeAppearanceOverlay_Cut;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize = global::RemindRx.Droid.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet = global::RemindRx.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip = global::RemindRx.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = global::RemindRx.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton = global::RemindRx.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::RemindRx.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = global::RemindRx.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = global::RemindRx.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = global::RemindRx.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_TopLeftCut = global::RemindRx.Droid.Resource.Style.ShapeAppearanceOverlay_TopLeftCut;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize = global::RemindRx.Droid.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearance_MaterialComponents = global::RemindRx.Droid.Resource.Style.ShapeAppearance_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent = global::RemindRx.Droid.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent = global::RemindRx.Droid.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent = global::RemindRx.Droid.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearance_MaterialComponents_Test = global::RemindRx.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Test;
+			global::Rg.Plugins.Popup.Resource.Style.ShapeAppearance_MaterialComponents_Tooltip = global::RemindRx.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.TestStyleWithLineHeight = global::RemindRx.Droid.Resource.Style.TestStyleWithLineHeight;
+			global::Rg.Plugins.Popup.Resource.Style.TestStyleWithLineHeightAppearance = global::RemindRx.Droid.Resource.Style.TestStyleWithLineHeightAppearance;
+			global::Rg.Plugins.Popup.Resource.Style.TestStyleWithoutLineHeight = global::RemindRx.Droid.Resource.Style.TestStyleWithoutLineHeight;
+			global::Rg.Plugins.Popup.Resource.Style.TestStyleWithThemeLineHeightAttribute = global::RemindRx.Droid.Resource.Style.TestStyleWithThemeLineHeightAttribute;
+			global::Rg.Plugins.Popup.Resource.Style.TestThemeWithLineHeight = global::RemindRx.Droid.Resource.Style.TestThemeWithLineHeight;
+			global::Rg.Plugins.Popup.Resource.Style.TestThemeWithLineHeightDisabled = global::RemindRx.Droid.Resource.Style.TestThemeWithLineHeightDisabled;
+			global::Rg.Plugins.Popup.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::RemindRx.Droid.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
+			global::Rg.Plugins.Popup.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar = global::RemindRx.Droid.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar;
+			global::Rg.Plugins.Popup.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar = global::RemindRx.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar;
+			global::Rg.Plugins.Popup.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day = global::RemindRx.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day;
+			global::Rg.Plugins.Popup.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::RemindRx.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Body1 = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Body2 = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Button = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Caption = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Display1 = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Display2 = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Display3 = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Display4 = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Headline = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Inverse = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Large = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Medium = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Menu = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Small = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Subhead = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Title = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Tooltip = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::RemindRx.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification = global::RemindRx.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Info = global::RemindRx.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::RemindRx.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::RemindRx.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::RemindRx.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Media = global::RemindRx.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Time = global::RemindRx.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::RemindRx.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Title = global::RemindRx.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::RemindRx.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::RemindRx.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Counter = global::RemindRx.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Counter_Overflow = global::RemindRx.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Error = global::RemindRx.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_HelperText = global::RemindRx.Droid.Resource.Style.TextAppearance_Design_HelperText;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Hint = global::RemindRx.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Placeholder = global::RemindRx.Droid.Resource.Style.TextAppearance_Design_Placeholder;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Prefix = global::RemindRx.Droid.Resource.Style.TextAppearance_Design_Prefix;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Snackbar_Message = global::RemindRx.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Suffix = global::RemindRx.Droid.Resource.Style.TextAppearance_Design_Suffix;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Design_Tab = global::RemindRx.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Badge = global::RemindRx.Droid.Resource.Style.TextAppearance_MaterialComponents_Badge;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::RemindRx.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::RemindRx.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Button = global::RemindRx.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Caption = global::RemindRx.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Chip = global::RemindRx.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::RemindRx.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::RemindRx.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::RemindRx.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::RemindRx.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::RemindRx.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::RemindRx.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Overline = global::RemindRx.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::RemindRx.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::RemindRx.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_MaterialComponents_Tooltip = global::RemindRx.Droid.Resource.Style.TextAppearance_MaterialComponents_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::RemindRx.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::RemindRx.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Rg.Plugins.Popup.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::RemindRx.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlayColorAccentRed = global::RemindRx.Droid.Resource.Style.ThemeOverlayColorAccentRed;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat = global::RemindRx.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::RemindRx.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_Dark = global::RemindRx.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::RemindRx.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::RemindRx.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::RemindRx.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::RemindRx.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::RemindRx.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_AppCompat_Light = global::RemindRx.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_Design_TextInputEditText = global::RemindRx.Droid.Resource.Style.ThemeOverlay_Design_TextInputEditText;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert_Framework;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary;
+			global::Rg.Plugins.Popup.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface = global::RemindRx.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat = global::RemindRx.Droid.Resource.Style.Theme_AppCompat;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_CompactMenu = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Dialog = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Dialog_Alert = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Empty = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_Empty;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_Dialog = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_AppCompat_NoActionBar = global::RemindRx.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design = global::RemindRx.Droid.Resource.Style.Theme_Design;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design_BottomSheetDialog = global::RemindRx.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design_Light = global::RemindRx.Droid.Resource.Style.Theme_Design_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::RemindRx.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design_Light_NoActionBar = global::RemindRx.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_Design_NoActionBar = global::RemindRx.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_CompactMenu = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DayNight;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Dialog = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_BarSize = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_BarSize;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_LargeTouch = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_LargeTouch;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_NoActionBar = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::RemindRx.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionBar = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionButton = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActionMode = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ActivityChooserView = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ButtonBar = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button_Borderless = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button_Colored = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Button_Small = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_EditText = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ImageButton = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionButton = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_SearchView = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ListMenuView = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ListPopupWindow = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ListView = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ListView_DropDown = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ListView_Menu = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_PopupMenu = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_PopupWindow = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ProgressBar = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_RatingBar = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_RatingBar_Small = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_SearchView = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_SeekBar = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Spinner = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_TextView = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_TextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Toolbar = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::RemindRx.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Compat_NotificationActionContainer = global::RemindRx.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Compat_NotificationActionText = global::RemindRx.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_AppBarLayout = global::RemindRx.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_BottomNavigationView = global::RemindRx.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_BottomSheet_Modal = global::RemindRx.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_CollapsingToolbar = global::RemindRx.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_FloatingActionButton = global::RemindRx.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_NavigationView = global::RemindRx.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::RemindRx.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_Snackbar = global::RemindRx.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_TabLayout = global::RemindRx.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_TextInputEditText = global::RemindRx.Droid.Resource.Style.Widget_Design_TextInputEditText;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Design_TextInputLayout = global::RemindRx.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ActionBar_Primary = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Primary;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ActionBar_Solid = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Solid;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ActionBar_Surface = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Surface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Badge = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Badge;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomSheet = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Button;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_Icon = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_CardView = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_CardView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_CheckedTextView = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_CheckedTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ChipGroup = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Chip_Action = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_NavigationView = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_PopupMenu = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_ShapeableImageView = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_ShapeableImageView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Slider = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Slider;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Snackbar = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Snackbar_TextView = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_TextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TabLayout = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_TextView = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_TextView;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Toolbar = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Toolbar_Primary = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Primary;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Toolbar_Surface = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Surface;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_MaterialComponents_Tooltip = global::RemindRx.Droid.Resource.Style.Widget_MaterialComponents_Tooltip;
+			global::Rg.Plugins.Popup.Resource.Style.Widget_Support_CoordinatorLayout = global::RemindRx.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar = global::RemindRx.Droid.Resource.Styleable.ActionBar;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBarLayout = global::RemindRx.Droid.Resource.Styleable.ActionBarLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::RemindRx.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_background = global::RemindRx.Droid.Resource.Styleable.ActionBar_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_backgroundSplit = global::RemindRx.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_backgroundStacked = global::RemindRx.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetEnd = global::RemindRx.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::RemindRx.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetLeft = global::RemindRx.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetRight = global::RemindRx.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetStart = global::RemindRx.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::RemindRx.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_customNavigationLayout = global::RemindRx.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_displayOptions = global::RemindRx.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_divider = global::RemindRx.Droid.Resource.Styleable.ActionBar_divider;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_elevation = global::RemindRx.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_height = global::RemindRx.Droid.Resource.Styleable.ActionBar_height;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_hideOnContentScroll = global::RemindRx.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_homeAsUpIndicator = global::RemindRx.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_homeLayout = global::RemindRx.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_icon = global::RemindRx.Droid.Resource.Styleable.ActionBar_icon;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::RemindRx.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_itemPadding = global::RemindRx.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_logo = global::RemindRx.Droid.Resource.Styleable.ActionBar_logo;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_navigationMode = global::RemindRx.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_popupTheme = global::RemindRx.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_progressBarPadding = global::RemindRx.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_progressBarStyle = global::RemindRx.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_subtitle = global::RemindRx.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_subtitleTextStyle = global::RemindRx.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_title = global::RemindRx.Droid.Resource.Styleable.ActionBar_title;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionBar_titleTextStyle = global::RemindRx.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMenuItemView = global::RemindRx.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMenuItemView_android_minWidth = global::RemindRx.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMenuView = global::RemindRx.Droid.Resource.Styleable.ActionMenuView;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode = global::RemindRx.Droid.Resource.Styleable.ActionMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_background = global::RemindRx.Droid.Resource.Styleable.ActionMode_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_backgroundSplit = global::RemindRx.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_closeItemLayout = global::RemindRx.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_height = global::RemindRx.Droid.Resource.Styleable.ActionMode_height;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_subtitleTextStyle = global::RemindRx.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActionMode_titleTextStyle = global::RemindRx.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActivityChooserView = global::RemindRx.Droid.Resource.Styleable.ActivityChooserView;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::RemindRx.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.ActivityChooserView_initialActivityCount = global::RemindRx.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog = global::RemindRx.Droid.Resource.Styleable.AlertDialog;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_android_layout = global::RemindRx.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_buttonIconDimen = global::RemindRx.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::RemindRx.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_listItemLayout = global::RemindRx.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_listLayout = global::RemindRx.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::RemindRx.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_showTitle = global::RemindRx.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::RemindRx.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat = global::RemindRx.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::RemindRx.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::RemindRx.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::RemindRx.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::RemindRx.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::RemindRx.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::RemindRx.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableItem = global::RemindRx.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::RemindRx.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::RemindRx.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableTransition = global::RemindRx.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::RemindRx.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::RemindRx.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::RemindRx.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::Rg.Plugins.Popup.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::RemindRx.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout = global::RemindRx.Droid.Resource.Styleable.AppBarLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayoutStates = global::RemindRx.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::RemindRx.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::RemindRx.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayoutStates_state_liftable = global::RemindRx.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayoutStates_state_lifted = global::RemindRx.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_android_background = global::RemindRx.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::RemindRx.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::RemindRx.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_elevation = global::RemindRx.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_expanded = global::RemindRx.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_Layout = global::RemindRx.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::RemindRx.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::RemindRx.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_liftOnScroll = global::RemindRx.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId = global::RemindRx.Droid.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppBarLayout_statusBarForeground = global::RemindRx.Droid.Resource.Styleable.AppBarLayout_statusBarForeground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatImageView = global::RemindRx.Droid.Resource.Styleable.AppCompatImageView;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatImageView_android_src = global::RemindRx.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatImageView_srcCompat = global::RemindRx.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatImageView_tint = global::RemindRx.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatImageView_tintMode = global::RemindRx.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatSeekBar = global::RemindRx.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatSeekBar_android_thumb = global::RemindRx.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatSeekBar_tickMark = global::RemindRx.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::RemindRx.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::RemindRx.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper = global::RemindRx.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::RemindRx.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::RemindRx.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::RemindRx.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::RemindRx.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::RemindRx.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::RemindRx.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::RemindRx.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_android_textAppearance = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_drawableEndCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_drawableRightCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_drawableStartCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableTint = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_drawableTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableTintMode = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_drawableTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_drawableTopCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_fontFamily = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_fontVariationSettings;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_lineHeight = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_textAllCaps = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTextView_textLocale = global::RemindRx.Droid.Resource.Styleable.AppCompatTextView_textLocale;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarDivider = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarSize = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarTheme = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeBackground = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_checkboxStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorAccent = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorControlActivated = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorControlNormal = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorError = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorPrimary = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_controlBackground = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dialogTheme = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dividerVertical = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_editTextBackground = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_editTextColor = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_editTextStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_panelBackground = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_searchViewStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_seekBarStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_spinnerStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_switchStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_toolbarStyle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowActionBar = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Rg.Plugins.Popup.Resource.Styleable.AppCompatTheme_windowNoTitle = global::RemindRx.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.Badge = global::RemindRx.Droid.Resource.Styleable.Badge;
+			global::Rg.Plugins.Popup.Resource.Styleable.Badge_backgroundColor = global::RemindRx.Droid.Resource.Styleable.Badge_backgroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Badge_badgeGravity = global::RemindRx.Droid.Resource.Styleable.Badge_badgeGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.Badge_badgeTextColor = global::RemindRx.Droid.Resource.Styleable.Badge_badgeTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Badge_horizontalOffset = global::RemindRx.Droid.Resource.Styleable.Badge_horizontalOffset;
+			global::Rg.Plugins.Popup.Resource.Styleable.Badge_maxCharacterCount = global::RemindRx.Droid.Resource.Styleable.Badge_maxCharacterCount;
+			global::Rg.Plugins.Popup.Resource.Styleable.Badge_number = global::RemindRx.Droid.Resource.Styleable.Badge_number;
+			global::Rg.Plugins.Popup.Resource.Styleable.Badge_verticalOffset = global::RemindRx.Droid.Resource.Styleable.Badge_verticalOffset;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar = global::RemindRx.Droid.Resource.Styleable.BottomAppBar;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_backgroundTint = global::RemindRx.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_elevation = global::RemindRx.Droid.Resource.Styleable.BottomAppBar_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::RemindRx.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_fabAnimationMode = global::RemindRx.Droid.Resource.Styleable.BottomAppBar_fabAnimationMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_fabCradleMargin = global::RemindRx.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::RemindRx.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::RemindRx.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_hideOnScroll = global::RemindRx.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_paddingBottomSystemWindowInsets = global::RemindRx.Droid.Resource.Styleable.BottomAppBar_paddingBottomSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_paddingLeftSystemWindowInsets = global::RemindRx.Droid.Resource.Styleable.BottomAppBar_paddingLeftSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomAppBar_paddingRightSystemWindowInsets = global::RemindRx.Droid.Resource.Styleable.BottomAppBar_paddingRightSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomNavigationView = global::RemindRx.Droid.Resource.Styleable.BottomNavigationView;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::RemindRx.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout = global::RemindRx.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation = global::RemindRx.Droid.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint = global::RemindRx.Droid.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_draggable = global::RemindRx.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_draggable;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset = global::RemindRx.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::RemindRx.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio = global::RemindRx.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::RemindRx.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::RemindRx.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags = global::RemindRx.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::RemindRx.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_gestureInsetBottomIgnored = global::RemindRx.Droid.Resource.Styleable.BottomSheetBehavior_Layout_gestureInsetBottomIgnored;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance = global::RemindRx.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay = global::RemindRx.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.ButtonBarLayout = global::RemindRx.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ButtonBarLayout_allowStacking = global::RemindRx.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView = global::RemindRx.Droid.Resource.Styleable.CardView;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_android_minHeight = global::RemindRx.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_android_minWidth = global::RemindRx.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardBackgroundColor = global::RemindRx.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardCornerRadius = global::RemindRx.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardElevation = global::RemindRx.Droid.Resource.Styleable.CardView_cardElevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardMaxElevation = global::RemindRx.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardPreventCornerOverlap = global::RemindRx.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_cardUseCompatPadding = global::RemindRx.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_contentPadding = global::RemindRx.Droid.Resource.Styleable.CardView_contentPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_contentPaddingBottom = global::RemindRx.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_contentPaddingLeft = global::RemindRx.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_contentPaddingRight = global::RemindRx.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.CardView_contentPaddingTop = global::RemindRx.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip = global::RemindRx.Droid.Resource.Styleable.Chip;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup = global::RemindRx.Droid.Resource.Styleable.ChipGroup;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_checkedChip = global::RemindRx.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_chipSpacing = global::RemindRx.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::RemindRx.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_chipSpacingVertical = global::RemindRx.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_selectionRequired = global::RemindRx.Droid.Resource.Styleable.ChipGroup_selectionRequired;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_singleLine = global::RemindRx.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::Rg.Plugins.Popup.Resource.Styleable.ChipGroup_singleSelection = global::RemindRx.Droid.Resource.Styleable.ChipGroup_singleSelection;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_checkable = global::RemindRx.Droid.Resource.Styleable.Chip_android_checkable;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_ellipsize = global::RemindRx.Droid.Resource.Styleable.Chip_android_ellipsize;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_maxWidth = global::RemindRx.Droid.Resource.Styleable.Chip_android_maxWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_text = global::RemindRx.Droid.Resource.Styleable.Chip_android_text;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_textAppearance = global::RemindRx.Droid.Resource.Styleable.Chip_android_textAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_android_textColor = global::RemindRx.Droid.Resource.Styleable.Chip_android_textColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_checkedIcon = global::RemindRx.Droid.Resource.Styleable.Chip_checkedIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_checkedIconEnabled = global::RemindRx.Droid.Resource.Styleable.Chip_checkedIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_checkedIconTint = global::RemindRx.Droid.Resource.Styleable.Chip_checkedIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_checkedIconVisible = global::RemindRx.Droid.Resource.Styleable.Chip_checkedIconVisible;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipBackgroundColor = global::RemindRx.Droid.Resource.Styleable.Chip_chipBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipCornerRadius = global::RemindRx.Droid.Resource.Styleable.Chip_chipCornerRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipEndPadding = global::RemindRx.Droid.Resource.Styleable.Chip_chipEndPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipIcon = global::RemindRx.Droid.Resource.Styleable.Chip_chipIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipIconEnabled = global::RemindRx.Droid.Resource.Styleable.Chip_chipIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipIconSize = global::RemindRx.Droid.Resource.Styleable.Chip_chipIconSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipIconTint = global::RemindRx.Droid.Resource.Styleable.Chip_chipIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipIconVisible = global::RemindRx.Droid.Resource.Styleable.Chip_chipIconVisible;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipMinHeight = global::RemindRx.Droid.Resource.Styleable.Chip_chipMinHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipMinTouchTargetSize = global::RemindRx.Droid.Resource.Styleable.Chip_chipMinTouchTargetSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipStartPadding = global::RemindRx.Droid.Resource.Styleable.Chip_chipStartPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipStrokeColor = global::RemindRx.Droid.Resource.Styleable.Chip_chipStrokeColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipStrokeWidth = global::RemindRx.Droid.Resource.Styleable.Chip_chipStrokeWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_chipSurfaceColor = global::RemindRx.Droid.Resource.Styleable.Chip_chipSurfaceColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIcon = global::RemindRx.Droid.Resource.Styleable.Chip_closeIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconEnabled = global::RemindRx.Droid.Resource.Styleable.Chip_closeIconEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconEndPadding = global::RemindRx.Droid.Resource.Styleable.Chip_closeIconEndPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconSize = global::RemindRx.Droid.Resource.Styleable.Chip_closeIconSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconStartPadding = global::RemindRx.Droid.Resource.Styleable.Chip_closeIconStartPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconTint = global::RemindRx.Droid.Resource.Styleable.Chip_closeIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_closeIconVisible = global::RemindRx.Droid.Resource.Styleable.Chip_closeIconVisible;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_ensureMinTouchTargetSize = global::RemindRx.Droid.Resource.Styleable.Chip_ensureMinTouchTargetSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_hideMotionSpec = global::RemindRx.Droid.Resource.Styleable.Chip_hideMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_iconEndPadding = global::RemindRx.Droid.Resource.Styleable.Chip_iconEndPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_iconStartPadding = global::RemindRx.Droid.Resource.Styleable.Chip_iconStartPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_rippleColor = global::RemindRx.Droid.Resource.Styleable.Chip_rippleColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_shapeAppearance = global::RemindRx.Droid.Resource.Styleable.Chip_shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_shapeAppearanceOverlay = global::RemindRx.Droid.Resource.Styleable.Chip_shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_showMotionSpec = global::RemindRx.Droid.Resource.Styleable.Chip_showMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_textEndPadding = global::RemindRx.Droid.Resource.Styleable.Chip_textEndPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Chip_textStartPadding = global::RemindRx.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_Layout = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_maxLines = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_maxLines;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_title = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::RemindRx.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Rg.Plugins.Popup.Resource.Styleable.ColorStateListItem = global::RemindRx.Droid.Resource.Styleable.ColorStateListItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.ColorStateListItem_alpha = global::RemindRx.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Rg.Plugins.Popup.Resource.Styleable.ColorStateListItem_android_alpha = global::RemindRx.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Rg.Plugins.Popup.Resource.Styleable.ColorStateListItem_android_color = global::RemindRx.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Rg.Plugins.Popup.Resource.Styleable.CompoundButton = global::RemindRx.Droid.Resource.Styleable.CompoundButton;
+			global::Rg.Plugins.Popup.Resource.Styleable.CompoundButton_android_button = global::RemindRx.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Rg.Plugins.Popup.Resource.Styleable.CompoundButton_buttonCompat = global::RemindRx.Droid.Resource.Styleable.CompoundButton_buttonCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.CompoundButton_buttonTint = global::RemindRx.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.CompoundButton_buttonTintMode = global::RemindRx.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout = global::RemindRx.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_keylines = global::RemindRx.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout = global::RemindRx.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::RemindRx.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::RemindRx.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::RemindRx.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::RemindRx.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::RemindRx.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::RemindRx.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::RemindRx.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Rg.Plugins.Popup.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::RemindRx.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle = global::RemindRx.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::RemindRx.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::RemindRx.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_barLength = global::RemindRx.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_color = global::RemindRx.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_drawableSize = global::RemindRx.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::RemindRx.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_spinBars = global::RemindRx.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerArrowToggle_thickness = global::RemindRx.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerLayout = global::RemindRx.Droid.Resource.Styleable.DrawerLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.DrawerLayout_elevation = global::RemindRx.Droid.Resource.Styleable.DrawerLayout_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton = global::RemindRx.Droid.Resource.Styleable.ExtendedFloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout = global::RemindRx.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide = global::RemindRx.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink = global::RemindRx.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton_elevation = global::RemindRx.Droid.Resource.Styleable.ExtendedFloatingActionButton_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec = global::RemindRx.Droid.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec = global::RemindRx.Droid.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec = global::RemindRx.Droid.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec = global::RemindRx.Droid.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_android_enabled = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_android_enabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_backgroundTint = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_borderWidth = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_elevation = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_fabCustomSize = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_fabSize = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_maxImageSize = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_rippleColor = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_shapeAppearance = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_showMotionSpec = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::Rg.Plugins.Popup.Resource.Styleable.FloatingActionButton_useCompatPadding = global::RemindRx.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.FlowLayout = global::RemindRx.Droid.Resource.Styleable.FlowLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.FlowLayout_itemSpacing = global::RemindRx.Droid.Resource.Styleable.FlowLayout_itemSpacing;
+			global::Rg.Plugins.Popup.Resource.Styleable.FlowLayout_lineSpacing = global::RemindRx.Droid.Resource.Styleable.FlowLayout_lineSpacing;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily = global::RemindRx.Droid.Resource.Styleable.FontFamily;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont = global::RemindRx.Droid.Resource.Styleable.FontFamilyFont;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_android_font = global::RemindRx.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_android_fontStyle = global::RemindRx.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::RemindRx.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_android_fontWeight = global::RemindRx.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::RemindRx.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_font = global::RemindRx.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_fontStyle = global::RemindRx.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::RemindRx.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_fontWeight = global::RemindRx.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamilyFont_ttcIndex = global::RemindRx.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderAuthority = global::RemindRx.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderCerts = global::RemindRx.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::RemindRx.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::RemindRx.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderPackage = global::RemindRx.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Rg.Plugins.Popup.Resource.Styleable.FontFamily_fontProviderQuery = global::RemindRx.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Rg.Plugins.Popup.Resource.Styleable.ForegroundLinearLayout = global::RemindRx.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::RemindRx.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Rg.Plugins.Popup.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::RemindRx.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::RemindRx.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Fragment = global::RemindRx.Droid.Resource.Styleable.Fragment;
+			global::Rg.Plugins.Popup.Resource.Styleable.FragmentContainerView = global::RemindRx.Droid.Resource.Styleable.FragmentContainerView;
+			global::Rg.Plugins.Popup.Resource.Styleable.FragmentContainerView_android_name = global::RemindRx.Droid.Resource.Styleable.FragmentContainerView_android_name;
+			global::Rg.Plugins.Popup.Resource.Styleable.FragmentContainerView_android_tag = global::RemindRx.Droid.Resource.Styleable.FragmentContainerView_android_tag;
+			global::Rg.Plugins.Popup.Resource.Styleable.Fragment_android_id = global::RemindRx.Droid.Resource.Styleable.Fragment_android_id;
+			global::Rg.Plugins.Popup.Resource.Styleable.Fragment_android_name = global::RemindRx.Droid.Resource.Styleable.Fragment_android_name;
+			global::Rg.Plugins.Popup.Resource.Styleable.Fragment_android_tag = global::RemindRx.Droid.Resource.Styleable.Fragment_android_tag;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor = global::RemindRx.Droid.Resource.Styleable.GradientColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColorItem = global::RemindRx.Droid.Resource.Styleable.GradientColorItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColorItem_android_color = global::RemindRx.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColorItem_android_offset = global::RemindRx.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_centerColor = global::RemindRx.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_centerX = global::RemindRx.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_centerY = global::RemindRx.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_endColor = global::RemindRx.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_endX = global::RemindRx.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_endY = global::RemindRx.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_gradientRadius = global::RemindRx.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_startColor = global::RemindRx.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_startX = global::RemindRx.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_startY = global::RemindRx.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_tileMode = global::RemindRx.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.GradientColor_android_type = global::RemindRx.Droid.Resource.Styleable.GradientColor_android_type;
+			global::Rg.Plugins.Popup.Resource.Styleable.Insets = global::RemindRx.Droid.Resource.Styleable.Insets;
+			global::Rg.Plugins.Popup.Resource.Styleable.Insets_paddingBottomSystemWindowInsets = global::RemindRx.Droid.Resource.Styleable.Insets_paddingBottomSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Styleable.Insets_paddingLeftSystemWindowInsets = global::RemindRx.Droid.Resource.Styleable.Insets_paddingLeftSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Styleable.Insets_paddingRightSystemWindowInsets = global::RemindRx.Droid.Resource.Styleable.Insets_paddingRightSystemWindowInsets;
+			global::Rg.Plugins.Popup.Resource.Styleable.ItemsViewRendererTheme = global::RemindRx.Droid.Resource.Styleable.ItemsViewRendererTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle = global::RemindRx.Droid.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat = global::RemindRx.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::RemindRx.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::RemindRx.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_android_gravity = global::RemindRx.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_android_orientation = global::RemindRx.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::RemindRx.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_divider = global::RemindRx.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::RemindRx.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_Layout = global::RemindRx.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::RemindRx.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::RemindRx.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::RemindRx.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::RemindRx.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::RemindRx.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Rg.Plugins.Popup.Resource.Styleable.LinearLayoutCompat_showDividers = global::RemindRx.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Rg.Plugins.Popup.Resource.Styleable.ListPopupWindow = global::RemindRx.Droid.Resource.Styleable.ListPopupWindow;
+			global::Rg.Plugins.Popup.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::RemindRx.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Rg.Plugins.Popup.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::RemindRx.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialog = global::RemindRx.Droid.Resource.Styleable.MaterialAlertDialog;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialogTheme = global::RemindRx.Droid.Resource.Styleable.MaterialAlertDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle = global::RemindRx.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme = global::RemindRx.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle = global::RemindRx.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle = global::RemindRx.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle = global::RemindRx.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom = global::RemindRx.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd = global::RemindRx.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart = global::RemindRx.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop = global::RemindRx.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAutoCompleteTextView = global::RemindRx.Droid.Resource.Styleable.MaterialAutoCompleteTextView;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialAutoCompleteTextView_android_inputType = global::RemindRx.Droid.Resource.Styleable.MaterialAutoCompleteTextView_android_inputType;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton = global::RemindRx.Droid.Resource.Styleable.MaterialButton;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButtonToggleGroup = global::RemindRx.Droid.Resource.Styleable.MaterialButtonToggleGroup;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButtonToggleGroup_checkedButton = global::RemindRx.Droid.Resource.Styleable.MaterialButtonToggleGroup_checkedButton;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButtonToggleGroup_selectionRequired = global::RemindRx.Droid.Resource.Styleable.MaterialButtonToggleGroup_selectionRequired;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButtonToggleGroup_singleSelection = global::RemindRx.Droid.Resource.Styleable.MaterialButtonToggleGroup_singleSelection;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_android_background = global::RemindRx.Droid.Resource.Styleable.MaterialButton_android_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_android_checkable = global::RemindRx.Droid.Resource.Styleable.MaterialButton_android_checkable;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_android_insetBottom = global::RemindRx.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_android_insetLeft = global::RemindRx.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_android_insetRight = global::RemindRx.Droid.Resource.Styleable.MaterialButton_android_insetRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_android_insetTop = global::RemindRx.Droid.Resource.Styleable.MaterialButton_android_insetTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_backgroundTint = global::RemindRx.Droid.Resource.Styleable.MaterialButton_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_backgroundTintMode = global::RemindRx.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_cornerRadius = global::RemindRx.Droid.Resource.Styleable.MaterialButton_cornerRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_elevation = global::RemindRx.Droid.Resource.Styleable.MaterialButton_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_icon = global::RemindRx.Droid.Resource.Styleable.MaterialButton_icon;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_iconGravity = global::RemindRx.Droid.Resource.Styleable.MaterialButton_iconGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_iconPadding = global::RemindRx.Droid.Resource.Styleable.MaterialButton_iconPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_iconSize = global::RemindRx.Droid.Resource.Styleable.MaterialButton_iconSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_iconTint = global::RemindRx.Droid.Resource.Styleable.MaterialButton_iconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_iconTintMode = global::RemindRx.Droid.Resource.Styleable.MaterialButton_iconTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_rippleColor = global::RemindRx.Droid.Resource.Styleable.MaterialButton_rippleColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_shapeAppearance = global::RemindRx.Droid.Resource.Styleable.MaterialButton_shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_shapeAppearanceOverlay = global::RemindRx.Droid.Resource.Styleable.MaterialButton_shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_strokeColor = global::RemindRx.Droid.Resource.Styleable.MaterialButton_strokeColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialButton_strokeWidth = global::RemindRx.Droid.Resource.Styleable.MaterialButton_strokeWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar = global::RemindRx.Droid.Resource.Styleable.MaterialCalendar;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem = global::RemindRx.Droid.Resource.Styleable.MaterialCalendarItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_android_insetBottom = global::RemindRx.Droid.Resource.Styleable.MaterialCalendarItem_android_insetBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_android_insetLeft = global::RemindRx.Droid.Resource.Styleable.MaterialCalendarItem_android_insetLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_android_insetRight = global::RemindRx.Droid.Resource.Styleable.MaterialCalendarItem_android_insetRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_android_insetTop = global::RemindRx.Droid.Resource.Styleable.MaterialCalendarItem_android_insetTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_itemFillColor = global::RemindRx.Droid.Resource.Styleable.MaterialCalendarItem_itemFillColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance = global::RemindRx.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay = global::RemindRx.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_itemStrokeColor = global::RemindRx.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth = global::RemindRx.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendarItem_itemTextColor = global::RemindRx.Droid.Resource.Styleable.MaterialCalendarItem_itemTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_android_windowFullscreen = global::RemindRx.Droid.Resource.Styleable.MaterialCalendar_android_windowFullscreen;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_dayInvalidStyle = global::RemindRx.Droid.Resource.Styleable.MaterialCalendar_dayInvalidStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_daySelectedStyle = global::RemindRx.Droid.Resource.Styleable.MaterialCalendar_daySelectedStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_dayStyle = global::RemindRx.Droid.Resource.Styleable.MaterialCalendar_dayStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_dayTodayStyle = global::RemindRx.Droid.Resource.Styleable.MaterialCalendar_dayTodayStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_rangeFillColor = global::RemindRx.Droid.Resource.Styleable.MaterialCalendar_rangeFillColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_yearSelectedStyle = global::RemindRx.Droid.Resource.Styleable.MaterialCalendar_yearSelectedStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_yearStyle = global::RemindRx.Droid.Resource.Styleable.MaterialCalendar_yearStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCalendar_yearTodayStyle = global::RemindRx.Droid.Resource.Styleable.MaterialCalendar_yearTodayStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView = global::RemindRx.Droid.Resource.Styleable.MaterialCardView;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_android_checkable = global::RemindRx.Droid.Resource.Styleable.MaterialCardView_android_checkable;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_cardForegroundColor = global::RemindRx.Droid.Resource.Styleable.MaterialCardView_cardForegroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_checkedIcon = global::RemindRx.Droid.Resource.Styleable.MaterialCardView_checkedIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_checkedIconTint = global::RemindRx.Droid.Resource.Styleable.MaterialCardView_checkedIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_rippleColor = global::RemindRx.Droid.Resource.Styleable.MaterialCardView_rippleColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_shapeAppearance = global::RemindRx.Droid.Resource.Styleable.MaterialCardView_shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay = global::RemindRx.Droid.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_state_dragged = global::RemindRx.Droid.Resource.Styleable.MaterialCardView_state_dragged;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_strokeColor = global::RemindRx.Droid.Resource.Styleable.MaterialCardView_strokeColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCardView_strokeWidth = global::RemindRx.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCheckBox = global::RemindRx.Droid.Resource.Styleable.MaterialCheckBox;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCheckBox_buttonTint = global::RemindRx.Droid.Resource.Styleable.MaterialCheckBox_buttonTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors = global::RemindRx.Droid.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialRadioButton = global::RemindRx.Droid.Resource.Styleable.MaterialRadioButton;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialRadioButton_buttonTint = global::RemindRx.Droid.Resource.Styleable.MaterialRadioButton_buttonTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors = global::RemindRx.Droid.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialShape = global::RemindRx.Droid.Resource.Styleable.MaterialShape;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialShape_shapeAppearance = global::RemindRx.Droid.Resource.Styleable.MaterialShape_shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialShape_shapeAppearanceOverlay = global::RemindRx.Droid.Resource.Styleable.MaterialShape_shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialTextAppearance = global::RemindRx.Droid.Resource.Styleable.MaterialTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialTextAppearance_android_lineHeight = global::RemindRx.Droid.Resource.Styleable.MaterialTextAppearance_android_lineHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialTextAppearance_lineHeight = global::RemindRx.Droid.Resource.Styleable.MaterialTextAppearance_lineHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialTextView = global::RemindRx.Droid.Resource.Styleable.MaterialTextView;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialTextView_android_lineHeight = global::RemindRx.Droid.Resource.Styleable.MaterialTextView_android_lineHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialTextView_android_textAppearance = global::RemindRx.Droid.Resource.Styleable.MaterialTextView_android_textAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.MaterialTextView_lineHeight = global::RemindRx.Droid.Resource.Styleable.MaterialTextView_lineHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup = global::RemindRx.Droid.Resource.Styleable.MenuGroup;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_checkableBehavior = global::RemindRx.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_enabled = global::RemindRx.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_id = global::RemindRx.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_menuCategory = global::RemindRx.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_orderInCategory = global::RemindRx.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuGroup_android_visible = global::RemindRx.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem = global::RemindRx.Droid.Resource.Styleable.MenuItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_actionLayout = global::RemindRx.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_actionProviderClass = global::RemindRx.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_actionViewClass = global::RemindRx.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_alphabeticModifiers = global::RemindRx.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::RemindRx.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_checkable = global::RemindRx.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_checked = global::RemindRx.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_enabled = global::RemindRx.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_icon = global::RemindRx.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_id = global::RemindRx.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_menuCategory = global::RemindRx.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_numericShortcut = global::RemindRx.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_onClick = global::RemindRx.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_orderInCategory = global::RemindRx.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_title = global::RemindRx.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_titleCondensed = global::RemindRx.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_android_visible = global::RemindRx.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_contentDescription = global::RemindRx.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_iconTint = global::RemindRx.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_iconTintMode = global::RemindRx.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_numericModifiers = global::RemindRx.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_showAsAction = global::RemindRx.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuItem_tooltipText = global::RemindRx.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView = global::RemindRx.Droid.Resource.Styleable.MenuView;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_headerBackground = global::RemindRx.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_horizontalDivider = global::RemindRx.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_itemBackground = global::RemindRx.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::RemindRx.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_itemTextAppearance = global::RemindRx.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_verticalDivider = global::RemindRx.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_android_windowAnimationStyle = global::RemindRx.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_preserveIconSpacing = global::RemindRx.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Rg.Plugins.Popup.Resource.Styleable.MenuView_subMenuArrow = global::RemindRx.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView = global::RemindRx.Droid.Resource.Styleable.NavigationView;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_android_background = global::RemindRx.Droid.Resource.Styleable.NavigationView_android_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::RemindRx.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_android_maxWidth = global::RemindRx.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_elevation = global::RemindRx.Droid.Resource.Styleable.NavigationView_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_headerLayout = global::RemindRx.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemBackground = global::RemindRx.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemHorizontalPadding = global::RemindRx.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemIconPadding = global::RemindRx.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemIconSize = global::RemindRx.Droid.Resource.Styleable.NavigationView_itemIconSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemIconTint = global::RemindRx.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemMaxLines = global::RemindRx.Droid.Resource.Styleable.NavigationView_itemMaxLines;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemShapeAppearance = global::RemindRx.Droid.Resource.Styleable.NavigationView_itemShapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay = global::RemindRx.Droid.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemShapeFillColor = global::RemindRx.Droid.Resource.Styleable.NavigationView_itemShapeFillColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemShapeInsetBottom = global::RemindRx.Droid.Resource.Styleable.NavigationView_itemShapeInsetBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemShapeInsetEnd = global::RemindRx.Droid.Resource.Styleable.NavigationView_itemShapeInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemShapeInsetStart = global::RemindRx.Droid.Resource.Styleable.NavigationView_itemShapeInsetStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemShapeInsetTop = global::RemindRx.Droid.Resource.Styleable.NavigationView_itemShapeInsetTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemTextAppearance = global::RemindRx.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_itemTextColor = global::RemindRx.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.NavigationView_menu = global::RemindRx.Droid.Resource.Styleable.NavigationView_menu;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindow = global::RemindRx.Droid.Resource.Styleable.PopupWindow;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindowBackgroundState = global::RemindRx.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::RemindRx.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::RemindRx.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindow_android_popupBackground = global::RemindRx.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.PopupWindow_overlapAnchor = global::RemindRx.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Rg.Plugins.Popup.Resource.Styleable.RangeSlider = global::RemindRx.Droid.Resource.Styleable.RangeSlider;
+			global::Rg.Plugins.Popup.Resource.Styleable.RangeSlider_values = global::RemindRx.Droid.Resource.Styleable.RangeSlider_values;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecycleListView = global::RemindRx.Droid.Resource.Styleable.RecycleListView;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::RemindRx.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::RemindRx.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView = global::RemindRx.Droid.Resource.Styleable.RecyclerView;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_android_clipToPadding = global::RemindRx.Droid.Resource.Styleable.RecyclerView_android_clipToPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_android_descendantFocusability = global::RemindRx.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_android_orientation = global::RemindRx.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_fastScrollEnabled = global::RemindRx.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::RemindRx.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::RemindRx.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::RemindRx.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::RemindRx.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_layoutManager = global::RemindRx.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_reverseLayout = global::RemindRx.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_spanCount = global::RemindRx.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Rg.Plugins.Popup.Resource.Styleable.RecyclerView_stackFromEnd = global::RemindRx.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.ScrimInsetsFrameLayout = global::RemindRx.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::RemindRx.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Rg.Plugins.Popup.Resource.Styleable.ScrollingViewBehavior_Layout = global::RemindRx.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::RemindRx.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.ScrollViewRendererTheme = global::RemindRx.Droid.Resource.Styleable.ScrollViewRendererTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.ScrollViewRendererTheme_scrollViewStyle = global::RemindRx.Droid.Resource.Styleable.ScrollViewRendererTheme_scrollViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView = global::RemindRx.Droid.Resource.Styleable.SearchView;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_android_focusable = global::RemindRx.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_android_imeOptions = global::RemindRx.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_android_inputType = global::RemindRx.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_android_maxWidth = global::RemindRx.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_closeIcon = global::RemindRx.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_commitIcon = global::RemindRx.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_defaultQueryHint = global::RemindRx.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_goIcon = global::RemindRx.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_iconifiedByDefault = global::RemindRx.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_layout = global::RemindRx.Droid.Resource.Styleable.SearchView_layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_queryBackground = global::RemindRx.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_queryHint = global::RemindRx.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_searchHintIcon = global::RemindRx.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_searchIcon = global::RemindRx.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_submitBackground = global::RemindRx.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_suggestionRowLayout = global::RemindRx.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.SearchView_voiceIcon = global::RemindRx.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeableImageView = global::RemindRx.Droid.Resource.Styleable.ShapeableImageView;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeableImageView_shapeAppearance = global::RemindRx.Droid.Resource.Styleable.ShapeableImageView_shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeableImageView_shapeAppearanceOverlay = global::RemindRx.Droid.Resource.Styleable.ShapeableImageView_shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeableImageView_strokeColor = global::RemindRx.Droid.Resource.Styleable.ShapeableImageView_strokeColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeableImageView_strokeWidth = global::RemindRx.Droid.Resource.Styleable.ShapeableImageView_strokeWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance = global::RemindRx.Droid.Resource.Styleable.ShapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerFamily = global::RemindRx.Droid.Resource.Styleable.ShapeAppearance_cornerFamily;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft = global::RemindRx.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight = global::RemindRx.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft = global::RemindRx.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight = global::RemindRx.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerSize = global::RemindRx.Droid.Resource.Styleable.ShapeAppearance_cornerSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft = global::RemindRx.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight = global::RemindRx.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft = global::RemindRx.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.ShapeAppearance_cornerSizeTopRight = global::RemindRx.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider = global::RemindRx.Droid.Resource.Styleable.Slider;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_android_enabled = global::RemindRx.Droid.Resource.Styleable.Slider_android_enabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_android_stepSize = global::RemindRx.Droid.Resource.Styleable.Slider_android_stepSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_android_value = global::RemindRx.Droid.Resource.Styleable.Slider_android_value;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_android_valueFrom = global::RemindRx.Droid.Resource.Styleable.Slider_android_valueFrom;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_android_valueTo = global::RemindRx.Droid.Resource.Styleable.Slider_android_valueTo;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_haloColor = global::RemindRx.Droid.Resource.Styleable.Slider_haloColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_haloRadius = global::RemindRx.Droid.Resource.Styleable.Slider_haloRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_labelBehavior = global::RemindRx.Droid.Resource.Styleable.Slider_labelBehavior;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_labelStyle = global::RemindRx.Droid.Resource.Styleable.Slider_labelStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_thumbColor = global::RemindRx.Droid.Resource.Styleable.Slider_thumbColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_thumbElevation = global::RemindRx.Droid.Resource.Styleable.Slider_thumbElevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_thumbRadius = global::RemindRx.Droid.Resource.Styleable.Slider_thumbRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_tickColor = global::RemindRx.Droid.Resource.Styleable.Slider_tickColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_tickColorActive = global::RemindRx.Droid.Resource.Styleable.Slider_tickColorActive;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_tickColorInactive = global::RemindRx.Droid.Resource.Styleable.Slider_tickColorInactive;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_trackColor = global::RemindRx.Droid.Resource.Styleable.Slider_trackColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_trackColorActive = global::RemindRx.Droid.Resource.Styleable.Slider_trackColorActive;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_trackColorInactive = global::RemindRx.Droid.Resource.Styleable.Slider_trackColorInactive;
+			global::Rg.Plugins.Popup.Resource.Styleable.Slider_trackHeight = global::RemindRx.Droid.Resource.Styleable.Slider_trackHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Snackbar = global::RemindRx.Droid.Resource.Styleable.Snackbar;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout = global::RemindRx.Droid.Resource.Styleable.SnackbarLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_actionTextColorAlpha = global::RemindRx.Droid.Resource.Styleable.SnackbarLayout_actionTextColorAlpha;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_android_maxWidth = global::RemindRx.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_animationMode = global::RemindRx.Droid.Resource.Styleable.SnackbarLayout_animationMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha = global::RemindRx.Droid.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_backgroundTint = global::RemindRx.Droid.Resource.Styleable.SnackbarLayout_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_backgroundTintMode = global::RemindRx.Droid.Resource.Styleable.SnackbarLayout_backgroundTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_elevation = global::RemindRx.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::Rg.Plugins.Popup.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::RemindRx.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.Snackbar_snackbarButtonStyle = global::RemindRx.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.Snackbar_snackbarStyle = global::RemindRx.Droid.Resource.Styleable.Snackbar_snackbarStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.Snackbar_snackbarTextViewStyle = global::RemindRx.Droid.Resource.Styleable.Snackbar_snackbarTextViewStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner = global::RemindRx.Droid.Resource.Styleable.Spinner;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner_android_dropDownWidth = global::RemindRx.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner_android_entries = global::RemindRx.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner_android_popupBackground = global::RemindRx.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner_android_prompt = global::RemindRx.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Rg.Plugins.Popup.Resource.Styleable.Spinner_popupTheme = global::RemindRx.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable = global::RemindRx.Droid.Resource.Styleable.StateListDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawableItem = global::RemindRx.Droid.Resource.Styleable.StateListDrawableItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawableItem_android_drawable = global::RemindRx.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_constantSize = global::RemindRx.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_dither = global::RemindRx.Droid.Resource.Styleable.StateListDrawable_android_dither;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::RemindRx.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::RemindRx.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_variablePadding = global::RemindRx.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.StateListDrawable_android_visible = global::RemindRx.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwipeRefreshLayout = global::RemindRx.Droid.Resource.Styleable.SwipeRefreshLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwipeRefreshLayout_swipeRefreshLayoutProgressSpinnerBackgroundColor = global::RemindRx.Droid.Resource.Styleable.SwipeRefreshLayout_swipeRefreshLayoutProgressSpinnerBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat = global::RemindRx.Droid.Resource.Styleable.SwitchCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_android_textOff = global::RemindRx.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_android_textOn = global::RemindRx.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_android_thumb = global::RemindRx.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_showText = global::RemindRx.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_splitTrack = global::RemindRx.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_switchMinWidth = global::RemindRx.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_switchPadding = global::RemindRx.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_switchTextAppearance = global::RemindRx.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_thumbTextPadding = global::RemindRx.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_thumbTint = global::RemindRx.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_thumbTintMode = global::RemindRx.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_track = global::RemindRx.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_trackTint = global::RemindRx.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchCompat_trackTintMode = global::RemindRx.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchMaterial = global::RemindRx.Droid.Resource.Styleable.SwitchMaterial;
+			global::Rg.Plugins.Popup.Resource.Styleable.SwitchMaterial_useMaterialThemeColors = global::RemindRx.Droid.Resource.Styleable.SwitchMaterial_useMaterialThemeColors;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabItem = global::RemindRx.Droid.Resource.Styleable.TabItem;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabItem_android_icon = global::RemindRx.Droid.Resource.Styleable.TabItem_android_icon;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabItem_android_layout = global::RemindRx.Droid.Resource.Styleable.TabItem_android_layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabItem_android_text = global::RemindRx.Droid.Resource.Styleable.TabItem_android_text;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout = global::RemindRx.Droid.Resource.Styleable.TabLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabBackground = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabContentStart = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabGravity = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIconTint = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIconTintMode = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicator = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabIndicator;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicatorColor = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicatorGravity = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabIndicatorHeight = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabInlineLabel = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabMaxWidth = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabMinWidth = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabMode = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabPadding = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabPaddingBottom = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabPaddingEnd = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabPaddingStart = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabPaddingTop = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabRippleColor = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabRippleColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabSelectedTextColor = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabTextAppearance = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabTextColor = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TabLayout_tabUnboundedRipple = global::RemindRx.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance = global::RemindRx.Droid.Resource.Styleable.TextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_fontFamily = global::RemindRx.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_shadowColor = global::RemindRx.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_shadowDx = global::RemindRx.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_shadowDy = global::RemindRx.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_shadowRadius = global::RemindRx.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textColor = global::RemindRx.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textColorHint = global::RemindRx.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textColorLink = global::RemindRx.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textFontWeight = global::RemindRx.Droid.Resource.Styleable.TextAppearance_android_textFontWeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textSize = global::RemindRx.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_textStyle = global::RemindRx.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_android_typeface = global::RemindRx.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_fontFamily = global::RemindRx.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_fontVariationSettings = global::RemindRx.Droid.Resource.Styleable.TextAppearance_fontVariationSettings;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_textAllCaps = global::RemindRx.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextAppearance_textLocale = global::RemindRx.Droid.Resource.Styleable.TextAppearance_textLocale;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputEditText = global::RemindRx.Droid.Resource.Styleable.TextInputEditText;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputEditText_textInputLayoutFocusedRectEnabled = global::RemindRx.Droid.Resource.Styleable.TextInputEditText_textInputLayoutFocusedRectEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout = global::RemindRx.Droid.Resource.Styleable.TextInputLayout;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_android_enabled = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_android_enabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_android_hint = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_android_textColorHint = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxStrokeColor = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxStrokeErrorColor = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_boxStrokeErrorColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_counterEnabled = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_counterMaxLength = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_counterOverflowTextColor = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_counterTextAppearance = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_counterTextColor = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_counterTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_endIconCheckable = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_endIconCheckable;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_endIconContentDescription = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_endIconContentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_endIconDrawable = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_endIconDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_endIconMode = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_endIconMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_endIconTint = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_endIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_endIconTintMode = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_endIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_errorContentDescription = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_errorContentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_errorEnabled = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_errorIconDrawable = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_errorIconDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_errorIconTint = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_errorIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_errorIconTintMode = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_errorIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_errorTextAppearance = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_errorTextColor = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_errorTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_helperText = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_helperText;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_helperTextEnabled = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_helperTextTextColor = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_helperTextTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_hintEnabled = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_hintTextAppearance = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_hintTextColor = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_hintTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_passwordToggleTint = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_placeholderText = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_placeholderText;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_placeholderTextAppearance = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_placeholderTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_placeholderTextColor = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_placeholderTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_prefixText = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_prefixText;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_prefixTextAppearance = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_prefixTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_prefixTextColor = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_prefixTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_shapeAppearance = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_shapeAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_startIconCheckable = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_startIconCheckable;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_startIconContentDescription = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_startIconContentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_startIconDrawable = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_startIconDrawable;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_startIconTint = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_startIconTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_startIconTintMode = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_startIconTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_suffixText = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_suffixText;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_suffixTextAppearance = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_suffixTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.TextInputLayout_suffixTextColor = global::RemindRx.Droid.Resource.Styleable.TextInputLayout_suffixTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.ThemeEnforcement = global::RemindRx.Droid.Resource.Styleable.ThemeEnforcement;
+			global::Rg.Plugins.Popup.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::RemindRx.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::RemindRx.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::RemindRx.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar = global::RemindRx.Droid.Resource.Styleable.Toolbar;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_android_gravity = global::RemindRx.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_android_minHeight = global::RemindRx.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_buttonGravity = global::RemindRx.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_collapseContentDescription = global::RemindRx.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_collapseIcon = global::RemindRx.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetEnd = global::RemindRx.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::RemindRx.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetLeft = global::RemindRx.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetRight = global::RemindRx.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetStart = global::RemindRx.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::RemindRx.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_logo = global::RemindRx.Droid.Resource.Styleable.Toolbar_logo;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_logoDescription = global::RemindRx.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_maxButtonHeight = global::RemindRx.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_menu = global::RemindRx.Droid.Resource.Styleable.Toolbar_menu;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_navigationContentDescription = global::RemindRx.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_navigationIcon = global::RemindRx.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_popupTheme = global::RemindRx.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_subtitle = global::RemindRx.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_subtitleTextAppearance = global::RemindRx.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_subtitleTextColor = global::RemindRx.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_title = global::RemindRx.Droid.Resource.Styleable.Toolbar_title;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMargin = global::RemindRx.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMarginBottom = global::RemindRx.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMarginEnd = global::RemindRx.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMargins = global::RemindRx.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMarginStart = global::RemindRx.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleMarginTop = global::RemindRx.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleTextAppearance = global::RemindRx.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.Toolbar_titleTextColor = global::RemindRx.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Rg.Plugins.Popup.Resource.Styleable.Tooltip = global::RemindRx.Droid.Resource.Styleable.Tooltip;
+			global::Rg.Plugins.Popup.Resource.Styleable.Tooltip_android_layout_margin = global::RemindRx.Droid.Resource.Styleable.Tooltip_android_layout_margin;
+			global::Rg.Plugins.Popup.Resource.Styleable.Tooltip_android_minHeight = global::RemindRx.Droid.Resource.Styleable.Tooltip_android_minHeight;
+			global::Rg.Plugins.Popup.Resource.Styleable.Tooltip_android_minWidth = global::RemindRx.Droid.Resource.Styleable.Tooltip_android_minWidth;
+			global::Rg.Plugins.Popup.Resource.Styleable.Tooltip_android_padding = global::RemindRx.Droid.Resource.Styleable.Tooltip_android_padding;
+			global::Rg.Plugins.Popup.Resource.Styleable.Tooltip_android_text = global::RemindRx.Droid.Resource.Styleable.Tooltip_android_text;
+			global::Rg.Plugins.Popup.Resource.Styleable.Tooltip_android_textAppearance = global::RemindRx.Droid.Resource.Styleable.Tooltip_android_textAppearance;
+			global::Rg.Plugins.Popup.Resource.Styleable.Tooltip_backgroundTint = global::RemindRx.Droid.Resource.Styleable.Tooltip_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.View = global::RemindRx.Droid.Resource.Styleable.View;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewBackgroundHelper = global::RemindRx.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewBackgroundHelper_android_background = global::RemindRx.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::RemindRx.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::RemindRx.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewPager2 = global::RemindRx.Droid.Resource.Styleable.ViewPager2;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewPager2_android_orientation = global::RemindRx.Droid.Resource.Styleable.ViewPager2_android_orientation;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewStubCompat = global::RemindRx.Droid.Resource.Styleable.ViewStubCompat;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewStubCompat_android_id = global::RemindRx.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewStubCompat_android_inflatedId = global::RemindRx.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Rg.Plugins.Popup.Resource.Styleable.ViewStubCompat_android_layout = global::RemindRx.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Rg.Plugins.Popup.Resource.Styleable.View_android_focusable = global::RemindRx.Droid.Resource.Styleable.View_android_focusable;
+			global::Rg.Plugins.Popup.Resource.Styleable.View_android_theme = global::RemindRx.Droid.Resource.Styleable.View_android_theme;
+			global::Rg.Plugins.Popup.Resource.Styleable.View_paddingEnd = global::RemindRx.Droid.Resource.Styleable.View_paddingEnd;
+			global::Rg.Plugins.Popup.Resource.Styleable.View_paddingStart = global::RemindRx.Droid.Resource.Styleable.View_paddingStart;
+			global::Rg.Plugins.Popup.Resource.Styleable.View_theme = global::RemindRx.Droid.Resource.Styleable.View_theme;
+			global::Rg.Plugins.Popup.Resource.Xml.image_share_filepaths = global::RemindRx.Droid.Resource.Xml.image_share_filepaths;
+			global::Rg.Plugins.Popup.Resource.Xml.standalone_badge = global::RemindRx.Droid.Resource.Xml.standalone_badge;
+			global::Rg.Plugins.Popup.Resource.Xml.standalone_badge_gravity_bottom_end = global::RemindRx.Droid.Resource.Xml.standalone_badge_gravity_bottom_end;
+			global::Rg.Plugins.Popup.Resource.Xml.standalone_badge_gravity_bottom_start = global::RemindRx.Droid.Resource.Xml.standalone_badge_gravity_bottom_start;
+			global::Rg.Plugins.Popup.Resource.Xml.standalone_badge_gravity_top_start = global::RemindRx.Droid.Resource.Xml.standalone_badge_gravity_top_start;
+			global::Rg.Plugins.Popup.Resource.Xml.standalone_badge_offset = global::RemindRx.Droid.Resource.Xml.standalone_badge_offset;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::RemindRx.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::RemindRx.Droid.Resource.Attribute.font;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::RemindRx.Droid.Resource.Attribute.fontProviderAuthority;
@@ -10795,101 +14398,101 @@ namespace RemindRx.Droid
 		public partial class Animation
 		{
 			
-			// aapt resource value: 0x7F010000
-			public const int abc_fade_in = 2130771968;
-			
-			// aapt resource value: 0x7F010001
-			public const int abc_fade_out = 2130771969;
-			
-			// aapt resource value: 0x7F010002
-			public const int abc_grow_fade_in_from_bottom = 2130771970;
-			
-			// aapt resource value: 0x7F010003
-			public const int abc_popup_enter = 2130771971;
-			
 			// aapt resource value: 0x7F010004
-			public const int abc_popup_exit = 2130771972;
+			public const int abc_fade_in = 2130771972;
 			
 			// aapt resource value: 0x7F010005
-			public const int abc_shrink_fade_out_from_bottom = 2130771973;
+			public const int abc_fade_out = 2130771973;
 			
 			// aapt resource value: 0x7F010006
-			public const int abc_slide_in_bottom = 2130771974;
+			public const int abc_grow_fade_in_from_bottom = 2130771974;
 			
 			// aapt resource value: 0x7F010007
-			public const int abc_slide_in_top = 2130771975;
+			public const int abc_popup_enter = 2130771975;
 			
 			// aapt resource value: 0x7F010008
-			public const int abc_slide_out_bottom = 2130771976;
+			public const int abc_popup_exit = 2130771976;
 			
 			// aapt resource value: 0x7F010009
-			public const int abc_slide_out_top = 2130771977;
+			public const int abc_shrink_fade_out_from_bottom = 2130771977;
 			
 			// aapt resource value: 0x7F01000A
-			public const int abc_tooltip_enter = 2130771978;
+			public const int abc_slide_in_bottom = 2130771978;
 			
 			// aapt resource value: 0x7F01000B
-			public const int abc_tooltip_exit = 2130771979;
+			public const int abc_slide_in_top = 2130771979;
 			
 			// aapt resource value: 0x7F01000C
-			public const int btn_checkbox_to_checked_box_inner_merged_animation = 2130771980;
+			public const int abc_slide_out_bottom = 2130771980;
 			
 			// aapt resource value: 0x7F01000D
-			public const int btn_checkbox_to_checked_box_outer_merged_animation = 2130771981;
+			public const int abc_slide_out_top = 2130771981;
 			
 			// aapt resource value: 0x7F01000E
-			public const int btn_checkbox_to_checked_icon_null_animation = 2130771982;
+			public const int abc_tooltip_enter = 2130771982;
 			
 			// aapt resource value: 0x7F01000F
-			public const int btn_checkbox_to_unchecked_box_inner_merged_animation = 2130771983;
+			public const int abc_tooltip_exit = 2130771983;
 			
 			// aapt resource value: 0x7F010010
-			public const int btn_checkbox_to_unchecked_check_path_merged_animation = 2130771984;
+			public const int btn_checkbox_to_checked_box_inner_merged_animation = 2130771984;
 			
 			// aapt resource value: 0x7F010011
-			public const int btn_checkbox_to_unchecked_icon_null_animation = 2130771985;
+			public const int btn_checkbox_to_checked_box_outer_merged_animation = 2130771985;
 			
 			// aapt resource value: 0x7F010012
-			public const int btn_radio_to_off_mtrl_dot_group_animation = 2130771986;
+			public const int btn_checkbox_to_checked_icon_null_animation = 2130771986;
 			
 			// aapt resource value: 0x7F010013
-			public const int btn_radio_to_off_mtrl_ring_outer_animation = 2130771987;
+			public const int btn_checkbox_to_unchecked_box_inner_merged_animation = 2130771987;
 			
 			// aapt resource value: 0x7F010014
-			public const int btn_radio_to_off_mtrl_ring_outer_path_animation = 2130771988;
+			public const int btn_checkbox_to_unchecked_check_path_merged_animation = 2130771988;
 			
 			// aapt resource value: 0x7F010015
-			public const int btn_radio_to_on_mtrl_dot_group_animation = 2130771989;
+			public const int btn_checkbox_to_unchecked_icon_null_animation = 2130771989;
 			
 			// aapt resource value: 0x7F010016
-			public const int btn_radio_to_on_mtrl_ring_outer_animation = 2130771990;
+			public const int btn_radio_to_off_mtrl_dot_group_animation = 2130771990;
 			
 			// aapt resource value: 0x7F010017
-			public const int btn_radio_to_on_mtrl_ring_outer_path_animation = 2130771991;
+			public const int btn_radio_to_off_mtrl_ring_outer_animation = 2130771991;
 			
 			// aapt resource value: 0x7F010018
-			public const int design_bottom_sheet_slide_in = 2130771992;
+			public const int btn_radio_to_off_mtrl_ring_outer_path_animation = 2130771992;
 			
 			// aapt resource value: 0x7F010019
-			public const int design_bottom_sheet_slide_out = 2130771993;
+			public const int btn_radio_to_on_mtrl_dot_group_animation = 2130771993;
 			
 			// aapt resource value: 0x7F01001A
-			public const int design_snackbar_in = 2130771994;
+			public const int btn_radio_to_on_mtrl_ring_outer_animation = 2130771994;
 			
 			// aapt resource value: 0x7F01001B
-			public const int design_snackbar_out = 2130771995;
+			public const int btn_radio_to_on_mtrl_ring_outer_path_animation = 2130771995;
 			
 			// aapt resource value: 0x7F01001C
-			public const int EnterFromLeft = 2130771996;
+			public const int design_bottom_sheet_slide_in = 2130771996;
 			
 			// aapt resource value: 0x7F01001D
-			public const int EnterFromRight = 2130771997;
+			public const int design_bottom_sheet_slide_out = 2130771997;
 			
 			// aapt resource value: 0x7F01001E
-			public const int ExitToLeft = 2130771998;
+			public const int design_snackbar_in = 2130771998;
 			
 			// aapt resource value: 0x7F01001F
-			public const int ExitToRight = 2130771999;
+			public const int design_snackbar_out = 2130771999;
+			
+			// aapt resource value: 0x7F010000
+			public const int EnterFromLeft = 2130771968;
+			
+			// aapt resource value: 0x7F010001
+			public const int EnterFromRight = 2130771969;
+			
+			// aapt resource value: 0x7F010002
+			public const int ExitToLeft = 2130771970;
+			
+			// aapt resource value: 0x7F010003
+			public const int ExitToRight = 2130771971;
 			
 			// aapt resource value: 0x7F010020
 			public const int fragment_fast_out_extra_slow_in = 2130772000;
@@ -16249,437 +19852,440 @@ namespace RemindRx.Droid
 		public partial class Drawable
 		{
 			
+			// aapt resource value: 0x7F070000
+			public const int abc_ab_share_pack_mtrl_alpha = 2131165184;
+			
+			// aapt resource value: 0x7F070001
+			public const int abc_action_bar_item_background_material = 2131165185;
+			
+			// aapt resource value: 0x7F070002
+			public const int abc_btn_borderless_material = 2131165186;
+			
+			// aapt resource value: 0x7F070003
+			public const int abc_btn_check_material = 2131165187;
+			
+			// aapt resource value: 0x7F070004
+			public const int abc_btn_check_material_anim = 2131165188;
+			
+			// aapt resource value: 0x7F070005
+			public const int abc_btn_check_to_on_mtrl_000 = 2131165189;
+			
 			// aapt resource value: 0x7F070006
-			public const int abc_ab_share_pack_mtrl_alpha = 2131165190;
+			public const int abc_btn_check_to_on_mtrl_015 = 2131165190;
 			
 			// aapt resource value: 0x7F070007
-			public const int abc_action_bar_item_background_material = 2131165191;
+			public const int abc_btn_colored_material = 2131165191;
 			
 			// aapt resource value: 0x7F070008
-			public const int abc_btn_borderless_material = 2131165192;
+			public const int abc_btn_default_mtrl_shape = 2131165192;
 			
 			// aapt resource value: 0x7F070009
-			public const int abc_btn_check_material = 2131165193;
+			public const int abc_btn_radio_material = 2131165193;
 			
 			// aapt resource value: 0x7F07000A
-			public const int abc_btn_check_material_anim = 2131165194;
+			public const int abc_btn_radio_material_anim = 2131165194;
 			
 			// aapt resource value: 0x7F07000B
-			public const int abc_btn_check_to_on_mtrl_000 = 2131165195;
+			public const int abc_btn_radio_to_on_mtrl_000 = 2131165195;
 			
 			// aapt resource value: 0x7F07000C
-			public const int abc_btn_check_to_on_mtrl_015 = 2131165196;
+			public const int abc_btn_radio_to_on_mtrl_015 = 2131165196;
 			
 			// aapt resource value: 0x7F07000D
-			public const int abc_btn_colored_material = 2131165197;
+			public const int abc_btn_switch_to_on_mtrl_00001 = 2131165197;
 			
 			// aapt resource value: 0x7F07000E
-			public const int abc_btn_default_mtrl_shape = 2131165198;
+			public const int abc_btn_switch_to_on_mtrl_00012 = 2131165198;
 			
 			// aapt resource value: 0x7F07000F
-			public const int abc_btn_radio_material = 2131165199;
+			public const int abc_cab_background_internal_bg = 2131165199;
 			
 			// aapt resource value: 0x7F070010
-			public const int abc_btn_radio_material_anim = 2131165200;
+			public const int abc_cab_background_top_material = 2131165200;
 			
 			// aapt resource value: 0x7F070011
-			public const int abc_btn_radio_to_on_mtrl_000 = 2131165201;
+			public const int abc_cab_background_top_mtrl_alpha = 2131165201;
 			
 			// aapt resource value: 0x7F070012
-			public const int abc_btn_radio_to_on_mtrl_015 = 2131165202;
+			public const int abc_control_background_material = 2131165202;
 			
 			// aapt resource value: 0x7F070013
-			public const int abc_btn_switch_to_on_mtrl_00001 = 2131165203;
+			public const int abc_dialog_material_background = 2131165203;
 			
 			// aapt resource value: 0x7F070014
-			public const int abc_btn_switch_to_on_mtrl_00012 = 2131165204;
+			public const int abc_edit_text_material = 2131165204;
 			
 			// aapt resource value: 0x7F070015
-			public const int abc_cab_background_internal_bg = 2131165205;
+			public const int abc_ic_ab_back_material = 2131165205;
 			
 			// aapt resource value: 0x7F070016
-			public const int abc_cab_background_top_material = 2131165206;
+			public const int abc_ic_arrow_drop_right_black_24dp = 2131165206;
 			
 			// aapt resource value: 0x7F070017
-			public const int abc_cab_background_top_mtrl_alpha = 2131165207;
+			public const int abc_ic_clear_material = 2131165207;
 			
 			// aapt resource value: 0x7F070018
-			public const int abc_control_background_material = 2131165208;
+			public const int abc_ic_commit_search_api_mtrl_alpha = 2131165208;
 			
 			// aapt resource value: 0x7F070019
-			public const int abc_dialog_material_background = 2131165209;
+			public const int abc_ic_go_search_api_material = 2131165209;
 			
 			// aapt resource value: 0x7F07001A
-			public const int abc_edit_text_material = 2131165210;
+			public const int abc_ic_menu_copy_mtrl_am_alpha = 2131165210;
 			
 			// aapt resource value: 0x7F07001B
-			public const int abc_ic_ab_back_material = 2131165211;
+			public const int abc_ic_menu_cut_mtrl_alpha = 2131165211;
 			
 			// aapt resource value: 0x7F07001C
-			public const int abc_ic_arrow_drop_right_black_24dp = 2131165212;
+			public const int abc_ic_menu_overflow_material = 2131165212;
 			
 			// aapt resource value: 0x7F07001D
-			public const int abc_ic_clear_material = 2131165213;
+			public const int abc_ic_menu_paste_mtrl_am_alpha = 2131165213;
 			
 			// aapt resource value: 0x7F07001E
-			public const int abc_ic_commit_search_api_mtrl_alpha = 2131165214;
+			public const int abc_ic_menu_selectall_mtrl_alpha = 2131165214;
 			
 			// aapt resource value: 0x7F07001F
-			public const int abc_ic_go_search_api_material = 2131165215;
+			public const int abc_ic_menu_share_mtrl_alpha = 2131165215;
 			
 			// aapt resource value: 0x7F070020
-			public const int abc_ic_menu_copy_mtrl_am_alpha = 2131165216;
+			public const int abc_ic_search_api_material = 2131165216;
 			
 			// aapt resource value: 0x7F070021
-			public const int abc_ic_menu_cut_mtrl_alpha = 2131165217;
+			public const int abc_ic_voice_search_api_material = 2131165217;
 			
 			// aapt resource value: 0x7F070022
-			public const int abc_ic_menu_overflow_material = 2131165218;
+			public const int abc_item_background_holo_dark = 2131165218;
 			
 			// aapt resource value: 0x7F070023
-			public const int abc_ic_menu_paste_mtrl_am_alpha = 2131165219;
+			public const int abc_item_background_holo_light = 2131165219;
 			
 			// aapt resource value: 0x7F070024
-			public const int abc_ic_menu_selectall_mtrl_alpha = 2131165220;
+			public const int abc_list_divider_material = 2131165220;
 			
 			// aapt resource value: 0x7F070025
-			public const int abc_ic_menu_share_mtrl_alpha = 2131165221;
+			public const int abc_list_divider_mtrl_alpha = 2131165221;
 			
 			// aapt resource value: 0x7F070026
-			public const int abc_ic_search_api_material = 2131165222;
+			public const int abc_list_focused_holo = 2131165222;
 			
 			// aapt resource value: 0x7F070027
-			public const int abc_ic_voice_search_api_material = 2131165223;
+			public const int abc_list_longpressed_holo = 2131165223;
 			
 			// aapt resource value: 0x7F070028
-			public const int abc_item_background_holo_dark = 2131165224;
+			public const int abc_list_pressed_holo_dark = 2131165224;
 			
 			// aapt resource value: 0x7F070029
-			public const int abc_item_background_holo_light = 2131165225;
+			public const int abc_list_pressed_holo_light = 2131165225;
 			
 			// aapt resource value: 0x7F07002A
-			public const int abc_list_divider_material = 2131165226;
+			public const int abc_list_selector_background_transition_holo_dark = 2131165226;
 			
 			// aapt resource value: 0x7F07002B
-			public const int abc_list_divider_mtrl_alpha = 2131165227;
+			public const int abc_list_selector_background_transition_holo_light = 2131165227;
 			
 			// aapt resource value: 0x7F07002C
-			public const int abc_list_focused_holo = 2131165228;
+			public const int abc_list_selector_disabled_holo_dark = 2131165228;
 			
 			// aapt resource value: 0x7F07002D
-			public const int abc_list_longpressed_holo = 2131165229;
+			public const int abc_list_selector_disabled_holo_light = 2131165229;
 			
 			// aapt resource value: 0x7F07002E
-			public const int abc_list_pressed_holo_dark = 2131165230;
+			public const int abc_list_selector_holo_dark = 2131165230;
 			
 			// aapt resource value: 0x7F07002F
-			public const int abc_list_pressed_holo_light = 2131165231;
+			public const int abc_list_selector_holo_light = 2131165231;
 			
 			// aapt resource value: 0x7F070030
-			public const int abc_list_selector_background_transition_holo_dark = 2131165232;
+			public const int abc_menu_hardkey_panel_mtrl_mult = 2131165232;
 			
 			// aapt resource value: 0x7F070031
-			public const int abc_list_selector_background_transition_holo_light = 2131165233;
+			public const int abc_popup_background_mtrl_mult = 2131165233;
 			
 			// aapt resource value: 0x7F070032
-			public const int abc_list_selector_disabled_holo_dark = 2131165234;
+			public const int abc_ratingbar_indicator_material = 2131165234;
 			
 			// aapt resource value: 0x7F070033
-			public const int abc_list_selector_disabled_holo_light = 2131165235;
+			public const int abc_ratingbar_material = 2131165235;
 			
 			// aapt resource value: 0x7F070034
-			public const int abc_list_selector_holo_dark = 2131165236;
+			public const int abc_ratingbar_small_material = 2131165236;
 			
 			// aapt resource value: 0x7F070035
-			public const int abc_list_selector_holo_light = 2131165237;
+			public const int abc_scrubber_control_off_mtrl_alpha = 2131165237;
 			
 			// aapt resource value: 0x7F070036
-			public const int abc_menu_hardkey_panel_mtrl_mult = 2131165238;
+			public const int abc_scrubber_control_to_pressed_mtrl_000 = 2131165238;
 			
 			// aapt resource value: 0x7F070037
-			public const int abc_popup_background_mtrl_mult = 2131165239;
+			public const int abc_scrubber_control_to_pressed_mtrl_005 = 2131165239;
 			
 			// aapt resource value: 0x7F070038
-			public const int abc_ratingbar_indicator_material = 2131165240;
+			public const int abc_scrubber_primary_mtrl_alpha = 2131165240;
 			
 			// aapt resource value: 0x7F070039
-			public const int abc_ratingbar_material = 2131165241;
+			public const int abc_scrubber_track_mtrl_alpha = 2131165241;
 			
 			// aapt resource value: 0x7F07003A
-			public const int abc_ratingbar_small_material = 2131165242;
+			public const int abc_seekbar_thumb_material = 2131165242;
 			
 			// aapt resource value: 0x7F07003B
-			public const int abc_scrubber_control_off_mtrl_alpha = 2131165243;
+			public const int abc_seekbar_tick_mark_material = 2131165243;
 			
 			// aapt resource value: 0x7F07003C
-			public const int abc_scrubber_control_to_pressed_mtrl_000 = 2131165244;
+			public const int abc_seekbar_track_material = 2131165244;
 			
 			// aapt resource value: 0x7F07003D
-			public const int abc_scrubber_control_to_pressed_mtrl_005 = 2131165245;
+			public const int abc_spinner_mtrl_am_alpha = 2131165245;
 			
 			// aapt resource value: 0x7F07003E
-			public const int abc_scrubber_primary_mtrl_alpha = 2131165246;
+			public const int abc_spinner_textfield_background_material = 2131165246;
 			
 			// aapt resource value: 0x7F07003F
-			public const int abc_scrubber_track_mtrl_alpha = 2131165247;
+			public const int abc_star_black_48dp = 2131165247;
 			
 			// aapt resource value: 0x7F070040
-			public const int abc_seekbar_thumb_material = 2131165248;
+			public const int abc_star_half_black_48dp = 2131165248;
 			
 			// aapt resource value: 0x7F070041
-			public const int abc_seekbar_tick_mark_material = 2131165249;
+			public const int abc_switch_thumb_material = 2131165249;
 			
 			// aapt resource value: 0x7F070042
-			public const int abc_seekbar_track_material = 2131165250;
+			public const int abc_switch_track_mtrl_alpha = 2131165250;
 			
 			// aapt resource value: 0x7F070043
-			public const int abc_spinner_mtrl_am_alpha = 2131165251;
+			public const int abc_tab_indicator_material = 2131165251;
 			
 			// aapt resource value: 0x7F070044
-			public const int abc_spinner_textfield_background_material = 2131165252;
-			
-			// aapt resource value: 0x7F070045
-			public const int abc_star_black_48dp = 2131165253;
-			
-			// aapt resource value: 0x7F070046
-			public const int abc_star_half_black_48dp = 2131165254;
-			
-			// aapt resource value: 0x7F070047
-			public const int abc_switch_thumb_material = 2131165255;
-			
-			// aapt resource value: 0x7F070048
-			public const int abc_switch_track_mtrl_alpha = 2131165256;
+			public const int abc_tab_indicator_mtrl_alpha = 2131165252;
 			
 			// aapt resource value: 0x7F070049
-			public const int abc_tab_indicator_material = 2131165257;
+			public const int abc_textfield_activated_mtrl_alpha = 2131165257;
 			
 			// aapt resource value: 0x7F07004A
-			public const int abc_tab_indicator_mtrl_alpha = 2131165258;
-			
-			// aapt resource value: 0x7F07004F
-			public const int abc_textfield_activated_mtrl_alpha = 2131165263;
-			
-			// aapt resource value: 0x7F070050
-			public const int abc_textfield_default_mtrl_alpha = 2131165264;
-			
-			// aapt resource value: 0x7F070051
-			public const int abc_textfield_search_activated_mtrl_alpha = 2131165265;
-			
-			// aapt resource value: 0x7F070052
-			public const int abc_textfield_search_default_mtrl_alpha = 2131165266;
-			
-			// aapt resource value: 0x7F070053
-			public const int abc_textfield_search_material = 2131165267;
+			public const int abc_textfield_default_mtrl_alpha = 2131165258;
 			
 			// aapt resource value: 0x7F07004B
-			public const int abc_text_cursor_material = 2131165259;
+			public const int abc_textfield_search_activated_mtrl_alpha = 2131165259;
 			
 			// aapt resource value: 0x7F07004C
-			public const int abc_text_select_handle_left_mtrl = 2131165260;
+			public const int abc_textfield_search_default_mtrl_alpha = 2131165260;
 			
 			// aapt resource value: 0x7F07004D
-			public const int abc_text_select_handle_middle_mtrl = 2131165261;
+			public const int abc_textfield_search_material = 2131165261;
+			
+			// aapt resource value: 0x7F070045
+			public const int abc_text_cursor_material = 2131165253;
+			
+			// aapt resource value: 0x7F070046
+			public const int abc_text_select_handle_left_mtrl = 2131165254;
+			
+			// aapt resource value: 0x7F070047
+			public const int abc_text_select_handle_middle_mtrl = 2131165255;
+			
+			// aapt resource value: 0x7F070048
+			public const int abc_text_select_handle_right_mtrl = 2131165256;
 			
 			// aapt resource value: 0x7F07004E
-			public const int abc_text_select_handle_right_mtrl = 2131165262;
+			public const int abc_vector_test = 2131165262;
+			
+			// aapt resource value: 0x7F07004F
+			public const int avd_hide_password = 2131165263;
+			
+			// aapt resource value: 0x7F070050
+			public const int avd_show_password = 2131165264;
+			
+			// aapt resource value: 0x7F070051
+			public const int btn_checkbox_checked_mtrl = 2131165265;
+			
+			// aapt resource value: 0x7F070052
+			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165266;
+			
+			// aapt resource value: 0x7F070053
+			public const int btn_checkbox_unchecked_mtrl = 2131165267;
 			
 			// aapt resource value: 0x7F070054
-			public const int abc_vector_test = 2131165268;
+			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165268;
 			
 			// aapt resource value: 0x7F070055
-			public const int avd_hide_password = 2131165269;
+			public const int btn_radio_off_mtrl = 2131165269;
 			
 			// aapt resource value: 0x7F070056
-			public const int avd_show_password = 2131165270;
+			public const int btn_radio_off_to_on_mtrl_animation = 2131165270;
 			
 			// aapt resource value: 0x7F070057
-			public const int btn_checkbox_checked_mtrl = 2131165271;
+			public const int btn_radio_on_mtrl = 2131165271;
 			
 			// aapt resource value: 0x7F070058
-			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165272;
+			public const int btn_radio_on_to_off_mtrl_animation = 2131165272;
 			
 			// aapt resource value: 0x7F070059
-			public const int btn_checkbox_unchecked_mtrl = 2131165273;
+			public const int clock = 2131165273;
 			
 			// aapt resource value: 0x7F07005A
-			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165274;
+			public const int design_fab_background = 2131165274;
 			
 			// aapt resource value: 0x7F07005B
-			public const int btn_radio_off_mtrl = 2131165275;
+			public const int design_ic_visibility = 2131165275;
 			
 			// aapt resource value: 0x7F07005C
-			public const int btn_radio_off_to_on_mtrl_animation = 2131165276;
+			public const int design_ic_visibility_off = 2131165276;
 			
 			// aapt resource value: 0x7F07005D
-			public const int btn_radio_on_mtrl = 2131165277;
+			public const int design_password_eye = 2131165277;
 			
 			// aapt resource value: 0x7F07005E
-			public const int btn_radio_on_to_off_mtrl_animation = 2131165278;
+			public const int design_snackbar_background = 2131165278;
 			
 			// aapt resource value: 0x7F07005F
-			public const int clock = 2131165279;
-			
-			// aapt resource value: 0x7F070060
-			public const int design_fab_background = 2131165280;
-			
-			// aapt resource value: 0x7F070061
-			public const int design_ic_visibility = 2131165281;
-			
-			// aapt resource value: 0x7F070062
-			public const int design_ic_visibility_off = 2131165282;
-			
-			// aapt resource value: 0x7F070063
-			public const int design_password_eye = 2131165283;
-			
-			// aapt resource value: 0x7F070064
-			public const int design_snackbar_background = 2131165284;
-			
-			// aapt resource value: 0x7F070065
-			public const int gear = 2131165285;
-			
-			// aapt resource value: 0x7F07006D
-			public const int icon_about = 2131165293;
-			
-			// aapt resource value: 0x7F07006E
-			public const int icon_feed = 2131165294;
-			
-			// aapt resource value: 0x7F070066
-			public const int ic_arrow_down_24dp = 2131165286;
+			public const int gear = 2131165279;
 			
 			// aapt resource value: 0x7F070067
-			public const int ic_clock_black_24dp = 2131165287;
+			public const int icon_about = 2131165287;
 			
 			// aapt resource value: 0x7F070068
-			public const int ic_keyboard_black_24dp = 2131165288;
+			public const int icon_feed = 2131165288;
+			
+			// aapt resource value: 0x7F070060
+			public const int ic_arrow_down_24dp = 2131165280;
+			
+			// aapt resource value: 0x7F070061
+			public const int ic_clock_black_24dp = 2131165281;
+			
+			// aapt resource value: 0x7F070062
+			public const int ic_keyboard_black_24dp = 2131165282;
+			
+			// aapt resource value: 0x7F070063
+			public const int ic_mtrl_checked_circle = 2131165283;
+			
+			// aapt resource value: 0x7F070064
+			public const int ic_mtrl_chip_checked_black = 2131165284;
+			
+			// aapt resource value: 0x7F070065
+			public const int ic_mtrl_chip_checked_circle = 2131165285;
+			
+			// aapt resource value: 0x7F070066
+			public const int ic_mtrl_chip_close_circle = 2131165286;
 			
 			// aapt resource value: 0x7F070069
-			public const int ic_mtrl_checked_circle = 2131165289;
+			public const int material_cursor_drawable = 2131165289;
 			
 			// aapt resource value: 0x7F07006A
-			public const int ic_mtrl_chip_checked_black = 2131165290;
+			public const int material_ic_calendar_black_24dp = 2131165290;
 			
 			// aapt resource value: 0x7F07006B
-			public const int ic_mtrl_chip_checked_circle = 2131165291;
+			public const int material_ic_clear_black_24dp = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int ic_mtrl_chip_close_circle = 2131165292;
+			public const int material_ic_edit_black_24dp = 2131165292;
+			
+			// aapt resource value: 0x7F07006D
+			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165293;
+			
+			// aapt resource value: 0x7F07006E
+			public const int material_ic_keyboard_arrow_next_black_24dp = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int material_cursor_drawable = 2131165295;
+			public const int material_ic_keyboard_arrow_previous_black_24dp = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int material_ic_calendar_black_24dp = 2131165296;
+			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int material_ic_clear_black_24dp = 2131165297;
+			public const int material_ic_menu_arrow_down_black_24dp = 2131165297;
 			
 			// aapt resource value: 0x7F070072
-			public const int material_ic_edit_black_24dp = 2131165298;
+			public const int material_ic_menu_arrow_up_black_24dp = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165299;
+			public const int mtrl_dialog_background = 2131165299;
 			
 			// aapt resource value: 0x7F070074
-			public const int material_ic_keyboard_arrow_next_black_24dp = 2131165300;
+			public const int mtrl_dropdown_arrow = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int material_ic_keyboard_arrow_previous_black_24dp = 2131165301;
+			public const int mtrl_ic_arrow_drop_down = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165302;
+			public const int mtrl_ic_arrow_drop_up = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int material_ic_menu_arrow_down_black_24dp = 2131165303;
+			public const int mtrl_ic_cancel = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int material_ic_menu_arrow_up_black_24dp = 2131165304;
+			public const int mtrl_ic_error = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int mtrl_dialog_background = 2131165305;
+			public const int mtrl_navigation_bar_item_background = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int mtrl_dropdown_arrow = 2131165306;
+			public const int mtrl_popupmenu_background = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
-			public const int mtrl_ic_arrow_drop_down = 2131165307;
+			public const int mtrl_popupmenu_background_dark = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
-			public const int mtrl_ic_arrow_drop_up = 2131165308;
+			public const int mtrl_tabs_default_indicator = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
-			public const int mtrl_ic_cancel = 2131165309;
+			public const int navigation_empty_icon = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
-			public const int mtrl_ic_error = 2131165310;
+			public const int notification_action_background = 2131165310;
 			
 			// aapt resource value: 0x7F07007F
-			public const int mtrl_navigation_bar_item_background = 2131165311;
+			public const int notification_bg = 2131165311;
 			
 			// aapt resource value: 0x7F070080
-			public const int mtrl_popupmenu_background = 2131165312;
+			public const int notification_bg_low = 2131165312;
 			
 			// aapt resource value: 0x7F070081
-			public const int mtrl_popupmenu_background_dark = 2131165313;
+			public const int notification_bg_low_normal = 2131165313;
 			
 			// aapt resource value: 0x7F070082
-			public const int mtrl_tabs_default_indicator = 2131165314;
+			public const int notification_bg_low_pressed = 2131165314;
 			
 			// aapt resource value: 0x7F070083
-			public const int navigation_empty_icon = 2131165315;
+			public const int notification_bg_normal = 2131165315;
 			
 			// aapt resource value: 0x7F070084
-			public const int notification_action_background = 2131165316;
+			public const int notification_bg_normal_pressed = 2131165316;
 			
 			// aapt resource value: 0x7F070085
-			public const int notification_bg = 2131165317;
+			public const int notification_icon_background = 2131165317;
 			
 			// aapt resource value: 0x7F070086
-			public const int notification_bg_low = 2131165318;
+			public const int notification_template_icon_bg = 2131165318;
 			
 			// aapt resource value: 0x7F070087
-			public const int notification_bg_low_normal = 2131165319;
+			public const int notification_template_icon_low_bg = 2131165319;
 			
 			// aapt resource value: 0x7F070088
-			public const int notification_bg_low_pressed = 2131165320;
+			public const int notification_tile_bg = 2131165320;
 			
 			// aapt resource value: 0x7F070089
-			public const int notification_bg_normal = 2131165321;
+			public const int notify_panel_notification_icon_bg = 2131165321;
 			
 			// aapt resource value: 0x7F07008A
-			public const int notification_bg_normal_pressed = 2131165322;
+			public const int phone = 2131165322;
 			
 			// aapt resource value: 0x7F07008B
-			public const int notification_icon_background = 2131165323;
+			public const int pills = 2131165323;
 			
 			// aapt resource value: 0x7F07008C
-			public const int notification_template_icon_bg = 2131165324;
+			public const int preference_list_divider_material = 2131165324;
 			
 			// aapt resource value: 0x7F07008D
-			public const int notification_template_icon_low_bg = 2131165325;
+			public const int test_custom_background = 2131165325;
 			
 			// aapt resource value: 0x7F07008E
-			public const int notification_tile_bg = 2131165326;
+			public const int tooltip_frame_dark = 2131165326;
 			
 			// aapt resource value: 0x7F07008F
-			public const int notify_panel_notification_icon_bg = 2131165327;
+			public const int tooltip_frame_light = 2131165327;
 			
 			// aapt resource value: 0x7F070090
-			public const int pills = 2131165328;
-			
-			// aapt resource value: 0x7F070091
-			public const int preference_list_divider_material = 2131165329;
-			
-			// aapt resource value: 0x7F070092
-			public const int test_custom_background = 2131165330;
-			
-			// aapt resource value: 0x7F070093
-			public const int tooltip_frame_dark = 2131165331;
-			
-			// aapt resource value: 0x7F070094
-			public const int tooltip_frame_light = 2131165332;
-			
-			// aapt resource value: 0x7F070095
-			public const int xamarin_logo = 2131165333;
+			public const int xamarin_logo = 2131165328;
 			
 			static Drawable()
 			{
@@ -16694,1490 +20300,1568 @@ namespace RemindRx.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7F08000E
-			public const int accelerate = 2131230734;
-			
-			// aapt resource value: 0x7F08000F
-			public const int accessibility_action_clickable_span = 2131230735;
-			
-			// aapt resource value: 0x7F080010
-			public const int accessibility_custom_action_0 = 2131230736;
-			
-			// aapt resource value: 0x7F080011
-			public const int accessibility_custom_action_1 = 2131230737;
-			
 			// aapt resource value: 0x7F080012
-			public const int accessibility_custom_action_10 = 2131230738;
+			public const int accelerate = 2131230738;
 			
 			// aapt resource value: 0x7F080013
-			public const int accessibility_custom_action_11 = 2131230739;
+			public const int accessibility_action_clickable_span = 2131230739;
 			
 			// aapt resource value: 0x7F080014
-			public const int accessibility_custom_action_12 = 2131230740;
+			public const int accessibility_custom_action_0 = 2131230740;
 			
 			// aapt resource value: 0x7F080015
-			public const int accessibility_custom_action_13 = 2131230741;
+			public const int accessibility_custom_action_1 = 2131230741;
 			
 			// aapt resource value: 0x7F080016
-			public const int accessibility_custom_action_14 = 2131230742;
+			public const int accessibility_custom_action_10 = 2131230742;
 			
 			// aapt resource value: 0x7F080017
-			public const int accessibility_custom_action_15 = 2131230743;
+			public const int accessibility_custom_action_11 = 2131230743;
 			
 			// aapt resource value: 0x7F080018
-			public const int accessibility_custom_action_16 = 2131230744;
+			public const int accessibility_custom_action_12 = 2131230744;
 			
 			// aapt resource value: 0x7F080019
-			public const int accessibility_custom_action_17 = 2131230745;
+			public const int accessibility_custom_action_13 = 2131230745;
 			
 			// aapt resource value: 0x7F08001A
-			public const int accessibility_custom_action_18 = 2131230746;
+			public const int accessibility_custom_action_14 = 2131230746;
 			
 			// aapt resource value: 0x7F08001B
-			public const int accessibility_custom_action_19 = 2131230747;
+			public const int accessibility_custom_action_15 = 2131230747;
 			
 			// aapt resource value: 0x7F08001C
-			public const int accessibility_custom_action_2 = 2131230748;
+			public const int accessibility_custom_action_16 = 2131230748;
 			
 			// aapt resource value: 0x7F08001D
-			public const int accessibility_custom_action_20 = 2131230749;
+			public const int accessibility_custom_action_17 = 2131230749;
 			
 			// aapt resource value: 0x7F08001E
-			public const int accessibility_custom_action_21 = 2131230750;
+			public const int accessibility_custom_action_18 = 2131230750;
 			
 			// aapt resource value: 0x7F08001F
-			public const int accessibility_custom_action_22 = 2131230751;
+			public const int accessibility_custom_action_19 = 2131230751;
 			
 			// aapt resource value: 0x7F080020
-			public const int accessibility_custom_action_23 = 2131230752;
+			public const int accessibility_custom_action_2 = 2131230752;
 			
 			// aapt resource value: 0x7F080021
-			public const int accessibility_custom_action_24 = 2131230753;
+			public const int accessibility_custom_action_20 = 2131230753;
 			
 			// aapt resource value: 0x7F080022
-			public const int accessibility_custom_action_25 = 2131230754;
+			public const int accessibility_custom_action_21 = 2131230754;
 			
 			// aapt resource value: 0x7F080023
-			public const int accessibility_custom_action_26 = 2131230755;
+			public const int accessibility_custom_action_22 = 2131230755;
 			
 			// aapt resource value: 0x7F080024
-			public const int accessibility_custom_action_27 = 2131230756;
+			public const int accessibility_custom_action_23 = 2131230756;
 			
 			// aapt resource value: 0x7F080025
-			public const int accessibility_custom_action_28 = 2131230757;
+			public const int accessibility_custom_action_24 = 2131230757;
 			
 			// aapt resource value: 0x7F080026
-			public const int accessibility_custom_action_29 = 2131230758;
+			public const int accessibility_custom_action_25 = 2131230758;
 			
 			// aapt resource value: 0x7F080027
-			public const int accessibility_custom_action_3 = 2131230759;
+			public const int accessibility_custom_action_26 = 2131230759;
 			
 			// aapt resource value: 0x7F080028
-			public const int accessibility_custom_action_30 = 2131230760;
+			public const int accessibility_custom_action_27 = 2131230760;
 			
 			// aapt resource value: 0x7F080029
-			public const int accessibility_custom_action_31 = 2131230761;
+			public const int accessibility_custom_action_28 = 2131230761;
 			
 			// aapt resource value: 0x7F08002A
-			public const int accessibility_custom_action_4 = 2131230762;
+			public const int accessibility_custom_action_29 = 2131230762;
 			
 			// aapt resource value: 0x7F08002B
-			public const int accessibility_custom_action_5 = 2131230763;
+			public const int accessibility_custom_action_3 = 2131230763;
 			
 			// aapt resource value: 0x7F08002C
-			public const int accessibility_custom_action_6 = 2131230764;
+			public const int accessibility_custom_action_30 = 2131230764;
 			
 			// aapt resource value: 0x7F08002D
-			public const int accessibility_custom_action_7 = 2131230765;
+			public const int accessibility_custom_action_31 = 2131230765;
 			
 			// aapt resource value: 0x7F08002E
-			public const int accessibility_custom_action_8 = 2131230766;
+			public const int accessibility_custom_action_4 = 2131230766;
 			
 			// aapt resource value: 0x7F08002F
-			public const int accessibility_custom_action_9 = 2131230767;
+			public const int accessibility_custom_action_5 = 2131230767;
 			
 			// aapt resource value: 0x7F080030
-			public const int action0 = 2131230768;
+			public const int accessibility_custom_action_6 = 2131230768;
 			
 			// aapt resource value: 0x7F080031
-			public const int actionDown = 2131230769;
+			public const int accessibility_custom_action_7 = 2131230769;
 			
 			// aapt resource value: 0x7F080032
-			public const int actionDownUp = 2131230770;
-			
-			// aapt resource value: 0x7F080045
-			public const int actions = 2131230789;
+			public const int accessibility_custom_action_8 = 2131230770;
 			
 			// aapt resource value: 0x7F080033
-			public const int actionUp = 2131230771;
+			public const int accessibility_custom_action_9 = 2131230771;
 			
 			// aapt resource value: 0x7F080034
-			public const int action_bar = 2131230772;
+			public const int action0 = 2131230772;
 			
 			// aapt resource value: 0x7F080035
-			public const int action_bar_activity_content = 2131230773;
+			public const int actionDown = 2131230773;
 			
 			// aapt resource value: 0x7F080036
-			public const int action_bar_container = 2131230774;
-			
-			// aapt resource value: 0x7F080037
-			public const int action_bar_root = 2131230775;
-			
-			// aapt resource value: 0x7F080038
-			public const int action_bar_spinner = 2131230776;
-			
-			// aapt resource value: 0x7F080039
-			public const int action_bar_subtitle = 2131230777;
-			
-			// aapt resource value: 0x7F08003A
-			public const int action_bar_title = 2131230778;
-			
-			// aapt resource value: 0x7F08003B
-			public const int action_container = 2131230779;
-			
-			// aapt resource value: 0x7F08003C
-			public const int action_context_bar = 2131230780;
-			
-			// aapt resource value: 0x7F08003D
-			public const int action_divider = 2131230781;
-			
-			// aapt resource value: 0x7F08003E
-			public const int action_image = 2131230782;
-			
-			// aapt resource value: 0x7F08003F
-			public const int action_menu_divider = 2131230783;
-			
-			// aapt resource value: 0x7F080040
-			public const int action_menu_presenter = 2131230784;
-			
-			// aapt resource value: 0x7F080041
-			public const int action_mode_bar = 2131230785;
-			
-			// aapt resource value: 0x7F080042
-			public const int action_mode_bar_stub = 2131230786;
-			
-			// aapt resource value: 0x7F080043
-			public const int action_mode_close_button = 2131230787;
-			
-			// aapt resource value: 0x7F080044
-			public const int action_text = 2131230788;
-			
-			// aapt resource value: 0x7F080046
-			public const int activity_chooser_view_content = 2131230790;
-			
-			// aapt resource value: 0x7F080047
-			public const int add = 2131230791;
-			
-			// aapt resource value: 0x7F080048
-			public const int alertTitle = 2131230792;
+			public const int actionDownUp = 2131230774;
 			
 			// aapt resource value: 0x7F080049
-			public const int aligned = 2131230793;
+			public const int actions = 2131230793;
+			
+			// aapt resource value: 0x7F080037
+			public const int actionUp = 2131230775;
+			
+			// aapt resource value: 0x7F080038
+			public const int action_bar = 2131230776;
+			
+			// aapt resource value: 0x7F080039
+			public const int action_bar_activity_content = 2131230777;
+			
+			// aapt resource value: 0x7F08003A
+			public const int action_bar_container = 2131230778;
+			
+			// aapt resource value: 0x7F08003B
+			public const int action_bar_root = 2131230779;
+			
+			// aapt resource value: 0x7F08003C
+			public const int action_bar_spinner = 2131230780;
+			
+			// aapt resource value: 0x7F08003D
+			public const int action_bar_subtitle = 2131230781;
+			
+			// aapt resource value: 0x7F08003E
+			public const int action_bar_title = 2131230782;
+			
+			// aapt resource value: 0x7F08003F
+			public const int action_container = 2131230783;
+			
+			// aapt resource value: 0x7F080040
+			public const int action_context_bar = 2131230784;
+			
+			// aapt resource value: 0x7F080041
+			public const int action_divider = 2131230785;
+			
+			// aapt resource value: 0x7F080042
+			public const int action_image = 2131230786;
+			
+			// aapt resource value: 0x7F080043
+			public const int action_menu_divider = 2131230787;
+			
+			// aapt resource value: 0x7F080044
+			public const int action_menu_presenter = 2131230788;
+			
+			// aapt resource value: 0x7F080045
+			public const int action_mode_bar = 2131230789;
+			
+			// aapt resource value: 0x7F080046
+			public const int action_mode_bar_stub = 2131230790;
+			
+			// aapt resource value: 0x7F080047
+			public const int action_mode_close_button = 2131230791;
+			
+			// aapt resource value: 0x7F080048
+			public const int action_text = 2131230792;
 			
 			// aapt resource value: 0x7F08004A
-			public const int all = 2131230794;
+			public const int activity_chooser_view_content = 2131230794;
 			
 			// aapt resource value: 0x7F08004B
-			public const int allStates = 2131230795;
+			public const int add = 2131230795;
 			
 			// aapt resource value: 0x7F080000
-			public const int ALT = 2131230720;
+			public const int ADDED_ITEMS = 2131230720;
 			
 			// aapt resource value: 0x7F08004C
-			public const int always = 2131230796;
+			public const int added_items = 2131230796;
 			
 			// aapt resource value: 0x7F08004D
-			public const int animateToEnd = 2131230797;
+			public const int alertTitle = 2131230797;
 			
 			// aapt resource value: 0x7F08004E
-			public const int animateToStart = 2131230798;
-			
-			// aapt resource value: 0x7F080050
-			public const int anticipate = 2131230800;
+			public const int aligned = 2131230798;
 			
 			// aapt resource value: 0x7F08004F
-			public const int antiClockwise = 2131230799;
+			public const int all = 2131230799;
 			
-			// aapt resource value: 0x7F080051
-			public const int arc = 2131230801;
-			
-			// aapt resource value: 0x7F080052
-			public const int asConfigured = 2131230802;
-			
-			// aapt resource value: 0x7F080053
-			public const int async = 2131230803;
-			
-			// aapt resource value: 0x7F080054
-			public const int auto = 2131230804;
-			
-			// aapt resource value: 0x7F080055
-			public const int autoComplete = 2131230805;
-			
-			// aapt resource value: 0x7F080056
-			public const int autoCompleteToEnd = 2131230806;
-			
-			// aapt resource value: 0x7F080057
-			public const int autoCompleteToStart = 2131230807;
-			
-			// aapt resource value: 0x7F080058
-			public const int barrier = 2131230808;
-			
-			// aapt resource value: 0x7F080059
-			public const int baseline = 2131230809;
-			
-			// aapt resource value: 0x7F08005B
-			public const int beginning = 2131230811;
-			
-			// aapt resource value: 0x7F08005A
-			public const int beginOnFirstDraw = 2131230810;
-			
-			// aapt resource value: 0x7F08005C
-			public const int bestChoice = 2131230812;
-			
-			// aapt resource value: 0x7F08005D
-			public const int blocking = 2131230813;
-			
-			// aapt resource value: 0x7F08005E
-			public const int bottom = 2131230814;
-			
-			// aapt resource value: 0x7F08005F
-			public const int bottomtab_navarea = 2131230815;
-			
-			// aapt resource value: 0x7F080060
-			public const int bottomtab_tabbar = 2131230816;
+			// aapt resource value: 0x7F080050
+			public const int allStates = 2131230800;
 			
 			// aapt resource value: 0x7F080001
-			public const int BOTTOM_END = 2131230721;
+			public const int ALT = 2131230721;
+			
+			// aapt resource value: 0x7F080051
+			public const int always = 2131230801;
+			
+			// aapt resource value: 0x7F080052
+			public const int animateToEnd = 2131230802;
+			
+			// aapt resource value: 0x7F080053
+			public const int animateToStart = 2131230803;
+			
+			// aapt resource value: 0x7F080055
+			public const int anticipate = 2131230805;
+			
+			// aapt resource value: 0x7F080054
+			public const int antiClockwise = 2131230804;
 			
 			// aapt resource value: 0x7F080002
-			public const int BOTTOM_START = 2131230722;
+			public const int APPLICATION_NAME = 2131230722;
 			
-			// aapt resource value: 0x7F080061
-			public const int bounce = 2131230817;
+			// aapt resource value: 0x7F080056
+			public const int application_name = 2131230806;
+			
+			// aapt resource value: 0x7F080057
+			public const int arc = 2131230807;
+			
+			// aapt resource value: 0x7F080058
+			public const int asConfigured = 2131230808;
+			
+			// aapt resource value: 0x7F080059
+			public const int async = 2131230809;
+			
+			// aapt resource value: 0x7F08005A
+			public const int auto = 2131230810;
+			
+			// aapt resource value: 0x7F08005B
+			public const int autoComplete = 2131230811;
+			
+			// aapt resource value: 0x7F08005C
+			public const int autoCompleteToEnd = 2131230812;
+			
+			// aapt resource value: 0x7F08005D
+			public const int autoCompleteToStart = 2131230813;
+			
+			// aapt resource value: 0x7F08005E
+			public const int background = 2131230814;
+			
+			// aapt resource value: 0x7F08005F
+			public const int barrier = 2131230815;
+			
+			// aapt resource value: 0x7F080060
+			public const int baseline = 2131230816;
 			
 			// aapt resource value: 0x7F080062
-			public const int bounceBoth = 2131230818;
+			public const int beginning = 2131230818;
+			
+			// aapt resource value: 0x7F080061
+			public const int beginOnFirstDraw = 2131230817;
 			
 			// aapt resource value: 0x7F080063
-			public const int bounceEnd = 2131230819;
+			public const int bestChoice = 2131230819;
 			
 			// aapt resource value: 0x7F080064
-			public const int bounceStart = 2131230820;
+			public const int blocking = 2131230820;
 			
 			// aapt resource value: 0x7F080065
-			public const int browser_actions_header_text = 2131230821;
-			
-			// aapt resource value: 0x7F080068
-			public const int browser_actions_menu_items = 2131230824;
+			public const int bottom = 2131230821;
 			
 			// aapt resource value: 0x7F080066
-			public const int browser_actions_menu_item_icon = 2131230822;
+			public const int bottomtab_navarea = 2131230822;
 			
 			// aapt resource value: 0x7F080067
-			public const int browser_actions_menu_item_text = 2131230823;
-			
-			// aapt resource value: 0x7F080069
-			public const int browser_actions_menu_view = 2131230825;
-			
-			// aapt resource value: 0x7F08006A
-			public const int buttonPanel = 2131230826;
-			
-			// aapt resource value: 0x7F08006B
-			public const int cache_measures = 2131230827;
-			
-			// aapt resource value: 0x7F08006C
-			public const int cancel_action = 2131230828;
-			
-			// aapt resource value: 0x7F08006D
-			public const int cancel_button = 2131230829;
-			
-			// aapt resource value: 0x7F08006E
-			public const int carryVelocity = 2131230830;
-			
-			// aapt resource value: 0x7F08006F
-			public const int center = 2131230831;
-			
-			// aapt resource value: 0x7F080070
-			public const int center_horizontal = 2131230832;
-			
-			// aapt resource value: 0x7F080071
-			public const int center_vertical = 2131230833;
-			
-			// aapt resource value: 0x7F080072
-			public const int chain = 2131230834;
-			
-			// aapt resource value: 0x7F080073
-			public const int chains = 2131230835;
-			
-			// aapt resource value: 0x7F080074
-			public const int checkbox = 2131230836;
-			
-			// aapt resource value: 0x7F080075
-			public const int @checked = 2131230837;
-			
-			// aapt resource value: 0x7F080076
-			public const int chip = 2131230838;
-			
-			// aapt resource value: 0x7F080077
-			public const int chip1 = 2131230839;
-			
-			// aapt resource value: 0x7F080078
-			public const int chip2 = 2131230840;
-			
-			// aapt resource value: 0x7F080079
-			public const int chip3 = 2131230841;
-			
-			// aapt resource value: 0x7F08007A
-			public const int chip_group = 2131230842;
-			
-			// aapt resource value: 0x7F08007B
-			public const int chronometer = 2131230843;
-			
-			// aapt resource value: 0x7F08007C
-			public const int circle_center = 2131230844;
-			
-			// aapt resource value: 0x7F08007D
-			public const int clear_text = 2131230845;
-			
-			// aapt resource value: 0x7F08007E
-			public const int clip_horizontal = 2131230846;
-			
-			// aapt resource value: 0x7F08007F
-			public const int clip_vertical = 2131230847;
-			
-			// aapt resource value: 0x7F080080
-			public const int clockwise = 2131230848;
-			
-			// aapt resource value: 0x7F080081
-			public const int closest = 2131230849;
-			
-			// aapt resource value: 0x7F080082
-			public const int collapseActionView = 2131230850;
-			
-			// aapt resource value: 0x7F080083
-			public const int confirm_button = 2131230851;
-			
-			// aapt resource value: 0x7F080084
-			public const int constraint = 2131230852;
-			
-			// aapt resource value: 0x7F080085
-			public const int container = 2131230853;
-			
-			// aapt resource value: 0x7F080086
-			public const int content = 2131230854;
-			
-			// aapt resource value: 0x7F080087
-			public const int contentPanel = 2131230855;
-			
-			// aapt resource value: 0x7F080088
-			public const int contiguous = 2131230856;
-			
-			// aapt resource value: 0x7F080089
-			public const int continuousVelocity = 2131230857;
-			
-			// aapt resource value: 0x7F08008A
-			public const int coordinator = 2131230858;
-			
-			// aapt resource value: 0x7F08008B
-			public const int cos = 2131230859;
-			
-			// aapt resource value: 0x7F08008C
-			public const int counterclockwise = 2131230860;
+			public const int bottomtab_tabbar = 2131230823;
 			
 			// aapt resource value: 0x7F080003
-			public const int CTRL = 2131230723;
-			
-			// aapt resource value: 0x7F08008D
-			public const int currentState = 2131230861;
-			
-			// aapt resource value: 0x7F08008E
-			public const int custom = 2131230862;
-			
-			// aapt resource value: 0x7F08008F
-			public const int customPanel = 2131230863;
-			
-			// aapt resource value: 0x7F080090
-			public const int cut = 2131230864;
-			
-			// aapt resource value: 0x7F080091
-			public const int date_picker_actions = 2131230865;
-			
-			// aapt resource value: 0x7F080092
-			public const int decelerate = 2131230866;
-			
-			// aapt resource value: 0x7F080093
-			public const int decelerateAndComplete = 2131230867;
-			
-			// aapt resource value: 0x7F080094
-			public const int decor_content_parent = 2131230868;
-			
-			// aapt resource value: 0x7F080095
-			public const int default_activity_button = 2131230869;
-			
-			// aapt resource value: 0x7F080096
-			public const int deltaRelative = 2131230870;
-			
-			// aapt resource value: 0x7F080097
-			public const int dependency_ordering = 2131230871;
-			
-			// aapt resource value: 0x7F080098
-			public const int design_bottom_sheet = 2131230872;
-			
-			// aapt resource value: 0x7F080099
-			public const int design_menu_item_action_area = 2131230873;
-			
-			// aapt resource value: 0x7F08009A
-			public const int design_menu_item_action_area_stub = 2131230874;
-			
-			// aapt resource value: 0x7F08009B
-			public const int design_menu_item_text = 2131230875;
-			
-			// aapt resource value: 0x7F08009C
-			public const int design_navigation_view = 2131230876;
-			
-			// aapt resource value: 0x7F08009D
-			public const int dialog_button = 2131230877;
-			
-			// aapt resource value: 0x7F08009E
-			public const int dimensions = 2131230878;
-			
-			// aapt resource value: 0x7F08009F
-			public const int direct = 2131230879;
-			
-			// aapt resource value: 0x7F0800A0
-			public const int disableHome = 2131230880;
-			
-			// aapt resource value: 0x7F0800A1
-			public const int disableIntraAutoTransition = 2131230881;
-			
-			// aapt resource value: 0x7F0800A2
-			public const int disablePostScroll = 2131230882;
-			
-			// aapt resource value: 0x7F0800A3
-			public const int disableScroll = 2131230883;
-			
-			// aapt resource value: 0x7F0800A4
-			public const int disjoint = 2131230884;
-			
-			// aapt resource value: 0x7F0800A5
-			public const int dragAnticlockwise = 2131230885;
-			
-			// aapt resource value: 0x7F0800A6
-			public const int dragClockwise = 2131230886;
-			
-			// aapt resource value: 0x7F0800A7
-			public const int dragDown = 2131230887;
-			
-			// aapt resource value: 0x7F0800A8
-			public const int dragEnd = 2131230888;
-			
-			// aapt resource value: 0x7F0800A9
-			public const int dragLeft = 2131230889;
-			
-			// aapt resource value: 0x7F0800AA
-			public const int dragRight = 2131230890;
-			
-			// aapt resource value: 0x7F0800AB
-			public const int dragStart = 2131230891;
-			
-			// aapt resource value: 0x7F0800AC
-			public const int dragUp = 2131230892;
-			
-			// aapt resource value: 0x7F0800AD
-			public const int dropdown_menu = 2131230893;
-			
-			// aapt resource value: 0x7F0800AE
-			public const int easeIn = 2131230894;
-			
-			// aapt resource value: 0x7F0800AF
-			public const int easeInOut = 2131230895;
-			
-			// aapt resource value: 0x7F0800B0
-			public const int easeOut = 2131230896;
-			
-			// aapt resource value: 0x7F0800B1
-			public const int east = 2131230897;
-			
-			// aapt resource value: 0x7F0800B2
-			public const int edit_query = 2131230898;
-			
-			// aapt resource value: 0x7F0800B3
-			public const int elastic = 2131230899;
-			
-			// aapt resource value: 0x7F0800B4
-			public const int end = 2131230900;
-			
-			// aapt resource value: 0x7F0800B5
-			public const int endToStart = 2131230901;
-			
-			// aapt resource value: 0x7F0800B6
-			public const int end_padder = 2131230902;
-			
-			// aapt resource value: 0x7F0800B7
-			public const int enterAlways = 2131230903;
-			
-			// aapt resource value: 0x7F0800B8
-			public const int enterAlwaysCollapsed = 2131230904;
-			
-			// aapt resource value: 0x7F0800B9
-			public const int exitUntilCollapsed = 2131230905;
-			
-			// aapt resource value: 0x7F0800BB
-			public const int expanded_menu = 2131230907;
-			
-			// aapt resource value: 0x7F0800BA
-			public const int expand_activities_button = 2131230906;
-			
-			// aapt resource value: 0x7F0800BC
-			public const int fade = 2131230908;
-			
-			// aapt resource value: 0x7F0800BD
-			public const int fill = 2131230909;
-			
-			// aapt resource value: 0x7F0800C0
-			public const int filled = 2131230912;
-			
-			// aapt resource value: 0x7F0800BE
-			public const int fill_horizontal = 2131230910;
-			
-			// aapt resource value: 0x7F0800BF
-			public const int fill_vertical = 2131230911;
-			
-			// aapt resource value: 0x7F0800C1
-			public const int fitToContents = 2131230913;
-			
-			// aapt resource value: 0x7F0800C2
-			public const int @fixed = 2131230914;
-			
-			// aapt resource value: 0x7F0800C3
-			public const int flip = 2131230915;
-			
-			// aapt resource value: 0x7F0800C4
-			public const int floating = 2131230916;
-			
-			// aapt resource value: 0x7F0800C5
-			public const int flyoutcontent_appbar = 2131230917;
-			
-			// aapt resource value: 0x7F0800C6
-			public const int forever = 2131230918;
-			
-			// aapt resource value: 0x7F0800C7
-			public const int fragment_container_view_tag = 2131230919;
-			
-			// aapt resource value: 0x7F0800C8
-			public const int frost = 2131230920;
+			public const int BOTTOM_END = 2131230723;
 			
 			// aapt resource value: 0x7F080004
-			public const int FUNCTION = 2131230724;
+			public const int BOTTOM_START = 2131230724;
 			
-			// aapt resource value: 0x7F0800C9
-			public const int ghost_view = 2131230921;
+			// aapt resource value: 0x7F080068
+			public const int bounce = 2131230824;
 			
-			// aapt resource value: 0x7F0800CA
-			public const int ghost_view_holder = 2131230922;
+			// aapt resource value: 0x7F080069
+			public const int bounceBoth = 2131230825;
 			
-			// aapt resource value: 0x7F0800CB
-			public const int gone = 2131230923;
+			// aapt resource value: 0x7F08006A
+			public const int bounceEnd = 2131230826;
 			
-			// aapt resource value: 0x7F0800CC
-			public const int graph = 2131230924;
+			// aapt resource value: 0x7F08006B
+			public const int bounceStart = 2131230827;
 			
-			// aapt resource value: 0x7F0800CD
-			public const int graph_wrap = 2131230925;
+			// aapt resource value: 0x7F08006C
+			public const int browser_actions_header_text = 2131230828;
 			
-			// aapt resource value: 0x7F0800CF
-			public const int grouping = 2131230927;
+			// aapt resource value: 0x7F08006F
+			public const int browser_actions_menu_items = 2131230831;
 			
-			// aapt resource value: 0x7F0800D0
-			public const int groups = 2131230928;
+			// aapt resource value: 0x7F08006D
+			public const int browser_actions_menu_item_icon = 2131230829;
 			
-			// aapt resource value: 0x7F0800CE
-			public const int group_divider = 2131230926;
+			// aapt resource value: 0x7F08006E
+			public const int browser_actions_menu_item_text = 2131230830;
 			
-			// aapt resource value: 0x7F0800D1
-			public const int guideline = 2131230929;
+			// aapt resource value: 0x7F080070
+			public const int browser_actions_menu_view = 2131230832;
 			
-			// aapt resource value: 0x7F0800D2
-			public const int header_title = 2131230930;
+			// aapt resource value: 0x7F080071
+			public const int button1 = 2131230833;
 			
-			// aapt resource value: 0x7F0800D3
-			public const int hideable = 2131230931;
+			// aapt resource value: 0x7F080072
+			public const int button2 = 2131230834;
 			
-			// aapt resource value: 0x7F0800D4
-			public const int home = 2131230932;
+			// aapt resource value: 0x7F080073
+			public const int button3 = 2131230835;
 			
-			// aapt resource value: 0x7F0800D5
-			public const int homeAsUp = 2131230933;
+			// aapt resource value: 0x7F080074
+			public const int buttonPanel = 2131230836;
 			
-			// aapt resource value: 0x7F0800D6
-			public const int honorRequest = 2131230934;
+			// aapt resource value: 0x7F080075
+			public const int cache_measures = 2131230837;
 			
-			// aapt resource value: 0x7F0800D7
-			public const int horizontal_only = 2131230935;
+			// aapt resource value: 0x7F080076
+			public const int cancel_action = 2131230838;
 			
-			// aapt resource value: 0x7F0800D8
-			public const int icon = 2131230936;
+			// aapt resource value: 0x7F080077
+			public const int cancel_button = 2131230839;
 			
-			// aapt resource value: 0x7F0800D9
-			public const int icon_frame = 2131230937;
+			// aapt resource value: 0x7F080078
+			public const int carryVelocity = 2131230840;
 			
-			// aapt resource value: 0x7F0800DA
-			public const int icon_group = 2131230938;
+			// aapt resource value: 0x7F080079
+			public const int center = 2131230841;
 			
-			// aapt resource value: 0x7F0800DB
-			public const int ifRoom = 2131230939;
+			// aapt resource value: 0x7F08007A
+			public const int center_horizontal = 2131230842;
 			
-			// aapt resource value: 0x7F0800DC
-			public const int ignore = 2131230940;
+			// aapt resource value: 0x7F08007B
+			public const int center_vertical = 2131230843;
 			
-			// aapt resource value: 0x7F0800DD
-			public const int ignoreRequest = 2131230941;
+			// aapt resource value: 0x7F08007C
+			public const int chain = 2131230844;
 			
-			// aapt resource value: 0x7F0800DE
-			public const int image = 2131230942;
+			// aapt resource value: 0x7F08007D
+			public const int chains = 2131230845;
 			
-			// aapt resource value: 0x7F0800DF
-			public const int immediateStop = 2131230943;
+			// aapt resource value: 0x7F08007E
+			public const int checkbox = 2131230846;
 			
-			// aapt resource value: 0x7F0800E0
-			public const int included = 2131230944;
+			// aapt resource value: 0x7F08007F
+			public const int @checked = 2131230847;
 			
-			// aapt resource value: 0x7F0800E1
-			public const int info = 2131230945;
+			// aapt resource value: 0x7F080080
+			public const int chip = 2131230848;
 			
-			// aapt resource value: 0x7F0800E2
-			public const int invisible = 2131230946;
+			// aapt resource value: 0x7F080081
+			public const int chip1 = 2131230849;
 			
-			// aapt resource value: 0x7F0800E3
-			public const int inward = 2131230947;
+			// aapt resource value: 0x7F080082
+			public const int chip2 = 2131230850;
 			
-			// aapt resource value: 0x7F0800E4
-			public const int italic = 2131230948;
+			// aapt resource value: 0x7F080083
+			public const int chip3 = 2131230851;
 			
-			// aapt resource value: 0x7F0800E5
-			public const int item_touch_helper_previous_elevation = 2131230949;
+			// aapt resource value: 0x7F080084
+			public const int chip_group = 2131230852;
 			
-			// aapt resource value: 0x7F0800E6
-			public const int jumpToEnd = 2131230950;
+			// aapt resource value: 0x7F080085
+			public const int chronometer = 2131230853;
 			
-			// aapt resource value: 0x7F0800E7
-			public const int jumpToStart = 2131230951;
+			// aapt resource value: 0x7F080086
+			public const int circle_center = 2131230854;
 			
-			// aapt resource value: 0x7F0800E8
-			public const int labeled = 2131230952;
+			// aapt resource value: 0x7F080087
+			public const int clear_text = 2131230855;
 			
-			// aapt resource value: 0x7F0800E9
-			public const int layout = 2131230953;
+			// aapt resource value: 0x7F080088
+			public const int clip_horizontal = 2131230856;
 			
-			// aapt resource value: 0x7F0800EA
-			public const int left = 2131230954;
+			// aapt resource value: 0x7F080089
+			public const int clip_vertical = 2131230857;
 			
-			// aapt resource value: 0x7F0800EB
-			public const int leftToRight = 2131230955;
+			// aapt resource value: 0x7F08008A
+			public const int clockwise = 2131230858;
 			
-			// aapt resource value: 0x7F0800EC
-			public const int legacy = 2131230956;
+			// aapt resource value: 0x7F08008B
+			public const int closest = 2131230859;
 			
-			// aapt resource value: 0x7F0800ED
-			public const int line1 = 2131230957;
+			// aapt resource value: 0x7F08008C
+			public const int collapseActionView = 2131230860;
 			
-			// aapt resource value: 0x7F0800EE
-			public const int line3 = 2131230958;
+			// aapt resource value: 0x7F08008D
+			public const int confirm_button = 2131230861;
 			
-			// aapt resource value: 0x7F0800EF
-			public const int linear = 2131230959;
+			// aapt resource value: 0x7F08008E
+			public const int constraint = 2131230862;
 			
-			// aapt resource value: 0x7F0800F0
-			public const int listMode = 2131230960;
+			// aapt resource value: 0x7F08008F
+			public const int container = 2131230863;
 			
-			// aapt resource value: 0x7F0800F1
-			public const int list_item = 2131230961;
+			// aapt resource value: 0x7F080090
+			public const int content = 2131230864;
 			
-			// aapt resource value: 0x7F0800F2
-			public const int main_appbar = 2131230962;
+			// aapt resource value: 0x7F080091
+			public const int contentPanel = 2131230865;
 			
-			// aapt resource value: 0x7F0800F3
-			public const int main_tablayout = 2131230963;
+			// aapt resource value: 0x7F080092
+			public const int contiguous = 2131230866;
 			
-			// aapt resource value: 0x7F0800F4
-			public const int main_toolbar = 2131230964;
+			// aapt resource value: 0x7F080093
+			public const int continuousVelocity = 2131230867;
 			
-			// aapt resource value: 0x7F0800F5
-			public const int main_viewpager = 2131230965;
+			// aapt resource value: 0x7F080094
+			public const int coordinator = 2131230868;
 			
-			// aapt resource value: 0x7F0800F6
-			public const int masked = 2131230966;
+			// aapt resource value: 0x7F080095
+			public const int cos = 2131230869;
 			
-			// aapt resource value: 0x7F0800F7
-			public const int match_constraint = 2131230967;
+			// aapt resource value: 0x7F080096
+			public const int count = 2131230870;
 			
-			// aapt resource value: 0x7F0800F8
-			public const int match_parent = 2131230968;
-			
-			// aapt resource value: 0x7F0800F9
-			public const int material_clock_display = 2131230969;
-			
-			// aapt resource value: 0x7F0800FA
-			public const int material_clock_face = 2131230970;
-			
-			// aapt resource value: 0x7F0800FB
-			public const int material_clock_hand = 2131230971;
-			
-			// aapt resource value: 0x7F0800FC
-			public const int material_clock_period_am_button = 2131230972;
-			
-			// aapt resource value: 0x7F0800FD
-			public const int material_clock_period_pm_button = 2131230973;
-			
-			// aapt resource value: 0x7F0800FE
-			public const int material_clock_period_toggle = 2131230974;
-			
-			// aapt resource value: 0x7F0800FF
-			public const int material_hour_text_input = 2131230975;
-			
-			// aapt resource value: 0x7F080100
-			public const int material_hour_tv = 2131230976;
-			
-			// aapt resource value: 0x7F080101
-			public const int material_label = 2131230977;
-			
-			// aapt resource value: 0x7F080102
-			public const int material_minute_text_input = 2131230978;
-			
-			// aapt resource value: 0x7F080103
-			public const int material_minute_tv = 2131230979;
-			
-			// aapt resource value: 0x7F080104
-			public const int material_textinput_timepicker = 2131230980;
-			
-			// aapt resource value: 0x7F080105
-			public const int material_timepicker_cancel_button = 2131230981;
-			
-			// aapt resource value: 0x7F080106
-			public const int material_timepicker_container = 2131230982;
-			
-			// aapt resource value: 0x7F080107
-			public const int material_timepicker_edit_text = 2131230983;
-			
-			// aapt resource value: 0x7F080108
-			public const int material_timepicker_mode_button = 2131230984;
-			
-			// aapt resource value: 0x7F080109
-			public const int material_timepicker_ok_button = 2131230985;
-			
-			// aapt resource value: 0x7F08010A
-			public const int material_timepicker_view = 2131230986;
-			
-			// aapt resource value: 0x7F08010B
-			public const int material_value_index = 2131230987;
-			
-			// aapt resource value: 0x7F08010C
-			public const int media_actions = 2131230988;
-			
-			// aapt resource value: 0x7F08010D
-			public const int media_controller_compat_view_tag = 2131230989;
-			
-			// aapt resource value: 0x7F08010E
-			public const int message = 2131230990;
+			// aapt resource value: 0x7F080097
+			public const int counterclockwise = 2131230871;
 			
 			// aapt resource value: 0x7F080005
-			public const int META = 2131230725;
+			public const int CTRL = 2131230725;
 			
-			// aapt resource value: 0x7F08010F
-			public const int middle = 2131230991;
-			
-			// aapt resource value: 0x7F080110
-			public const int mini = 2131230992;
-			
-			// aapt resource value: 0x7F080111
-			public const int month_grid = 2131230993;
-			
-			// aapt resource value: 0x7F080112
-			public const int month_navigation_bar = 2131230994;
-			
-			// aapt resource value: 0x7F080113
-			public const int month_navigation_fragment_toggle = 2131230995;
-			
-			// aapt resource value: 0x7F080114
-			public const int month_navigation_next = 2131230996;
-			
-			// aapt resource value: 0x7F080115
-			public const int month_navigation_previous = 2131230997;
-			
-			// aapt resource value: 0x7F080116
-			public const int month_title = 2131230998;
-			
-			// aapt resource value: 0x7F080117
-			public const int motion_base = 2131230999;
-			
-			// aapt resource value: 0x7F080118
-			public const int mtrl_anchor_parent = 2131231000;
-			
-			// aapt resource value: 0x7F08011A
-			public const int mtrl_calendar_days_of_week = 2131231002;
-			
-			// aapt resource value: 0x7F080119
-			public const int mtrl_calendar_day_selector_frame = 2131231001;
-			
-			// aapt resource value: 0x7F08011B
-			public const int mtrl_calendar_frame = 2131231003;
-			
-			// aapt resource value: 0x7F08011C
-			public const int mtrl_calendar_main_pane = 2131231004;
-			
-			// aapt resource value: 0x7F08011D
-			public const int mtrl_calendar_months = 2131231005;
-			
-			// aapt resource value: 0x7F08011E
-			public const int mtrl_calendar_selection_frame = 2131231006;
-			
-			// aapt resource value: 0x7F08011F
-			public const int mtrl_calendar_text_input_frame = 2131231007;
-			
-			// aapt resource value: 0x7F080120
-			public const int mtrl_calendar_year_selector_frame = 2131231008;
-			
-			// aapt resource value: 0x7F080121
-			public const int mtrl_card_checked_layer_id = 2131231009;
-			
-			// aapt resource value: 0x7F080122
-			public const int mtrl_child_content_container = 2131231010;
-			
-			// aapt resource value: 0x7F080123
-			public const int mtrl_internal_children_alpha_tag = 2131231011;
-			
-			// aapt resource value: 0x7F080124
-			public const int mtrl_motion_snapshot_view = 2131231012;
-			
-			// aapt resource value: 0x7F080125
-			public const int mtrl_picker_fullscreen = 2131231013;
-			
-			// aapt resource value: 0x7F080126
-			public const int mtrl_picker_header = 2131231014;
-			
-			// aapt resource value: 0x7F080127
-			public const int mtrl_picker_header_selection_text = 2131231015;
-			
-			// aapt resource value: 0x7F080128
-			public const int mtrl_picker_header_title_and_selection = 2131231016;
-			
-			// aapt resource value: 0x7F080129
-			public const int mtrl_picker_header_toggle = 2131231017;
-			
-			// aapt resource value: 0x7F08012A
-			public const int mtrl_picker_text_input_date = 2131231018;
-			
-			// aapt resource value: 0x7F08012B
-			public const int mtrl_picker_text_input_range_end = 2131231019;
-			
-			// aapt resource value: 0x7F08012C
-			public const int mtrl_picker_text_input_range_start = 2131231020;
-			
-			// aapt resource value: 0x7F08012D
-			public const int mtrl_picker_title_text = 2131231021;
-			
-			// aapt resource value: 0x7F08012E
-			public const int mtrl_view_tag_bottom_padding = 2131231022;
-			
-			// aapt resource value: 0x7F08012F
-			public const int multiply = 2131231023;
-			
-			// aapt resource value: 0x7F080131
-			public const int navigation_bar_item_icon_view = 2131231025;
-			
-			// aapt resource value: 0x7F080132
-			public const int navigation_bar_item_labels_group = 2131231026;
-			
-			// aapt resource value: 0x7F080133
-			public const int navigation_bar_item_large_label_view = 2131231027;
-			
-			// aapt resource value: 0x7F080134
-			public const int navigation_bar_item_small_label_view = 2131231028;
-			
-			// aapt resource value: 0x7F080135
-			public const int navigation_header_container = 2131231029;
-			
-			// aapt resource value: 0x7F080130
-			public const int nav_controller_view_tag = 2131231024;
-			
-			// aapt resource value: 0x7F080136
-			public const int never = 2131231030;
-			
-			// aapt resource value: 0x7F080137
-			public const int neverCompleteToEnd = 2131231031;
-			
-			// aapt resource value: 0x7F080138
-			public const int neverCompleteToStart = 2131231032;
-			
-			// aapt resource value: 0x7F08013B
-			public const int none = 2131231035;
-			
-			// aapt resource value: 0x7F08013C
-			public const int normal = 2131231036;
-			
-			// aapt resource value: 0x7F08013D
-			public const int north = 2131231037;
-			
-			// aapt resource value: 0x7F080139
-			public const int noScroll = 2131231033;
-			
-			// aapt resource value: 0x7F08013A
-			public const int noState = 2131231034;
-			
-			// aapt resource value: 0x7F08013E
-			public const int notification_background = 2131231038;
-			
-			// aapt resource value: 0x7F08013F
-			public const int notification_main_column = 2131231039;
-			
-			// aapt resource value: 0x7F080140
-			public const int notification_main_column_container = 2131231040;
+			// aapt resource value: 0x7F080098
+			public const int currentState = 2131230872;
 			
 			// aapt resource value: 0x7F080006
-			public const int NO_DEBUG = 2131230726;
+			public const int CURRENT_ITEMS = 2131230726;
 			
-			// aapt resource value: 0x7F080141
-			public const int off = 2131231041;
+			// aapt resource value: 0x7F080099
+			public const int current_items = 2131230873;
 			
-			// aapt resource value: 0x7F080142
-			public const int on = 2131231042;
+			// aapt resource value: 0x7F08009A
+			public const int custom = 2131230874;
 			
-			// aapt resource value: 0x7F080143
-			public const int outline = 2131231043;
+			// aapt resource value: 0x7F08009B
+			public const int customPanel = 2131230875;
 			
-			// aapt resource value: 0x7F080144
-			public const int outward = 2131231044;
+			// aapt resource value: 0x7F08009C
+			public const int cut = 2131230876;
 			
-			// aapt resource value: 0x7F080145
-			public const int overshoot = 2131231045;
+			// aapt resource value: 0x7F08009D
+			public const int date_picker_actions = 2131230877;
 			
-			// aapt resource value: 0x7F080146
-			public const int packed = 2131231046;
+			// aapt resource value: 0x7F08009E
+			public const int decelerate = 2131230878;
 			
-			// aapt resource value: 0x7F080147
-			public const int parallax = 2131231047;
+			// aapt resource value: 0x7F08009F
+			public const int decelerateAndComplete = 2131230879;
 			
-			// aapt resource value: 0x7F080148
-			public const int parent = 2131231048;
+			// aapt resource value: 0x7F0800A0
+			public const int decor_content_parent = 2131230880;
 			
-			// aapt resource value: 0x7F080149
-			public const int parentPanel = 2131231049;
+			// aapt resource value: 0x7F0800A1
+			public const int default_activity_button = 2131230881;
 			
-			// aapt resource value: 0x7F08014A
-			public const int parentRelative = 2131231050;
+			// aapt resource value: 0x7F0800A2
+			public const int deltaRelative = 2131230882;
 			
-			// aapt resource value: 0x7F08014B
-			public const int parent_matrix = 2131231051;
+			// aapt resource value: 0x7F0800A3
+			public const int dependency_ordering = 2131230883;
 			
-			// aapt resource value: 0x7F08014C
-			public const int password_toggle = 2131231052;
+			// aapt resource value: 0x7F0800A4
+			public const int design_bottom_sheet = 2131230884;
 			
-			// aapt resource value: 0x7F08014D
-			public const int path = 2131231053;
+			// aapt resource value: 0x7F0800A5
+			public const int design_menu_item_action_area = 2131230885;
 			
-			// aapt resource value: 0x7F08014E
-			public const int pathRelative = 2131231054;
+			// aapt resource value: 0x7F0800A6
+			public const int design_menu_item_action_area_stub = 2131230886;
 			
-			// aapt resource value: 0x7F08014F
-			public const int peekHeight = 2131231055;
+			// aapt resource value: 0x7F0800A7
+			public const int design_menu_item_text = 2131230887;
 			
-			// aapt resource value: 0x7F080150
-			public const int percent = 2131231056;
+			// aapt resource value: 0x7F0800A8
+			public const int design_navigation_view = 2131230888;
 			
-			// aapt resource value: 0x7F080151
-			public const int pin = 2131231057;
+			// aapt resource value: 0x7F0800A9
+			public const int dialog_button = 2131230889;
 			
-			// aapt resource value: 0x7F080152
-			public const int position = 2131231058;
+			// aapt resource value: 0x7F0800AA
+			public const int dimensions = 2131230890;
 			
-			// aapt resource value: 0x7F080153
-			public const int postLayout = 2131231059;
+			// aapt resource value: 0x7F0800AB
+			public const int direct = 2131230891;
 			
-			// aapt resource value: 0x7F080154
-			public const int progress_circular = 2131231060;
+			// aapt resource value: 0x7F0800AC
+			public const int disableHome = 2131230892;
 			
-			// aapt resource value: 0x7F080155
-			public const int progress_horizontal = 2131231061;
+			// aapt resource value: 0x7F0800AD
+			public const int disableIntraAutoTransition = 2131230893;
 			
-			// aapt resource value: 0x7F080156
-			public const int radio = 2131231062;
+			// aapt resource value: 0x7F0800AE
+			public const int disablePostScroll = 2131230894;
 			
-			// aapt resource value: 0x7F080157
-			public const int ratio = 2131231063;
+			// aapt resource value: 0x7F0800AF
+			public const int disableScroll = 2131230895;
 			
-			// aapt resource value: 0x7F080158
-			public const int rectangles = 2131231064;
+			// aapt resource value: 0x7F0800B0
+			public const int disjoint = 2131230896;
 			
-			// aapt resource value: 0x7F080159
-			public const int recycler_view = 2131231065;
+			// aapt resource value: 0x7F0800B1
+			public const int dragAnticlockwise = 2131230897;
 			
-			// aapt resource value: 0x7F08015A
-			public const int reverseSawtooth = 2131231066;
+			// aapt resource value: 0x7F0800B2
+			public const int dragClockwise = 2131230898;
 			
-			// aapt resource value: 0x7F08015B
-			public const int right = 2131231067;
+			// aapt resource value: 0x7F0800B3
+			public const int dragDown = 2131230899;
 			
-			// aapt resource value: 0x7F08015C
-			public const int rightToLeft = 2131231068;
+			// aapt resource value: 0x7F0800B4
+			public const int dragEnd = 2131230900;
 			
-			// aapt resource value: 0x7F08015D
-			public const int right_icon = 2131231069;
+			// aapt resource value: 0x7F0800B5
+			public const int dragLeft = 2131230901;
 			
-			// aapt resource value: 0x7F08015E
-			public const int right_side = 2131231070;
+			// aapt resource value: 0x7F0800B6
+			public const int dragRight = 2131230902;
 			
-			// aapt resource value: 0x7F08015F
-			public const int rounded = 2131231071;
+			// aapt resource value: 0x7F0800B7
+			public const int dragStart = 2131230903;
 			
-			// aapt resource value: 0x7F080160
-			public const int row_index_key = 2131231072;
+			// aapt resource value: 0x7F0800B8
+			public const int dragUp = 2131230904;
 			
-			// aapt resource value: 0x7F080161
-			public const int save_non_transition_alpha = 2131231073;
+			// aapt resource value: 0x7F0800B9
+			public const int dropdown_menu = 2131230905;
 			
-			// aapt resource value: 0x7F080162
-			public const int save_overlay_view = 2131231074;
+			// aapt resource value: 0x7F0800BA
+			public const int easeIn = 2131230906;
 			
-			// aapt resource value: 0x7F080163
-			public const int sawtooth = 2131231075;
+			// aapt resource value: 0x7F0800BB
+			public const int easeInOut = 2131230907;
 			
-			// aapt resource value: 0x7F080164
-			public const int scale = 2131231076;
+			// aapt resource value: 0x7F0800BC
+			public const int easeOut = 2131230908;
 			
-			// aapt resource value: 0x7F080165
-			public const int screen = 2131231077;
+			// aapt resource value: 0x7F0800BD
+			public const int east = 2131230909;
 			
-			// aapt resource value: 0x7F080166
-			public const int scroll = 2131231078;
+			// aapt resource value: 0x7F0800BE
+			public const int edit = 2131230910;
 			
-			// aapt resource value: 0x7F08016A
-			public const int scrollable = 2131231082;
+			// aapt resource value: 0x7F0800BF
+			public const int edit_query = 2131230911;
 			
-			// aapt resource value: 0x7F080167
-			public const int scrollIndicatorDown = 2131231079;
+			// aapt resource value: 0x7F0800C0
+			public const int elastic = 2131230912;
 			
-			// aapt resource value: 0x7F080168
-			public const int scrollIndicatorUp = 2131231080;
+			// aapt resource value: 0x7F0800C1
+			public const int empty = 2131230913;
 			
-			// aapt resource value: 0x7F080169
-			public const int scrollView = 2131231081;
+			// aapt resource value: 0x7F0800C2
+			public const int end = 2131230914;
 			
-			// aapt resource value: 0x7F08016B
-			public const int search_badge = 2131231083;
+			// aapt resource value: 0x7F0800C3
+			public const int endToStart = 2131230915;
 			
-			// aapt resource value: 0x7F08016C
-			public const int search_bar = 2131231084;
+			// aapt resource value: 0x7F0800C4
+			public const int end_padder = 2131230916;
 			
-			// aapt resource value: 0x7F08016D
-			public const int search_button = 2131231085;
+			// aapt resource value: 0x7F0800C5
+			public const int enterAlways = 2131230917;
 			
-			// aapt resource value: 0x7F08016E
-			public const int search_close_btn = 2131231086;
+			// aapt resource value: 0x7F0800C6
+			public const int enterAlwaysCollapsed = 2131230918;
 			
-			// aapt resource value: 0x7F08016F
-			public const int search_edit_frame = 2131231087;
+			// aapt resource value: 0x7F0800C7
+			public const int exitUntilCollapsed = 2131230919;
 			
-			// aapt resource value: 0x7F080170
-			public const int search_go_btn = 2131231088;
+			// aapt resource value: 0x7F0800C9
+			public const int expanded_menu = 2131230921;
 			
-			// aapt resource value: 0x7F080171
-			public const int search_mag_icon = 2131231089;
+			// aapt resource value: 0x7F0800C8
+			public const int expand_activities_button = 2131230920;
 			
-			// aapt resource value: 0x7F080172
-			public const int search_plate = 2131231090;
+			// aapt resource value: 0x7F0800CA
+			public const int fade = 2131230922;
 			
-			// aapt resource value: 0x7F080173
-			public const int search_src_text = 2131231091;
+			// aapt resource value: 0x7F0800CB
+			public const int fill = 2131230923;
 			
-			// aapt resource value: 0x7F080174
-			public const int search_voice_btn = 2131231092;
+			// aapt resource value: 0x7F0800CE
+			public const int filled = 2131230926;
 			
-			// aapt resource value: 0x7F080175
-			public const int seekbar = 2131231093;
+			// aapt resource value: 0x7F0800CC
+			public const int fill_horizontal = 2131230924;
 			
-			// aapt resource value: 0x7F080176
-			public const int seekbar_value = 2131231094;
+			// aapt resource value: 0x7F0800CD
+			public const int fill_vertical = 2131230925;
 			
-			// aapt resource value: 0x7F080178
-			public const int selected = 2131231096;
+			// aapt resource value: 0x7F0800CF
+			public const int fitToContents = 2131230927;
 			
-			// aapt resource value: 0x7F080179
-			public const int selection_type = 2131231097;
+			// aapt resource value: 0x7F0800D0
+			public const int @fixed = 2131230928;
 			
-			// aapt resource value: 0x7F080177
-			public const int select_dialog_listview = 2131231095;
+			// aapt resource value: 0x7F0800D1
+			public const int flip = 2131230929;
 			
-			// aapt resource value: 0x7F08017A
-			public const int sharedValueSet = 2131231098;
+			// aapt resource value: 0x7F0800D2
+			public const int floating = 2131230930;
 			
-			// aapt resource value: 0x7F08017B
-			public const int sharedValueUnset = 2131231099;
+			// aapt resource value: 0x7F0800D3
+			public const int flyoutcontent_appbar = 2131230931;
 			
-			// aapt resource value: 0x7F08017C
-			public const int shellcontent_appbar = 2131231100;
+			// aapt resource value: 0x7F0800D4
+			public const int forever = 2131230932;
 			
-			// aapt resource value: 0x7F08017D
-			public const int shellcontent_toolbar = 2131231101;
+			// aapt resource value: 0x7F0800D5
+			public const int fragment_container_view_tag = 2131230933;
+			
+			// aapt resource value: 0x7F0800D6
+			public const int frost = 2131230934;
 			
 			// aapt resource value: 0x7F080007
-			public const int SHIFT = 2131230727;
+			public const int FUNCTION = 2131230727;
 			
-			// aapt resource value: 0x7F08017E
-			public const int shortcut = 2131231102;
+			// aapt resource value: 0x7F0800D7
+			public const int ghost_view = 2131230935;
 			
-			// aapt resource value: 0x7F08017F
-			public const int showCustom = 2131231103;
+			// aapt resource value: 0x7F0800D8
+			public const int ghost_view_holder = 2131230936;
 			
-			// aapt resource value: 0x7F080180
-			public const int showHome = 2131231104;
+			// aapt resource value: 0x7F0800D9
+			public const int gone = 2131230937;
 			
-			// aapt resource value: 0x7F080181
-			public const int showTitle = 2131231105;
+			// aapt resource value: 0x7F0800DA
+			public const int graph = 2131230938;
+			
+			// aapt resource value: 0x7F0800DB
+			public const int graph_wrap = 2131230939;
+			
+			// aapt resource value: 0x7F0800DD
+			public const int grouping = 2131230941;
+			
+			// aapt resource value: 0x7F0800DE
+			public const int groups = 2131230942;
+			
+			// aapt resource value: 0x7F0800DC
+			public const int group_divider = 2131230940;
+			
+			// aapt resource value: 0x7F0800DF
+			public const int guideline = 2131230943;
+			
+			// aapt resource value: 0x7F0800E0
+			public const int header_title = 2131230944;
+			
+			// aapt resource value: 0x7F0800E1
+			public const int hideable = 2131230945;
+			
+			// aapt resource value: 0x7F0800E2
+			public const int home = 2131230946;
+			
+			// aapt resource value: 0x7F0800E3
+			public const int homeAsUp = 2131230947;
+			
+			// aapt resource value: 0x7F0800E4
+			public const int honorRequest = 2131230948;
+			
+			// aapt resource value: 0x7F0800E5
+			public const int horizontal_only = 2131230949;
+			
+			// aapt resource value: 0x7F0800E6
+			public const int icon = 2131230950;
+			
+			// aapt resource value: 0x7F0800E7
+			public const int icon1 = 2131230951;
+			
+			// aapt resource value: 0x7F0800E8
+			public const int icon_frame = 2131230952;
+			
+			// aapt resource value: 0x7F0800E9
+			public const int icon_group = 2131230953;
+			
+			// aapt resource value: 0x7F0800EA
+			public const int ifRoom = 2131230954;
+			
+			// aapt resource value: 0x7F0800EB
+			public const int ignore = 2131230955;
+			
+			// aapt resource value: 0x7F0800EC
+			public const int ignoreRequest = 2131230956;
+			
+			// aapt resource value: 0x7F0800ED
+			public const int image = 2131230957;
+			
+			// aapt resource value: 0x7F0800EE
+			public const int immediateStop = 2131230958;
+			
+			// aapt resource value: 0x7F0800EF
+			public const int included = 2131230959;
+			
+			// aapt resource value: 0x7F0800F0
+			public const int info = 2131230960;
+			
+			// aapt resource value: 0x7F0800F1
+			public const int invisible = 2131230961;
+			
+			// aapt resource value: 0x7F0800F2
+			public const int inward = 2131230962;
+			
+			// aapt resource value: 0x7F0800F3
+			public const int italic = 2131230963;
+			
+			// aapt resource value: 0x7F0800F4
+			public const int item_touch_helper_previous_elevation = 2131230964;
+			
+			// aapt resource value: 0x7F0800F5
+			public const int jumpToEnd = 2131230965;
+			
+			// aapt resource value: 0x7F0800F6
+			public const int jumpToStart = 2131230966;
+			
+			// aapt resource value: 0x7F0800F7
+			public const int labeled = 2131230967;
+			
+			// aapt resource value: 0x7F0800F8
+			public const int layout = 2131230968;
+			
+			// aapt resource value: 0x7F0800F9
+			public const int left = 2131230969;
+			
+			// aapt resource value: 0x7F0800FA
+			public const int leftToRight = 2131230970;
+			
+			// aapt resource value: 0x7F0800FB
+			public const int legacy = 2131230971;
+			
+			// aapt resource value: 0x7F0800FC
+			public const int line1 = 2131230972;
+			
+			// aapt resource value: 0x7F0800FD
+			public const int line3 = 2131230973;
+			
+			// aapt resource value: 0x7F0800FE
+			public const int linear = 2131230974;
+			
+			// aapt resource value: 0x7F0800FF
+			public const int listMode = 2131230975;
+			
+			// aapt resource value: 0x7F080100
+			public const int list_container = 2131230976;
+			
+			// aapt resource value: 0x7F080101
+			public const int list_item = 2131230977;
+			
+			// aapt resource value: 0x7F080102
+			public const int main_appbar = 2131230978;
+			
+			// aapt resource value: 0x7F080103
+			public const int main_tablayout = 2131230979;
+			
+			// aapt resource value: 0x7F080104
+			public const int main_toolbar = 2131230980;
+			
+			// aapt resource value: 0x7F080105
+			public const int main_viewpager = 2131230981;
+			
+			// aapt resource value: 0x7F080106
+			public const int mask = 2131230982;
+			
+			// aapt resource value: 0x7F080107
+			public const int masked = 2131230983;
+			
+			// aapt resource value: 0x7F080108
+			public const int match_constraint = 2131230984;
+			
+			// aapt resource value: 0x7F080109
+			public const int match_parent = 2131230985;
+			
+			// aapt resource value: 0x7F08010A
+			public const int material_clock_display = 2131230986;
+			
+			// aapt resource value: 0x7F08010B
+			public const int material_clock_face = 2131230987;
+			
+			// aapt resource value: 0x7F08010C
+			public const int material_clock_hand = 2131230988;
+			
+			// aapt resource value: 0x7F08010D
+			public const int material_clock_period_am_button = 2131230989;
+			
+			// aapt resource value: 0x7F08010E
+			public const int material_clock_period_pm_button = 2131230990;
+			
+			// aapt resource value: 0x7F08010F
+			public const int material_clock_period_toggle = 2131230991;
+			
+			// aapt resource value: 0x7F080110
+			public const int material_hour_text_input = 2131230992;
+			
+			// aapt resource value: 0x7F080111
+			public const int material_hour_tv = 2131230993;
+			
+			// aapt resource value: 0x7F080112
+			public const int material_label = 2131230994;
+			
+			// aapt resource value: 0x7F080113
+			public const int material_minute_text_input = 2131230995;
+			
+			// aapt resource value: 0x7F080114
+			public const int material_minute_tv = 2131230996;
+			
+			// aapt resource value: 0x7F080115
+			public const int material_textinput_timepicker = 2131230997;
+			
+			// aapt resource value: 0x7F080116
+			public const int material_timepicker_cancel_button = 2131230998;
+			
+			// aapt resource value: 0x7F080117
+			public const int material_timepicker_container = 2131230999;
+			
+			// aapt resource value: 0x7F080118
+			public const int material_timepicker_edit_text = 2131231000;
+			
+			// aapt resource value: 0x7F080119
+			public const int material_timepicker_mode_button = 2131231001;
+			
+			// aapt resource value: 0x7F08011A
+			public const int material_timepicker_ok_button = 2131231002;
+			
+			// aapt resource value: 0x7F08011B
+			public const int material_timepicker_view = 2131231003;
+			
+			// aapt resource value: 0x7F08011C
+			public const int material_value_index = 2131231004;
+			
+			// aapt resource value: 0x7F08011D
+			public const int maximum_number = 2131231005;
+			
+			// aapt resource value: 0x7F08011E
+			public const int media_actions = 2131231006;
+			
+			// aapt resource value: 0x7F08011F
+			public const int media_controller_compat_view_tag = 2131231007;
+			
+			// aapt resource value: 0x7F080120
+			public const int message = 2131231008;
 			
 			// aapt resource value: 0x7F080008
-			public const int SHOW_ALL = 2131230728;
+			public const int META = 2131230728;
+			
+			// aapt resource value: 0x7F080121
+			public const int middle = 2131231009;
+			
+			// aapt resource value: 0x7F080122
+			public const int mini = 2131231010;
+			
+			// aapt resource value: 0x7F080123
+			public const int month_grid = 2131231011;
+			
+			// aapt resource value: 0x7F080124
+			public const int month_navigation_bar = 2131231012;
+			
+			// aapt resource value: 0x7F080125
+			public const int month_navigation_fragment_toggle = 2131231013;
+			
+			// aapt resource value: 0x7F080126
+			public const int month_navigation_next = 2131231014;
+			
+			// aapt resource value: 0x7F080127
+			public const int month_navigation_previous = 2131231015;
+			
+			// aapt resource value: 0x7F080128
+			public const int month_title = 2131231016;
+			
+			// aapt resource value: 0x7F080129
+			public const int motion_base = 2131231017;
+			
+			// aapt resource value: 0x7F08012A
+			public const int mtrl_anchor_parent = 2131231018;
+			
+			// aapt resource value: 0x7F08012C
+			public const int mtrl_calendar_days_of_week = 2131231020;
+			
+			// aapt resource value: 0x7F08012B
+			public const int mtrl_calendar_day_selector_frame = 2131231019;
+			
+			// aapt resource value: 0x7F08012D
+			public const int mtrl_calendar_frame = 2131231021;
+			
+			// aapt resource value: 0x7F08012E
+			public const int mtrl_calendar_main_pane = 2131231022;
+			
+			// aapt resource value: 0x7F08012F
+			public const int mtrl_calendar_months = 2131231023;
+			
+			// aapt resource value: 0x7F080130
+			public const int mtrl_calendar_selection_frame = 2131231024;
+			
+			// aapt resource value: 0x7F080131
+			public const int mtrl_calendar_text_input_frame = 2131231025;
+			
+			// aapt resource value: 0x7F080132
+			public const int mtrl_calendar_year_selector_frame = 2131231026;
+			
+			// aapt resource value: 0x7F080133
+			public const int mtrl_card_checked_layer_id = 2131231027;
+			
+			// aapt resource value: 0x7F080134
+			public const int mtrl_child_content_container = 2131231028;
+			
+			// aapt resource value: 0x7F080135
+			public const int mtrl_internal_children_alpha_tag = 2131231029;
+			
+			// aapt resource value: 0x7F080136
+			public const int mtrl_motion_snapshot_view = 2131231030;
+			
+			// aapt resource value: 0x7F080137
+			public const int mtrl_picker_fullscreen = 2131231031;
+			
+			// aapt resource value: 0x7F080138
+			public const int mtrl_picker_header = 2131231032;
+			
+			// aapt resource value: 0x7F080139
+			public const int mtrl_picker_header_selection_text = 2131231033;
+			
+			// aapt resource value: 0x7F08013A
+			public const int mtrl_picker_header_title_and_selection = 2131231034;
+			
+			// aapt resource value: 0x7F08013B
+			public const int mtrl_picker_header_toggle = 2131231035;
+			
+			// aapt resource value: 0x7F08013C
+			public const int mtrl_picker_text_input_date = 2131231036;
+			
+			// aapt resource value: 0x7F08013D
+			public const int mtrl_picker_text_input_range_end = 2131231037;
+			
+			// aapt resource value: 0x7F08013E
+			public const int mtrl_picker_text_input_range_start = 2131231038;
+			
+			// aapt resource value: 0x7F08013F
+			public const int mtrl_picker_title_text = 2131231039;
+			
+			// aapt resource value: 0x7F080140
+			public const int mtrl_view_tag_bottom_padding = 2131231040;
+			
+			// aapt resource value: 0x7F080141
+			public const int multiply = 2131231041;
+			
+			// aapt resource value: 0x7F080143
+			public const int navigation_bar_item_icon_view = 2131231043;
+			
+			// aapt resource value: 0x7F080144
+			public const int navigation_bar_item_labels_group = 2131231044;
+			
+			// aapt resource value: 0x7F080145
+			public const int navigation_bar_item_large_label_view = 2131231045;
+			
+			// aapt resource value: 0x7F080146
+			public const int navigation_bar_item_small_label_view = 2131231046;
+			
+			// aapt resource value: 0x7F080147
+			public const int navigation_header_container = 2131231047;
+			
+			// aapt resource value: 0x7F080142
+			public const int nav_controller_view_tag = 2131231042;
+			
+			// aapt resource value: 0x7F080148
+			public const int never = 2131231048;
+			
+			// aapt resource value: 0x7F080149
+			public const int neverCompleteToEnd = 2131231049;
+			
+			// aapt resource value: 0x7F08014A
+			public const int neverCompleteToStart = 2131231050;
+			
+			// aapt resource value: 0x7F08014D
+			public const int none = 2131231053;
+			
+			// aapt resource value: 0x7F08014E
+			public const int normal = 2131231054;
+			
+			// aapt resource value: 0x7F08014F
+			public const int north = 2131231055;
+			
+			// aapt resource value: 0x7F08014B
+			public const int noScroll = 2131231051;
+			
+			// aapt resource value: 0x7F08014C
+			public const int noState = 2131231052;
+			
+			// aapt resource value: 0x7F080150
+			public const int notification_background = 2131231056;
+			
+			// aapt resource value: 0x7F080151
+			public const int notification_main_column = 2131231057;
+			
+			// aapt resource value: 0x7F080152
+			public const int notification_main_column_container = 2131231058;
 			
 			// aapt resource value: 0x7F080009
-			public const int SHOW_PATH = 2131230729;
+			public const int NO_DEBUG = 2131230729;
 			
-			// aapt resource value: 0x7F08000A
-			public const int SHOW_PROGRESS = 2131230730;
+			// aapt resource value: 0x7F080153
+			public const int number = 2131231059;
+			
+			// aapt resource value: 0x7F080154
+			public const int off = 2131231060;
+			
+			// aapt resource value: 0x7F080155
+			public const int on = 2131231061;
+			
+			// aapt resource value: 0x7F080156
+			public const int outline = 2131231062;
+			
+			// aapt resource value: 0x7F080157
+			public const int outward = 2131231063;
+			
+			// aapt resource value: 0x7F080158
+			public const int overshoot = 2131231064;
+			
+			// aapt resource value: 0x7F080159
+			public const int packed = 2131231065;
+			
+			// aapt resource value: 0x7F08015A
+			public const int parallax = 2131231066;
+			
+			// aapt resource value: 0x7F08015B
+			public const int parent = 2131231067;
+			
+			// aapt resource value: 0x7F08015C
+			public const int parentPanel = 2131231068;
+			
+			// aapt resource value: 0x7F08015D
+			public const int parentRelative = 2131231069;
+			
+			// aapt resource value: 0x7F08015E
+			public const int parent_matrix = 2131231070;
+			
+			// aapt resource value: 0x7F08015F
+			public const int password_toggle = 2131231071;
+			
+			// aapt resource value: 0x7F080160
+			public const int path = 2131231072;
+			
+			// aapt resource value: 0x7F080161
+			public const int pathRelative = 2131231073;
+			
+			// aapt resource value: 0x7F080162
+			public const int peekHeight = 2131231074;
+			
+			// aapt resource value: 0x7F080163
+			public const int percent = 2131231075;
+			
+			// aapt resource value: 0x7F080164
+			public const int pin = 2131231076;
+			
+			// aapt resource value: 0x7F080165
+			public const int position = 2131231077;
+			
+			// aapt resource value: 0x7F080166
+			public const int postLayout = 2131231078;
+			
+			// aapt resource value: 0x7F080167
+			public const int progress = 2131231079;
+			
+			// aapt resource value: 0x7F080168
+			public const int progress_circular = 2131231080;
+			
+			// aapt resource value: 0x7F080169
+			public const int progress_horizontal = 2131231081;
+			
+			// aapt resource value: 0x7F08016A
+			public const int radio = 2131231082;
+			
+			// aapt resource value: 0x7F08016B
+			public const int ratio = 2131231083;
+			
+			// aapt resource value: 0x7F08016C
+			public const int rectangles = 2131231084;
+			
+			// aapt resource value: 0x7F08016D
+			public const int recycler_view = 2131231085;
+			
+			// aapt resource value: 0x7F08016E
+			public const int reverseSawtooth = 2131231086;
+			
+			// aapt resource value: 0x7F08016F
+			public const int right = 2131231087;
+			
+			// aapt resource value: 0x7F080170
+			public const int rightToLeft = 2131231088;
+			
+			// aapt resource value: 0x7F080171
+			public const int right_icon = 2131231089;
+			
+			// aapt resource value: 0x7F080172
+			public const int right_side = 2131231090;
+			
+			// aapt resource value: 0x7F080173
+			public const int rounded = 2131231091;
+			
+			// aapt resource value: 0x7F080174
+			public const int row_index_key = 2131231092;
+			
+			// aapt resource value: 0x7F080175
+			public const int save_non_transition_alpha = 2131231093;
+			
+			// aapt resource value: 0x7F080176
+			public const int save_overlay_view = 2131231094;
+			
+			// aapt resource value: 0x7F080177
+			public const int sawtooth = 2131231095;
+			
+			// aapt resource value: 0x7F080178
+			public const int scale = 2131231096;
+			
+			// aapt resource value: 0x7F080179
+			public const int screen = 2131231097;
+			
+			// aapt resource value: 0x7F08017A
+			public const int scroll = 2131231098;
+			
+			// aapt resource value: 0x7F08017E
+			public const int scrollable = 2131231102;
+			
+			// aapt resource value: 0x7F08017B
+			public const int scrollIndicatorDown = 2131231099;
+			
+			// aapt resource value: 0x7F08017C
+			public const int scrollIndicatorUp = 2131231100;
+			
+			// aapt resource value: 0x7F08017D
+			public const int scrollView = 2131231101;
+			
+			// aapt resource value: 0x7F08017F
+			public const int search_badge = 2131231103;
+			
+			// aapt resource value: 0x7F080180
+			public const int search_bar = 2131231104;
+			
+			// aapt resource value: 0x7F080181
+			public const int search_button = 2131231105;
 			
 			// aapt resource value: 0x7F080182
-			public const int sin = 2131231106;
+			public const int search_close_btn = 2131231106;
 			
 			// aapt resource value: 0x7F080183
-			public const int skipCollapsed = 2131231107;
+			public const int search_edit_frame = 2131231107;
 			
 			// aapt resource value: 0x7F080184
-			public const int skipped = 2131231108;
+			public const int search_go_btn = 2131231108;
 			
 			// aapt resource value: 0x7F080185
-			public const int slide = 2131231109;
+			public const int search_mag_icon = 2131231109;
 			
 			// aapt resource value: 0x7F080186
-			public const int sliding_tabs = 2131231110;
+			public const int search_plate = 2131231110;
 			
 			// aapt resource value: 0x7F080187
-			public const int snackbar_action = 2131231111;
+			public const int search_src_text = 2131231111;
 			
 			// aapt resource value: 0x7F080188
-			public const int snackbar_text = 2131231112;
+			public const int search_voice_btn = 2131231112;
 			
 			// aapt resource value: 0x7F080189
-			public const int snap = 2131231113;
+			public const int secondaryProgress = 2131231113;
 			
 			// aapt resource value: 0x7F08018A
-			public const int snapMargins = 2131231114;
+			public const int seekbar = 2131231114;
 			
 			// aapt resource value: 0x7F08018B
-			public const int south = 2131231115;
-			
-			// aapt resource value: 0x7F08018C
-			public const int spacer = 2131231116;
+			public const int seekbar_value = 2131231115;
 			
 			// aapt resource value: 0x7F08018D
-			public const int special_effects_controller_view_tag = 2131231117;
+			public const int selected = 2131231117;
 			
 			// aapt resource value: 0x7F08018E
-			public const int spinner = 2131231118;
+			public const int selection_type = 2131231118;
+			
+			// aapt resource value: 0x7F08018C
+			public const int select_dialog_listview = 2131231116;
 			
 			// aapt resource value: 0x7F08018F
-			public const int spline = 2131231119;
+			public const int sharedValueSet = 2131231119;
 			
 			// aapt resource value: 0x7F080190
-			public const int split_action_bar = 2131231120;
+			public const int sharedValueUnset = 2131231120;
 			
 			// aapt resource value: 0x7F080191
-			public const int spread = 2131231121;
+			public const int shellcontent_appbar = 2131231121;
 			
 			// aapt resource value: 0x7F080192
-			public const int spread_inside = 2131231122;
+			public const int shellcontent_toolbar = 2131231122;
+			
+			// aapt resource value: 0x7F08000A
+			public const int SHIFT = 2131230730;
 			
 			// aapt resource value: 0x7F080193
-			public const int spring = 2131231123;
+			public const int shortcut = 2131231123;
 			
 			// aapt resource value: 0x7F080194
-			public const int square = 2131231124;
+			public const int showCustom = 2131231124;
 			
 			// aapt resource value: 0x7F080195
-			public const int src_atop = 2131231125;
+			public const int showHome = 2131231125;
 			
 			// aapt resource value: 0x7F080196
-			public const int src_in = 2131231126;
-			
-			// aapt resource value: 0x7F080197
-			public const int src_over = 2131231127;
-			
-			// aapt resource value: 0x7F080198
-			public const int standard = 2131231128;
-			
-			// aapt resource value: 0x7F080199
-			public const int start = 2131231129;
-			
-			// aapt resource value: 0x7F08019A
-			public const int startHorizontal = 2131231130;
-			
-			// aapt resource value: 0x7F08019B
-			public const int startToEnd = 2131231131;
-			
-			// aapt resource value: 0x7F08019C
-			public const int startVertical = 2131231132;
-			
-			// aapt resource value: 0x7F08019D
-			public const int staticLayout = 2131231133;
-			
-			// aapt resource value: 0x7F08019E
-			public const int staticPostLayout = 2131231134;
-			
-			// aapt resource value: 0x7F08019F
-			public const int status_bar_latest_event_content = 2131231135;
-			
-			// aapt resource value: 0x7F0801A0
-			public const int stop = 2131231136;
-			
-			// aapt resource value: 0x7F0801A1
-			public const int stretch = 2131231137;
-			
-			// aapt resource value: 0x7F0801A2
-			public const int submenuarrow = 2131231138;
-			
-			// aapt resource value: 0x7F0801A3
-			public const int submit_area = 2131231139;
-			
-			// aapt resource value: 0x7F0801A4
-			public const int supportScrollUp = 2131231140;
-			
-			// aapt resource value: 0x7F0801A5
-			public const int switchWidget = 2131231141;
+			public const int showTitle = 2131231126;
 			
 			// aapt resource value: 0x7F08000B
-			public const int SYM = 2131230731;
-			
-			// aapt resource value: 0x7F0801A6
-			public const int tabMode = 2131231142;
-			
-			// aapt resource value: 0x7F0801A7
-			public const int tag_accessibility_actions = 2131231143;
-			
-			// aapt resource value: 0x7F0801A8
-			public const int tag_accessibility_clickable_spans = 2131231144;
-			
-			// aapt resource value: 0x7F0801A9
-			public const int tag_accessibility_heading = 2131231145;
-			
-			// aapt resource value: 0x7F0801AA
-			public const int tag_accessibility_pane_title = 2131231146;
-			
-			// aapt resource value: 0x7F0801AB
-			public const int tag_on_apply_window_listener = 2131231147;
-			
-			// aapt resource value: 0x7F0801AC
-			public const int tag_on_receive_content_listener = 2131231148;
-			
-			// aapt resource value: 0x7F0801AD
-			public const int tag_on_receive_content_mime_types = 2131231149;
-			
-			// aapt resource value: 0x7F0801AE
-			public const int tag_screen_reader_focusable = 2131231150;
-			
-			// aapt resource value: 0x7F0801AF
-			public const int tag_state_description = 2131231151;
-			
-			// aapt resource value: 0x7F0801B0
-			public const int tag_transition_group = 2131231152;
-			
-			// aapt resource value: 0x7F0801B1
-			public const int tag_unhandled_key_event_manager = 2131231153;
-			
-			// aapt resource value: 0x7F0801B2
-			public const int tag_unhandled_key_listeners = 2131231154;
-			
-			// aapt resource value: 0x7F0801B3
-			public const int tag_window_insets_animation_callback = 2131231155;
-			
-			// aapt resource value: 0x7F0801B4
-			public const int test_checkbox_android_button_tint = 2131231156;
-			
-			// aapt resource value: 0x7F0801B5
-			public const int test_checkbox_app_button_tint = 2131231157;
-			
-			// aapt resource value: 0x7F0801B6
-			public const int test_radiobutton_android_button_tint = 2131231158;
-			
-			// aapt resource value: 0x7F0801B7
-			public const int test_radiobutton_app_button_tint = 2131231159;
-			
-			// aapt resource value: 0x7F0801B8
-			public const int text = 2131231160;
-			
-			// aapt resource value: 0x7F0801B9
-			public const int text2 = 2131231161;
-			
-			// aapt resource value: 0x7F0801BA
-			public const int textEnd = 2131231162;
-			
-			// aapt resource value: 0x7F0801C2
-			public const int textinput_counter = 2131231170;
-			
-			// aapt resource value: 0x7F0801C3
-			public const int textinput_error = 2131231171;
-			
-			// aapt resource value: 0x7F0801C4
-			public const int textinput_helper_text = 2131231172;
-			
-			// aapt resource value: 0x7F0801C5
-			public const int textinput_placeholder = 2131231173;
-			
-			// aapt resource value: 0x7F0801C6
-			public const int textinput_prefix_text = 2131231174;
-			
-			// aapt resource value: 0x7F0801C7
-			public const int textinput_suffix_text = 2131231175;
-			
-			// aapt resource value: 0x7F0801BB
-			public const int textSpacerNoButtons = 2131231163;
-			
-			// aapt resource value: 0x7F0801BC
-			public const int textSpacerNoTitle = 2131231164;
-			
-			// aapt resource value: 0x7F0801BD
-			public const int textStart = 2131231165;
-			
-			// aapt resource value: 0x7F0801BE
-			public const int textTop = 2131231166;
-			
-			// aapt resource value: 0x7F0801BF
-			public const int text_input_end_icon = 2131231167;
-			
-			// aapt resource value: 0x7F0801C0
-			public const int text_input_error_icon = 2131231168;
-			
-			// aapt resource value: 0x7F0801C1
-			public const int text_input_start_icon = 2131231169;
-			
-			// aapt resource value: 0x7F0801C8
-			public const int time = 2131231176;
-			
-			// aapt resource value: 0x7F0801C9
-			public const int title = 2131231177;
-			
-			// aapt resource value: 0x7F0801CA
-			public const int titleDividerNoCustom = 2131231178;
-			
-			// aapt resource value: 0x7F0801CB
-			public const int title_template = 2131231179;
-			
-			// aapt resource value: 0x7F0801CC
-			public const int toggle = 2131231180;
-			
-			// aapt resource value: 0x7F0801CD
-			public const int toolbar = 2131231181;
-			
-			// aapt resource value: 0x7F0801CE
-			public const int top = 2131231182;
-			
-			// aapt resource value: 0x7F0801CF
-			public const int topPanel = 2131231183;
+			public const int SHOW_ALL = 2131230731;
 			
 			// aapt resource value: 0x7F08000C
-			public const int TOP_END = 2131230732;
+			public const int SHOW_PATH = 2131230732;
 			
 			// aapt resource value: 0x7F08000D
-			public const int TOP_START = 2131230733;
+			public const int SHOW_PROGRESS = 2131230733;
+			
+			// aapt resource value: 0x7F080197
+			public const int sin = 2131231127;
+			
+			// aapt resource value: 0x7F080198
+			public const int skipCollapsed = 2131231128;
+			
+			// aapt resource value: 0x7F080199
+			public const int skipped = 2131231129;
+			
+			// aapt resource value: 0x7F08019A
+			public const int slide = 2131231130;
+			
+			// aapt resource value: 0x7F08019B
+			public const int sliding_tabs = 2131231131;
+			
+			// aapt resource value: 0x7F08019C
+			public const int snackbar_action = 2131231132;
+			
+			// aapt resource value: 0x7F08019D
+			public const int snackbar_text = 2131231133;
+			
+			// aapt resource value: 0x7F08019E
+			public const int snap = 2131231134;
+			
+			// aapt resource value: 0x7F08019F
+			public const int snapMargins = 2131231135;
+			
+			// aapt resource value: 0x7F0801A0
+			public const int south = 2131231136;
+			
+			// aapt resource value: 0x7F0801A1
+			public const int spacer = 2131231137;
+			
+			// aapt resource value: 0x7F0801A2
+			public const int special_effects_controller_view_tag = 2131231138;
+			
+			// aapt resource value: 0x7F0801A3
+			public const int spinner = 2131231139;
+			
+			// aapt resource value: 0x7F0801A4
+			public const int spline = 2131231140;
+			
+			// aapt resource value: 0x7F0801A5
+			public const int split_action_bar = 2131231141;
+			
+			// aapt resource value: 0x7F0801A6
+			public const int spread = 2131231142;
+			
+			// aapt resource value: 0x7F0801A7
+			public const int spread_inside = 2131231143;
+			
+			// aapt resource value: 0x7F0801A8
+			public const int spring = 2131231144;
+			
+			// aapt resource value: 0x7F0801A9
+			public const int square = 2131231145;
+			
+			// aapt resource value: 0x7F0801AA
+			public const int src_atop = 2131231146;
+			
+			// aapt resource value: 0x7F0801AB
+			public const int src_in = 2131231147;
+			
+			// aapt resource value: 0x7F0801AC
+			public const int src_over = 2131231148;
+			
+			// aapt resource value: 0x7F0801AD
+			public const int standard = 2131231149;
+			
+			// aapt resource value: 0x7F0801AE
+			public const int start = 2131231150;
+			
+			// aapt resource value: 0x7F0801AF
+			public const int startHorizontal = 2131231151;
+			
+			// aapt resource value: 0x7F0801B0
+			public const int startToEnd = 2131231152;
+			
+			// aapt resource value: 0x7F0801B1
+			public const int startVertical = 2131231153;
+			
+			// aapt resource value: 0x7F0801B2
+			public const int staticLayout = 2131231154;
+			
+			// aapt resource value: 0x7F0801B3
+			public const int staticPostLayout = 2131231155;
+			
+			// aapt resource value: 0x7F0801B4
+			public const int status_bar_latest_event_content = 2131231156;
+			
+			// aapt resource value: 0x7F0801B5
+			public const int stop = 2131231157;
+			
+			// aapt resource value: 0x7F0801B6
+			public const int stretch = 2131231158;
+			
+			// aapt resource value: 0x7F0801B7
+			public const int submenuarrow = 2131231159;
+			
+			// aapt resource value: 0x7F0801B8
+			public const int submit_area = 2131231160;
+			
+			// aapt resource value: 0x7F0801B9
+			public const int suffix = 2131231161;
+			
+			// aapt resource value: 0x7F08000E
+			public const int SUMMARY = 2131230734;
+			
+			// aapt resource value: 0x7F0801BA
+			public const int summary = 2131231162;
+			
+			// aapt resource value: 0x7F0801BB
+			public const int supportScrollUp = 2131231163;
+			
+			// aapt resource value: 0x7F0801BC
+			public const int switchWidget = 2131231164;
+			
+			// aapt resource value: 0x7F0801BD
+			public const int switch_widget = 2131231165;
+			
+			// aapt resource value: 0x7F08000F
+			public const int SYM = 2131230735;
+			
+			// aapt resource value: 0x7F0801BE
+			public const int tabMode = 2131231166;
+			
+			// aapt resource value: 0x7F0801BF
+			public const int tag_accessibility_actions = 2131231167;
+			
+			// aapt resource value: 0x7F0801C0
+			public const int tag_accessibility_clickable_spans = 2131231168;
+			
+			// aapt resource value: 0x7F0801C1
+			public const int tag_accessibility_heading = 2131231169;
+			
+			// aapt resource value: 0x7F0801C2
+			public const int tag_accessibility_pane_title = 2131231170;
+			
+			// aapt resource value: 0x7F0801C3
+			public const int tag_on_apply_window_listener = 2131231171;
+			
+			// aapt resource value: 0x7F0801C4
+			public const int tag_on_receive_content_listener = 2131231172;
+			
+			// aapt resource value: 0x7F0801C5
+			public const int tag_on_receive_content_mime_types = 2131231173;
+			
+			// aapt resource value: 0x7F0801C6
+			public const int tag_screen_reader_focusable = 2131231174;
+			
+			// aapt resource value: 0x7F0801C7
+			public const int tag_state_description = 2131231175;
+			
+			// aapt resource value: 0x7F0801C8
+			public const int tag_transition_group = 2131231176;
+			
+			// aapt resource value: 0x7F0801C9
+			public const int tag_unhandled_key_event_manager = 2131231177;
+			
+			// aapt resource value: 0x7F0801CA
+			public const int tag_unhandled_key_listeners = 2131231178;
+			
+			// aapt resource value: 0x7F0801CB
+			public const int tag_window_insets_animation_callback = 2131231179;
+			
+			// aapt resource value: 0x7F0801CC
+			public const int test_checkbox_android_button_tint = 2131231180;
+			
+			// aapt resource value: 0x7F0801CD
+			public const int test_checkbox_app_button_tint = 2131231181;
+			
+			// aapt resource value: 0x7F0801CE
+			public const int test_radiobutton_android_button_tint = 2131231182;
+			
+			// aapt resource value: 0x7F0801CF
+			public const int test_radiobutton_app_button_tint = 2131231183;
 			
 			// aapt resource value: 0x7F0801D0
-			public const int touch_outside = 2131231184;
+			public const int text = 2131231184;
 			
 			// aapt resource value: 0x7F0801D1
-			public const int transitionToEnd = 2131231185;
+			public const int text1 = 2131231185;
 			
 			// aapt resource value: 0x7F0801D2
-			public const int transitionToStart = 2131231186;
+			public const int text2 = 2131231186;
 			
 			// aapt resource value: 0x7F0801D3
-			public const int transition_current_scene = 2131231187;
-			
-			// aapt resource value: 0x7F0801D4
-			public const int transition_layout_save = 2131231188;
-			
-			// aapt resource value: 0x7F0801D5
-			public const int transition_position = 2131231189;
-			
-			// aapt resource value: 0x7F0801D6
-			public const int transition_scene_layoutid_cache = 2131231190;
-			
-			// aapt resource value: 0x7F0801D7
-			public const int transition_transform = 2131231191;
-			
-			// aapt resource value: 0x7F0801D8
-			public const int triangle = 2131231192;
-			
-			// aapt resource value: 0x7F0801D9
-			public const int @unchecked = 2131231193;
-			
-			// aapt resource value: 0x7F0801DA
-			public const int uniform = 2131231194;
+			public const int textEnd = 2131231187;
 			
 			// aapt resource value: 0x7F0801DB
-			public const int unlabeled = 2131231195;
+			public const int textinput_counter = 2131231195;
 			
 			// aapt resource value: 0x7F0801DC
-			public const int up = 2131231196;
+			public const int textinput_error = 2131231196;
 			
 			// aapt resource value: 0x7F0801DD
-			public const int useLogo = 2131231197;
+			public const int textinput_helper_text = 2131231197;
 			
 			// aapt resource value: 0x7F0801DE
-			public const int vertical_only = 2131231198;
+			public const int textinput_placeholder = 2131231198;
 			
 			// aapt resource value: 0x7F0801DF
-			public const int view_offset_helper = 2131231199;
+			public const int textinput_prefix_text = 2131231199;
 			
 			// aapt resource value: 0x7F0801E0
-			public const int view_transition = 2131231200;
+			public const int textinput_suffix_text = 2131231200;
+			
+			// aapt resource value: 0x7F0801D4
+			public const int textSpacerNoButtons = 2131231188;
+			
+			// aapt resource value: 0x7F0801D5
+			public const int textSpacerNoTitle = 2131231189;
+			
+			// aapt resource value: 0x7F0801D6
+			public const int textStart = 2131231190;
+			
+			// aapt resource value: 0x7F0801D7
+			public const int textTop = 2131231191;
+			
+			// aapt resource value: 0x7F0801D8
+			public const int text_input_end_icon = 2131231192;
+			
+			// aapt resource value: 0x7F0801D9
+			public const int text_input_error_icon = 2131231193;
+			
+			// aapt resource value: 0x7F0801DA
+			public const int text_input_start_icon = 2131231194;
 			
 			// aapt resource value: 0x7F0801E1
-			public const int view_tree_lifecycle_owner = 2131231201;
+			public const int time = 2131231201;
 			
 			// aapt resource value: 0x7F0801E2
-			public const int view_tree_saved_state_registry_owner = 2131231202;
+			public const int title = 2131231202;
 			
 			// aapt resource value: 0x7F0801E3
-			public const int view_tree_view_model_store_owner = 2131231203;
+			public const int titleDividerNoCustom = 2131231203;
 			
 			// aapt resource value: 0x7F0801E4
-			public const int visible = 2131231204;
+			public const int title_template = 2131231204;
 			
 			// aapt resource value: 0x7F0801E5
-			public const int visible_removing_fragment_view_tag = 2131231205;
+			public const int toggle = 2131231205;
 			
 			// aapt resource value: 0x7F0801E6
-			public const int west = 2131231206;
-			
-			// aapt resource value: 0x7F0801E8
-			public const int withinBounds = 2131231208;
+			public const int toolbar = 2131231206;
 			
 			// aapt resource value: 0x7F0801E7
-			public const int withText = 2131231207;
+			public const int top = 2131231207;
+			
+			// aapt resource value: 0x7F0801E8
+			public const int topPanel = 2131231208;
+			
+			// aapt resource value: 0x7F080010
+			public const int TOP_END = 2131230736;
+			
+			// aapt resource value: 0x7F080011
+			public const int TOP_START = 2131230737;
 			
 			// aapt resource value: 0x7F0801E9
-			public const int wrap = 2131231209;
+			public const int touch_outside = 2131231209;
 			
 			// aapt resource value: 0x7F0801EA
-			public const int wrap_content = 2131231210;
+			public const int transitionToEnd = 2131231210;
 			
 			// aapt resource value: 0x7F0801EB
-			public const int wrap_content_constrained = 2131231211;
+			public const int transitionToStart = 2131231211;
 			
 			// aapt resource value: 0x7F0801EC
-			public const int x_left = 2131231212;
+			public const int transition_current_scene = 2131231212;
 			
 			// aapt resource value: 0x7F0801ED
-			public const int x_right = 2131231213;
+			public const int transition_layout_save = 2131231213;
 			
 			// aapt resource value: 0x7F0801EE
-			public const int zero_corner_chip = 2131231214;
+			public const int transition_position = 2131231214;
+			
+			// aapt resource value: 0x7F0801EF
+			public const int transition_scene_layoutid_cache = 2131231215;
+			
+			// aapt resource value: 0x7F0801F0
+			public const int transition_transform = 2131231216;
+			
+			// aapt resource value: 0x7F0801F1
+			public const int triangle = 2131231217;
+			
+			// aapt resource value: 0x7F0801F2
+			public const int @unchecked = 2131231218;
+			
+			// aapt resource value: 0x7F0801F3
+			public const int uniform = 2131231219;
+			
+			// aapt resource value: 0x7F0801F4
+			public const int unlabeled = 2131231220;
+			
+			// aapt resource value: 0x7F0801F5
+			public const int up = 2131231221;
+			
+			// aapt resource value: 0x7F0801F6
+			public const int useLogo = 2131231222;
+			
+			// aapt resource value: 0x7F0801F7
+			public const int vertical_only = 2131231223;
+			
+			// aapt resource value: 0x7F0801F8
+			public const int view_offset_helper = 2131231224;
+			
+			// aapt resource value: 0x7F0801F9
+			public const int view_transition = 2131231225;
+			
+			// aapt resource value: 0x7F0801FA
+			public const int view_tree_lifecycle_owner = 2131231226;
+			
+			// aapt resource value: 0x7F0801FB
+			public const int view_tree_saved_state_registry_owner = 2131231227;
+			
+			// aapt resource value: 0x7F0801FC
+			public const int view_tree_view_model_store_owner = 2131231228;
+			
+			// aapt resource value: 0x7F0801FD
+			public const int visible = 2131231229;
+			
+			// aapt resource value: 0x7F0801FE
+			public const int visible_removing_fragment_view_tag = 2131231230;
+			
+			// aapt resource value: 0x7F0801FF
+			public const int west = 2131231231;
+			
+			// aapt resource value: 0x7F080200
+			public const int widget_frame = 2131231232;
+			
+			// aapt resource value: 0x7F080202
+			public const int withinBounds = 2131231234;
+			
+			// aapt resource value: 0x7F080201
+			public const int withText = 2131231233;
+			
+			// aapt resource value: 0x7F080203
+			public const int wrap = 2131231235;
+			
+			// aapt resource value: 0x7F080204
+			public const int wrap_content = 2131231236;
+			
+			// aapt resource value: 0x7F080205
+			public const int wrap_content_constrained = 2131231237;
+			
+			// aapt resource value: 0x7F080206
+			public const int x_left = 2131231238;
+			
+			// aapt resource value: 0x7F080207
+			public const int x_right = 2131231239;
+			
+			// aapt resource value: 0x7F080208
+			public const int zero_corner_chip = 2131231240;
 			
 			static Id()
 			{
@@ -18338,452 +22022,452 @@ namespace RemindRx.Droid
 		public partial class Layout
 		{
 			
-			// aapt resource value: 0x7F0B0000
-			public const int abc_action_bar_title_item = 2131427328;
-			
-			// aapt resource value: 0x7F0B0001
-			public const int abc_action_bar_up_container = 2131427329;
-			
-			// aapt resource value: 0x7F0B0002
-			public const int abc_action_menu_item_layout = 2131427330;
-			
-			// aapt resource value: 0x7F0B0003
-			public const int abc_action_menu_layout = 2131427331;
-			
-			// aapt resource value: 0x7F0B0004
-			public const int abc_action_mode_bar = 2131427332;
-			
-			// aapt resource value: 0x7F0B0005
-			public const int abc_action_mode_close_item_material = 2131427333;
-			
-			// aapt resource value: 0x7F0B0006
-			public const int abc_activity_chooser_view = 2131427334;
-			
-			// aapt resource value: 0x7F0B0007
-			public const int abc_activity_chooser_view_list_item = 2131427335;
-			
 			// aapt resource value: 0x7F0B0008
-			public const int abc_alert_dialog_button_bar_material = 2131427336;
+			public const int abc_action_bar_title_item = 2131427336;
 			
 			// aapt resource value: 0x7F0B0009
-			public const int abc_alert_dialog_material = 2131427337;
+			public const int abc_action_bar_up_container = 2131427337;
 			
 			// aapt resource value: 0x7F0B000A
-			public const int abc_alert_dialog_title_material = 2131427338;
+			public const int abc_action_menu_item_layout = 2131427338;
 			
 			// aapt resource value: 0x7F0B000B
-			public const int abc_cascading_menu_item_layout = 2131427339;
+			public const int abc_action_menu_layout = 2131427339;
 			
 			// aapt resource value: 0x7F0B000C
-			public const int abc_dialog_title_material = 2131427340;
+			public const int abc_action_mode_bar = 2131427340;
 			
 			// aapt resource value: 0x7F0B000D
-			public const int abc_expanded_menu_layout = 2131427341;
+			public const int abc_action_mode_close_item_material = 2131427341;
 			
 			// aapt resource value: 0x7F0B000E
-			public const int abc_list_menu_item_checkbox = 2131427342;
+			public const int abc_activity_chooser_view = 2131427342;
 			
 			// aapt resource value: 0x7F0B000F
-			public const int abc_list_menu_item_icon = 2131427343;
+			public const int abc_activity_chooser_view_list_item = 2131427343;
 			
 			// aapt resource value: 0x7F0B0010
-			public const int abc_list_menu_item_layout = 2131427344;
+			public const int abc_alert_dialog_button_bar_material = 2131427344;
 			
 			// aapt resource value: 0x7F0B0011
-			public const int abc_list_menu_item_radio = 2131427345;
+			public const int abc_alert_dialog_material = 2131427345;
 			
 			// aapt resource value: 0x7F0B0012
-			public const int abc_popup_menu_header_item_layout = 2131427346;
+			public const int abc_alert_dialog_title_material = 2131427346;
 			
 			// aapt resource value: 0x7F0B0013
-			public const int abc_popup_menu_item_layout = 2131427347;
+			public const int abc_cascading_menu_item_layout = 2131427347;
 			
 			// aapt resource value: 0x7F0B0014
-			public const int abc_screen_content_include = 2131427348;
+			public const int abc_dialog_title_material = 2131427348;
 			
 			// aapt resource value: 0x7F0B0015
-			public const int abc_screen_simple = 2131427349;
+			public const int abc_expanded_menu_layout = 2131427349;
 			
 			// aapt resource value: 0x7F0B0016
-			public const int abc_screen_simple_overlay_action_mode = 2131427350;
+			public const int abc_list_menu_item_checkbox = 2131427350;
 			
 			// aapt resource value: 0x7F0B0017
-			public const int abc_screen_toolbar = 2131427351;
+			public const int abc_list_menu_item_icon = 2131427351;
 			
 			// aapt resource value: 0x7F0B0018
-			public const int abc_search_dropdown_item_icons_2line = 2131427352;
+			public const int abc_list_menu_item_layout = 2131427352;
 			
 			// aapt resource value: 0x7F0B0019
-			public const int abc_search_view = 2131427353;
+			public const int abc_list_menu_item_radio = 2131427353;
 			
 			// aapt resource value: 0x7F0B001A
-			public const int abc_select_dialog_material = 2131427354;
+			public const int abc_popup_menu_header_item_layout = 2131427354;
 			
 			// aapt resource value: 0x7F0B001B
-			public const int abc_tooltip = 2131427355;
+			public const int abc_popup_menu_item_layout = 2131427355;
 			
 			// aapt resource value: 0x7F0B001C
-			public const int BottomTabLayout = 2131427356;
+			public const int abc_screen_content_include = 2131427356;
 			
 			// aapt resource value: 0x7F0B001D
-			public const int browser_actions_context_menu_page = 2131427357;
+			public const int abc_screen_simple = 2131427357;
 			
 			// aapt resource value: 0x7F0B001E
-			public const int browser_actions_context_menu_row = 2131427358;
+			public const int abc_screen_simple_overlay_action_mode = 2131427358;
 			
 			// aapt resource value: 0x7F0B001F
-			public const int custom_dialog = 2131427359;
+			public const int abc_screen_toolbar = 2131427359;
 			
 			// aapt resource value: 0x7F0B0020
-			public const int design_bottom_navigation_item = 2131427360;
+			public const int abc_search_dropdown_item_icons_2line = 2131427360;
 			
 			// aapt resource value: 0x7F0B0021
-			public const int design_bottom_sheet_dialog = 2131427361;
+			public const int abc_search_view = 2131427361;
 			
 			// aapt resource value: 0x7F0B0022
-			public const int design_layout_snackbar = 2131427362;
+			public const int abc_select_dialog_material = 2131427362;
 			
 			// aapt resource value: 0x7F0B0023
-			public const int design_layout_snackbar_include = 2131427363;
+			public const int abc_tooltip = 2131427363;
+			
+			// aapt resource value: 0x7F0B0000
+			public const int BottomTabLayout = 2131427328;
 			
 			// aapt resource value: 0x7F0B0024
-			public const int design_layout_tab_icon = 2131427364;
+			public const int browser_actions_context_menu_page = 2131427364;
 			
 			// aapt resource value: 0x7F0B0025
-			public const int design_layout_tab_text = 2131427365;
+			public const int browser_actions_context_menu_row = 2131427365;
 			
 			// aapt resource value: 0x7F0B0026
-			public const int design_menu_item_action_area = 2131427366;
+			public const int custom_dialog = 2131427366;
 			
 			// aapt resource value: 0x7F0B0027
-			public const int design_navigation_item = 2131427367;
+			public const int design_bottom_navigation_item = 2131427367;
 			
 			// aapt resource value: 0x7F0B0028
-			public const int design_navigation_item_header = 2131427368;
+			public const int design_bottom_sheet_dialog = 2131427368;
 			
 			// aapt resource value: 0x7F0B0029
-			public const int design_navigation_item_separator = 2131427369;
+			public const int design_layout_snackbar = 2131427369;
 			
 			// aapt resource value: 0x7F0B002A
-			public const int design_navigation_item_subheader = 2131427370;
+			public const int design_layout_snackbar_include = 2131427370;
 			
 			// aapt resource value: 0x7F0B002B
-			public const int design_navigation_menu = 2131427371;
+			public const int design_layout_tab_icon = 2131427371;
 			
 			// aapt resource value: 0x7F0B002C
-			public const int design_navigation_menu_item = 2131427372;
+			public const int design_layout_tab_text = 2131427372;
 			
 			// aapt resource value: 0x7F0B002D
-			public const int design_text_input_end_icon = 2131427373;
+			public const int design_menu_item_action_area = 2131427373;
 			
 			// aapt resource value: 0x7F0B002E
-			public const int design_text_input_start_icon = 2131427374;
+			public const int design_navigation_item = 2131427374;
 			
 			// aapt resource value: 0x7F0B002F
-			public const int expand_button = 2131427375;
+			public const int design_navigation_item_header = 2131427375;
 			
 			// aapt resource value: 0x7F0B0030
-			public const int FallbackTabbarDoNotUse = 2131427376;
+			public const int design_navigation_item_separator = 2131427376;
 			
 			// aapt resource value: 0x7F0B0031
-			public const int FallbackToolbarDoNotUse = 2131427377;
+			public const int design_navigation_item_subheader = 2131427377;
 			
 			// aapt resource value: 0x7F0B0032
-			public const int FlyoutContent = 2131427378;
+			public const int design_navigation_menu = 2131427378;
 			
 			// aapt resource value: 0x7F0B0033
-			public const int image_frame = 2131427379;
+			public const int design_navigation_menu_item = 2131427379;
 			
 			// aapt resource value: 0x7F0B0034
-			public const int material_chip_input_combo = 2131427380;
-			
-			// aapt resource value: 0x7F0B0039
-			public const int material_clockface_textview = 2131427385;
-			
-			// aapt resource value: 0x7F0B003A
-			public const int material_clockface_view = 2131427386;
+			public const int design_text_input_end_icon = 2131427380;
 			
 			// aapt resource value: 0x7F0B0035
-			public const int material_clock_display = 2131427381;
+			public const int design_text_input_start_icon = 2131427381;
 			
 			// aapt resource value: 0x7F0B0036
-			public const int material_clock_display_divider = 2131427382;
+			public const int expand_button = 2131427382;
+			
+			// aapt resource value: 0x7F0B0001
+			public const int FallbackTabbarDoNotUse = 2131427329;
+			
+			// aapt resource value: 0x7F0B0002
+			public const int FallbackToolbarDoNotUse = 2131427330;
+			
+			// aapt resource value: 0x7F0B0003
+			public const int FlyoutContent = 2131427331;
 			
 			// aapt resource value: 0x7F0B0037
-			public const int material_clock_period_toggle = 2131427383;
+			public const int image_frame = 2131427383;
 			
 			// aapt resource value: 0x7F0B0038
-			public const int material_clock_period_toggle_land = 2131427384;
-			
-			// aapt resource value: 0x7F0B003B
-			public const int material_radial_view_group = 2131427387;
-			
-			// aapt resource value: 0x7F0B003C
-			public const int material_textinput_timepicker = 2131427388;
-			
-			// aapt resource value: 0x7F0B003F
-			public const int material_timepicker = 2131427391;
-			
-			// aapt resource value: 0x7F0B0040
-			public const int material_timepicker_dialog = 2131427392;
-			
-			// aapt resource value: 0x7F0B0041
-			public const int material_timepicker_textinput_display = 2131427393;
+			public const int material_chip_input_combo = 2131427384;
 			
 			// aapt resource value: 0x7F0B003D
-			public const int material_time_chip = 2131427389;
+			public const int material_clockface_textview = 2131427389;
 			
 			// aapt resource value: 0x7F0B003E
-			public const int material_time_input = 2131427390;
+			public const int material_clockface_view = 2131427390;
 			
-			// aapt resource value: 0x7F0B0042
-			public const int mtrl_alert_dialog = 2131427394;
+			// aapt resource value: 0x7F0B0039
+			public const int material_clock_display = 2131427385;
+			
+			// aapt resource value: 0x7F0B003A
+			public const int material_clock_display_divider = 2131427386;
+			
+			// aapt resource value: 0x7F0B003B
+			public const int material_clock_period_toggle = 2131427387;
+			
+			// aapt resource value: 0x7F0B003C
+			public const int material_clock_period_toggle_land = 2131427388;
+			
+			// aapt resource value: 0x7F0B003F
+			public const int material_radial_view_group = 2131427391;
+			
+			// aapt resource value: 0x7F0B0040
+			public const int material_textinput_timepicker = 2131427392;
 			
 			// aapt resource value: 0x7F0B0043
-			public const int mtrl_alert_dialog_actions = 2131427395;
+			public const int material_timepicker = 2131427395;
 			
 			// aapt resource value: 0x7F0B0044
-			public const int mtrl_alert_dialog_title = 2131427396;
+			public const int material_timepicker_dialog = 2131427396;
 			
 			// aapt resource value: 0x7F0B0045
-			public const int mtrl_alert_select_dialog_item = 2131427397;
+			public const int material_timepicker_textinput_display = 2131427397;
+			
+			// aapt resource value: 0x7F0B0041
+			public const int material_time_chip = 2131427393;
+			
+			// aapt resource value: 0x7F0B0042
+			public const int material_time_input = 2131427394;
 			
 			// aapt resource value: 0x7F0B0046
-			public const int mtrl_alert_select_dialog_multichoice = 2131427398;
+			public const int mtrl_alert_dialog = 2131427398;
 			
 			// aapt resource value: 0x7F0B0047
-			public const int mtrl_alert_select_dialog_singlechoice = 2131427399;
+			public const int mtrl_alert_dialog_actions = 2131427399;
 			
 			// aapt resource value: 0x7F0B0048
-			public const int mtrl_calendar_day = 2131427400;
-			
-			// aapt resource value: 0x7F0B004A
-			public const int mtrl_calendar_days_of_week = 2131427402;
+			public const int mtrl_alert_dialog_title = 2131427400;
 			
 			// aapt resource value: 0x7F0B0049
-			public const int mtrl_calendar_day_of_week = 2131427401;
+			public const int mtrl_alert_select_dialog_item = 2131427401;
+			
+			// aapt resource value: 0x7F0B004A
+			public const int mtrl_alert_select_dialog_multichoice = 2131427402;
 			
 			// aapt resource value: 0x7F0B004B
-			public const int mtrl_calendar_horizontal = 2131427403;
+			public const int mtrl_alert_select_dialog_singlechoice = 2131427403;
 			
 			// aapt resource value: 0x7F0B004C
-			public const int mtrl_calendar_month = 2131427404;
-			
-			// aapt resource value: 0x7F0B004F
-			public const int mtrl_calendar_months = 2131427407;
-			
-			// aapt resource value: 0x7F0B004D
-			public const int mtrl_calendar_month_labeled = 2131427405;
+			public const int mtrl_calendar_day = 2131427404;
 			
 			// aapt resource value: 0x7F0B004E
-			public const int mtrl_calendar_month_navigation = 2131427406;
+			public const int mtrl_calendar_days_of_week = 2131427406;
+			
+			// aapt resource value: 0x7F0B004D
+			public const int mtrl_calendar_day_of_week = 2131427405;
+			
+			// aapt resource value: 0x7F0B004F
+			public const int mtrl_calendar_horizontal = 2131427407;
 			
 			// aapt resource value: 0x7F0B0050
-			public const int mtrl_calendar_vertical = 2131427408;
-			
-			// aapt resource value: 0x7F0B0051
-			public const int mtrl_calendar_year = 2131427409;
-			
-			// aapt resource value: 0x7F0B0052
-			public const int mtrl_layout_snackbar = 2131427410;
+			public const int mtrl_calendar_month = 2131427408;
 			
 			// aapt resource value: 0x7F0B0053
-			public const int mtrl_layout_snackbar_include = 2131427411;
+			public const int mtrl_calendar_months = 2131427411;
+			
+			// aapt resource value: 0x7F0B0051
+			public const int mtrl_calendar_month_labeled = 2131427409;
+			
+			// aapt resource value: 0x7F0B0052
+			public const int mtrl_calendar_month_navigation = 2131427410;
 			
 			// aapt resource value: 0x7F0B0054
-			public const int mtrl_navigation_rail_item = 2131427412;
+			public const int mtrl_calendar_vertical = 2131427412;
 			
 			// aapt resource value: 0x7F0B0055
-			public const int mtrl_picker_actions = 2131427413;
+			public const int mtrl_calendar_year = 2131427413;
 			
 			// aapt resource value: 0x7F0B0056
-			public const int mtrl_picker_dialog = 2131427414;
+			public const int mtrl_layout_snackbar = 2131427414;
 			
 			// aapt resource value: 0x7F0B0057
-			public const int mtrl_picker_fullscreen = 2131427415;
+			public const int mtrl_layout_snackbar_include = 2131427415;
 			
 			// aapt resource value: 0x7F0B0058
-			public const int mtrl_picker_header_dialog = 2131427416;
+			public const int mtrl_navigation_rail_item = 2131427416;
 			
 			// aapt resource value: 0x7F0B0059
-			public const int mtrl_picker_header_fullscreen = 2131427417;
+			public const int mtrl_picker_actions = 2131427417;
 			
 			// aapt resource value: 0x7F0B005A
-			public const int mtrl_picker_header_selection_text = 2131427418;
+			public const int mtrl_picker_dialog = 2131427418;
 			
 			// aapt resource value: 0x7F0B005B
-			public const int mtrl_picker_header_title_text = 2131427419;
+			public const int mtrl_picker_fullscreen = 2131427419;
 			
 			// aapt resource value: 0x7F0B005C
-			public const int mtrl_picker_header_toggle = 2131427420;
+			public const int mtrl_picker_header_dialog = 2131427420;
 			
 			// aapt resource value: 0x7F0B005D
-			public const int mtrl_picker_text_input_date = 2131427421;
+			public const int mtrl_picker_header_fullscreen = 2131427421;
 			
 			// aapt resource value: 0x7F0B005E
-			public const int mtrl_picker_text_input_date_range = 2131427422;
+			public const int mtrl_picker_header_selection_text = 2131427422;
 			
 			// aapt resource value: 0x7F0B005F
-			public const int notification_action = 2131427423;
+			public const int mtrl_picker_header_title_text = 2131427423;
 			
 			// aapt resource value: 0x7F0B0060
-			public const int notification_action_tombstone = 2131427424;
+			public const int mtrl_picker_header_toggle = 2131427424;
 			
 			// aapt resource value: 0x7F0B0061
-			public const int notification_media_action = 2131427425;
+			public const int mtrl_picker_text_input_date = 2131427425;
 			
 			// aapt resource value: 0x7F0B0062
-			public const int notification_media_cancel_action = 2131427426;
+			public const int mtrl_picker_text_input_date_range = 2131427426;
 			
 			// aapt resource value: 0x7F0B0063
-			public const int notification_template_big_media = 2131427427;
+			public const int notification_action = 2131427427;
 			
 			// aapt resource value: 0x7F0B0064
-			public const int notification_template_big_media_custom = 2131427428;
+			public const int notification_action_tombstone = 2131427428;
 			
 			// aapt resource value: 0x7F0B0065
-			public const int notification_template_big_media_narrow = 2131427429;
+			public const int notification_media_action = 2131427429;
 			
 			// aapt resource value: 0x7F0B0066
-			public const int notification_template_big_media_narrow_custom = 2131427430;
+			public const int notification_media_cancel_action = 2131427430;
 			
 			// aapt resource value: 0x7F0B0067
-			public const int notification_template_custom_big = 2131427431;
+			public const int notification_template_big_media = 2131427431;
 			
 			// aapt resource value: 0x7F0B0068
-			public const int notification_template_icon_group = 2131427432;
+			public const int notification_template_big_media_custom = 2131427432;
 			
 			// aapt resource value: 0x7F0B0069
-			public const int notification_template_lines_media = 2131427433;
+			public const int notification_template_big_media_narrow = 2131427433;
 			
 			// aapt resource value: 0x7F0B006A
-			public const int notification_template_media = 2131427434;
+			public const int notification_template_big_media_narrow_custom = 2131427434;
 			
 			// aapt resource value: 0x7F0B006B
-			public const int notification_template_media_custom = 2131427435;
+			public const int notification_template_custom_big = 2131427435;
 			
 			// aapt resource value: 0x7F0B006C
-			public const int notification_template_part_chronometer = 2131427436;
+			public const int notification_template_icon_group = 2131427436;
 			
 			// aapt resource value: 0x7F0B006D
-			public const int notification_template_part_time = 2131427437;
+			public const int notification_template_lines_media = 2131427437;
 			
 			// aapt resource value: 0x7F0B006E
-			public const int preference = 2131427438;
+			public const int notification_template_media = 2131427438;
 			
 			// aapt resource value: 0x7F0B006F
-			public const int preference_category = 2131427439;
+			public const int notification_template_media_custom = 2131427439;
 			
 			// aapt resource value: 0x7F0B0070
-			public const int preference_category_material = 2131427440;
+			public const int notification_template_part_chronometer = 2131427440;
 			
 			// aapt resource value: 0x7F0B0071
-			public const int preference_dialog_edittext = 2131427441;
+			public const int notification_template_part_time = 2131427441;
 			
 			// aapt resource value: 0x7F0B0072
-			public const int preference_dropdown = 2131427442;
+			public const int preference = 2131427442;
 			
 			// aapt resource value: 0x7F0B0073
-			public const int preference_dropdown_material = 2131427443;
+			public const int preference_category = 2131427443;
 			
 			// aapt resource value: 0x7F0B0074
-			public const int preference_information = 2131427444;
+			public const int preference_category_material = 2131427444;
 			
 			// aapt resource value: 0x7F0B0075
-			public const int preference_information_material = 2131427445;
+			public const int preference_dialog_edittext = 2131427445;
 			
 			// aapt resource value: 0x7F0B0076
-			public const int preference_list_fragment = 2131427446;
+			public const int preference_dropdown = 2131427446;
 			
 			// aapt resource value: 0x7F0B0077
-			public const int preference_material = 2131427447;
+			public const int preference_dropdown_material = 2131427447;
 			
 			// aapt resource value: 0x7F0B0078
-			public const int preference_recyclerview = 2131427448;
+			public const int preference_information = 2131427448;
 			
 			// aapt resource value: 0x7F0B0079
-			public const int preference_widget_checkbox = 2131427449;
+			public const int preference_information_material = 2131427449;
 			
 			// aapt resource value: 0x7F0B007A
-			public const int preference_widget_seekbar = 2131427450;
+			public const int preference_list_fragment = 2131427450;
 			
 			// aapt resource value: 0x7F0B007B
-			public const int preference_widget_seekbar_material = 2131427451;
+			public const int preference_material = 2131427451;
 			
 			// aapt resource value: 0x7F0B007C
-			public const int preference_widget_switch = 2131427452;
+			public const int preference_recyclerview = 2131427452;
 			
 			// aapt resource value: 0x7F0B007D
-			public const int preference_widget_switch_compat = 2131427453;
+			public const int preference_widget_checkbox = 2131427453;
 			
 			// aapt resource value: 0x7F0B007E
-			public const int RootLayout = 2131427454;
+			public const int preference_widget_seekbar = 2131427454;
 			
 			// aapt resource value: 0x7F0B007F
-			public const int select_dialog_item_material = 2131427455;
+			public const int preference_widget_seekbar_material = 2131427455;
 			
 			// aapt resource value: 0x7F0B0080
-			public const int select_dialog_multichoice_material = 2131427456;
+			public const int preference_widget_switch = 2131427456;
 			
 			// aapt resource value: 0x7F0B0081
-			public const int select_dialog_singlechoice_material = 2131427457;
+			public const int preference_widget_switch_compat = 2131427457;
+			
+			// aapt resource value: 0x7F0B0004
+			public const int RootLayout = 2131427332;
 			
 			// aapt resource value: 0x7F0B0082
-			public const int ShellContent = 2131427458;
+			public const int select_dialog_item_material = 2131427458;
 			
 			// aapt resource value: 0x7F0B0083
-			public const int support_simple_spinner_dropdown_item = 2131427459;
+			public const int select_dialog_multichoice_material = 2131427459;
 			
 			// aapt resource value: 0x7F0B0084
-			public const int Tabbar = 2131427460;
+			public const int select_dialog_singlechoice_material = 2131427460;
+			
+			// aapt resource value: 0x7F0B0005
+			public const int ShellContent = 2131427333;
 			
 			// aapt resource value: 0x7F0B0085
-			public const int test_action_chip = 2131427461;
+			public const int support_simple_spinner_dropdown_item = 2131427461;
+			
+			// aapt resource value: 0x7F0B0006
+			public const int Tabbar = 2131427334;
 			
 			// aapt resource value: 0x7F0B0086
-			public const int test_chip_zero_corner_radius = 2131427462;
+			public const int test_action_chip = 2131427462;
 			
 			// aapt resource value: 0x7F0B0087
-			public const int test_design_checkbox = 2131427463;
+			public const int test_chip_zero_corner_radius = 2131427463;
 			
 			// aapt resource value: 0x7F0B0088
-			public const int test_design_radiobutton = 2131427464;
+			public const int test_design_checkbox = 2131427464;
 			
 			// aapt resource value: 0x7F0B0089
-			public const int test_navigation_bar_item_layout = 2131427465;
+			public const int test_design_radiobutton = 2131427465;
 			
 			// aapt resource value: 0x7F0B008A
-			public const int test_reflow_chipgroup = 2131427466;
+			public const int test_navigation_bar_item_layout = 2131427466;
 			
 			// aapt resource value: 0x7F0B008B
-			public const int test_toolbar = 2131427467;
+			public const int test_reflow_chipgroup = 2131427467;
 			
 			// aapt resource value: 0x7F0B008C
-			public const int test_toolbar_custom_background = 2131427468;
+			public const int test_toolbar = 2131427468;
 			
 			// aapt resource value: 0x7F0B008D
-			public const int test_toolbar_elevation = 2131427469;
+			public const int test_toolbar_custom_background = 2131427469;
 			
 			// aapt resource value: 0x7F0B008E
-			public const int test_toolbar_surface = 2131427470;
-			
-			// aapt resource value: 0x7F0B0093
-			public const int text_view_without_line_height = 2131427475;
+			public const int test_toolbar_elevation = 2131427470;
 			
 			// aapt resource value: 0x7F0B008F
-			public const int text_view_with_line_height_from_appearance = 2131427471;
-			
-			// aapt resource value: 0x7F0B0090
-			public const int text_view_with_line_height_from_layout = 2131427472;
-			
-			// aapt resource value: 0x7F0B0091
-			public const int text_view_with_line_height_from_style = 2131427473;
-			
-			// aapt resource value: 0x7F0B0092
-			public const int text_view_with_theme_line_height = 2131427474;
+			public const int test_toolbar_surface = 2131427471;
 			
 			// aapt resource value: 0x7F0B0094
-			public const int Toolbar = 2131427476;
+			public const int text_view_without_line_height = 2131427476;
+			
+			// aapt resource value: 0x7F0B0090
+			public const int text_view_with_line_height_from_appearance = 2131427472;
+			
+			// aapt resource value: 0x7F0B0091
+			public const int text_view_with_line_height_from_layout = 2131427473;
+			
+			// aapt resource value: 0x7F0B0092
+			public const int text_view_with_line_height_from_style = 2131427474;
+			
+			// aapt resource value: 0x7F0B0093
+			public const int text_view_with_theme_line_height = 2131427475;
+			
+			// aapt resource value: 0x7F0B0007
+			public const int Toolbar = 2131427335;
 			
 			static Layout()
 			{
@@ -19248,11 +22932,11 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F0F000E
 			public const int Base_CardView = 2131689486;
 			
-			// aapt resource value: 0x7F0F0010
-			public const int Base_DialogWindowTitleBackground_AppCompat = 2131689488;
-			
 			// aapt resource value: 0x7F0F000F
-			public const int Base_DialogWindowTitle_AppCompat = 2131689487;
+			public const int Base_DialogWindowTitleBackground_AppCompat = 2131689487;
+			
+			// aapt resource value: 0x7F0F0010
+			public const int Base_DialogWindowTitle_AppCompat = 2131689488;
 			
 			// aapt resource value: 0x7F0F0011
 			public const int Base_MaterialAlertDialog_MaterialComponents_Title_Icon = 2131689489;
@@ -19419,209 +23103,209 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F0F0047
 			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689543;
 			
-			// aapt resource value: 0x7F0F0069
-			public const int Base_ThemeOverlay_AppCompat = 2131689577;
-			
-			// aapt resource value: 0x7F0F006A
-			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2131689578;
-			
-			// aapt resource value: 0x7F0F006B
-			public const int Base_ThemeOverlay_AppCompat_Dark = 2131689579;
-			
-			// aapt resource value: 0x7F0F006C
-			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2131689580;
-			
-			// aapt resource value: 0x7F0F006D
-			public const int Base_ThemeOverlay_AppCompat_Dialog = 2131689581;
-			
-			// aapt resource value: 0x7F0F006E
-			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2131689582;
-			
-			// aapt resource value: 0x7F0F006F
-			public const int Base_ThemeOverlay_AppCompat_Light = 2131689583;
-			
-			// aapt resource value: 0x7F0F0070
-			public const int Base_ThemeOverlay_MaterialComponents_Dialog = 2131689584;
-			
-			// aapt resource value: 0x7F0F0071
-			public const int Base_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689585;
-			
-			// aapt resource value: 0x7F0F0072
-			public const int Base_ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = 2131689586;
-			
-			// aapt resource value: 0x7F0F0073
-			public const int Base_ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = 2131689587;
-			
-			// aapt resource value: 0x7F0F0074
-			public const int Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog = 2131689588;
-			
 			// aapt resource value: 0x7F0F0048
-			public const int Base_Theme_AppCompat = 2131689544;
+			public const int Base_ThemeOverlay_AppCompat = 2131689544;
 			
 			// aapt resource value: 0x7F0F0049
-			public const int Base_Theme_AppCompat_CompactMenu = 2131689545;
+			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2131689545;
 			
 			// aapt resource value: 0x7F0F004A
-			public const int Base_Theme_AppCompat_Dialog = 2131689546;
-			
-			// aapt resource value: 0x7F0F004E
-			public const int Base_Theme_AppCompat_DialogWhenLarge = 2131689550;
+			public const int Base_ThemeOverlay_AppCompat_Dark = 2131689546;
 			
 			// aapt resource value: 0x7F0F004B
-			public const int Base_Theme_AppCompat_Dialog_Alert = 2131689547;
+			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2131689547;
 			
 			// aapt resource value: 0x7F0F004C
-			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2131689548;
+			public const int Base_ThemeOverlay_AppCompat_Dialog = 2131689548;
 			
 			// aapt resource value: 0x7F0F004D
-			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2131689549;
+			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2131689549;
+			
+			// aapt resource value: 0x7F0F004E
+			public const int Base_ThemeOverlay_AppCompat_Light = 2131689550;
 			
 			// aapt resource value: 0x7F0F004F
-			public const int Base_Theme_AppCompat_Light = 2131689551;
+			public const int Base_ThemeOverlay_MaterialComponents_Dialog = 2131689551;
 			
 			// aapt resource value: 0x7F0F0050
-			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2131689552;
+			public const int Base_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689552;
 			
 			// aapt resource value: 0x7F0F0051
-			public const int Base_Theme_AppCompat_Light_Dialog = 2131689553;
-			
-			// aapt resource value: 0x7F0F0055
-			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2131689557;
+			public const int Base_ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = 2131689553;
 			
 			// aapt resource value: 0x7F0F0052
-			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2131689554;
+			public const int Base_ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = 2131689554;
 			
 			// aapt resource value: 0x7F0F0053
-			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2131689555;
+			public const int Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog = 2131689555;
 			
 			// aapt resource value: 0x7F0F0054
-			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2131689556;
+			public const int Base_Theme_AppCompat = 2131689556;
+			
+			// aapt resource value: 0x7F0F0055
+			public const int Base_Theme_AppCompat_CompactMenu = 2131689557;
 			
 			// aapt resource value: 0x7F0F0056
-			public const int Base_Theme_MaterialComponents = 2131689558;
+			public const int Base_Theme_AppCompat_Dialog = 2131689558;
 			
 			// aapt resource value: 0x7F0F0057
-			public const int Base_Theme_MaterialComponents_Bridge = 2131689559;
+			public const int Base_Theme_AppCompat_DialogWhenLarge = 2131689559;
 			
 			// aapt resource value: 0x7F0F0058
-			public const int Base_Theme_MaterialComponents_CompactMenu = 2131689560;
+			public const int Base_Theme_AppCompat_Dialog_Alert = 2131689560;
 			
 			// aapt resource value: 0x7F0F0059
-			public const int Base_Theme_MaterialComponents_Dialog = 2131689561;
-			
-			// aapt resource value: 0x7F0F005E
-			public const int Base_Theme_MaterialComponents_DialogWhenLarge = 2131689566;
+			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2131689561;
 			
 			// aapt resource value: 0x7F0F005A
-			public const int Base_Theme_MaterialComponents_Dialog_Alert = 2131689562;
+			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2131689562;
 			
 			// aapt resource value: 0x7F0F005B
-			public const int Base_Theme_MaterialComponents_Dialog_Bridge = 2131689563;
+			public const int Base_Theme_AppCompat_Light = 2131689563;
 			
 			// aapt resource value: 0x7F0F005C
-			public const int Base_Theme_MaterialComponents_Dialog_FixedSize = 2131689564;
+			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2131689564;
 			
 			// aapt resource value: 0x7F0F005D
-			public const int Base_Theme_MaterialComponents_Dialog_MinWidth = 2131689565;
+			public const int Base_Theme_AppCompat_Light_Dialog = 2131689565;
+			
+			// aapt resource value: 0x7F0F005E
+			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2131689566;
 			
 			// aapt resource value: 0x7F0F005F
-			public const int Base_Theme_MaterialComponents_Light = 2131689567;
+			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2131689567;
 			
 			// aapt resource value: 0x7F0F0060
-			public const int Base_Theme_MaterialComponents_Light_Bridge = 2131689568;
+			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2131689568;
 			
 			// aapt resource value: 0x7F0F0061
-			public const int Base_Theme_MaterialComponents_Light_DarkActionBar = 2131689569;
+			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2131689569;
 			
 			// aapt resource value: 0x7F0F0062
-			public const int Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689570;
+			public const int Base_Theme_MaterialComponents = 2131689570;
 			
 			// aapt resource value: 0x7F0F0063
-			public const int Base_Theme_MaterialComponents_Light_Dialog = 2131689571;
-			
-			// aapt resource value: 0x7F0F0068
-			public const int Base_Theme_MaterialComponents_Light_DialogWhenLarge = 2131689576;
+			public const int Base_Theme_MaterialComponents_Bridge = 2131689571;
 			
 			// aapt resource value: 0x7F0F0064
-			public const int Base_Theme_MaterialComponents_Light_Dialog_Alert = 2131689572;
+			public const int Base_Theme_MaterialComponents_CompactMenu = 2131689572;
 			
 			// aapt resource value: 0x7F0F0065
-			public const int Base_Theme_MaterialComponents_Light_Dialog_Bridge = 2131689573;
+			public const int Base_Theme_MaterialComponents_Dialog = 2131689573;
 			
 			// aapt resource value: 0x7F0F0066
-			public const int Base_Theme_MaterialComponents_Light_Dialog_FixedSize = 2131689574;
+			public const int Base_Theme_MaterialComponents_DialogWhenLarge = 2131689574;
 			
 			// aapt resource value: 0x7F0F0067
-			public const int Base_Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689575;
+			public const int Base_Theme_MaterialComponents_Dialog_Alert = 2131689575;
 			
-			// aapt resource value: 0x7F0F007E
-			public const int Base_V14_ThemeOverlay_MaterialComponents_BottomSheetDialog = 2131689598;
+			// aapt resource value: 0x7F0F0068
+			public const int Base_Theme_MaterialComponents_Dialog_Bridge = 2131689576;
 			
-			// aapt resource value: 0x7F0F007F
-			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog = 2131689599;
+			// aapt resource value: 0x7F0F0069
+			public const int Base_Theme_MaterialComponents_Dialog_FixedSize = 2131689577;
 			
-			// aapt resource value: 0x7F0F0080
-			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689600;
+			// aapt resource value: 0x7F0F006A
+			public const int Base_Theme_MaterialComponents_Dialog_MinWidth = 2131689578;
 			
-			// aapt resource value: 0x7F0F0081
-			public const int Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog = 2131689601;
+			// aapt resource value: 0x7F0F006B
+			public const int Base_Theme_MaterialComponents_Light = 2131689579;
+			
+			// aapt resource value: 0x7F0F006C
+			public const int Base_Theme_MaterialComponents_Light_Bridge = 2131689580;
+			
+			// aapt resource value: 0x7F0F006D
+			public const int Base_Theme_MaterialComponents_Light_DarkActionBar = 2131689581;
+			
+			// aapt resource value: 0x7F0F006E
+			public const int Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689582;
+			
+			// aapt resource value: 0x7F0F006F
+			public const int Base_Theme_MaterialComponents_Light_Dialog = 2131689583;
+			
+			// aapt resource value: 0x7F0F0070
+			public const int Base_Theme_MaterialComponents_Light_DialogWhenLarge = 2131689584;
+			
+			// aapt resource value: 0x7F0F0071
+			public const int Base_Theme_MaterialComponents_Light_Dialog_Alert = 2131689585;
+			
+			// aapt resource value: 0x7F0F0072
+			public const int Base_Theme_MaterialComponents_Light_Dialog_Bridge = 2131689586;
+			
+			// aapt resource value: 0x7F0F0073
+			public const int Base_Theme_MaterialComponents_Light_Dialog_FixedSize = 2131689587;
+			
+			// aapt resource value: 0x7F0F0074
+			public const int Base_Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689588;
 			
 			// aapt resource value: 0x7F0F0075
-			public const int Base_V14_Theme_MaterialComponents = 2131689589;
+			public const int Base_V14_ThemeOverlay_MaterialComponents_BottomSheetDialog = 2131689589;
 			
 			// aapt resource value: 0x7F0F0076
-			public const int Base_V14_Theme_MaterialComponents_Bridge = 2131689590;
+			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog = 2131689590;
 			
 			// aapt resource value: 0x7F0F0077
-			public const int Base_V14_Theme_MaterialComponents_Dialog = 2131689591;
+			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689591;
 			
 			// aapt resource value: 0x7F0F0078
-			public const int Base_V14_Theme_MaterialComponents_Dialog_Bridge = 2131689592;
+			public const int Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog = 2131689592;
 			
 			// aapt resource value: 0x7F0F0079
-			public const int Base_V14_Theme_MaterialComponents_Light = 2131689593;
+			public const int Base_V14_Theme_MaterialComponents = 2131689593;
 			
 			// aapt resource value: 0x7F0F007A
-			public const int Base_V14_Theme_MaterialComponents_Light_Bridge = 2131689594;
+			public const int Base_V14_Theme_MaterialComponents_Bridge = 2131689594;
 			
 			// aapt resource value: 0x7F0F007B
-			public const int Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689595;
+			public const int Base_V14_Theme_MaterialComponents_Dialog = 2131689595;
 			
 			// aapt resource value: 0x7F0F007C
-			public const int Base_V14_Theme_MaterialComponents_Light_Dialog = 2131689596;
+			public const int Base_V14_Theme_MaterialComponents_Dialog_Bridge = 2131689596;
 			
 			// aapt resource value: 0x7F0F007D
-			public const int Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge = 2131689597;
+			public const int Base_V14_Theme_MaterialComponents_Light = 2131689597;
 			
-			// aapt resource value: 0x7F0F008A
-			public const int Base_V21_ThemeOverlay_AppCompat_Dialog = 2131689610;
+			// aapt resource value: 0x7F0F007E
+			public const int Base_V14_Theme_MaterialComponents_Light_Bridge = 2131689598;
 			
-			// aapt resource value: 0x7F0F008B
-			public const int Base_V21_ThemeOverlay_MaterialComponents_BottomSheetDialog = 2131689611;
+			// aapt resource value: 0x7F0F007F
+			public const int Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689599;
+			
+			// aapt resource value: 0x7F0F0080
+			public const int Base_V14_Theme_MaterialComponents_Light_Dialog = 2131689600;
+			
+			// aapt resource value: 0x7F0F0081
+			public const int Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge = 2131689601;
 			
 			// aapt resource value: 0x7F0F0082
-			public const int Base_V21_Theme_AppCompat = 2131689602;
+			public const int Base_V21_ThemeOverlay_AppCompat_Dialog = 2131689602;
 			
 			// aapt resource value: 0x7F0F0083
-			public const int Base_V21_Theme_AppCompat_Dialog = 2131689603;
+			public const int Base_V21_ThemeOverlay_MaterialComponents_BottomSheetDialog = 2131689603;
 			
 			// aapt resource value: 0x7F0F0084
-			public const int Base_V21_Theme_AppCompat_Light = 2131689604;
+			public const int Base_V21_Theme_AppCompat = 2131689604;
 			
 			// aapt resource value: 0x7F0F0085
-			public const int Base_V21_Theme_AppCompat_Light_Dialog = 2131689605;
+			public const int Base_V21_Theme_AppCompat_Dialog = 2131689605;
 			
 			// aapt resource value: 0x7F0F0086
-			public const int Base_V21_Theme_MaterialComponents = 2131689606;
+			public const int Base_V21_Theme_AppCompat_Light = 2131689606;
 			
 			// aapt resource value: 0x7F0F0087
-			public const int Base_V21_Theme_MaterialComponents_Dialog = 2131689607;
+			public const int Base_V21_Theme_AppCompat_Light_Dialog = 2131689607;
 			
 			// aapt resource value: 0x7F0F0088
-			public const int Base_V21_Theme_MaterialComponents_Light = 2131689608;
+			public const int Base_V21_Theme_MaterialComponents = 2131689608;
 			
 			// aapt resource value: 0x7F0F0089
-			public const int Base_V21_Theme_MaterialComponents_Light_Dialog = 2131689609;
+			public const int Base_V21_Theme_MaterialComponents_Dialog = 2131689609;
+			
+			// aapt resource value: 0x7F0F008A
+			public const int Base_V21_Theme_MaterialComponents_Light = 2131689610;
+			
+			// aapt resource value: 0x7F0F008B
+			public const int Base_V21_Theme_MaterialComponents_Light_Dialog = 2131689611;
 			
 			// aapt resource value: 0x7F0F008C
 			public const int Base_V22_Theme_AppCompat = 2131689612;
@@ -19650,20 +23334,20 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F0F0094
 			public const int Base_V28_Theme_AppCompat_Light = 2131689620;
 			
-			// aapt resource value: 0x7F0F0099
-			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2131689625;
-			
 			// aapt resource value: 0x7F0F0095
-			public const int Base_V7_Theme_AppCompat = 2131689621;
+			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2131689621;
 			
 			// aapt resource value: 0x7F0F0096
-			public const int Base_V7_Theme_AppCompat_Dialog = 2131689622;
+			public const int Base_V7_Theme_AppCompat = 2131689622;
 			
 			// aapt resource value: 0x7F0F0097
-			public const int Base_V7_Theme_AppCompat_Light = 2131689623;
+			public const int Base_V7_Theme_AppCompat_Dialog = 2131689623;
 			
 			// aapt resource value: 0x7F0F0098
-			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2131689624;
+			public const int Base_V7_Theme_AppCompat_Light = 2131689624;
+			
+			// aapt resource value: 0x7F0F0099
+			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2131689625;
 			
 			// aapt resource value: 0x7F0F009A
 			public const int Base_V7_Widget_AppCompat_AutoCompleteTextView = 2131689626;
@@ -19710,26 +23394,26 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F0F00A8
 			public const int Base_Widget_AppCompat_Button = 2131689640;
 			
-			// aapt resource value: 0x7F0F00AE
-			public const int Base_Widget_AppCompat_ButtonBar = 2131689646;
-			
-			// aapt resource value: 0x7F0F00AF
-			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2131689647;
-			
 			// aapt resource value: 0x7F0F00A9
-			public const int Base_Widget_AppCompat_Button_Borderless = 2131689641;
+			public const int Base_Widget_AppCompat_ButtonBar = 2131689641;
 			
 			// aapt resource value: 0x7F0F00AA
-			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2131689642;
+			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2131689642;
 			
 			// aapt resource value: 0x7F0F00AB
-			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689643;
+			public const int Base_Widget_AppCompat_Button_Borderless = 2131689643;
 			
 			// aapt resource value: 0x7F0F00AC
-			public const int Base_Widget_AppCompat_Button_Colored = 2131689644;
+			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2131689644;
 			
 			// aapt resource value: 0x7F0F00AD
-			public const int Base_Widget_AppCompat_Button_Small = 2131689645;
+			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689645;
+			
+			// aapt resource value: 0x7F0F00AE
+			public const int Base_Widget_AppCompat_Button_Colored = 2131689646;
+			
+			// aapt resource value: 0x7F0F00AF
+			public const int Base_Widget_AppCompat_Button_Small = 2131689647;
 			
 			// aapt resource value: 0x7F0F00B0
 			public const int Base_Widget_AppCompat_CompoundButton_CheckBox = 2131689648;
@@ -19986,95 +23670,95 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F0F0103
 			public const int Preference = 2131689731;
 			
-			// aapt resource value: 0x7F0F0119
-			public const int PreferenceCategoryTitleTextStyle = 2131689753;
-			
-			// aapt resource value: 0x7F0F011A
-			public const int PreferenceFragment = 2131689754;
-			
-			// aapt resource value: 0x7F0F011C
-			public const int PreferenceFragmentList = 2131689756;
-			
-			// aapt resource value: 0x7F0F011D
-			public const int PreferenceFragmentList_Material = 2131689757;
-			
-			// aapt resource value: 0x7F0F011B
-			public const int PreferenceFragment_Material = 2131689755;
-			
-			// aapt resource value: 0x7F0F011E
-			public const int PreferenceSummaryTextStyle = 2131689758;
-			
-			// aapt resource value: 0x7F0F011F
-			public const int PreferenceThemeOverlay = 2131689759;
-			
-			// aapt resource value: 0x7F0F0120
-			public const int PreferenceThemeOverlay_v14 = 2131689760;
-			
-			// aapt resource value: 0x7F0F0121
-			public const int PreferenceThemeOverlay_v14_Material = 2131689761;
-			
 			// aapt resource value: 0x7F0F0104
-			public const int Preference_Category = 2131689732;
+			public const int PreferenceCategoryTitleTextStyle = 2131689732;
 			
 			// aapt resource value: 0x7F0F0105
-			public const int Preference_Category_Material = 2131689733;
+			public const int PreferenceFragment = 2131689733;
 			
 			// aapt resource value: 0x7F0F0106
-			public const int Preference_CheckBoxPreference = 2131689734;
+			public const int PreferenceFragmentList = 2131689734;
 			
 			// aapt resource value: 0x7F0F0107
-			public const int Preference_CheckBoxPreference_Material = 2131689735;
+			public const int PreferenceFragmentList_Material = 2131689735;
 			
 			// aapt resource value: 0x7F0F0108
-			public const int Preference_DialogPreference = 2131689736;
+			public const int PreferenceFragment_Material = 2131689736;
 			
 			// aapt resource value: 0x7F0F0109
-			public const int Preference_DialogPreference_EditTextPreference = 2131689737;
+			public const int PreferenceSummaryTextStyle = 2131689737;
 			
 			// aapt resource value: 0x7F0F010A
-			public const int Preference_DialogPreference_EditTextPreference_Material = 2131689738;
+			public const int PreferenceThemeOverlay = 2131689738;
 			
 			// aapt resource value: 0x7F0F010B
-			public const int Preference_DialogPreference_Material = 2131689739;
+			public const int PreferenceThemeOverlay_v14 = 2131689739;
 			
 			// aapt resource value: 0x7F0F010C
-			public const int Preference_DropDown = 2131689740;
+			public const int PreferenceThemeOverlay_v14_Material = 2131689740;
 			
 			// aapt resource value: 0x7F0F010D
-			public const int Preference_DropDown_Material = 2131689741;
+			public const int Preference_Category = 2131689741;
 			
 			// aapt resource value: 0x7F0F010E
-			public const int Preference_Information = 2131689742;
+			public const int Preference_Category_Material = 2131689742;
 			
 			// aapt resource value: 0x7F0F010F
-			public const int Preference_Information_Material = 2131689743;
+			public const int Preference_CheckBoxPreference = 2131689743;
 			
 			// aapt resource value: 0x7F0F0110
-			public const int Preference_Material = 2131689744;
+			public const int Preference_CheckBoxPreference_Material = 2131689744;
 			
 			// aapt resource value: 0x7F0F0111
-			public const int Preference_PreferenceScreen = 2131689745;
+			public const int Preference_DialogPreference = 2131689745;
 			
 			// aapt resource value: 0x7F0F0112
-			public const int Preference_PreferenceScreen_Material = 2131689746;
+			public const int Preference_DialogPreference_EditTextPreference = 2131689746;
 			
 			// aapt resource value: 0x7F0F0113
-			public const int Preference_SeekBarPreference = 2131689747;
+			public const int Preference_DialogPreference_EditTextPreference_Material = 2131689747;
 			
 			// aapt resource value: 0x7F0F0114
-			public const int Preference_SeekBarPreference_Material = 2131689748;
+			public const int Preference_DialogPreference_Material = 2131689748;
 			
 			// aapt resource value: 0x7F0F0115
-			public const int Preference_SwitchPreference = 2131689749;
-			
-			// aapt resource value: 0x7F0F0117
-			public const int Preference_SwitchPreferenceCompat = 2131689751;
-			
-			// aapt resource value: 0x7F0F0118
-			public const int Preference_SwitchPreferenceCompat_Material = 2131689752;
+			public const int Preference_DropDown = 2131689749;
 			
 			// aapt resource value: 0x7F0F0116
-			public const int Preference_SwitchPreference_Material = 2131689750;
+			public const int Preference_DropDown_Material = 2131689750;
+			
+			// aapt resource value: 0x7F0F0117
+			public const int Preference_Information = 2131689751;
+			
+			// aapt resource value: 0x7F0F0118
+			public const int Preference_Information_Material = 2131689752;
+			
+			// aapt resource value: 0x7F0F0119
+			public const int Preference_Material = 2131689753;
+			
+			// aapt resource value: 0x7F0F011A
+			public const int Preference_PreferenceScreen = 2131689754;
+			
+			// aapt resource value: 0x7F0F011B
+			public const int Preference_PreferenceScreen_Material = 2131689755;
+			
+			// aapt resource value: 0x7F0F011C
+			public const int Preference_SeekBarPreference = 2131689756;
+			
+			// aapt resource value: 0x7F0F011D
+			public const int Preference_SeekBarPreference_Material = 2131689757;
+			
+			// aapt resource value: 0x7F0F011E
+			public const int Preference_SwitchPreference = 2131689758;
+			
+			// aapt resource value: 0x7F0F011F
+			public const int Preference_SwitchPreferenceCompat = 2131689759;
+			
+			// aapt resource value: 0x7F0F0120
+			public const int Preference_SwitchPreferenceCompat_Material = 2131689760;
+			
+			// aapt resource value: 0x7F0F0121
+			public const int Preference_SwitchPreference_Material = 2131689761;
 			
 			// aapt resource value: 0x7F0F0122
 			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131689762;
@@ -20103,23 +23787,23 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F0F012A
 			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131689770;
 			
-			// aapt resource value: 0x7F0F0130
-			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131689776;
-			
 			// aapt resource value: 0x7F0F012B
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131689771;
+			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131689771;
 			
 			// aapt resource value: 0x7F0F012C
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131689772;
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131689772;
 			
 			// aapt resource value: 0x7F0F012D
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131689773;
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131689773;
 			
 			// aapt resource value: 0x7F0F012E
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131689774;
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131689774;
 			
 			// aapt resource value: 0x7F0F012F
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131689775;
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131689775;
+			
+			// aapt resource value: 0x7F0F0130
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131689776;
 			
 			// aapt resource value: 0x7F0F0131
 			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131689777;
@@ -20133,101 +23817,101 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F0F02FA
 			public const int scrollViewTheme = 2131690234;
 			
-			// aapt resource value: 0x7F0F0139
-			public const int ShapeAppearanceOverlay = 2131689785;
-			
-			// aapt resource value: 0x7F0F013A
-			public const int ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = 2131689786;
-			
-			// aapt resource value: 0x7F0F013B
-			public const int ShapeAppearanceOverlay_BottomRightCut = 2131689787;
-			
-			// aapt resource value: 0x7F0F013C
-			public const int ShapeAppearanceOverlay_Cut = 2131689788;
-			
-			// aapt resource value: 0x7F0F013D
-			public const int ShapeAppearanceOverlay_DifferentCornerSize = 2131689789;
-			
-			// aapt resource value: 0x7F0F013E
-			public const int ShapeAppearanceOverlay_MaterialComponents_BottomSheet = 2131689790;
-			
-			// aapt resource value: 0x7F0F013F
-			public const int ShapeAppearanceOverlay_MaterialComponents_Chip = 2131689791;
-			
-			// aapt resource value: 0x7F0F0140
-			public const int ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = 2131689792;
-			
-			// aapt resource value: 0x7F0F0141
-			public const int ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton = 2131689793;
-			
-			// aapt resource value: 0x7F0F0142
-			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = 2131689794;
-			
-			// aapt resource value: 0x7F0F0143
-			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = 2131689795;
-			
-			// aapt resource value: 0x7F0F0144
-			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = 2131689796;
-			
-			// aapt resource value: 0x7F0F0145
-			public const int ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = 2131689797;
-			
-			// aapt resource value: 0x7F0F0146
-			public const int ShapeAppearanceOverlay_TopLeftCut = 2131689798;
-			
-			// aapt resource value: 0x7F0F0147
-			public const int ShapeAppearanceOverlay_TopRightDifferentCornerSize = 2131689799;
-			
 			// aapt resource value: 0x7F0F0133
-			public const int ShapeAppearance_MaterialComponents = 2131689779;
+			public const int ShapeAppearanceOverlay = 2131689779;
 			
 			// aapt resource value: 0x7F0F0134
-			public const int ShapeAppearance_MaterialComponents_LargeComponent = 2131689780;
+			public const int ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = 2131689780;
 			
 			// aapt resource value: 0x7F0F0135
-			public const int ShapeAppearance_MaterialComponents_MediumComponent = 2131689781;
+			public const int ShapeAppearanceOverlay_BottomRightCut = 2131689781;
 			
 			// aapt resource value: 0x7F0F0136
-			public const int ShapeAppearance_MaterialComponents_SmallComponent = 2131689782;
+			public const int ShapeAppearanceOverlay_Cut = 2131689782;
 			
 			// aapt resource value: 0x7F0F0137
-			public const int ShapeAppearance_MaterialComponents_Test = 2131689783;
+			public const int ShapeAppearanceOverlay_DifferentCornerSize = 2131689783;
 			
 			// aapt resource value: 0x7F0F0138
-			public const int ShapeAppearance_MaterialComponents_Tooltip = 2131689784;
+			public const int ShapeAppearanceOverlay_MaterialComponents_BottomSheet = 2131689784;
 			
-			// aapt resource value: 0x7F0F014D
-			public const int TestStyleWithLineHeight = 2131689805;
+			// aapt resource value: 0x7F0F0139
+			public const int ShapeAppearanceOverlay_MaterialComponents_Chip = 2131689785;
 			
-			// aapt resource value: 0x7F0F014E
-			public const int TestStyleWithLineHeightAppearance = 2131689806;
+			// aapt resource value: 0x7F0F013A
+			public const int ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = 2131689786;
 			
-			// aapt resource value: 0x7F0F0150
-			public const int TestStyleWithoutLineHeight = 2131689808;
+			// aapt resource value: 0x7F0F013B
+			public const int ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton = 2131689787;
 			
-			// aapt resource value: 0x7F0F014F
-			public const int TestStyleWithThemeLineHeightAttribute = 2131689807;
+			// aapt resource value: 0x7F0F013C
+			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = 2131689788;
 			
-			// aapt resource value: 0x7F0F0151
-			public const int TestThemeWithLineHeight = 2131689809;
+			// aapt resource value: 0x7F0F013D
+			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = 2131689789;
 			
-			// aapt resource value: 0x7F0F0152
-			public const int TestThemeWithLineHeightDisabled = 2131689810;
+			// aapt resource value: 0x7F0F013E
+			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = 2131689790;
+			
+			// aapt resource value: 0x7F0F013F
+			public const int ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = 2131689791;
+			
+			// aapt resource value: 0x7F0F0140
+			public const int ShapeAppearanceOverlay_TopLeftCut = 2131689792;
+			
+			// aapt resource value: 0x7F0F0141
+			public const int ShapeAppearanceOverlay_TopRightDifferentCornerSize = 2131689793;
+			
+			// aapt resource value: 0x7F0F0142
+			public const int ShapeAppearance_MaterialComponents = 2131689794;
+			
+			// aapt resource value: 0x7F0F0143
+			public const int ShapeAppearance_MaterialComponents_LargeComponent = 2131689795;
+			
+			// aapt resource value: 0x7F0F0144
+			public const int ShapeAppearance_MaterialComponents_MediumComponent = 2131689796;
+			
+			// aapt resource value: 0x7F0F0145
+			public const int ShapeAppearance_MaterialComponents_SmallComponent = 2131689797;
+			
+			// aapt resource value: 0x7F0F0146
+			public const int ShapeAppearance_MaterialComponents_Test = 2131689798;
+			
+			// aapt resource value: 0x7F0F0147
+			public const int ShapeAppearance_MaterialComponents_Tooltip = 2131689799;
 			
 			// aapt resource value: 0x7F0F0148
-			public const int Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = 2131689800;
+			public const int TestStyleWithLineHeight = 2131689800;
 			
 			// aapt resource value: 0x7F0F0149
-			public const int Test_Theme_MaterialComponents_MaterialCalendar = 2131689801;
-			
-			// aapt resource value: 0x7F0F014A
-			public const int Test_Widget_MaterialComponents_MaterialCalendar = 2131689802;
+			public const int TestStyleWithLineHeightAppearance = 2131689801;
 			
 			// aapt resource value: 0x7F0F014B
-			public const int Test_Widget_MaterialComponents_MaterialCalendar_Day = 2131689803;
+			public const int TestStyleWithoutLineHeight = 2131689803;
+			
+			// aapt resource value: 0x7F0F014A
+			public const int TestStyleWithThemeLineHeightAttribute = 2131689802;
 			
 			// aapt resource value: 0x7F0F014C
-			public const int Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = 2131689804;
+			public const int TestThemeWithLineHeight = 2131689804;
+			
+			// aapt resource value: 0x7F0F014D
+			public const int TestThemeWithLineHeightDisabled = 2131689805;
+			
+			// aapt resource value: 0x7F0F014E
+			public const int Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = 2131689806;
+			
+			// aapt resource value: 0x7F0F014F
+			public const int Test_Theme_MaterialComponents_MaterialCalendar = 2131689807;
+			
+			// aapt resource value: 0x7F0F0150
+			public const int Test_Widget_MaterialComponents_MaterialCalendar = 2131689808;
+			
+			// aapt resource value: 0x7F0F0151
+			public const int Test_Widget_MaterialComponents_MaterialCalendar_Day = 2131689809;
+			
+			// aapt resource value: 0x7F0F0152
+			public const int Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = 2131689810;
 			
 			// aapt resource value: 0x7F0F0153
 			public const int TextAppearance_AppCompat = 2131689811;
@@ -20496,383 +24180,383 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F0F01AB
 			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689899;
 			
-			// aapt resource value: 0x7F0F0229
-			public const int ThemeOverlayColorAccentRed = 2131690025;
-			
-			// aapt resource value: 0x7F0F01F9
-			public const int ThemeOverlay_AppCompat = 2131689977;
-			
-			// aapt resource value: 0x7F0F01FA
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131689978;
-			
-			// aapt resource value: 0x7F0F01FB
-			public const int ThemeOverlay_AppCompat_Dark = 2131689979;
-			
-			// aapt resource value: 0x7F0F01FC
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689980;
-			
-			// aapt resource value: 0x7F0F01FD
-			public const int ThemeOverlay_AppCompat_DayNight = 2131689981;
-			
-			// aapt resource value: 0x7F0F01FE
-			public const int ThemeOverlay_AppCompat_DayNight_ActionBar = 2131689982;
-			
-			// aapt resource value: 0x7F0F01FF
-			public const int ThemeOverlay_AppCompat_Dialog = 2131689983;
-			
-			// aapt resource value: 0x7F0F0200
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689984;
-			
-			// aapt resource value: 0x7F0F0201
-			public const int ThemeOverlay_AppCompat_Light = 2131689985;
-			
-			// aapt resource value: 0x7F0F0202
-			public const int ThemeOverlay_Design_TextInputEditText = 2131689986;
-			
-			// aapt resource value: 0x7F0F0203
-			public const int ThemeOverlay_MaterialComponents = 2131689987;
-			
-			// aapt resource value: 0x7F0F0204
-			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689988;
-			
-			// aapt resource value: 0x7F0F0205
-			public const int ThemeOverlay_MaterialComponents_ActionBar_Primary = 2131689989;
-			
-			// aapt resource value: 0x7F0F0206
-			public const int ThemeOverlay_MaterialComponents_ActionBar_Surface = 2131689990;
-			
-			// aapt resource value: 0x7F0F0207
-			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView = 2131689991;
-			
-			// aapt resource value: 0x7F0F0208
-			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox = 2131689992;
-			
-			// aapt resource value: 0x7F0F0209
-			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = 2131689993;
-			
-			// aapt resource value: 0x7F0F020A
-			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox = 2131689994;
-			
-			// aapt resource value: 0x7F0F020B
-			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = 2131689995;
-			
-			// aapt resource value: 0x7F0F020C
-			public const int ThemeOverlay_MaterialComponents_BottomAppBar_Primary = 2131689996;
-			
-			// aapt resource value: 0x7F0F020D
-			public const int ThemeOverlay_MaterialComponents_BottomAppBar_Surface = 2131689997;
-			
-			// aapt resource value: 0x7F0F020E
-			public const int ThemeOverlay_MaterialComponents_BottomSheetDialog = 2131689998;
-			
-			// aapt resource value: 0x7F0F020F
-			public const int ThemeOverlay_MaterialComponents_Dark = 2131689999;
-			
-			// aapt resource value: 0x7F0F0210
-			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131690000;
-			
-			// aapt resource value: 0x7F0F0211
-			public const int ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog = 2131690001;
-			
-			// aapt resource value: 0x7F0F0212
-			public const int ThemeOverlay_MaterialComponents_Dialog = 2131690002;
-			
-			// aapt resource value: 0x7F0F0213
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131690003;
-			
-			// aapt resource value: 0x7F0F0214
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = 2131690004;
-			
-			// aapt resource value: 0x7F0F0215
-			public const int ThemeOverlay_MaterialComponents_Light = 2131690005;
-			
-			// aapt resource value: 0x7F0F0216
-			public const int ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = 2131690006;
-			
-			// aapt resource value: 0x7F0F0217
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog = 2131690007;
-			
-			// aapt resource value: 0x7F0F0218
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered = 2131690008;
-			
-			// aapt resource value: 0x7F0F0219
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date = 2131690009;
-			
-			// aapt resource value: 0x7F0F021A
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar = 2131690010;
-			
-			// aapt resource value: 0x7F0F021B
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text = 2131690011;
-			
-			// aapt resource value: 0x7F0F021C
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day = 2131690012;
-			
-			// aapt resource value: 0x7F0F021D
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner = 2131690013;
-			
-			// aapt resource value: 0x7F0F021E
-			public const int ThemeOverlay_MaterialComponents_MaterialCalendar = 2131690014;
-			
-			// aapt resource value: 0x7F0F021F
-			public const int ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen = 2131690015;
-			
-			// aapt resource value: 0x7F0F0220
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131690016;
-			
-			// aapt resource value: 0x7F0F0221
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131690017;
-			
-			// aapt resource value: 0x7F0F0222
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131690018;
-			
-			// aapt resource value: 0x7F0F0223
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131690019;
-			
-			// aapt resource value: 0x7F0F0224
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131690020;
-			
-			// aapt resource value: 0x7F0F0225
-			public const int ThemeOverlay_MaterialComponents_TimePicker = 2131690021;
-			
-			// aapt resource value: 0x7F0F0226
-			public const int ThemeOverlay_MaterialComponents_TimePicker_Display = 2131690022;
-			
-			// aapt resource value: 0x7F0F0227
-			public const int ThemeOverlay_MaterialComponents_Toolbar_Primary = 2131690023;
-			
-			// aapt resource value: 0x7F0F0228
-			public const int ThemeOverlay_MaterialComponents_Toolbar_Surface = 2131690024;
-			
 			// aapt resource value: 0x7F0F01AC
-			public const int Theme_AppCompat = 2131689900;
+			public const int ThemeOverlayColorAccentRed = 2131689900;
 			
 			// aapt resource value: 0x7F0F01AD
-			public const int Theme_AppCompat_CompactMenu = 2131689901;
+			public const int ThemeOverlay_AppCompat = 2131689901;
 			
 			// aapt resource value: 0x7F0F01AE
-			public const int Theme_AppCompat_DayNight = 2131689902;
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131689902;
 			
 			// aapt resource value: 0x7F0F01AF
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689903;
+			public const int ThemeOverlay_AppCompat_Dark = 2131689903;
 			
 			// aapt resource value: 0x7F0F01B0
-			public const int Theme_AppCompat_DayNight_Dialog = 2131689904;
-			
-			// aapt resource value: 0x7F0F01B3
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689907;
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689904;
 			
 			// aapt resource value: 0x7F0F01B1
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689905;
+			public const int ThemeOverlay_AppCompat_DayNight = 2131689905;
 			
 			// aapt resource value: 0x7F0F01B2
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689906;
+			public const int ThemeOverlay_AppCompat_DayNight_ActionBar = 2131689906;
+			
+			// aapt resource value: 0x7F0F01B3
+			public const int ThemeOverlay_AppCompat_Dialog = 2131689907;
 			
 			// aapt resource value: 0x7F0F01B4
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689908;
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689908;
 			
 			// aapt resource value: 0x7F0F01B5
-			public const int Theme_AppCompat_Dialog = 2131689909;
-			
-			// aapt resource value: 0x7F0F01B8
-			public const int Theme_AppCompat_DialogWhenLarge = 2131689912;
+			public const int ThemeOverlay_AppCompat_Light = 2131689909;
 			
 			// aapt resource value: 0x7F0F01B6
-			public const int Theme_AppCompat_Dialog_Alert = 2131689910;
+			public const int ThemeOverlay_Design_TextInputEditText = 2131689910;
 			
 			// aapt resource value: 0x7F0F01B7
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131689911;
+			public const int ThemeOverlay_MaterialComponents = 2131689911;
+			
+			// aapt resource value: 0x7F0F01B8
+			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689912;
 			
 			// aapt resource value: 0x7F0F01B9
-			public const int Theme_AppCompat_Empty = 2131689913;
+			public const int ThemeOverlay_MaterialComponents_ActionBar_Primary = 2131689913;
 			
 			// aapt resource value: 0x7F0F01BA
-			public const int Theme_AppCompat_Light = 2131689914;
+			public const int ThemeOverlay_MaterialComponents_ActionBar_Surface = 2131689914;
 			
 			// aapt resource value: 0x7F0F01BB
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131689915;
+			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView = 2131689915;
 			
 			// aapt resource value: 0x7F0F01BC
-			public const int Theme_AppCompat_Light_Dialog = 2131689916;
-			
-			// aapt resource value: 0x7F0F01BF
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689919;
+			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox = 2131689916;
 			
 			// aapt resource value: 0x7F0F01BD
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689917;
+			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = 2131689917;
 			
 			// aapt resource value: 0x7F0F01BE
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689918;
+			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox = 2131689918;
+			
+			// aapt resource value: 0x7F0F01BF
+			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = 2131689919;
 			
 			// aapt resource value: 0x7F0F01C0
-			public const int Theme_AppCompat_Light_NoActionBar = 2131689920;
+			public const int ThemeOverlay_MaterialComponents_BottomAppBar_Primary = 2131689920;
 			
 			// aapt resource value: 0x7F0F01C1
-			public const int Theme_AppCompat_NoActionBar = 2131689921;
+			public const int ThemeOverlay_MaterialComponents_BottomAppBar_Surface = 2131689921;
 			
 			// aapt resource value: 0x7F0F01C2
-			public const int Theme_Design = 2131689922;
+			public const int ThemeOverlay_MaterialComponents_BottomSheetDialog = 2131689922;
 			
 			// aapt resource value: 0x7F0F01C3
-			public const int Theme_Design_BottomSheetDialog = 2131689923;
+			public const int ThemeOverlay_MaterialComponents_Dark = 2131689923;
 			
 			// aapt resource value: 0x7F0F01C4
-			public const int Theme_Design_Light = 2131689924;
+			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131689924;
 			
 			// aapt resource value: 0x7F0F01C5
-			public const int Theme_Design_Light_BottomSheetDialog = 2131689925;
+			public const int ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog = 2131689925;
 			
 			// aapt resource value: 0x7F0F01C6
-			public const int Theme_Design_Light_NoActionBar = 2131689926;
+			public const int ThemeOverlay_MaterialComponents_Dialog = 2131689926;
 			
 			// aapt resource value: 0x7F0F01C7
-			public const int Theme_Design_NoActionBar = 2131689927;
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689927;
 			
 			// aapt resource value: 0x7F0F01C8
-			public const int Theme_MaterialComponents = 2131689928;
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = 2131689928;
 			
 			// aapt resource value: 0x7F0F01C9
-			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689929;
+			public const int ThemeOverlay_MaterialComponents_Light = 2131689929;
 			
 			// aapt resource value: 0x7F0F01CA
-			public const int Theme_MaterialComponents_Bridge = 2131689930;
+			public const int ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = 2131689930;
 			
 			// aapt resource value: 0x7F0F01CB
-			public const int Theme_MaterialComponents_CompactMenu = 2131689931;
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog = 2131689931;
 			
 			// aapt resource value: 0x7F0F01CC
-			public const int Theme_MaterialComponents_DayNight = 2131689932;
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered = 2131689932;
 			
 			// aapt resource value: 0x7F0F01CD
-			public const int Theme_MaterialComponents_DayNight_BottomSheetDialog = 2131689933;
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date = 2131689933;
 			
 			// aapt resource value: 0x7F0F01CE
-			public const int Theme_MaterialComponents_DayNight_Bridge = 2131689934;
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar = 2131689934;
 			
 			// aapt resource value: 0x7F0F01CF
-			public const int Theme_MaterialComponents_DayNight_DarkActionBar = 2131689935;
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text = 2131689935;
 			
 			// aapt resource value: 0x7F0F01D0
-			public const int Theme_MaterialComponents_DayNight_DarkActionBar_Bridge = 2131689936;
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day = 2131689936;
 			
 			// aapt resource value: 0x7F0F01D1
-			public const int Theme_MaterialComponents_DayNight_Dialog = 2131689937;
-			
-			// aapt resource value: 0x7F0F01D9
-			public const int Theme_MaterialComponents_DayNight_DialogWhenLarge = 2131689945;
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner = 2131689937;
 			
 			// aapt resource value: 0x7F0F01D2
-			public const int Theme_MaterialComponents_DayNight_Dialog_Alert = 2131689938;
+			public const int ThemeOverlay_MaterialComponents_MaterialCalendar = 2131689938;
 			
 			// aapt resource value: 0x7F0F01D3
-			public const int Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge = 2131689939;
+			public const int ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen = 2131689939;
 			
 			// aapt resource value: 0x7F0F01D4
-			public const int Theme_MaterialComponents_DayNight_Dialog_Bridge = 2131689940;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131689940;
 			
 			// aapt resource value: 0x7F0F01D5
-			public const int Theme_MaterialComponents_DayNight_Dialog_FixedSize = 2131689941;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131689941;
 			
 			// aapt resource value: 0x7F0F01D6
-			public const int Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge = 2131689942;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689942;
 			
 			// aapt resource value: 0x7F0F01D7
-			public const int Theme_MaterialComponents_DayNight_Dialog_MinWidth = 2131689943;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131689943;
 			
 			// aapt resource value: 0x7F0F01D8
-			public const int Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge = 2131689944;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689944;
+			
+			// aapt resource value: 0x7F0F01D9
+			public const int ThemeOverlay_MaterialComponents_TimePicker = 2131689945;
 			
 			// aapt resource value: 0x7F0F01DA
-			public const int Theme_MaterialComponents_DayNight_NoActionBar = 2131689946;
+			public const int ThemeOverlay_MaterialComponents_TimePicker_Display = 2131689946;
 			
 			// aapt resource value: 0x7F0F01DB
-			public const int Theme_MaterialComponents_DayNight_NoActionBar_Bridge = 2131689947;
+			public const int ThemeOverlay_MaterialComponents_Toolbar_Primary = 2131689947;
 			
 			// aapt resource value: 0x7F0F01DC
-			public const int Theme_MaterialComponents_Dialog = 2131689948;
-			
-			// aapt resource value: 0x7F0F01E4
-			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689956;
+			public const int ThemeOverlay_MaterialComponents_Toolbar_Surface = 2131689948;
 			
 			// aapt resource value: 0x7F0F01DD
-			public const int Theme_MaterialComponents_Dialog_Alert = 2131689949;
+			public const int Theme_AppCompat = 2131689949;
 			
 			// aapt resource value: 0x7F0F01DE
-			public const int Theme_MaterialComponents_Dialog_Alert_Bridge = 2131689950;
+			public const int Theme_AppCompat_CompactMenu = 2131689950;
 			
 			// aapt resource value: 0x7F0F01DF
-			public const int Theme_MaterialComponents_Dialog_Bridge = 2131689951;
+			public const int Theme_AppCompat_DayNight = 2131689951;
 			
 			// aapt resource value: 0x7F0F01E0
-			public const int Theme_MaterialComponents_Dialog_FixedSize = 2131689952;
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689952;
 			
 			// aapt resource value: 0x7F0F01E1
-			public const int Theme_MaterialComponents_Dialog_FixedSize_Bridge = 2131689953;
+			public const int Theme_AppCompat_DayNight_Dialog = 2131689953;
 			
 			// aapt resource value: 0x7F0F01E2
-			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689954;
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689954;
 			
 			// aapt resource value: 0x7F0F01E3
-			public const int Theme_MaterialComponents_Dialog_MinWidth_Bridge = 2131689955;
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689955;
+			
+			// aapt resource value: 0x7F0F01E4
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689956;
 			
 			// aapt resource value: 0x7F0F01E5
-			public const int Theme_MaterialComponents_Light = 2131689957;
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689957;
 			
 			// aapt resource value: 0x7F0F01E6
-			public const int Theme_MaterialComponents_Light_BarSize = 2131689958;
+			public const int Theme_AppCompat_Dialog = 2131689958;
 			
 			// aapt resource value: 0x7F0F01E7
-			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689959;
+			public const int Theme_AppCompat_DialogWhenLarge = 2131689959;
 			
 			// aapt resource value: 0x7F0F01E8
-			public const int Theme_MaterialComponents_Light_Bridge = 2131689960;
+			public const int Theme_AppCompat_Dialog_Alert = 2131689960;
 			
 			// aapt resource value: 0x7F0F01E9
-			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689961;
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131689961;
 			
 			// aapt resource value: 0x7F0F01EA
-			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689962;
+			public const int Theme_AppCompat_Empty = 2131689962;
 			
 			// aapt resource value: 0x7F0F01EB
-			public const int Theme_MaterialComponents_Light_Dialog = 2131689963;
-			
-			// aapt resource value: 0x7F0F01F3
-			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689971;
+			public const int Theme_AppCompat_Light = 2131689963;
 			
 			// aapt resource value: 0x7F0F01EC
-			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689964;
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131689964;
 			
 			// aapt resource value: 0x7F0F01ED
-			public const int Theme_MaterialComponents_Light_Dialog_Alert_Bridge = 2131689965;
+			public const int Theme_AppCompat_Light_Dialog = 2131689965;
 			
 			// aapt resource value: 0x7F0F01EE
-			public const int Theme_MaterialComponents_Light_Dialog_Bridge = 2131689966;
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689966;
 			
 			// aapt resource value: 0x7F0F01EF
-			public const int Theme_MaterialComponents_Light_Dialog_FixedSize = 2131689967;
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689967;
 			
 			// aapt resource value: 0x7F0F01F0
-			public const int Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = 2131689968;
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689968;
 			
 			// aapt resource value: 0x7F0F01F1
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689969;
+			public const int Theme_AppCompat_Light_NoActionBar = 2131689969;
 			
 			// aapt resource value: 0x7F0F01F2
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = 2131689970;
+			public const int Theme_AppCompat_NoActionBar = 2131689970;
+			
+			// aapt resource value: 0x7F0F01F3
+			public const int Theme_Design = 2131689971;
 			
 			// aapt resource value: 0x7F0F01F4
-			public const int Theme_MaterialComponents_Light_LargeTouch = 2131689972;
+			public const int Theme_Design_BottomSheetDialog = 2131689972;
 			
 			// aapt resource value: 0x7F0F01F5
-			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689973;
+			public const int Theme_Design_Light = 2131689973;
 			
 			// aapt resource value: 0x7F0F01F6
-			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689974;
+			public const int Theme_Design_Light_BottomSheetDialog = 2131689974;
 			
 			// aapt resource value: 0x7F0F01F7
-			public const int Theme_MaterialComponents_NoActionBar = 2131689975;
+			public const int Theme_Design_Light_NoActionBar = 2131689975;
 			
 			// aapt resource value: 0x7F0F01F8
-			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689976;
+			public const int Theme_Design_NoActionBar = 2131689976;
+			
+			// aapt resource value: 0x7F0F01F9
+			public const int Theme_MaterialComponents = 2131689977;
+			
+			// aapt resource value: 0x7F0F01FA
+			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689978;
+			
+			// aapt resource value: 0x7F0F01FB
+			public const int Theme_MaterialComponents_Bridge = 2131689979;
+			
+			// aapt resource value: 0x7F0F01FC
+			public const int Theme_MaterialComponents_CompactMenu = 2131689980;
+			
+			// aapt resource value: 0x7F0F01FD
+			public const int Theme_MaterialComponents_DayNight = 2131689981;
+			
+			// aapt resource value: 0x7F0F01FE
+			public const int Theme_MaterialComponents_DayNight_BottomSheetDialog = 2131689982;
+			
+			// aapt resource value: 0x7F0F01FF
+			public const int Theme_MaterialComponents_DayNight_Bridge = 2131689983;
+			
+			// aapt resource value: 0x7F0F0200
+			public const int Theme_MaterialComponents_DayNight_DarkActionBar = 2131689984;
+			
+			// aapt resource value: 0x7F0F0201
+			public const int Theme_MaterialComponents_DayNight_DarkActionBar_Bridge = 2131689985;
+			
+			// aapt resource value: 0x7F0F0202
+			public const int Theme_MaterialComponents_DayNight_Dialog = 2131689986;
+			
+			// aapt resource value: 0x7F0F0203
+			public const int Theme_MaterialComponents_DayNight_DialogWhenLarge = 2131689987;
+			
+			// aapt resource value: 0x7F0F0204
+			public const int Theme_MaterialComponents_DayNight_Dialog_Alert = 2131689988;
+			
+			// aapt resource value: 0x7F0F0205
+			public const int Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge = 2131689989;
+			
+			// aapt resource value: 0x7F0F0206
+			public const int Theme_MaterialComponents_DayNight_Dialog_Bridge = 2131689990;
+			
+			// aapt resource value: 0x7F0F0207
+			public const int Theme_MaterialComponents_DayNight_Dialog_FixedSize = 2131689991;
+			
+			// aapt resource value: 0x7F0F0208
+			public const int Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge = 2131689992;
+			
+			// aapt resource value: 0x7F0F0209
+			public const int Theme_MaterialComponents_DayNight_Dialog_MinWidth = 2131689993;
+			
+			// aapt resource value: 0x7F0F020A
+			public const int Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge = 2131689994;
+			
+			// aapt resource value: 0x7F0F020B
+			public const int Theme_MaterialComponents_DayNight_NoActionBar = 2131689995;
+			
+			// aapt resource value: 0x7F0F020C
+			public const int Theme_MaterialComponents_DayNight_NoActionBar_Bridge = 2131689996;
+			
+			// aapt resource value: 0x7F0F020D
+			public const int Theme_MaterialComponents_Dialog = 2131689997;
+			
+			// aapt resource value: 0x7F0F020E
+			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689998;
+			
+			// aapt resource value: 0x7F0F020F
+			public const int Theme_MaterialComponents_Dialog_Alert = 2131689999;
+			
+			// aapt resource value: 0x7F0F0210
+			public const int Theme_MaterialComponents_Dialog_Alert_Bridge = 2131690000;
+			
+			// aapt resource value: 0x7F0F0211
+			public const int Theme_MaterialComponents_Dialog_Bridge = 2131690001;
+			
+			// aapt resource value: 0x7F0F0212
+			public const int Theme_MaterialComponents_Dialog_FixedSize = 2131690002;
+			
+			// aapt resource value: 0x7F0F0213
+			public const int Theme_MaterialComponents_Dialog_FixedSize_Bridge = 2131690003;
+			
+			// aapt resource value: 0x7F0F0214
+			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131690004;
+			
+			// aapt resource value: 0x7F0F0215
+			public const int Theme_MaterialComponents_Dialog_MinWidth_Bridge = 2131690005;
+			
+			// aapt resource value: 0x7F0F0216
+			public const int Theme_MaterialComponents_Light = 2131690006;
+			
+			// aapt resource value: 0x7F0F0217
+			public const int Theme_MaterialComponents_Light_BarSize = 2131690007;
+			
+			// aapt resource value: 0x7F0F0218
+			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131690008;
+			
+			// aapt resource value: 0x7F0F0219
+			public const int Theme_MaterialComponents_Light_Bridge = 2131690009;
+			
+			// aapt resource value: 0x7F0F021A
+			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131690010;
+			
+			// aapt resource value: 0x7F0F021B
+			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131690011;
+			
+			// aapt resource value: 0x7F0F021C
+			public const int Theme_MaterialComponents_Light_Dialog = 2131690012;
+			
+			// aapt resource value: 0x7F0F021D
+			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131690013;
+			
+			// aapt resource value: 0x7F0F021E
+			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131690014;
+			
+			// aapt resource value: 0x7F0F021F
+			public const int Theme_MaterialComponents_Light_Dialog_Alert_Bridge = 2131690015;
+			
+			// aapt resource value: 0x7F0F0220
+			public const int Theme_MaterialComponents_Light_Dialog_Bridge = 2131690016;
+			
+			// aapt resource value: 0x7F0F0221
+			public const int Theme_MaterialComponents_Light_Dialog_FixedSize = 2131690017;
+			
+			// aapt resource value: 0x7F0F0222
+			public const int Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = 2131690018;
+			
+			// aapt resource value: 0x7F0F0223
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131690019;
+			
+			// aapt resource value: 0x7F0F0224
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = 2131690020;
+			
+			// aapt resource value: 0x7F0F0225
+			public const int Theme_MaterialComponents_Light_LargeTouch = 2131690021;
+			
+			// aapt resource value: 0x7F0F0226
+			public const int Theme_MaterialComponents_Light_NoActionBar = 2131690022;
+			
+			// aapt resource value: 0x7F0F0227
+			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131690023;
+			
+			// aapt resource value: 0x7F0F0228
+			public const int Theme_MaterialComponents_NoActionBar = 2131690024;
+			
+			// aapt resource value: 0x7F0F0229
+			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131690025;
 			
 			// aapt resource value: 0x7F0F022A
 			public const int Widget_AppCompat_ActionBar = 2131690026;
@@ -20910,26 +24594,26 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F0F0235
 			public const int Widget_AppCompat_Button = 2131690037;
 			
-			// aapt resource value: 0x7F0F023B
-			public const int Widget_AppCompat_ButtonBar = 2131690043;
-			
-			// aapt resource value: 0x7F0F023C
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131690044;
-			
 			// aapt resource value: 0x7F0F0236
-			public const int Widget_AppCompat_Button_Borderless = 2131690038;
+			public const int Widget_AppCompat_ButtonBar = 2131690038;
 			
 			// aapt resource value: 0x7F0F0237
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131690039;
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131690039;
 			
 			// aapt resource value: 0x7F0F0238
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131690040;
+			public const int Widget_AppCompat_Button_Borderless = 2131690040;
 			
 			// aapt resource value: 0x7F0F0239
-			public const int Widget_AppCompat_Button_Colored = 2131690041;
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131690041;
 			
 			// aapt resource value: 0x7F0F023A
-			public const int Widget_AppCompat_Button_Small = 2131690042;
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131690042;
+			
+			// aapt resource value: 0x7F0F023B
+			public const int Widget_AppCompat_Button_Colored = 2131690043;
+			
+			// aapt resource value: 0x7F0F023C
+			public const int Widget_AppCompat_Button_Small = 2131690044;
 			
 			// aapt resource value: 0x7F0F023D
 			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131690045;
@@ -21234,20 +24918,20 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F0F02A1
 			public const int Widget_MaterialComponents_CheckedTextView = 2131690145;
 			
-			// aapt resource value: 0x7F0F02A6
-			public const int Widget_MaterialComponents_ChipGroup = 2131690150;
-			
 			// aapt resource value: 0x7F0F02A2
-			public const int Widget_MaterialComponents_Chip_Action = 2131690146;
+			public const int Widget_MaterialComponents_ChipGroup = 2131690146;
 			
 			// aapt resource value: 0x7F0F02A3
-			public const int Widget_MaterialComponents_Chip_Choice = 2131690147;
+			public const int Widget_MaterialComponents_Chip_Action = 2131690147;
 			
 			// aapt resource value: 0x7F0F02A4
-			public const int Widget_MaterialComponents_Chip_Entry = 2131690148;
+			public const int Widget_MaterialComponents_Chip_Choice = 2131690148;
 			
 			// aapt resource value: 0x7F0F02A5
-			public const int Widget_MaterialComponents_Chip_Filter = 2131690149;
+			public const int Widget_MaterialComponents_Chip_Entry = 2131690149;
+			
+			// aapt resource value: 0x7F0F02A6
+			public const int Widget_MaterialComponents_Chip_Filter = 2131690150;
 			
 			// aapt resource value: 0x7F0F02A7
 			public const int Widget_MaterialComponents_CircularProgressIndicator = 2131690151;
@@ -21297,17 +24981,17 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F0F02B6
 			public const int Widget_MaterialComponents_MaterialCalendar_Day = 2131690166;
 			
-			// aapt resource value: 0x7F0F02BA
-			public const int Widget_MaterialComponents_MaterialCalendar_DayTextView = 2131690170;
-			
 			// aapt resource value: 0x7F0F02B7
-			public const int Widget_MaterialComponents_MaterialCalendar_Day_Invalid = 2131690167;
+			public const int Widget_MaterialComponents_MaterialCalendar_DayTextView = 2131690167;
 			
 			// aapt resource value: 0x7F0F02B8
-			public const int Widget_MaterialComponents_MaterialCalendar_Day_Selected = 2131690168;
+			public const int Widget_MaterialComponents_MaterialCalendar_Day_Invalid = 2131690168;
 			
 			// aapt resource value: 0x7F0F02B9
-			public const int Widget_MaterialComponents_MaterialCalendar_Day_Today = 2131690169;
+			public const int Widget_MaterialComponents_MaterialCalendar_Day_Selected = 2131690169;
+			
+			// aapt resource value: 0x7F0F02BA
+			public const int Widget_MaterialComponents_MaterialCalendar_Day_Today = 2131690170;
 			
 			// aapt resource value: 0x7F0F02BB
 			public const int Widget_MaterialComponents_MaterialCalendar_Fullscreen = 2131690171;
@@ -21348,14 +25032,14 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F0F02C7
 			public const int Widget_MaterialComponents_MaterialCalendar_Year = 2131690183;
 			
-			// aapt resource value: 0x7F0F02CA
-			public const int Widget_MaterialComponents_MaterialCalendar_YearNavigationButton = 2131690186;
-			
 			// aapt resource value: 0x7F0F02C8
-			public const int Widget_MaterialComponents_MaterialCalendar_Year_Selected = 2131690184;
+			public const int Widget_MaterialComponents_MaterialCalendar_YearNavigationButton = 2131690184;
 			
 			// aapt resource value: 0x7F0F02C9
-			public const int Widget_MaterialComponents_MaterialCalendar_Year_Today = 2131690185;
+			public const int Widget_MaterialComponents_MaterialCalendar_Year_Selected = 2131690185;
+			
+			// aapt resource value: 0x7F0F02CA
+			public const int Widget_MaterialComponents_MaterialCalendar_Year_Today = 2131690186;
 			
 			// aapt resource value: 0x7F0F02CB
 			public const int Widget_MaterialComponents_NavigationRailView = 2131690187;
@@ -21638,9 +25322,8 @@ namespace RemindRx.Droid
 			// aapt resource value: 0
 			public const int ActionMenuItemView_android_minWidth = 0;
 			
-			// aapt resource value: { 0xFFFFFFFF }
-			public static int[] ActionMenuView = new int[] {
-					-1};
+			// aapt resource value: {  }
+			public static int[] ActionMenuView = new int[0];
 			
 			// aapt resource value: { 0x7F030047,0x7F03004E,0x7F0300CC,0x7F0301B5,0x7F030371,0x7F0303EE }
 			public static int[] ActionMode = new int[] {
@@ -25904,17 +29587,14 @@ namespace RemindRx.Droid
 			// aapt resource value: 20
 			public const int KeyCycle_waveVariesBy = 20;
 			
-			// aapt resource value: { 0xFFFFFFFF }
-			public static int[] KeyFrame = new int[] {
-					-1};
+			// aapt resource value: {  }
+			public static int[] KeyFrame = new int[0];
 			
-			// aapt resource value: { 0xFFFFFFFF }
-			public static int[] KeyFramesAcceleration = new int[] {
-					-1};
+			// aapt resource value: {  }
+			public static int[] KeyFramesAcceleration = new int[0];
 			
-			// aapt resource value: { 0xFFFFFFFF }
-			public static int[] KeyFramesVelocity = new int[] {
-					-1};
+			// aapt resource value: {  }
+			public static int[] KeyFramesVelocity = new int[0];
 			
 			// aapt resource value: { 0x7F030117,0x7F030142,0x7F0301AD,0x7F0301FD,0x7F0302B3,0x7F0302E1,0x7F0302E3,0x7F0302E4,0x7F0302E5,0x7F0302E6,0x7F030348,0x7F030404 }
 			public static int[] KeyPosition = new int[] {

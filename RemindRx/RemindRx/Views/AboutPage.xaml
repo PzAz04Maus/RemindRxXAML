@@ -31,12 +31,16 @@
         
             
         <controls:MyButton x:Name="newMedBtn" Style="{StaticResource Button}" Image="pills.png" Text="New Medication" 
-                               TextColor="#E6f6fc" FrameBackgroundColor="#84c4dc"/>
+                               TextColor="#E6f6fc" FrameBackgroundColor="#84c4dc" Command="{Binding AddMedsCommand}"/>
         <controls:MyButton x:Name="newApptBtn" Style="{StaticResource Button}" Image="clock.png" Text="New Appointment" 
-                               TextColor="#E6f6fc" FrameBackgroundColor="#84c4dc"/>
+                               TextColor="#E6f6fc" FrameBackgroundColor="#84c4dc" Command="{Binding AddApptCommand}"/>
 
 
         <Label Text="Reminders"/>
+        
+        
     </StackLayout>
+    
+    
 
 </ContentPage>

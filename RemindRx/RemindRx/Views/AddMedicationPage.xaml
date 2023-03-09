@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RemindRx.Views.AddMedicationPage"
+             Shell.PresentationMode="ModalAnimated"
+             Title="New Meds"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true"
+             BackgroundColor="#e6f6fc">
+    
+    <ContentPage.Content>
+        <StackLayout Spacing="3" Padding="15">
+            <Label Text="Name of Medication" FontSize="Medium" TextColor="Black"/>
+            <Entry Placeholder="Ex. Xanax" Text="{Binding Text, Mode=TwoWay}" FontSize="Medium" />
+            
+            <!-- Text and description need to be changed to the names we are using elsewhere-->
+            <Label Text="Total Number of Pills Prescibed" FontSize="Medium" TextColor="Black" />
+            <Editor Placeholder="Ex. 40" Text="{Binding Description, Mode=TwoWay}" AutoSize="TextChanges" FontSize="Medium" Margin="0" />
+
+            <Label Text="Pills Per Dose" FontSize="Medium" TextColor="Black"></Label>
+            <Entry Placeholder="Ex. 2" Text="{Binding DoseageAmount, Mode=TwoWay}" FontSize="Medium"></Entry>
+
+            <Label Text="Time to Take Pills" FontSize="Medium" TextColor="Black" />
+            <!--<TimePicker x:Name="MedicationTimes" Background="Black"/>-->
+            <Entry Placeholder="XX:XX AM/PM" Text="{Binding ToD}" FontSize="Medium"></Entry>
+            
+            <Label Text="Days to Take" TextColor="Black" FontSize="Medium"></Label>
+            <Grid>
+                <Grid.RowDefinitions Height="2"></Grid.RowDefinitions>
+                <Grid.ColumnDefinitions Width="7"></Grid.ColumnDefinitions>
+
+                <CheckBox x:Name="SundaycheckBox" Grid.Row="0" Grid.Column="0" Color="Black"/>
+                <Label Text="S" Grid.Row="1" Grid.Column="0" TextColor="Black">
+                    <Label.Triggers>
+                        <DataTrigger TargetType="Label"
+                     Binding="{Binding Source={x:Reference MondaycheckBox}, Path=IsChecked}"
+                     Value="true">
+                            <Setter Property="FontAttributes"
+                    Value="Italic, Bold" />
+                            <Setter Property="FontSize"
+                    Value="Large" />
+                        </DataTrigger>
+                    </Label.Triggers>
+                </Label>
+
+                <CheckBox x:Name="MondaycheckBox" Grid.Row="0" Grid.Column="1" Color="Black"/>
+                <Label Text="M" Grid.Row="1" Grid.Column="1" TextColor="Black">
+                    <Label.Triggers>
+                        <DataTrigger TargetType="Label"
+                     Binding="{Binding Source={x:Reference MondaycheckBox}, Path=IsChecked}"
+                     Value="true">
+                            <Setter Property="FontAttributes"
+                    Value="Italic, Bold" />
+                            <Setter Property="FontSize"
+                    Value="Large" />
+                        </DataTrigger>
+                    </Label.Triggers>
+                </Label>
+
+                <CheckBox x:Name="TuesdaycheckBox" Grid.Row="0" Grid.Column="2" Color="Black"/>
+                <Label Text="T" Grid.Row="1" Grid.Column="2" TextColor="Black">
+                    <Label.Triggers>
+                        <DataTrigger TargetType="Label"
+                     Binding="{Binding Source={x:Reference TuesdaycheckBox}, Path=IsChecked}"
+                     Value="true">
+                            <Setter Property="FontAttributes"
+                    Value="Italic, Bold" />
+                            <Setter Property="FontSize"
+                    Value="Large" />
+                        </DataTrigger>
+                    </Label.Triggers>
+                </Label>
+
+                <CheckBox x:Name="WednesdaycheckBox" Grid.Row="0" Grid.Column="3" Color="Black"/>
+                <Label Text="W" Grid.Row="1" Grid.Column="3" TextColor="Black">
+                    <Label.Triggers>
+                        <DataTrigger TargetType="Label"
+                     Binding="{Binding Source={x:Reference WednesdaycheckBox}, Path=IsChecked}"
+                     Value="true">
+                            <Setter Property="FontAttributes"
+                    Value="Italic, Bold" />
+                            <Setter Property="FontSize"
+                    Value="Large" />
+                        </DataTrigger>
+                    </Label.Triggers>
+                </Label>
+
+                <CheckBox x:Name="ThursdaycheckBox" Grid.Row="0" Grid.Column="4" Color="Black"/>
+                <Label Text="Th" Grid.Row="1" Grid.Column="4" TextColor="Black">
+                    <Label.Triggers>
+                        <DataTrigger TargetType="Label"
+                     Binding="{Binding Source={x:Reference ThursdaycheckBox}, Path=IsChecked}"
+                     Value="true">
+                            <Setter Property="FontAttributes"
+                    Value="Italic, Bold" />
+                            <Setter Property="FontSize"
+                    Value="Large" />
+                        </DataTrigger>
+                    </Label.Triggers>
+                </Label>
+
+                <CheckBox x:Name="FridaycheckBox" Grid.Row="0" Grid.Column="5" Color="Black"/>
+                <Label Text="F" Grid.Row="1" Grid.Column="5" TextColor="Black">
+                    <Label.Triggers>
+                        <DataTrigger TargetType="Label"
+                     Binding="{Binding Source={x:Reference FridaycheckBox}, Path=IsChecked}"
+                     Value="true">
+                            <Setter Property="FontAttributes"
+                    Value="Italic, Bold" />
+                            <Setter Property="FontSize"
+                    Value="Large" />
+                        </DataTrigger>
+                    </Label.Triggers>
+                </Label>
+
+                <CheckBox x:Name="SaturdaycheckBox" Grid.Row="0" Grid.Column="6" Color="Black"/>
+                <Label Text="S" Grid.Row="1" Grid.Column="6" TextColor="Black">
+                    <Label.Triggers>
+                        <DataTrigger TargetType="Label"
+                     Binding="{Binding Source={x:Reference SaturdaycheckBox}, Path=IsChecked}"
+                     Value="true">
+                            <Setter Property="FontAttributes"
+                    Value="Italic, Bold" />
+                            <Setter Property="FontSize"
+                    Value="Large" />
+                        </DataTrigger>
+                    </Label.Triggers>
+                </Label>
+            </Grid>
+
+            
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Cancel" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>
+                <Button Text="Save" Command="{Binding SaveCommand}" HorizontalOptions="FillAndExpand"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>

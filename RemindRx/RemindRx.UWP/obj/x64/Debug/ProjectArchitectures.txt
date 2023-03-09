@@ -1,1 +1,1 @@
-C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\RemindRx.UWP.csproj;x64
+C:\Users\andre\Desktop\RemindRX\RemindRxXAML\RemindRxXAML\RemindRx\RemindRx.UWP\RemindRx.UWP.csproj;x64

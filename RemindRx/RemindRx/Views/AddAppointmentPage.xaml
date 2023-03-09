@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RemindRx.Views.AddAppointmentPage"
+             Shell.PresentationMode="ModalAnimated"
+             Title="New Appointment"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true"
+             BackgroundColor="#e6f6fc">
+    <ContentPage.Content>
+        <StackLayout Spacing="3" Padding="15">
+
+            <Label Text="Appointment Name" FontSize="Medium" TextColor="Black" />
+            <Entry Placeholder="Ex. General Checkup" Text="{Binding Text, Mode=TwoWay}" FontSize="Medium" />
+
+            <Label Text="Description" FontSize="Medium" TextColor="Black"></Label>
+            <Entry Placeholder="Ex. Going to a yearly checkup" Text="{Binding Description, Mode=TwoWay}" FontSize="Medium"></Entry>
+
+            <Label Text="Date:" FontSize="Medium" TextColor="Black"></Label>
+            <!--<DatePicker x:Name="AppointmentDate" BackgroundColor="Black" TextColor="White" Date="{Binding Date}"></DatePicker>-->
+            <Entry Placeholder="MM/DD/YY" Text="{Binding Date}" FontSize="Medium"></Entry>
+
+            <Label Text="Time" FontSize="Medium" TextColor="Black"></Label>
+            <!--<TimePicker x:Name="AppointmentTime" Background="Black" TextColor="White"/> -->
+            <Entry Placeholder="XX:XX AM/PM" Text="{Binding ToD}" FontSize="Medium"></Entry>
+
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Cancel" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>
+                <Button Text="Save" Command="{Binding SaveCommand}" HorizontalOptions="FillAndExpand"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>
