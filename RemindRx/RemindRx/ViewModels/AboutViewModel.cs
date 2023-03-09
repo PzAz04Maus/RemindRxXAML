@@ -22,12 +22,12 @@ namespace RemindRx.ViewModels
 
         public ICommand OpenWebCommand { get; }
 
-        private async void ApptBtnClicked(object obj) //This is where we change the views that the add item button changes
+        private async void ApptBtnClicked(object obj) //This is where we change the views that the Apt button changes
         {
             await Shell.Current.GoToAsync(nameof(AddAppointmentPage));
         }
 
-        private async void MedBtnClicked(object obj) //This is where we change the views that the add item button changes
+        private async void MedBtnClicked(object obj) //This is where we change the views that the Meds button changes
         {
             await Shell.Current.GoToAsync(nameof(AddMedicationPage));
         }

@@ -5,21 +5,22 @@
              Shell.PresentationMode="ModalAnimated"
              Title="New Appointment"
              xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
-             ios:Page.UseSafeArea="true">
+             ios:Page.UseSafeArea="true"
+             BackgroundColor="#e6f6fc">
     <ContentPage.Content>
         <StackLayout Spacing="3" Padding="15">
 
-            <Label Text="Appointment Name" FontSize="Medium" />
+            <Label Text="Appointment Name" FontSize="Medium" TextColor="Black" />
             <Entry Placeholder="Ex. General Checkup" Text="{Binding Text, Mode=TwoWay}" FontSize="Medium" />
-            
-            <Label Text="Description" FontSize="Medium"></Label>
+
+            <Label Text="Description" FontSize="Medium" TextColor="Black"></Label>
             <Entry Placeholder="Ex. Going to a yearly checkup" Text="{Binding Description, Mode=TwoWay}" FontSize="Medium"></Entry>
 
-            <Label Text="Date:" FontSize="Medium" ></Label>
-            <DatePicker x:Name="AppointmentDate"></DatePicker>
+            <Label Text="Date:" FontSize="Medium" TextColor="Black"></Label>
+            <DatePicker x:Name="AppointmentDate" BackgroundColor="Black" TextColor="White"></DatePicker>
 
-            <Label Text="Time" FontSize="Medium"></Label>
-            <TimePicker x:Name="AppointmentTime"/>
+            <Label Text="Time" FontSize="Medium" TextColor="Black"></Label>
+            <TimePicker x:Name="AppointmentTime" Background="Black" TextColor="White"/>
 
             <StackLayout Orientation="Horizontal">
                 <Button Text="Cancel" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>
