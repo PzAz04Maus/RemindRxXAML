@@ -39,6 +39,12 @@ namespace RemindRx.ViewModels
             set => SetProperty(ref description, value);
         }
 
+        public string TimeOfDay
+        {
+            get => ToD;
+            set => SetProperty(ref ToD, value);
+        }
+
         public Command SaveCommand { get; }
         public Command CancelCommand { get; }
 

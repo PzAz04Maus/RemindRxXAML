@@ -67,9 +67,9 @@ namespace RemindRx.ViewModels
             }
         }
 
-        private async void OnAddItem(object obj)
+        private async void OnAddItem(object obj) //This is where we change the views that the add item button changes
         {
-            await Shell.Current.GoToAsync(nameof(AddMedicationPage));
+            await Shell.Current.GoToAsync(nameof(AddAppointmentPage));
         }
 
         async void OnItemSelected(Item item)

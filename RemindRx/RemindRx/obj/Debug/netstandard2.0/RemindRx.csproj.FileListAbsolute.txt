@@ -80,3 +80,4 @@ C:\Users\andre\Desktop\RemindRX\RemindRxXAML\RemindRxXAML\RemindRx\RemindRx\obj\
 C:\Users\andre\Desktop\RemindRX\RemindRxXAML\RemindRxXAML\RemindRx\RemindRx\obj\Debug\netstandard2.0\RemindRx.pdb
 C:\Users\andre\Desktop\RemindRX\RemindRxXAML\RemindRxXAML\RemindRx\RemindRx\obj\Debug\netstandard2.0\ref\RemindRx.dll
 C:\Users\andre\Desktop\RemindRX\RemindRxXAML\RemindRxXAML\RemindRx\RemindRx\obj\Debug\netstandard2.0\Views\AddMedicationPage.xaml.g.cs
+C:\Users\andre\Desktop\RemindRX\RemindRxXAML\RemindRxXAML\RemindRx\RemindRx\obj\Debug\netstandard2.0\Views\AddAppointmentPage.xaml.g.cs

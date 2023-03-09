@@ -6,6 +6,7 @@
              Title="New Meds"
              xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
              ios:Page.UseSafeArea="true">
+    
     <ContentPage.Content>
         <StackLayout Spacing="3" Padding="15">
             <Label Text="Name of Medication" FontSize="Medium" />
@@ -17,6 +18,7 @@
             <Entry Placeholder="Ex. 2" Text="{Binding DoseageAmount, Mode=TwoWay}" FontSize="Medium"></Entry>
             <Label Text="Time to Take Pills" FontSize="Medium" />
             <TimePicker x:Name="MedicationTimes"/>
+            
             <Grid>
                 <Grid.RowDefinitions Height="2"></Grid.RowDefinitions>
                 <Grid.ColumnDefinitions Width="7"></Grid.ColumnDefinitions>
