@@ -11,7 +11,7 @@
         <Label Text="RemindRx" FontSize="48" TextColor="{StaticResource Pale}"/>
     </NavigationPage.TitleView>
     <ContentPage.ToolbarItems>
-        <ToolbarItem IconImageSource="gear.png"/>
+        <ToolbarItem IconImageSource="gear.png" Command="{Binding SettingsCommand}"/>
     </ContentPage.ToolbarItems>
 
     <ContentPage.BindingContext>

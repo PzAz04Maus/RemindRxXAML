@@ -59,3 +59,4 @@ C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx\obj\Debug\ne
 C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx\obj\Debug\netstandard2.0\RemindRx.pdb
 C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx\obj\Debug\netstandard2.0\ref\RemindRx.dll
 C:\Users\Jem\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx\obj\Debug\netstandard2.0\CustomControls\MyButton.xaml.g.cs
+C:\Users\Jem\Source\Repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx\obj\Debug\netstandard2.0\Views\SettingsPage.xaml.g.cs

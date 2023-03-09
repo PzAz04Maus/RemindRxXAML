@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RemindRx.Views.SettingsPage"
+              xmlns:vm="clr-namespace:RemindRx.ViewModels"
+             xmlns:controls="clr-namespace:XamarinCustomControls.CustomControls"
+               Title="Settings">
+    <ContentPage.Content>
+        <StackLayout Style="{StaticResource Background}">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Label Text="Language: " FontSize="Large" Grid.Column="1" HorizontalOptions="End"/>
+                <Picker BackgroundColor="White" x:Name="languages" Grid.Column="2"/>
+               
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Label Text="Theme: " FontSize="Large" Grid.Column="1" HorizontalOptions="End"/>
+                <Picker BackgroundColor="White" x:Name="themes" Grid.Column="2"/>
+            </Grid>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Button Text="Cancel" Grid.Column="1" Command="{Binding CancelCommand}"/>
+                <Button Text="Save" Grid.Column="2" Command="{Binding SaveCommand}"/>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
