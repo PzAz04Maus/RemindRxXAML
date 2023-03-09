@@ -5,7 +5,8 @@
              Title="{Binding Title}"
              xmlns:local="clr-namespace:RemindRx.ViewModels"  
              xmlns:model="clr-namespace:RemindRx.Models"  
-             x:Name="BrowseItemsPage">
+             x:Name="BrowseItemsPage"
+             BackgroundColor="#e6f6fc">
 
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" Command="{Binding AddItemCommand}" />
@@ -22,13 +23,19 @@
                 <DataTemplate>
                     <StackLayout Padding="10" x:DataType="model:Item">
                         <Label Text="{Binding Text}" 
+                               TextColor="Black"
                             LineBreakMode="NoWrap" 
                             Style="{DynamicResource ListItemTextStyle}" 
                             FontSize="16" />
-                        <Label Text="{Binding Description}" 
+                        <Label Text="{Binding Description}"
+                               TextColor="Black"
                             LineBreakMode="NoWrap"
                             Style="{DynamicResource ListItemDetailTextStyle}"
-                            FontSize="13" />
+                            FontSize="16" />
+                        <Label Text="{Binding ToD}" TextColor="Black" FontSize="16"></Label>
+                        <Label Text="{Binding Date}" TextColor="Black" FontSize="16"></Label>
+                        <Label Text="{Binding DoseageAmount}"  TextColor="Black" FontSize="16"></Label>
+                        <Label Text="-----------------------" TextColor="Black"></Label>
                         <StackLayout.GestureRecognizers>
                             <TapGestureRecognizer 
                                 NumberOfTapsRequired="1"

@@ -11,7 +11,8 @@ namespace RemindRx.ViewModels
     {
         private string text;
         private string description;
-        private string ToD;
+        private string doseageamount;
+        private string tod;
 
         public AddMedicationViewModel()
         {
@@ -38,11 +39,16 @@ namespace RemindRx.ViewModels
             get => description;
             set => SetProperty(ref description, value);
         }
-
-        public string TimeOfDay
+        public string Doseageamount
         {
-            get => ToD;
-            set => SetProperty(ref ToD, value);
+            get => doseageamount;
+            set => SetProperty(ref doseageamount, value);
+        }
+
+        public string ToD
+        {
+            get => tod;
+            set => SetProperty(ref tod, value);
         }
 
         public Command SaveCommand { get; }
@@ -54,13 +60,15 @@ namespace RemindRx.ViewModels
             await Shell.Current.GoToAsync("..");
         }
 
-        private async void OnSave()
+        private async void OnSave() //need to figure out how to use the checkboxes
         {
             Item newItem = new Item()
             {
                 Id = Guid.NewGuid().ToString(),
                 Text = Text,
-                Description = Description
+                Description = Description,
+                DoseageAmount= Doseageamount,
+                ToD = ToD
             };
 
             await DataStore.AddItemAsync(newItem);

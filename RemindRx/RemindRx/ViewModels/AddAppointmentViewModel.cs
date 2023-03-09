@@ -11,7 +11,8 @@ namespace RemindRx.ViewModels
     {
         private string text;
         private string description;
-        private string ToD;
+        private string tod;
+        private string date;
 
         public AddAppointmentViewModel()
         {
@@ -39,6 +40,17 @@ namespace RemindRx.ViewModels
             set => SetProperty(ref description, value);
         }
 
+        public string ToD
+        {
+            get => tod;
+            set=> SetProperty(ref tod, value);
+        }
+        public string Date
+        {
+            get => date;
+            set => SetProperty(ref date, value);
+        }
+
         public Command SaveCommand { get; }
         public Command CancelCommand { get; }
 
@@ -54,7 +66,9 @@ namespace RemindRx.ViewModels
             {
                 Id = Guid.NewGuid().ToString(),
                 Text = Text,
-                Description = Description
+                Description = Description,
+                ToD = ToD,
+                Date = Date
             };
 
             await DataStore.AddItemAsync(newItem);

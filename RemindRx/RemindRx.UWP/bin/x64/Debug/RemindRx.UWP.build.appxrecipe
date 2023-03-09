@@ -76,6 +76,9 @@
     <AppxPackagedFile Include="C:\Users\andre\Desktop\RemindRX\RemindRxXAML\RemindRxXAML\RemindRx\RemindRx.UWP\gear.png">
       <PackagePath>gear.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\andre\Desktop\RemindRX\RemindRxXAML\RemindRxXAML\RemindRx\RemindRx.UWP\home_icon.png">
+      <PackagePath>home_icon.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andre\Desktop\RemindRX\RemindRxXAML\RemindRxXAML\RemindRx\RemindRx.UWP\phone.png">
       <PackagePath>phone.png</PackagePath>
     </AppxPackagedFile>

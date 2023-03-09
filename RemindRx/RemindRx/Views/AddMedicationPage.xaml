@@ -21,7 +21,8 @@
             <Entry Placeholder="Ex. 2" Text="{Binding DoseageAmount, Mode=TwoWay}" FontSize="Medium"></Entry>
 
             <Label Text="Time to Take Pills" FontSize="Medium" TextColor="Black" />
-            <TimePicker x:Name="MedicationTimes" Background="Black"/>
+            <!--<TimePicker x:Name="MedicationTimes" Background="Black"/>-->
+            <Entry Placeholder="XX:XX AM/PM" Text="{Binding ToD}" FontSize="Medium"></Entry>
             
             <Label Text="Days to Take" TextColor="Black" FontSize="Medium"></Label>
             <Grid>
@@ -74,7 +75,7 @@
                 <Label Text="W" Grid.Row="1" Grid.Column="3" TextColor="Black">
                     <Label.Triggers>
                         <DataTrigger TargetType="Label"
-                     Binding="{Binding Source={x:Reference TuesdaycheckBox}, Path=IsChecked}"
+                     Binding="{Binding Source={x:Reference WednesdaycheckBox}, Path=IsChecked}"
                      Value="true">
                             <Setter Property="FontAttributes"
                     Value="Italic, Bold" />
@@ -88,7 +89,7 @@
                 <Label Text="Th" Grid.Row="1" Grid.Column="4" TextColor="Black">
                     <Label.Triggers>
                         <DataTrigger TargetType="Label"
-                     Binding="{Binding Source={x:Reference TuesdaycheckBox}, Path=IsChecked}"
+                     Binding="{Binding Source={x:Reference ThursdaycheckBox}, Path=IsChecked}"
                      Value="true">
                             <Setter Property="FontAttributes"
                     Value="Italic, Bold" />
@@ -102,7 +103,7 @@
                 <Label Text="F" Grid.Row="1" Grid.Column="5" TextColor="Black">
                     <Label.Triggers>
                         <DataTrigger TargetType="Label"
-                     Binding="{Binding Source={x:Reference TuesdaycheckBox}, Path=IsChecked}"
+                     Binding="{Binding Source={x:Reference FridaycheckBox}, Path=IsChecked}"
                      Value="true">
                             <Setter Property="FontAttributes"
                     Value="Italic, Bold" />
@@ -116,7 +117,7 @@
                 <Label Text="S" Grid.Row="1" Grid.Column="6" TextColor="Black">
                     <Label.Triggers>
                         <DataTrigger TargetType="Label"
-                     Binding="{Binding Source={x:Reference TuesdaycheckBox}, Path=IsChecked}"
+                     Binding="{Binding Source={x:Reference SaturdaycheckBox}, Path=IsChecked}"
                      Value="true">
                             <Setter Property="FontAttributes"
                     Value="Italic, Bold" />

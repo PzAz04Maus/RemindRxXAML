@@ -108,6 +108,7 @@
     <Content Include="Assets\pills.png" />
     <Content Include="clock.png" />
     <Content Include="gear.png" />
+    <Content Include="home_icon.png" />
     <Content Include="phone.png" />
     <Content Include="pills.png" />
     <Content Include="Properties\Default.rd.xml" />

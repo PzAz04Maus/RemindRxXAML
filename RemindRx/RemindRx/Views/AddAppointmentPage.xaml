@@ -17,10 +17,12 @@
             <Entry Placeholder="Ex. Going to a yearly checkup" Text="{Binding Description, Mode=TwoWay}" FontSize="Medium"></Entry>
 
             <Label Text="Date:" FontSize="Medium" TextColor="Black"></Label>
-            <DatePicker x:Name="AppointmentDate" BackgroundColor="Black" TextColor="White"></DatePicker>
+            <!--<DatePicker x:Name="AppointmentDate" BackgroundColor="Black" TextColor="White" Date="{Binding Date}"></DatePicker>-->
+            <Entry Placeholder="MM/DD/YY" Text="{Binding Date}" FontSize="Medium"></Entry>
 
             <Label Text="Time" FontSize="Medium" TextColor="Black"></Label>
-            <TimePicker x:Name="AppointmentTime" Background="Black" TextColor="White"/>
+            <!--<TimePicker x:Name="AppointmentTime" Background="Black" TextColor="White"/> -->
+            <Entry Placeholder="XX:XX AM/PM" Text="{Binding ToD}" FontSize="Medium"></Entry>
 
             <StackLayout Orientation="Horizontal">
                 <Button Text="Cancel" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>
