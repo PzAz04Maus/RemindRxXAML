@@ -10,6 +10,7 @@
       "RemindRx/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
+          "Rg.Plugins.Popup": "2.1.0",
           "Xamarin.Essentials": "1.7.0",
           "Xamarin.Forms": "5.0.0.2196"
         },
@@ -21,6 +22,17 @@
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Rg.Plugins.Popup/2.1.0": {
+        "dependencies": {
+          "Xamarin.Forms": "5.0.0.2196"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Rg.Plugins.Popup.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
         }
       },
       "System.Numerics.Vectors/4.5.0": {
@@ -79,6 +91,13 @@
       "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Rg.Plugins.Popup/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-caKjkvimzpUqk4pO/WSFn3uOX43uZNW5rPWCx7eXkOlGG9Br90MTwNVS1nxhtyypB69uUe/0GQPEC3rz+kscbA==",
+      "path": "rg.plugins.popup/2.1.0",
+      "hashPath": "rg.plugins.popup.2.1.0.nupkg.sha512"
     },
     "System.Numerics.Vectors/4.5.0": {
       "type": "package",

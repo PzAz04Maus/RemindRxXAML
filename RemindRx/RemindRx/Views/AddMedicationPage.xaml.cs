@@ -8,14 +8,14 @@ using Xamarin.Forms.Xaml;
 
 namespace RemindRx.Views
 {
-    public partial class NewItemPage : ContentPage
+    public partial class AddMedicationPage : ContentPage
     {
         public Item Item { get; set; }
 
-        public NewItemPage()
+        public AddMedicationPage()
         {
             InitializeComponent();
-            BindingContext = new NewItemViewModel();
+            BindingContext = new AddMedicationViewModel();
         }
     }
 }

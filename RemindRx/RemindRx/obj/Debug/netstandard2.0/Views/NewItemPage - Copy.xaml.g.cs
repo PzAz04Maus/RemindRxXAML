@@ -8,12 +8,12 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("RemindRx.Views.NewItemPage.xaml", "Views/NewItemPage.xaml", typeof(global::RemindRx.Views.NewItemPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("RemindRx.Views.NewItemPage - Copy.xaml", "Views/NewItemPage - Copy.xaml", typeof(global::RemindRx.Views.NewItemPage))]
 
 namespace RemindRx.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\NewItemPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\NewItemPage - Copy.xaml")]
     public partial class NewItemPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

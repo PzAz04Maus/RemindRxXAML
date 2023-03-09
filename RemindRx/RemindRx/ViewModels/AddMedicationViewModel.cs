@@ -7,12 +7,13 @@ using Xamarin.Forms;
 
 namespace RemindRx.ViewModels
 {
-    public class NewItemViewModel : BaseViewModel
+    public class AddMedicationViewModel : BaseViewModel
     {
         private string text;
         private string description;
+        private string ToD;
 
-        public NewItemViewModel()
+        public AddMedicationViewModel()
         {
             SaveCommand = new Command(OnSave, ValidateSave);
             CancelCommand = new Command(OnCancel);

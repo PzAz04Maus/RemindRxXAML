@@ -69,7 +69,7 @@ namespace RemindRx.ViewModels
 
         private async void OnAddItem(object obj)
         {
-            await Shell.Current.GoToAsync(nameof(NewItemPage));
+            await Shell.Current.GoToAsync(nameof(AddMedicationPage));
         }
 
         async void OnItemSelected(Item item)

@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemindRx.Android", "RemindR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemindRx.iOS", "RemindRx.iOS\RemindRx.iOS.csproj", "{57734723-BF45-468C-8F06-1630AFE072A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemindRx", "RemindRx\RemindRx.csproj", "{758F1143-9971-42BF-86C3-47A974266741}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemindRx", "RemindRx\RemindRx.csproj", "{758F1143-9971-42BF-86C3-47A974266741}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
