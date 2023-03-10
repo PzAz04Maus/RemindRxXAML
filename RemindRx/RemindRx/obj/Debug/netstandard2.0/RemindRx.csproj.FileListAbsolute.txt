@@ -30,7 +30,6 @@ C:\Users\Wolfl\Source\Repos\PzAz04Maus\RemindRxXAMLf\RemindRx\RemindRx\obj\Debug
 C:\Users\Wolfl\Source\Repos\PzAz04Maus\RemindRxXAMLf\RemindRx\RemindRx\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\Wolfl\Source\Repos\PzAz04Maus\RemindRxXAMLf\RemindRx\RemindRx\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
 C:\Users\Wolfl\Source\Repos\PzAz04Maus\RemindRxXAMLf\RemindRx\RemindRx\obj\Debug\netstandard2.0\CustomControls\MyButton.xaml.g.cs
-C:\Users\Wolfl\Source\Repos\PzAz04Maus\RemindRxXAMLf\RemindRx\RemindRx\obj\Debug\netstandard2.0\Page1.xaml.g.cs
 C:\Users\Wolfl\Source\Repos\PzAz04Maus\RemindRxXAMLf\RemindRx\RemindRx\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
 C:\Users\Wolfl\Source\Repos\PzAz04Maus\RemindRxXAMLf\RemindRx\RemindRx\obj\Debug\netstandard2.0\Views\AddAppointmentPage.xaml.g.cs
 C:\Users\Wolfl\Source\Repos\PzAz04Maus\RemindRxXAMLf\RemindRx\RemindRx\obj\Debug\netstandard2.0\Views\AddMedicationPage.xaml.g.cs
