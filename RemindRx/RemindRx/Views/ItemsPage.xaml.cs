@@ -1,14 +1,5 @@
-﻿using RemindRx.Models;
-using RemindRx.ViewModels;
-using RemindRx.Views;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using RemindRx.ViewModels;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 namespace RemindRx.Views
 {

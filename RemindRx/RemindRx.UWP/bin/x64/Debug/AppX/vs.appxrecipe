@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>NEBULA</Machine>
-    <WindowsUser>stephen.carter</WindowsUser>
+    <Machine>T92</Machine>
+    <WindowsUser>pzaz0</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=09081604-C620-4657-BDC9-56D5D3BD8432</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x64\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>881349E22E840D25EF9CB2EAC331801C23A652E631B55EC8D60514967D42C726</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\bin\x64\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>A5C9BFFC58FA09DD1B5EFC3BA9E2DEB693C90DE6D78234945DB68F5174F2B869</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>B5842A4C-E08C-4AB8-9543-EE97A1A973E6_1.0.0.0_x64__t3xsh3m9peyf8</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>B5842A4C-E08C-4AB8-9543-EE97A1A973E6_t3xsh3m9peyf8!App</RegisteredUserModeAppID>
     <RegisteredPackageID>B5842A4C-E08C-4AB8-9543-EE97A1A973E6</RegisteredPackageID>
@@ -27,374 +27,374 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-10T02:05:19.172</Modified>
+      <Modified>2023-03-10T16:30:57.967</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x64\Debug\RemindRx.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\bin\x64\Debug\RemindRx.UWP.exe">
       <PackagePath>entrypoint\RemindRx.UWP.exe</PackagePath>
-      <Modified>2023-03-10T02:05:17.993</Modified>
+      <Modified>2023-03-10T16:30:56.625</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\.nuget\packages\rg.plugins.popup\2.1.0\lib\netstandard2.0\Rg.Plugins.Popup.dll">
+    <AppxPackagedFile Include="C:\Users\pzaz0\.nuget\packages\rg.plugins.popup\2.1.0\lib\netstandard2.0\Rg.Plugins.Popup.dll">
       <PackagePath>Rg.Plugins.Popup.dll</PackagePath>
       <Modified>2022-01-30T14:53:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\.nuget\packages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\pzaz0\.nuget\packages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
       <Modified>2021-02-05T01:15:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\.nuget\packages\win2d.uwp\1.20.0\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
+    <AppxPackagedFile Include="C:\Users\pzaz0\.nuget\packages\win2d.uwp\1.20.0\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
       <Modified>2016-11-30T02:58:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\.nuget\packages\xamarin.essentials\1.7.0\lib\uap10.0.16299\Xamarin.Essentials.dll">
+    <AppxPackagedFile Include="C:\Users\pzaz0\.nuget\packages\xamarin.essentials\1.7.0\lib\uap10.0.16299\Xamarin.Essentials.dll">
       <PackagePath>Xamarin.Essentials.dll</PackagePath>
       <Modified>2021-07-13T15:07:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Core.dll">
+    <AppxPackagedFile Include="C:\Users\pzaz0\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
       <Modified>2021-10-14T09:54:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP.dll">
+    <AppxPackagedFile Include="C:\Users\pzaz0\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP.dll">
       <PackagePath>Xamarin.Forms.Platform.UAP.dll</PackagePath>
       <Modified>2021-10-14T09:54:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Platform.dll">
+    <AppxPackagedFile Include="C:\Users\pzaz0\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Platform.dll">
       <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
       <Modified>2021-10-14T09:55:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Xaml.dll">
+    <AppxPackagedFile Include="C:\Users\pzaz0\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2021-10-14T09:55:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx\bin\Debug\netstandard2.0\RemindRx.dll">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx\bin\Debug\netstandard2.0\RemindRx.dll">
       <PackagePath>RemindRx.dll</PackagePath>
-      <Modified>2023-03-10T02:05:11.962</Modified>
+      <Modified>2023-03-10T16:53:02.676</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
+    <AppxPackagedFile Include="C:\Users\pzaz0\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
       <Modified>2016-11-30T02:58:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.22000.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
-      <Modified>2020-12-02T11:52:00.000</Modified>
+      <Modified>2022-07-16T01:17:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\pzaz0\.nuget\packages\xamarin.forms\5.0.0.2196\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2021-10-14T09:49:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\clock.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\clock.png">
       <PackagePath>Assets\clock.png</PackagePath>
-      <Modified>2023-03-10T00:14:48.766</Modified>
+      <Modified>2023-03-10T03:39:08.786</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\pills.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\pills.png">
       <PackagePath>Assets\pills.png</PackagePath>
-      <Modified>2023-03-10T00:14:48.768</Modified>
+      <Modified>2023-03-10T03:39:08.786</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\clock.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\clock.png">
       <PackagePath>clock.png</PackagePath>
-      <Modified>2023-03-10T00:14:49.241</Modified>
+      <Modified>2023-03-10T03:39:08.982</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\gear.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\gear.png">
       <PackagePath>gear.png</PackagePath>
-      <Modified>2023-03-10T00:14:49.243</Modified>
+      <Modified>2023-03-10T03:39:08.982</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\home_icon.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\home_icon.png">
       <PackagePath>home_icon.png</PackagePath>
-      <Modified>2023-03-10T00:21:56.193</Modified>
+      <Modified>2023-03-10T03:39:08.982</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\phone.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\phone.png">
       <PackagePath>phone.png</PackagePath>
-      <Modified>2023-03-10T00:14:49.539</Modified>
+      <Modified>2023-03-10T03:39:09.045</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\pills.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\pills.png">
       <PackagePath>pills.png</PackagePath>
-      <Modified>2023-03-10T00:14:49.542</Modified>
+      <Modified>2023-03-10T03:39:09.046</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.574</Modified>
+      <Modified>2023-03-05T12:41:45.333</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.577</Modified>
+      <Modified>2023-03-05T12:41:45.334</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.579</Modified>
+      <Modified>2023-03-05T12:41:45.335</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.583</Modified>
+      <Modified>2023-03-05T12:41:45.335</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.586</Modified>
+      <Modified>2023-03-05T12:41:45.335</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.588</Modified>
+      <Modified>2023-03-05T12:41:45.336</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.592</Modified>
+      <Modified>2023-03-05T12:41:45.336</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.595</Modified>
+      <Modified>2023-03-05T12:41:45.337</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.598</Modified>
+      <Modified>2023-03-05T12:41:45.337</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.600</Modified>
+      <Modified>2023-03-05T12:41:45.338</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.602</Modified>
+      <Modified>2023-03-05T12:41:45.338</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.604</Modified>
+      <Modified>2023-03-05T12:41:45.339</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.607</Modified>
+      <Modified>2023-03-05T12:41:45.339</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.610</Modified>
+      <Modified>2023-03-05T12:41:45.340</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.613</Modified>
+      <Modified>2023-03-05T12:41:45.340</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.616</Modified>
+      <Modified>2023-03-05T12:41:45.341</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.619</Modified>
+      <Modified>2023-03-05T12:41:45.341</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.622</Modified>
+      <Modified>2023-03-05T12:41:45.342</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.626</Modified>
+      <Modified>2023-03-05T12:41:45.342</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.629</Modified>
+      <Modified>2023-03-05T12:41:45.343</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.631</Modified>
+      <Modified>2023-03-05T12:41:45.343</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.637</Modified>
+      <Modified>2023-03-05T12:41:45.344</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.640</Modified>
+      <Modified>2023-03-05T12:41:45.344</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.643</Modified>
+      <Modified>2023-03-05T12:41:45.345</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.645</Modified>
+      <Modified>2023-03-05T12:41:45.345</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.648</Modified>
+      <Modified>2023-03-05T12:41:45.345</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-09T23:19:57.650</Modified>
+      <Modified>2023-03-05T12:41:45.346</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\xamarin_logo.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\xamarin_logo.png">
       <PackagePath>xamarin_logo.png</PackagePath>
-      <Modified>2023-03-09T23:19:58.550</Modified>
+      <Modified>2023-03-05T12:41:45.667</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\icon_about.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\icon_about.png">
       <PackagePath>icon_about.png</PackagePath>
-      <Modified>2023-03-09T23:19:58.123</Modified>
+      <Modified>2023-03-05T12:41:45.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\icon_feed.png">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\icon_feed.png">
       <PackagePath>icon_feed.png</PackagePath>
-      <Modified>2023-03-09T23:19:58.126</Modified>
+      <Modified>2023-03-05T12:41:45.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2023-03-09T23:19:57.663</Modified>
+      <Modified>2023-03-05T12:41:45.349</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x64\Debug\RemindRx.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\bin\x64\Debug\RemindRx.UWP.xr.xml">
       <PackagePath>RemindRx.UWP.xr.xml</PackagePath>
-      <Modified>2023-03-10T00:14:49.338</Modified>
+      <Modified>2023-03-10T03:39:09.008</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2023-03-10T02:05:17.905</Modified>
+      <Modified>2023-03-10T16:30:56.551</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x64\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2023-03-10T02:05:17.905</Modified>
+      <Modified>2023-03-10T16:30:56.551</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\X64\ucrtbased.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22000.0\\redist\Debug\X64\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
-      <Modified>2020-12-02T12:31:00.000</Modified>
+      <Modified>2022-07-16T02:07:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22000.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2020-12-02T09:52:06.000</Modified>
+      <Modified>2022-07-16T05:53:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
+    <AppxPackagedFile Include="C:\Users\pzaz0\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
       <Modified>2020-07-10T00:07:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-10T01:41:50.037</Modified>
+      <Modified>2023-03-10T03:40:12.557</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\stephen.carter\source\repos\PzAz04Maus\RemindRxXAML\RemindRx\RemindRx.UWP\bin\x64\Debug\Core\RemindRx.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\bin\x64\Debug\Core\RemindRx.UWP.exe">
       <PackagePath>RemindRx.UWP.exe</PackagePath>
-      <Modified>2023-03-10T02:05:19.164</Modified>
+      <Modified>2023-03-10T16:30:57.961</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
-    <ResolvedSDKReference Include="C:\Users\stephen.carter\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx">
+    <ResolvedSDKReference Include="C:\Users\pzaz0\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx">
       <Name>Microsoft.UI.Xaml.2.4</Name>
       <Version>2.42007.9001.0</Version>
       <Architecture>x86</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\stephen.carter\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <AppxLocation>C:\Users\pzaz0\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\stephen.carter\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx">
+    <ResolvedSDKReference Include="C:\Users\pzaz0\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx">
       <Name>Microsoft.UI.Xaml.2.4</Name>
       <Version>2.42007.9001.0</Version>
       <Architecture>Win32</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\stephen.carter\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <AppxLocation>C:\Users\pzaz0\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\stephen.carter\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.4.appx">
+    <ResolvedSDKReference Include="C:\Users\pzaz0\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.4.appx">
       <Name>Microsoft.UI.Xaml.2.4</Name>
       <Version>2.42007.9001.0</Version>
       <Architecture>x64</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\stephen.carter\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <AppxLocation>C:\Users\pzaz0\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\stephen.carter\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.4.appx">
+    <ResolvedSDKReference Include="C:\Users\pzaz0\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.4.appx">
       <Name>Microsoft.UI.Xaml.2.4</Name>
       <Version>2.42007.9001.0</Version>
       <Architecture>arm</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\stephen.carter\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <AppxLocation>C:\Users\pzaz0\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\stephen.carter\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.4.appx">
+    <ResolvedSDKReference Include="C:\Users\pzaz0\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.4.appx">
       <Name>Microsoft.UI.Xaml.2.4</Name>
       <Version>2.42007.9001.0</Version>
       <Architecture>arm64</Architecture>
       <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.4, MinVersion = 2.42007.9001.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\stephen.carter\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
+      <AppxLocation>C:\Users\pzaz0\.nuget\packages\microsoft.ui.xaml\2.4.3\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.4.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\stephen.carter\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\pzaz0\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
       <Name>Microsoft.NET.CoreRuntime.2.2</Name>
       <Version>2.2.29713.2</Version>
       <Architecture>x86</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\stephen.carter\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\pzaz0\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\stephen.carter\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\pzaz0\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
       <Name>Microsoft.NET.CoreRuntime.2.2</Name>
       <Version>2.2.29713.2</Version>
       <Architecture>x64</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\stephen.carter\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\pzaz0\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\stephen.carter\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\pzaz0\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
       <Name>Microsoft.NET.CoreRuntime.2.2</Name>
       <Version>2.2.29713.2</Version>
       <Architecture>arm</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.29713.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\stephen.carter\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\pzaz0\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\stephen.carter\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\pzaz0\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
       <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
       <Version>2.2.29301.2</Version>
       <Architecture>x86</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\stephen.carter\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\pzaz0\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\stephen.carter\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\pzaz0\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
       <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
       <Version>2.2.29301.2</Version>
       <Architecture>x64</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\stephen.carter\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\pzaz0\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Users\stephen.carter\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+    <ResolvedSDKReference Include="C:\Users\pzaz0\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
       <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
       <Version>2.2.29301.2</Version>
       <Architecture>arm</Architecture>
       <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.29301.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Users\stephen.carter\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <AppxLocation>C:\Users\pzaz0\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.12\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
