@@ -13,6 +13,7 @@ namespace RemindRx.ViewModels
 
         public Command AddMedsCommand { get; }
         public Command AddApptCommand { get; }
+        public Command ContactsCommand { get; }
 
         public AboutViewModel()
         {
@@ -22,6 +23,7 @@ namespace RemindRx.ViewModels
 
             AddMedsCommand = new Command(MedBtnClicked);
             AddApptCommand = new Command(ApptBtnClicked);
+            ContactsCommand = new Command(ContactsBtnClicked);
         }
 
         public ICommand OpenWebCommand { get; }
@@ -39,6 +41,10 @@ namespace RemindRx.ViewModels
         private async void MedBtnClicked(object obj) //This is where we change the views that the Meds button changes
         {
             await Shell.Current.GoToAsync(nameof(AddMedicationPage));
+        }
+        private async void ContactsBtnClicked(object obj) //This is where we change the views that the Meds button changes
+        {
+            await Shell.Current.GoToAsync(nameof(ContactsPage));
         }
     }
 }

@@ -27,7 +27,7 @@
     <StackLayout Style="{StaticResource Background}">
 
         <controls:MyButton x:Name="EmConBtn" Style="{StaticResource Button}" Image="phone.png" Text="Emergency Contacts" 
-                               TextColor="#E6f6fc" FrameBackgroundColor="#84c4dc"/>
+                               TextColor="#E6f6fc" FrameBackgroundColor="#84c4dc" Command="{Binding ContactsCommand}"/>
         
             
         <controls:MyButton x:Name="newMedBtn" Style="{StaticResource Button}" Image="pills.png" Text="New Medication" 
@@ -36,9 +36,6 @@
                                TextColor="#E6f6fc" FrameBackgroundColor="#84c4dc" Command="{Binding AddApptCommand}"/>
 
 
-        <Label Text="Reminders"/>
-        
-        
     </StackLayout>
     
     
