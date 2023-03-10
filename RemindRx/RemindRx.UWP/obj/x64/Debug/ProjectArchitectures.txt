@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-C:\Users\pzaz0\source\repos\PzAz04Maus\XAMLProject5MAR23\RemindRx\RemindRx.UWP\RemindRx.UWP.csproj;x64
-=======
-C:\Users\Wolfl\Source\Repos\PzAz04Maus\RemindRxXAMLf\RemindRx\RemindRx.UWP\RemindRx.UWP.csproj;x64
->>>>>>> origin/kenny3
