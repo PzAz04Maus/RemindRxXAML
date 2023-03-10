@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "xu8wSM1hbjeQ/IxUkmIAei/3NY0MslLnuy+O4Uul/+G8+cr3PRt1dWFgxtT8gatpbyuvFFaUuqzRyhAyZ2qzhQ==",
+  "dgSpecHash": "go+sFDSC2mRGcWCsEh+fUmi8+yvms+EyQL3QZ0koPf+9gVCQYX7wXtUY7VEOY5KBzWIh2djaxeeEpUy37cY0uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stephen.carter\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj",
+  "projectFilePath": "C:\\Users\\pzaz0\\source\\repos\\PzAz04Maus\\XAMLProject5MAR23\\RemindRx\\RemindRx\\RemindRx.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\stephen.carter\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\stephen.carter\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\stephen.carter\\.nuget\\packages\\rg.plugins.popup\\2.1.0\\rg.plugins.popup.2.1.0.nupkg.sha512",
-    "C:\\Users\\stephen.carter\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\stephen.carter\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\stephen.carter\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\pzaz0\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pzaz0\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pzaz0\\.nuget\\packages\\rg.plugins.popup\\2.1.0\\rg.plugins.popup.2.1.0.nupkg.sha512",
+    "C:\\Users\\pzaz0\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\pzaz0\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\pzaz0\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }
