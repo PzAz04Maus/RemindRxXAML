@@ -11,7 +11,7 @@ namespace RemindRx.ViewModels
     public class BaseViewModel : INotifyPropertyChanged
     {
         public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>();
-        public IDataStore<EContact> DataStoreContact => DependencyService.Get<IDataStore<EContact>>();
+        public MockDataStoreContact DataStoreContact => DependencyService.Get<MockDataStoreContact>();
 
         bool isBusy = false;
         public bool IsBusy
