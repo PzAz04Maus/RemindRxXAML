@@ -14,6 +14,7 @@ namespace RemindRx
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
+            DependencyService.Register<MockDataStoreContact>();
             MainPage = new AppShell();
         }
 

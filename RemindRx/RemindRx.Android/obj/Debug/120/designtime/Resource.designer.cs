@@ -14,7 +14,7 @@ namespace RemindRx.Droid
 {
 	
 	
-	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "13.2.0.93")]
+	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "13.1.0.5")]
 	public partial class Resource
 	{
 		
@@ -19944,120 +19944,159 @@ namespace RemindRx.Droid
 			
 			// aapt resource value: 0x7F07001E
 			public const int abc_ic_menu_selectall_mtrl_alpha = 2131165214;
+			public const int abc_ab_share_pack_mtrl_alpha = 2131165214;
 			
 			// aapt resource value: 0x7F07001F
 			public const int abc_ic_menu_share_mtrl_alpha = 2131165215;
+			public const int abc_action_bar_item_background_material = 2131165215;
 			
 			// aapt resource value: 0x7F070020
 			public const int abc_ic_search_api_material = 2131165216;
+			public const int abc_btn_borderless_material = 2131165216;
 			
 			// aapt resource value: 0x7F070021
 			public const int abc_ic_voice_search_api_material = 2131165217;
+			public const int abc_btn_check_material = 2131165217;
 			
 			// aapt resource value: 0x7F070022
 			public const int abc_item_background_holo_dark = 2131165218;
+			public const int abc_btn_check_material_anim = 2131165218;
 			
 			// aapt resource value: 0x7F070023
 			public const int abc_item_background_holo_light = 2131165219;
+			public const int abc_btn_check_to_on_mtrl_000 = 2131165219;
 			
 			// aapt resource value: 0x7F070024
 			public const int abc_list_divider_material = 2131165220;
+			public const int abc_btn_check_to_on_mtrl_015 = 2131165220;
 			
 			// aapt resource value: 0x7F070025
 			public const int abc_list_divider_mtrl_alpha = 2131165221;
+			public const int abc_btn_colored_material = 2131165221;
 			
 			// aapt resource value: 0x7F070026
 			public const int abc_list_focused_holo = 2131165222;
+			public const int abc_btn_default_mtrl_shape = 2131165222;
 			
 			// aapt resource value: 0x7F070027
 			public const int abc_list_longpressed_holo = 2131165223;
+			public const int abc_btn_radio_material = 2131165223;
 			
 			// aapt resource value: 0x7F070028
 			public const int abc_list_pressed_holo_dark = 2131165224;
+			public const int abc_btn_radio_material_anim = 2131165224;
 			
 			// aapt resource value: 0x7F070029
 			public const int abc_list_pressed_holo_light = 2131165225;
+			public const int abc_btn_radio_to_on_mtrl_000 = 2131165225;
 			
 			// aapt resource value: 0x7F07002A
 			public const int abc_list_selector_background_transition_holo_dark = 2131165226;
+			public const int abc_btn_radio_to_on_mtrl_015 = 2131165226;
 			
 			// aapt resource value: 0x7F07002B
 			public const int abc_list_selector_background_transition_holo_light = 2131165227;
+			public const int abc_btn_switch_to_on_mtrl_00001 = 2131165227;
 			
 			// aapt resource value: 0x7F07002C
 			public const int abc_list_selector_disabled_holo_dark = 2131165228;
+			public const int abc_btn_switch_to_on_mtrl_00012 = 2131165228;
 			
 			// aapt resource value: 0x7F07002D
 			public const int abc_list_selector_disabled_holo_light = 2131165229;
+			public const int abc_cab_background_internal_bg = 2131165229;
 			
 			// aapt resource value: 0x7F07002E
 			public const int abc_list_selector_holo_dark = 2131165230;
+			public const int abc_cab_background_top_material = 2131165230;
 			
 			// aapt resource value: 0x7F07002F
 			public const int abc_list_selector_holo_light = 2131165231;
+			public const int abc_cab_background_top_mtrl_alpha = 2131165231;
 			
 			// aapt resource value: 0x7F070030
 			public const int abc_menu_hardkey_panel_mtrl_mult = 2131165232;
+			public const int abc_control_background_material = 2131165232;
 			
 			// aapt resource value: 0x7F070031
 			public const int abc_popup_background_mtrl_mult = 2131165233;
+			public const int abc_dialog_material_background = 2131165233;
 			
 			// aapt resource value: 0x7F070032
 			public const int abc_ratingbar_indicator_material = 2131165234;
+			public const int abc_edit_text_material = 2131165234;
 			
 			// aapt resource value: 0x7F070033
 			public const int abc_ratingbar_material = 2131165235;
+			public const int abc_ic_ab_back_material = 2131165235;
 			
 			// aapt resource value: 0x7F070034
 			public const int abc_ratingbar_small_material = 2131165236;
+			public const int abc_ic_arrow_drop_right_black_24dp = 2131165236;
 			
 			// aapt resource value: 0x7F070035
 			public const int abc_scrubber_control_off_mtrl_alpha = 2131165237;
+			public const int abc_ic_clear_material = 2131165237;
 			
 			// aapt resource value: 0x7F070036
 			public const int abc_scrubber_control_to_pressed_mtrl_000 = 2131165238;
+			public const int abc_ic_commit_search_api_mtrl_alpha = 2131165238;
 			
 			// aapt resource value: 0x7F070037
 			public const int abc_scrubber_control_to_pressed_mtrl_005 = 2131165239;
+			public const int abc_ic_go_search_api_material = 2131165239;
 			
 			// aapt resource value: 0x7F070038
 			public const int abc_scrubber_primary_mtrl_alpha = 2131165240;
+			public const int abc_ic_menu_copy_mtrl_am_alpha = 2131165240;
 			
 			// aapt resource value: 0x7F070039
 			public const int abc_scrubber_track_mtrl_alpha = 2131165241;
+			public const int abc_ic_menu_cut_mtrl_alpha = 2131165241;
 			
 			// aapt resource value: 0x7F07003A
 			public const int abc_seekbar_thumb_material = 2131165242;
+			public const int abc_ic_menu_overflow_material = 2131165242;
 			
 			// aapt resource value: 0x7F07003B
 			public const int abc_seekbar_tick_mark_material = 2131165243;
+			public const int abc_ic_menu_paste_mtrl_am_alpha = 2131165243;
 			
 			// aapt resource value: 0x7F07003C
 			public const int abc_seekbar_track_material = 2131165244;
+			public const int abc_ic_menu_selectall_mtrl_alpha = 2131165244;
 			
 			// aapt resource value: 0x7F07003D
 			public const int abc_spinner_mtrl_am_alpha = 2131165245;
+			public const int abc_ic_menu_share_mtrl_alpha = 2131165245;
 			
 			// aapt resource value: 0x7F07003E
 			public const int abc_spinner_textfield_background_material = 2131165246;
+			public const int abc_ic_search_api_material = 2131165246;
 			
 			// aapt resource value: 0x7F07003F
 			public const int abc_star_black_48dp = 2131165247;
+			public const int abc_ic_voice_search_api_material = 2131165247;
 			
 			// aapt resource value: 0x7F070040
 			public const int abc_star_half_black_48dp = 2131165248;
+			public const int abc_item_background_holo_dark = 2131165248;
 			
 			// aapt resource value: 0x7F070041
 			public const int abc_switch_thumb_material = 2131165249;
+			public const int abc_item_background_holo_light = 2131165249;
 			
 			// aapt resource value: 0x7F070042
 			public const int abc_switch_track_mtrl_alpha = 2131165250;
+			public const int abc_list_divider_material = 2131165250;
 			
 			// aapt resource value: 0x7F070043
 			public const int abc_tab_indicator_material = 2131165251;
+			public const int abc_list_divider_mtrl_alpha = 2131165251;
 			
 			// aapt resource value: 0x7F070044
 			public const int abc_tab_indicator_mtrl_alpha = 2131165252;
+			public const int abc_list_focused_holo = 2131165252;
 			
 			// aapt resource value: 0x7F070049
 			public const int abc_textfield_activated_mtrl_alpha = 2131165257;
@@ -20076,69 +20115,92 @@ namespace RemindRx.Droid
 			
 			// aapt resource value: 0x7F070045
 			public const int abc_text_cursor_material = 2131165253;
+			public const int abc_list_longpressed_holo = 2131165253;
 			
 			// aapt resource value: 0x7F070046
 			public const int abc_text_select_handle_left_mtrl = 2131165254;
+			public const int abc_list_pressed_holo_dark = 2131165254;
 			
 			// aapt resource value: 0x7F070047
 			public const int abc_text_select_handle_middle_mtrl = 2131165255;
+			public const int abc_list_pressed_holo_light = 2131165255;
 			
 			// aapt resource value: 0x7F070048
 			public const int abc_text_select_handle_right_mtrl = 2131165256;
+			public const int abc_list_selector_background_transition_holo_dark = 2131165256;
 			
 			// aapt resource value: 0x7F07004E
 			public const int abc_vector_test = 2131165262;
+			// aapt resource value: 0x7F070049
+			public const int abc_list_selector_background_transition_holo_light = 2131165257;
 			
 			// aapt resource value: 0x7F07004F
 			public const int avd_hide_password = 2131165263;
+			public const int abc_popup_background_mtrl_mult = 2131165263;
 			
 			// aapt resource value: 0x7F070050
 			public const int avd_show_password = 2131165264;
+			public const int abc_ratingbar_indicator_material = 2131165264;
 			
 			// aapt resource value: 0x7F070051
 			public const int btn_checkbox_checked_mtrl = 2131165265;
+			public const int abc_ratingbar_material = 2131165265;
 			
 			// aapt resource value: 0x7F070052
 			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165266;
+			public const int abc_ratingbar_small_material = 2131165266;
 			
 			// aapt resource value: 0x7F070053
 			public const int btn_checkbox_unchecked_mtrl = 2131165267;
+			public const int abc_scrubber_control_off_mtrl_alpha = 2131165267;
 			
 			// aapt resource value: 0x7F070054
 			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165268;
+			public const int abc_scrubber_control_to_pressed_mtrl_000 = 2131165268;
 			
 			// aapt resource value: 0x7F070055
 			public const int btn_radio_off_mtrl = 2131165269;
+			public const int abc_scrubber_control_to_pressed_mtrl_005 = 2131165269;
 			
 			// aapt resource value: 0x7F070056
 			public const int btn_radio_off_to_on_mtrl_animation = 2131165270;
+			public const int abc_scrubber_primary_mtrl_alpha = 2131165270;
 			
 			// aapt resource value: 0x7F070057
 			public const int btn_radio_on_mtrl = 2131165271;
+			public const int abc_scrubber_track_mtrl_alpha = 2131165271;
 			
 			// aapt resource value: 0x7F070058
 			public const int btn_radio_on_to_off_mtrl_animation = 2131165272;
+			public const int abc_seekbar_thumb_material = 2131165272;
 			
 			// aapt resource value: 0x7F070059
 			public const int clock = 2131165273;
+			public const int abc_seekbar_tick_mark_material = 2131165273;
 			
 			// aapt resource value: 0x7F07005A
 			public const int design_fab_background = 2131165274;
+			public const int abc_seekbar_track_material = 2131165274;
 			
 			// aapt resource value: 0x7F07005B
 			public const int design_ic_visibility = 2131165275;
+			public const int abc_spinner_mtrl_am_alpha = 2131165275;
 			
 			// aapt resource value: 0x7F07005C
 			public const int design_ic_visibility_off = 2131165276;
+			public const int abc_spinner_textfield_background_material = 2131165276;
 			
 			// aapt resource value: 0x7F07005D
 			public const int design_password_eye = 2131165277;
+			public const int abc_star_black_48dp = 2131165277;
 			
 			// aapt resource value: 0x7F07005E
 			public const int design_snackbar_background = 2131165278;
+			public const int abc_star_half_black_48dp = 2131165278;
 			
 			// aapt resource value: 0x7F07005F
 			public const int gear = 2131165279;
+			public const int abc_switch_thumb_material = 2131165279;
 			
 			// aapt resource value: 0x7F070067
 			public const int icon_about = 2131165287;
@@ -20148,36 +20210,79 @@ namespace RemindRx.Droid
 			
 			// aapt resource value: 0x7F070060
 			public const int ic_arrow_down_24dp = 2131165280;
+			public const int abc_switch_track_mtrl_alpha = 2131165280;
 			
 			// aapt resource value: 0x7F070061
 			public const int ic_clock_black_24dp = 2131165281;
+			public const int abc_tab_indicator_material = 2131165281;
 			
 			// aapt resource value: 0x7F070062
 			public const int ic_keyboard_black_24dp = 2131165282;
+			public const int abc_tab_indicator_mtrl_alpha = 2131165282;
+			
+			// aapt resource value: 0x7F070067
+			public const int abc_textfield_activated_mtrl_alpha = 2131165287;
+			
+			// aapt resource value: 0x7F070068
+			public const int abc_textfield_default_mtrl_alpha = 2131165288;
+			
+			// aapt resource value: 0x7F070069
+			public const int abc_textfield_search_activated_mtrl_alpha = 2131165289;
+			
+			// aapt resource value: 0x7F07006A
+			public const int abc_textfield_search_default_mtrl_alpha = 2131165290;
+			
+			// aapt resource value: 0x7F07006B
+			public const int abc_textfield_search_material = 2131165291;
 			
 			// aapt resource value: 0x7F070063
 			public const int ic_mtrl_checked_circle = 2131165283;
+			public const int abc_text_cursor_material = 2131165283;
 			
 			// aapt resource value: 0x7F070064
 			public const int ic_mtrl_chip_checked_black = 2131165284;
+			public const int abc_text_select_handle_left_mtrl = 2131165284;
 			
 			// aapt resource value: 0x7F070065
 			public const int ic_mtrl_chip_checked_circle = 2131165285;
+			public const int abc_text_select_handle_middle_mtrl = 2131165285;
 			
 			// aapt resource value: 0x7F070066
 			public const int ic_mtrl_chip_close_circle = 2131165286;
+			// aapt resource value: 0x7F070066
+			public const int abc_text_select_handle_right_mtrl = 2131165286;
+			
+			// aapt resource value: 0x7F07006C
+			public const int abc_vector_test = 2131165292;
+			
+			// aapt resource value: 0x7F070000
+			public const int Avatar1 = 2131165184;
 			
 			// aapt resource value: 0x7F070069
 			public const int material_cursor_drawable = 2131165289;
+			// aapt resource value: 0x7F070001
+			public const int Avatar10 = 2131165185;
+			
+			// aapt resource value: 0x7F070002
+			public const int Avatar11 = 2131165186;
+			
+			// aapt resource value: 0x7F070003
+			public const int Avatar12 = 2131165187;
 			
 			// aapt resource value: 0x7F07006A
 			public const int material_ic_calendar_black_24dp = 2131165290;
+			// aapt resource value: 0x7F070004
+			public const int Avatar13 = 2131165188;
 			
 			// aapt resource value: 0x7F07006B
 			public const int material_ic_clear_black_24dp = 2131165291;
+			// aapt resource value: 0x7F070005
+			public const int Avatar14 = 2131165189;
 			
 			// aapt resource value: 0x7F07006C
 			public const int material_ic_edit_black_24dp = 2131165292;
+			// aapt resource value: 0x7F070006
+			public const int Avatar15 = 2131165190;
 			
 			// aapt resource value: 0x7F07006D
 			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165293;
@@ -20185,74 +20290,178 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F07006E
 			public const int material_ic_keyboard_arrow_next_black_24dp = 2131165294;
 			
+			// aapt resource value: 0x7F070007
+			public const int Avatar16 = 2131165191;
+			
+			// aapt resource value: 0x7F070008
+			public const int Avatar17 = 2131165192;
+			
+			// aapt resource value: 0x7F070009
+			public const int Avatar18 = 2131165193;
+			
+			// aapt resource value: 0x7F07000A
+			public const int Avatar19 = 2131165194;
+			
+			// aapt resource value: 0x7F07000B
+			public const int Avatar2 = 2131165195;
+			
+			// aapt resource value: 0x7F07000C
+			public const int Avatar20 = 2131165196;
+			
+			// aapt resource value: 0x7F07000D
+			public const int Avatar21 = 2131165197;
+			
+			// aapt resource value: 0x7F07000E
+			public const int Avatar22 = 2131165198;
+			
+			// aapt resource value: 0x7F07000F
+			public const int Avatar23 = 2131165199;
+			
+			// aapt resource value: 0x7F070010
+			public const int Avatar24 = 2131165200;
+			
+			// aapt resource value: 0x7F070011
+			public const int Avatar25 = 2131165201;
+			
+			// aapt resource value: 0x7F070012
+			public const int Avatar26 = 2131165202;
+			
+			// aapt resource value: 0x7F070013
+			public const int Avatar27 = 2131165203;
+			
+			// aapt resource value: 0x7F070014
+			public const int Avatar28 = 2131165204;
+			
+			// aapt resource value: 0x7F070015
+			public const int Avatar29 = 2131165205;
+			
+			// aapt resource value: 0x7F070016
+			public const int Avatar3 = 2131165206;
+			
+			// aapt resource value: 0x7F070017
+			public const int Avatar30 = 2131165207;
+			
+			// aapt resource value: 0x7F070018
+			public const int Avatar4 = 2131165208;
+			
+			// aapt resource value: 0x7F070019
+			public const int Avatar5 = 2131165209;
+			
+			// aapt resource value: 0x7F07001A
+			public const int Avatar6 = 2131165210;
+			
+			// aapt resource value: 0x7F07001B
+			public const int Avatar7 = 2131165211;
+			
+			// aapt resource value: 0x7F07001C
+			public const int Avatar8 = 2131165212;
+			
+			// aapt resource value: 0x7F07001D
+			public const int Avatar9 = 2131165213;
+			
+			// aapt resource value: 0x7F07006D
+			public const int avd_hide_password = 2131165293;
+			
+			// aapt resource value: 0x7F07006E
+			public const int avd_show_password = 2131165294;
+			
 			// aapt resource value: 0x7F07006F
 			public const int material_ic_keyboard_arrow_previous_black_24dp = 2131165295;
+			public const int btn_checkbox_checked_mtrl = 2131165295;
 			
 			// aapt resource value: 0x7F070070
 			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165296;
+			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165296;
 			
 			// aapt resource value: 0x7F070071
 			public const int material_ic_menu_arrow_down_black_24dp = 2131165297;
+			public const int btn_checkbox_unchecked_mtrl = 2131165297;
 			
 			// aapt resource value: 0x7F070072
 			public const int material_ic_menu_arrow_up_black_24dp = 2131165298;
+			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165298;
 			
 			// aapt resource value: 0x7F070073
 			public const int mtrl_dialog_background = 2131165299;
+			public const int btn_radio_off_mtrl = 2131165299;
 			
 			// aapt resource value: 0x7F070074
 			public const int mtrl_dropdown_arrow = 2131165300;
+			public const int btn_radio_off_to_on_mtrl_animation = 2131165300;
 			
 			// aapt resource value: 0x7F070075
 			public const int mtrl_ic_arrow_drop_down = 2131165301;
+			public const int btn_radio_on_mtrl = 2131165301;
 			
 			// aapt resource value: 0x7F070076
 			public const int mtrl_ic_arrow_drop_up = 2131165302;
+			public const int btn_radio_on_to_off_mtrl_animation = 2131165302;
 			
 			// aapt resource value: 0x7F070077
 			public const int mtrl_ic_cancel = 2131165303;
+			public const int clear_button_icon = 2131165303;
 			
 			// aapt resource value: 0x7F070078
 			public const int mtrl_ic_error = 2131165304;
+			public const int clock = 2131165304;
 			
 			// aapt resource value: 0x7F070079
 			public const int mtrl_navigation_bar_item_background = 2131165305;
+			public const int design_fab_background = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
 			public const int mtrl_popupmenu_background = 2131165306;
+			public const int design_ic_visibility = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
 			public const int mtrl_popupmenu_background_dark = 2131165307;
+			public const int design_ic_visibility_off = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
 			public const int mtrl_tabs_default_indicator = 2131165308;
+			public const int design_password_eye = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
 			public const int navigation_empty_icon = 2131165309;
+			public const int design_snackbar_background = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
 			public const int notification_action_background = 2131165310;
+			public const int gear = 2131165310;
+			
+			// aapt resource value: 0x7F070086
+			public const int icon_about = 2131165318;
+			
+			// aapt resource value: 0x7F070087
+			public const int icon_feed = 2131165319;
 			
 			// aapt resource value: 0x7F07007F
 			public const int notification_bg = 2131165311;
+			public const int ic_arrow_down_24dp = 2131165311;
 			
 			// aapt resource value: 0x7F070080
 			public const int notification_bg_low = 2131165312;
+			public const int ic_clock_black_24dp = 2131165312;
 			
 			// aapt resource value: 0x7F070081
 			public const int notification_bg_low_normal = 2131165313;
+			public const int ic_keyboard_black_24dp = 2131165313;
 			
 			// aapt resource value: 0x7F070082
 			public const int notification_bg_low_pressed = 2131165314;
+			public const int ic_mtrl_checked_circle = 2131165314;
 			
 			// aapt resource value: 0x7F070083
 			public const int notification_bg_normal = 2131165315;
+			public const int ic_mtrl_chip_checked_black = 2131165315;
 			
 			// aapt resource value: 0x7F070084
 			public const int notification_bg_normal_pressed = 2131165316;
+			public const int ic_mtrl_chip_checked_circle = 2131165316;
 			
 			// aapt resource value: 0x7F070085
 			public const int notification_icon_background = 2131165317;
+			public const int ic_mtrl_chip_close_circle = 2131165317;
 			
 			// aapt resource value: 0x7F070086
 			public const int notification_template_icon_bg = 2131165318;
@@ -20265,27 +20474,38 @@ namespace RemindRx.Droid
 			
 			// aapt resource value: 0x7F070089
 			public const int notify_panel_notification_icon_bg = 2131165321;
+			public const int inputlayout_togglecollapseicon = 2131165321;
 			
 			// aapt resource value: 0x7F07008A
 			public const int phone = 2131165322;
+			public const int inputlayout_togglevisibleicon = 2131165322;
+			
+			// aapt resource value: 0x7F070088
+			public const int input_layout_drop_down_icon = 2131165320;
 			
 			// aapt resource value: 0x7F07008B
 			public const int pills = 2131165323;
+			public const int material_cursor_drawable = 2131165323;
 			
 			// aapt resource value: 0x7F07008C
 			public const int preference_list_divider_material = 2131165324;
+			public const int material_ic_calendar_black_24dp = 2131165324;
 			
 			// aapt resource value: 0x7F07008D
 			public const int test_custom_background = 2131165325;
+			public const int material_ic_clear_black_24dp = 2131165325;
 			
 			// aapt resource value: 0x7F07008E
 			public const int tooltip_frame_dark = 2131165326;
+			public const int material_ic_edit_black_24dp = 2131165326;
 			
 			// aapt resource value: 0x7F07008F
 			public const int tooltip_frame_light = 2131165327;
+			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165327;
 			
 			// aapt resource value: 0x7F070090
 			public const int xamarin_logo = 2131165328;
+			public const int material_ic_keyboard_arrow_next_black_24dp = 2131165328;
 			
 			static Drawable()
 			{
@@ -20561,11 +20781,23 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F080065
 			public const int bottom = 2131230821;
 			
+			public const int bottom = 2131230821;
+			
 			// aapt resource value: 0x7F080066
 			public const int bottomtab_navarea = 2131230822;
 			
 			// aapt resource value: 0x7F080067
 			public const int bottomtab_tabbar = 2131230823;
+			public const int bottomtab_tabbar = 2131230823;
+			
+			// aapt resource value: 0x7F080003
+			public const int BOTTOM_END = 2131230723;
+			
+			// aapt resource value: 0x7F080004
+			public const int BOTTOM_START = 2131230724;
+			
+			// aapt resource value: 0x7F080068
+			public const int bounce = 2131230824;
 			
 			// aapt resource value: 0x7F080003
 			public const int BOTTOM_END = 2131230723;
@@ -20587,6 +20819,10 @@ namespace RemindRx.Droid
 			
 			// aapt resource value: 0x7F08006C
 			public const int browser_actions_header_text = 2131230828;
+			public const int browser_actions_header_text = 2131230828;
+			
+			// aapt resource value: 0x7F08006F
+			public const int browser_actions_menu_items = 2131230831;
 			
 			// aapt resource value: 0x7F08006F
 			public const int browser_actions_menu_items = 2131230831;
@@ -20595,6 +20831,8 @@ namespace RemindRx.Droid
 			public const int browser_actions_menu_item_icon = 2131230829;
 			
 			// aapt resource value: 0x7F08006E
+			public const int browser_actions_menu_item_text = 2131230830;
+			
 			public const int browser_actions_menu_item_text = 2131230830;
 			
 			// aapt resource value: 0x7F080070
@@ -20684,6 +20922,8 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F08008C
 			public const int collapseActionView = 2131230860;
 			
+			public const int collapseActionView = 2131230860;
+			
 			// aapt resource value: 0x7F08008D
 			public const int confirm_button = 2131230861;
 			
@@ -20716,12 +20956,20 @@ namespace RemindRx.Droid
 			
 			// aapt resource value: 0x7F080097
 			public const int counterclockwise = 2131230871;
+			public const int counterclockwise = 2131230871;
+			
+			// aapt resource value: 0x7F080005
+			public const int CTRL = 2131230725;
 			
 			// aapt resource value: 0x7F080005
 			public const int CTRL = 2131230725;
 			
 			// aapt resource value: 0x7F080098
 			public const int currentState = 2131230872;
+			public const int currentState = 2131230872;
+			
+			// aapt resource value: 0x7F080006
+			public const int CURRENT_ITEMS = 2131230726;
 			
 			// aapt resource value: 0x7F080006
 			public const int CURRENT_ITEMS = 2131230726;
@@ -21620,6 +21868,8 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F0801BA
 			public const int summary = 2131231162;
 			
+			public const int summary = 2131231162;
+			
 			// aapt resource value: 0x7F0801BB
 			public const int supportScrollUp = 2131231163;
 			
@@ -21627,6 +21877,10 @@ namespace RemindRx.Droid
 			public const int switchWidget = 2131231164;
 			
 			// aapt resource value: 0x7F0801BD
+			public const int switch_widget = 2131231165;
+			
+			// aapt resource value: 0x7F08000F
+			public const int SYM = 2131230735;
 			public const int switch_widget = 2131231165;
 			
 			// aapt resource value: 0x7F08000F
@@ -21642,6 +21896,25 @@ namespace RemindRx.Droid
 			public const int tag_accessibility_clickable_spans = 2131231168;
 			
 			// aapt resource value: 0x7F0801C1
+			public const int tag_accessibility_heading = 2131231169;
+			
+			// aapt resource value: 0x7F0801C2
+			public const int tag_accessibility_pane_title = 2131231170;
+			
+			// aapt resource value: 0x7F0801C3
+			public const int tag_on_apply_window_listener = 2131231171;
+			
+			// aapt resource value: 0x7F0801C4
+			public const int tag_on_receive_content_listener = 2131231172;
+			
+			// aapt resource value: 0x7F0801C5
+			public const int tag_on_receive_content_mime_types = 2131231173;
+			
+			// aapt resource value: 0x7F0801C6
+			public const int tag_screen_reader_focusable = 2131231174;
+			
+			// aapt resource value: 0x7F0801C7
+			public const int tag_state_description = 2131231175;
 			public const int tag_accessibility_heading = 2131231169;
 			
 			// aapt resource value: 0x7F0801C2
@@ -21686,6 +21959,8 @@ namespace RemindRx.Droid
 			// aapt resource value: 0x7F0801CF
 			public const int test_radiobutton_app_button_tint = 2131231183;
 			
+			public const int test_radiobutton_app_button_tint = 2131231183;
+			
 			// aapt resource value: 0x7F0801D0
 			public const int text = 2131231184;
 			
@@ -21697,6 +21972,25 @@ namespace RemindRx.Droid
 			
 			// aapt resource value: 0x7F0801D3
 			public const int textEnd = 2131231187;
+			
+			// aapt resource value: 0x7F0801DB
+			public const int textinput_counter = 2131231195;
+			
+			// aapt resource value: 0x7F0801DC
+			public const int textinput_error = 2131231196;
+			
+			// aapt resource value: 0x7F0801DD
+			public const int textinput_helper_text = 2131231197;
+			public const int textEnd = 2131231187;
+			
+			// aapt resource value: 0x7F0801DE
+			public const int textinput_placeholder = 2131231198;
+			
+			// aapt resource value: 0x7F0801DF
+			public const int textinput_prefix_text = 2131231199;
+			
+			// aapt resource value: 0x7F0801E0
+			public const int textinput_suffix_text = 2131231200;
 			
 			// aapt resource value: 0x7F0801DB
 			public const int textinput_counter = 2131231195;
@@ -23300,6 +23594,13 @@ namespace RemindRx.Droid
 			
 			// aapt resource value: 0x7F0F0089
 			public const int Base_V21_Theme_MaterialComponents_Dialog = 2131689609;
+			public const int Base_V21_Theme_MaterialComponents_Dialog = 2131689609;
+			
+			// aapt resource value: 0x7F0F008A
+			public const int Base_V21_Theme_MaterialComponents_Light = 2131689610;
+			
+			// aapt resource value: 0x7F0F008B
+			public const int Base_V21_Theme_MaterialComponents_Light_Dialog = 2131689611;
 			
 			// aapt resource value: 0x7F0F008A
 			public const int Base_V21_Theme_MaterialComponents_Light = 2131689610;
@@ -23345,6 +23646,10 @@ namespace RemindRx.Droid
 			
 			// aapt resource value: 0x7F0F0098
 			public const int Base_V7_Theme_AppCompat_Light = 2131689624;
+			public const int Base_V7_Theme_AppCompat_Light = 2131689624;
+			
+			// aapt resource value: 0x7F0F0099
+			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2131689625;
 			
 			// aapt resource value: 0x7F0F0099
 			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2131689625;

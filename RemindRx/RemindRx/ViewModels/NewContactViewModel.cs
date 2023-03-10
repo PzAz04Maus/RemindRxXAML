@@ -1,17 +1,19 @@
 ﻿using RemindRx.Models;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Text;
 using System.Windows.Input;
 using Xamarin.Forms;
 
 namespace RemindRx.ViewModels
 {
+    [QueryProperty(nameof(tod), nameof(tod))]
     public class NewContactViewModel : BaseViewModel
     {
+        private string tod;
         private string text;
         private string description;
-        private string tod;
         private string date;
 
         public NewContactViewModel()
@@ -53,6 +55,21 @@ namespace RemindRx.ViewModels
         {
             // This will pop the current page off the navigation stack
             await Shell.Current.GoToAsync("..");
+        }
+
+        public async void LoadItemId(string id)
+        {
+            try
+            {
+                var item = await DataStore.GetItemAsync(tod);
+                ToD = item.ToD;
+                Text = item.Text;
+                Description = item.Description;
+            }
+            catch(Exception ex)
+            {
+                Debug.WriteLine("Failed to load contact, {0}", ex);
+            }
         }
 
         private async void OnSave()
