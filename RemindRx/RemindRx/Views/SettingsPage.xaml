@@ -26,7 +26,7 @@
                     <ColumnDefinition Width="1*"/>
                 </Grid.ColumnDefinitions>
                 <Label Text="Theme: " FontSize="Large" Grid.Column="1" HorizontalOptions="End"/>
-                <Picker BackgroundColor="White" x:Name="themes" Grid.Column="2"/>
+                <Picker BackgroundColor="White" x:Name="themes" Grid.Column="2" />
             </Grid>
             <Grid>
                 <Grid.ColumnDefinitions>

@@ -1,13 +1,11 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\RemindRx",
-    "\\RemindRx\\RemindRx",
-    "\\RemindRx\\RemindRx.Android",
-    "\\RemindRx\\RemindRx.iOS",
-    "\\RemindRx\\RemindRx.UWP",
-    "\\RemindRx\\RemindRx\\Views"
+    ""
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\RemindRx\\RemindRx\\Views\\AboutPage.xaml",
+=======
+  "SelectedNode": "\\RemindRx.sln",
+>>>>>>> origin/kenny3
   "PreviewInSolutionExplorer": false
 }

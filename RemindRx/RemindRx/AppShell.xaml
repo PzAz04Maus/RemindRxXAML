@@ -4,6 +4,7 @@
        xmlns:local="clr-namespace:RemindRx.Views"
        Title="RemindRx"
        x:Class="RemindRx.AppShell">
+       
 
     <!--
         The overall app visual hierarchy is defined here, along with navigation.
@@ -13,7 +14,7 @@
 
     <Shell.Resources>
         <ResourceDictionary>
-            <Style x:Key="BaseStyle" TargetType="Element">
+            <Style x:Key="BaseStyle" TargetType="Element" x:Name="Styles">
                 <Setter Property="Shell.BackgroundColor" Value="{StaticResource Primary}" />
                 <Setter Property="Shell.ForegroundColor" Value="White" />
                 <Setter Property="Shell.TitleColor" Value="{StaticResource Pale}" />
