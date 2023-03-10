@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RemindRx.Views.NewContactPage">
+    <ContentPage.Content>
+        <StackLayout Spacing="3" Padding="15">
+
+            <Label Text="Contact Name" FontSize="Medium" TextColor="Black" />
+            <Entry Placeholder="Ex. John" Text="{Binding Text, Mode=TwoWay}" FontSize="Medium" />
+
+            <Label Text="Relation" FontSize="Medium" TextColor="Black"></Label>
+            <Entry Placeholder="Ex. Father, Son, etc" Text="{Binding Description, Mode=TwoWay}" FontSize="Medium"></Entry>
+
+            <Label Text="Number" FontSize="Medium" TextColor="Black"></Label>
+            <Entry Placeholder="Ex. xxx-xxx-xxxx" Text="{Binding ToD, Mode=TwoWay}" FontSize="Medium"></Entry>
+
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Cancel" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>
+                <Button Text="Save" Command="{Binding SaveCommand}" HorizontalOptions="FillAndExpand"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

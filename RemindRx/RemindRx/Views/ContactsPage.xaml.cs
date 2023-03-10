@@ -10,13 +10,21 @@ using Xamarin.Forms.Xaml;
 
 namespace RemindRx.Views
 {
-	[XamlCompilation(XamlCompilationOptions.Compile)]
+	//[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class ContactsPage : ContentPage
 	{
-		public ContactsPage ()
+
+        ContactsViewModel _viewModel;
+        public ContactsPage ()
 		{
 			InitializeComponent ();
-            BindingContext = new ContactsViewModel();
+            BindingContext = _viewModel = new ContactsViewModel();
         }
-	}
+
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            _viewModel.OnAppearing();
+        }
+    }
 }

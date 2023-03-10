@@ -16,6 +16,7 @@ namespace RemindRx
             Routing.RegisterRoute(nameof(AddMedicationPage), typeof(AddMedicationPage));
             Routing.RegisterRoute(nameof(AddAppointmentPage), typeof(AddAppointmentPage));
             Routing.RegisterRoute(nameof(ContactsPage), typeof(ContactsPage));
+            Routing.RegisterRoute(nameof(NewContactPage), typeof(NewContactPage));
         }
 
     }
