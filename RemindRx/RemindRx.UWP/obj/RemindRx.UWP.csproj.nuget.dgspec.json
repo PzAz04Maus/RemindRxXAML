@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj": {}
+    "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj": {
+    "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj",
+        "projectUniqueName": "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj",
         "projectName": "RemindRx.UWP",
-        "projectPath": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj",
-        "packagesPath": "C:\\Users\\Jem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\obj\\",
+        "projectPath": "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj",
+        "packagesPath": "C:\\Users\\Wolfl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.UWP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Wolfl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
         "frameworks": {
           "uap10.0.16299": {
             "projectReferences": {
-              "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj": {
-                "projectPath": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj"
+              "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj": {
+                "projectPath": "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj"
               }
             }
           }
@@ -91,20 +91,20 @@
         }
       }
     },
-    "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj": {
+    "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj",
+        "projectUniqueName": "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj",
         "projectName": "RemindRx",
-        "projectPath": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj",
-        "packagesPath": "C:\\Users\\Jem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jem\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\obj\\",
+        "projectPath": "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj",
+        "packagesPath": "C:\\Users\\Wolfl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wolfl\\source\\repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Wolfl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -162,7 +162,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
