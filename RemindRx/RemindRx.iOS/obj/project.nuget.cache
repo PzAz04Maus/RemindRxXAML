@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qi+05D4Es2LBEV5pbXeUfN+0kM1FBRUdCOnESvRKaFOiXWW6+8zKXjMmvSE/ty2dM60auioAe27wGU3ANjzAXA==",
+  "dgSpecHash": "qbWB/ZWn1vrx3fucHgpHLxjJ+8Y66ilnDc1cNUIjGPCKBwITrouos6mwL0ggjDXCf3FeJKh4BocELGCJoMwAhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Wolfl\\source\\repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wolfl\\.nuget\\packages\\rg.plugins.popup\\2.1.0\\rg.plugins.popup.2.1.0.nupkg.sha512",
     "C:\\Users\\Wolfl\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

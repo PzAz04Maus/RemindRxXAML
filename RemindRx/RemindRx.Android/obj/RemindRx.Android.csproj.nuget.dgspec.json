@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.Android\\RemindRx.Android.csproj": {}
+    "C:\\Users\\Wolfl\\source\\repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.Android\\RemindRx.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.Android\\RemindRx.Android.csproj": {
+    "C:\\Users\\Wolfl\\source\\repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.Android\\RemindRx.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.Android\\RemindRx.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Wolfl\\source\\repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.Android\\RemindRx.Android.csproj",
         "projectName": "RemindRx.Android",
-        "projectPath": "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.Android\\RemindRx.Android.csproj",
+        "projectPath": "C:\\Users\\Wolfl\\source\\repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.Android\\RemindRx.Android.csproj",
         "packagesPath": "C:\\Users\\Wolfl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.Android\\obj\\",
+        "outputPath": "C:\\Users\\Wolfl\\source\\repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj": {
-                "projectPath": "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj"
+              "C:\\Users\\Wolfl\\source\\repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj": {
+                "projectPath": "C:\\Users\\Wolfl\\source\\repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj"
               }
             }
           }
@@ -54,12 +54,12 @@
         }
       }
     },
-    "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj": {
+    "C:\\Users\\Wolfl\\source\\repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj",
+        "projectUniqueName": "C:\\Users\\Wolfl\\source\\repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj",
         "projectName": "RemindRx",
-        "projectPath": "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj",
+        "projectPath": "C:\\Users\\Wolfl\\source\\repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj",
         "packagesPath": "C:\\Users\\Wolfl\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\obj\\",
         "projectStyle": "PackageReference",

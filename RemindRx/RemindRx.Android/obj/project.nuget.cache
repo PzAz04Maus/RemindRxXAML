@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MyAomVSRISk7ak+gk6crc8SBpjOcDlFDR6NzHmE5UUARIfI2R82WiwFEd9QjGIqL6x2kveLmjuamfnIaMqMF0Q==",
+  "dgSpecHash": "lt0zbK9+vVHTY5O9433wAmfxT9N0Ge9BlqVcCewmI4dAh8wTAgKVNTP0imDprlnS6skP69ommI17abBWIc3Dgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.Android\\RemindRx.Android.csproj",
+  "projectFilePath": "C:\\Users\\Wolfl\\source\\repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx.Android\\RemindRx.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wolfl\\.nuget\\packages\\rg.plugins.popup\\2.1.0\\rg.plugins.popup.2.1.0.nupkg.sha512",
     "C:\\Users\\Wolfl\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

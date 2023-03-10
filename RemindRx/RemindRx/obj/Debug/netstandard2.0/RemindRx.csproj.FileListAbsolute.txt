@@ -47,3 +47,4 @@ C:\Users\Wolfl\Source\Repos\PzAz04Maus\RemindRxXAMLf\RemindRx\RemindRx\obj\Debug
 C:\Users\Wolfl\Source\Repos\PzAz04Maus\RemindRxXAMLf\RemindRx\RemindRx\obj\Debug\netstandard2.0\refint\RemindRx.dll
 C:\Users\Wolfl\Source\Repos\PzAz04Maus\RemindRxXAMLf\RemindRx\RemindRx\obj\Debug\netstandard2.0\RemindRx.pdb
 C:\Users\Wolfl\Source\Repos\PzAz04Maus\RemindRxXAMLf\RemindRx\RemindRx\obj\Debug\netstandard2.0\ref\RemindRx.dll
+C:\Users\Wolfl\Source\Repos\PzAz04Maus\RemindRxXAMLf\RemindRx\RemindRx\obj\Debug\netstandard2.0\blueskin.xaml.g.cs

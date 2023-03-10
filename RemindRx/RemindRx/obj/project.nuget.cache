@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "soTeuCrxsZhNJzAEvIjIN6FiL3hO5tz1HHbb46TcuvoSm27ODETWUnyJvfliW0glKuVwHvpFWccMZLgqvduJLg==",
+  "dgSpecHash": "P2G5Qh8Jfvq58imefx353tkhrqjDB/c/EchWYGI555Myq85n/1H+/itUu2BbB21ME2y0pawI8v1s8wR++/Rbcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wolfl\\Source\\Repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj",
+  "projectFilePath": "C:\\Users\\Wolfl\\source\\repos\\PzAz04Maus\\RemindRxXAMLf\\RemindRx\\RemindRx\\RemindRx.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wolfl\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Wolfl\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
