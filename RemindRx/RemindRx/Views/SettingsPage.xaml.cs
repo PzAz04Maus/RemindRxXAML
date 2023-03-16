@@ -1,7 +1,9 @@
 ﻿using RemindRx.ViewModels;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -32,7 +34,10 @@ namespace RemindRx.Views
         {
             Picker picker = (Picker)sender;
 
-            if((string)picker.SelectedItem == "Blue")
+            Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
+
+
+            if ((string)picker.SelectedItem == "Blue")
             {
                 var app = (App)Application.Current;
                 app.ChangeTheme("blueskin.xaml");
