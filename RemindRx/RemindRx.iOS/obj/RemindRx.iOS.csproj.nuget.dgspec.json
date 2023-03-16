@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PzAz04TotenMaus\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj": {}
+    "C:\\Users\\andre\\Desktop\\RemindRX\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PzAz04TotenMaus\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj": {
+    "C:\\Users\\andre\\Desktop\\RemindRX\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PzAz04TotenMaus\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\Desktop\\RemindRX\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
         "projectName": "RemindRx.iOS",
-        "projectPath": "C:\\Users\\PzAz04TotenMaus\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
-        "packagesPath": "C:\\Users\\PzAz04TotenMaus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PzAz04TotenMaus\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\obj\\",
+        "projectPath": "C:\\Users\\andre\\Desktop\\RemindRX\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\Desktop\\RemindRX\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PzAz04TotenMaus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\PzAz04TotenMaus\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj": {
-                "projectPath": "C:\\Users\\PzAz04TotenMaus\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj"
+              "C:\\Users\\andre\\Desktop\\RemindRX\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj": {
+                "projectPath": "C:\\Users\\andre\\Desktop\\RemindRX\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj"
               }
             }
           }
@@ -65,20 +65,20 @@
         }
       }
     },
-    "C:\\Users\\PzAz04TotenMaus\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj": {
+    "C:\\Users\\andre\\Desktop\\RemindRX\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PzAz04TotenMaus\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\Desktop\\RemindRX\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj",
         "projectName": "RemindRx",
-        "projectPath": "C:\\Users\\PzAz04TotenMaus\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj",
-        "packagesPath": "C:\\Users\\PzAz04TotenMaus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PzAz04TotenMaus\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\obj\\",
+        "projectPath": "C:\\Users\\andre\\Desktop\\RemindRX\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\Desktop\\RemindRX\\RemindRxXAML\\RemindRx\\RemindRx\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PzAz04TotenMaus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -87,7 +87,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "c:\\program files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -136,7 +136,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

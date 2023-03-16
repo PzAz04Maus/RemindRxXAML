@@ -21,8 +21,8 @@
             <Entry Placeholder="Ex. 2" Text="{Binding DoseageAmount, Mode=TwoWay}" FontSize="Medium"></Entry>
 
             <Label Text="Time to Take Pills" FontSize="Medium" TextColor="Black" />
-            <!--<TimePicker x:Name="MedicationTimes" Background="Black"/>-->
-            <Entry Placeholder="XX:XX AM/PM" Text="{Binding ToD}" FontSize="Medium"></Entry>
+            <TimePicker x:Name="MedicationTimes" Background="Black"/>
+            <!-- <Entry Placeholder="XX:XX AM/PM" Text="{Binding ToD}" FontSize="Medium"></Entry>-->
             
             <Label Text="Days to Take" TextColor="Black" FontSize="Medium"></Label>
             <Grid>

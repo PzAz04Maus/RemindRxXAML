@@ -21,12 +21,12 @@ namespace RemindRx
         }
         public void ChangeTheme(string uri)
         {
-            //ThemeDictionary.MergedDictionaries.Clear();
-            //var resource = new ResourceDictionary();
-            //var source = new Uri(uri, UriKind.Relative);
-            //resource.SetAndLoadSource(source, uri, this.GetType().GetTypeInfo().Assembly, null);
-            //ThemeDictionary.MergedDictionaries.Add(resource);
-            //ThemeDictionary.MergedDictionaries.ElementAt(0).Source = source;
+            /*ThemeDictionary.MergedDictionaries.Clear();
+            var resource = new ResourceDictionary();
+            var source = new Uri(uri, UriKind.Relative);
+            resource.SetAndLoadSource(source, uri, this.GetType().GetTypeInfo().Assembly, null);
+            ThemeDictionary.MergedDictionaries.Add(resource);
+            ThemeDictionary.MergedDictionaries.ElementAt(0).Source = source;*/
         }
 
         protected override void OnStart()
