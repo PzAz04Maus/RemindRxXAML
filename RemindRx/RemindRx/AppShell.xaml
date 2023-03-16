@@ -27,6 +27,9 @@
             </Style>
             <Style TargetType="TabBar" BasedOn="{StaticResource BaseStyle}" />
             <Style TargetType="FlyoutItem" BasedOn="{StaticResource BaseStyle}" />
+            <Style Class="ToolbarItem" TargetType="Button">
+                <Setter Property="FontSize" Value="108"/>
+            </Style>
         </ResourceDictionary>
     </Shell.Resources>
 

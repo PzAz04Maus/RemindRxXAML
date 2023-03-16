@@ -40,7 +40,8 @@
             <Style TargetType="controls:MyButton" x:Key="Button">
                 <Setter Property="HorizontalOptions" Value="Center"/>
                 <Setter Property="BackgroundColor" Value="{DynamicResource Buttons}"/>
-
+                <Setter Property="HeightRequest" Value="100" />
+                <Setter Property="WidthRequest" Value="330"/>
             </Style>
             <Style TargetType="StackLayout" x:Key="Background">
                 <Setter Property="BackgroundColor" Value="{DynamicResource Pale}"></Setter>

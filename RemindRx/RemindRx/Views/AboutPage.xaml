@@ -26,7 +26,7 @@
 
     <StackLayout Style="{StaticResource Background}">
 
-        <controls:MyButton x:Name="EmConBtn" Style="{StaticResource Button}" Image="phone.png" Text="Emergency Contacts" 
+        <controls:MyButton x:Name="EmConBtn"  Style="{StaticResource Button}" Image="phone.png" Text="Emergency Contacts" 
                                TextColor="#E6f6fc" FrameBackgroundColor="{StaticResource Button}" Command="{Binding ContactsCommand}"/>
         
             

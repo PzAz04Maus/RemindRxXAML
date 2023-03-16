@@ -23,10 +23,15 @@
             <Label Text="Time" FontSize="Medium" TextColor="Black"></Label>
             <!--<TimePicker x:Name="AppointmentTime" Background="Black" TextColor="White"/> -->
             <Entry Placeholder="XX:XX AM/PM" Text="{Binding ToD}" FontSize="Medium"></Entry>
+            <Label Text="DERP"></Label>
 
             <StackLayout Orientation="Horizontal">
-                <Button Text="Cancel" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>
-                <Button Text="Save" Command="{Binding SaveCommand}" HorizontalOptions="FillAndExpand"></Button>
+                <Button Text="Cancel" 
+                        FontSize="Medium" HeightRequest="100"  WidthRequest="330"
+                        Style="{StaticResource Button}" Command="{Binding CancelCommand}" HorizontalOptions="CenterAndExpand"></Button>
+                <Button Text="Save" 
+                        FontSize="Medium" HeightRequest="100" WidthRequest="330"
+                        Style="{StaticResource Button}"  Command="{Binding SaveCommand}" HorizontalOptions="CenterAndExpand"></Button>
             </StackLayout>
         </StackLayout>
     </ContentPage.Content>

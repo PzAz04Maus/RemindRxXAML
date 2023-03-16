@@ -2,12 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\RemindRx",
-    "\\RemindRx\\RemindRx",
-    "\\RemindRx\\RemindRx.Android",
-    "\\RemindRx\\RemindRx.iOS",
-    "\\RemindRx\\RemindRx.UWP",
-    "\\RemindRx\\RemindRx\\Views"
+    "\\RemindRx\\RemindRx"
   ],
-  "SelectedNode": "\\RemindRx\\RemindRx.sln",
+  "SelectedNode": "\\RemindRx\\RemindRx\\App.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
