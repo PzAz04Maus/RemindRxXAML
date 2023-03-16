@@ -11546,18 +11546,18 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {},
+    "C:\\Users\\PzAz04TotenMaus\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Desktop\\RemindRX\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\PzAz04TotenMaus\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj",
       "projectName": "RemindRx.UWP",
-      "projectPath": "C:\\Users\\andre\\Desktop\\RemindRX\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Desktop\\RemindRX\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\obj\\",
+      "projectPath": "C:\\Users\\PzAz04TotenMaus\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\RemindRx.UWP.csproj",
+      "packagesPath": "C:\\Users\\PzAz04TotenMaus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PzAz04TotenMaus\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -11565,7 +11565,7 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PzAz04TotenMaus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -11579,8 +11579,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\andre\\Desktop\\RemindRX\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj": {
-              "projectPath": "C:\\Users\\andre\\Desktop\\RemindRX\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj"
+            "C:\\Users\\PzAz04TotenMaus\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj": {
+              "projectPath": "C:\\Users\\PzAz04TotenMaus\\source\\repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx\\RemindRx.csproj"
             }
           }
         }
