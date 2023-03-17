@@ -6,7 +6,7 @@
              xmlns:local="clr-namespace:RemindRx.ViewModels"  
              xmlns:model="clr-namespace:RemindRx.Models"  
              x:Name="BrowseItemsPage"
-             BackgroundColor="#e6f6fc">
+             BackgroundColor="{DynamicResource Pale}">
 
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" Command="{Binding AddItemCommand}" />

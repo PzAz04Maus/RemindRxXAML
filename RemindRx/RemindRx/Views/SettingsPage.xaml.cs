@@ -24,6 +24,7 @@ namespace RemindRx.Views
 			languages.Items.Add("Español");
 			themes.Items.Add("Blue");
             themes.Items.Add("Yellow");
+            themes.Items.Add("Night");
             
         }
 
@@ -53,6 +54,14 @@ namespace RemindRx.Views
                 App.Current.Resources["Disabled"] = Color.FromHex("dced6d");
                 App.Current.Resources["Buttons"] = Color.FromHex("dde01d");
             }
+            else if ((string)picker.SelectedItem == "Night")
+            {
+                App.Current.Resources["Pale"] = Color.FromHex("282424");
+                App.Current.Resources["Primary"] = Color.FromHex("7152a7");
+                App.Current.Resources["Disabled"] = Color.FromHex("142b44");
+                App.Current.Resources["Buttons"] = Color.FromHex("#5e478f");
+            }
+
         }
 
         private void TapGestureRecognizer_Tapped(object sender, EventArgs e)
