@@ -41,8 +41,10 @@ namespace RemindRx.Views
 
             if ((string)picker.SelectedItem == "Blue")
             {
-
-                App.Current.Resources["Pale"] = Color.FromRgb(211, 223, 228);
+                App.Current.Resources["Pale"] = Color.FromHex("E6f6fc");
+                App.Current.Resources["Primary"] = Color.FromHex("84c4dc");
+                App.Current.Resources["Disabled"] = Color.FromHex("3883a0");
+                App.Current.Resources["Buttons"] = Color.FromHex("84c4dc");
             }
             else if ((string)picker.SelectedItem == "Yellow")
             {

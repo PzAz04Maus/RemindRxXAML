@@ -6,7 +6,7 @@
              Title="New Meds"
              xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
              ios:Page.UseSafeArea="true"
-             BackgroundColor="#e6f6fc">
+             BackgroundColor="{DynamicResource Pale}">
     
     <ContentPage.Content>
         <StackLayout Spacing="3" Padding="15">
