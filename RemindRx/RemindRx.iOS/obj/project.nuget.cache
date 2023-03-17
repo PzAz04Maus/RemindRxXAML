@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "p/xuxipxv2i3yJ1oDsD+ozOjmxijhAk8IxKnewP+SQzi0D12Qcr/fQ+kQjJf4ZPcBJOvyfM7vJRPwOGpZSIXBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\logan.rivera\\Source\\Repos\\PzAz04Maus\\RemindRxXAML\\RemindRx\\RemindRx.iOS\\RemindRx.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\logan.rivera\\.nuget\\packages\\rg.plugins.popup\\2.1.0\\rg.plugins.popup.2.1.0.nupkg.sha512",
+    "C:\\Users\\logan.rivera\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\logan.rivera\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\logan.rivera\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

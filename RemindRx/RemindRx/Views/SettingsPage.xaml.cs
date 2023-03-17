@@ -15,7 +15,8 @@ namespace RemindRx.Views
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class SettingsPage : ContentPage
 	{
-		public SettingsPage ()
+        String skin = "";
+        public SettingsPage ()
 		{
 			InitializeComponent ();
             BindingContext = new SettingsViewModel();
@@ -23,6 +24,7 @@ namespace RemindRx.Views
 			languages.Items.Add("Español");
 			themes.Items.Add("Blue");
             themes.Items.Add("Yellow");
+            
         }
 
         private void Button_Clicked(object sender, EventArgs e)
@@ -39,14 +41,21 @@ namespace RemindRx.Views
 
             if ((string)picker.SelectedItem == "Blue")
             {
-                var app = (App)Application.Current;
-                app.ChangeTheme("blueskin.xaml");
+
+                App.Current.Resources["Pale"] = Color.FromRgb(211, 223, 228);
             }
             else if ((string)picker.SelectedItem == "Yellow")
-               {
-                    var app = (App)Application.Current;
-                    app.ChangeTheme("yellowskin.xaml");
-                }
+            {
+                App.Current.Resources["Pale"] = Color.FromHex("eff2d8");
+                App.Current.Resources["Primary"] = Color.FromHex("e8f2a5");
+                App.Current.Resources["Disabled"] = Color.FromHex("dced6d");
+                App.Current.Resources["Buttons"] = Color.FromHex("dde01d");
+            }
+        }
+
+        private void TapGestureRecognizer_Tapped(object sender, EventArgs e)
+        {
+            
         }
     }
 }

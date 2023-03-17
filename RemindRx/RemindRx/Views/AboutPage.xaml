@@ -27,13 +27,13 @@
     <StackLayout Style="{StaticResource Background}">
 
         <controls:MyButton x:Name="EmConBtn"  Style="{StaticResource Button}" Image="phone.png" Text="Emergency Contacts" 
-                               TextColor="#E6f6fc" FrameBackgroundColor="{StaticResource Button}" Command="{Binding ContactsCommand}"/>
+                               TextColor="#000000" FrameBackgroundColor="{StaticResource Button}" Command="{Binding ContactsCommand}"/>
         
             
         <controls:MyButton x:Name="newMedBtn" Style="{StaticResource Button}" Image="pills.png" Text="New Medication" 
-                               TextColor="#E6f6fc" FrameBackgroundColor="{StaticResource Button}" Command="{Binding AddMedsCommand}"/>
+                               TextColor="#000000" FrameBackgroundColor="{StaticResource Button}" Command="{Binding AddMedsCommand}"/>
         <controls:MyButton x:Name="newApptBtn" Style="{StaticResource Button}" Image="clock.png" Text="New Appointment" 
-                               TextColor="#E6f6fc" FrameBackgroundColor="{StaticResource Button}" Command="{Binding AddApptCommand}"/>
+                               TextColor="#000000" FrameBackgroundColor="{StaticResource Button}" Command="{Binding AddApptCommand}"/>
 
 
     </StackLayout>

@@ -10,7 +10,7 @@ namespace RemindRx
 {
     public partial class App : Application
     {
-
+        ResourceDictionary appSkin = new ResourceDictionary();
         public App()
         {
             InitializeComponent();
@@ -19,14 +19,12 @@ namespace RemindRx
             DependencyService.Register<MockDataStoreContact>();
             MainPage = new AppShell();
         }
-        public void ChangeTheme(string uri)
+
+        public void ChangeTheme(string skin)
         {
-            /*ThemeDictionary.MergedDictionaries.Clear();
-            var resource = new ResourceDictionary();
-            var source = new Uri(uri, UriKind.Relative);
-            resource.SetAndLoadSource(source, uri, this.GetType().GetTypeInfo().Assembly, null);
-            ThemeDictionary.MergedDictionaries.Add(resource);
-            ThemeDictionary.MergedDictionaries.ElementAt(0).Source = source;*/
+            //appSkin.Source = new Uri(skin);
+            //Application.Current.Resources.MergedDictionaries.Clear();
+            //Application.Current.Resources.MergedDictionaries.Add(appSkin);
         }
 
         protected override void OnStart()
